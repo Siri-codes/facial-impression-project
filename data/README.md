@@ -2,7 +2,6 @@
 
 - `human_ratings/` — human attribute ratings from the OMI dataset (see below)
 - `anthropic_claude-sonnet-5/`, `google_gemini-2.5-flash-lite/`, `openai_gpt-5.4-mini/` — one folder per model, each containing that model's ratings
-- `tokens/` — per-call token usage logs (prompt/completion token counts), used to verify actual API costs against estimates
 
 ## Model Ratings Data
 
