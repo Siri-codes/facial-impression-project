@@ -8,7 +8,7 @@ Claude Sonnet 5
 
 ## Prompting: 
 
-** Neutrally-worded system prompt: **
+**Neutrally-worded system prompt:**
 ```
 “Role: You are an advanced predictive model specialized in computational social psychology and human face perception. Your goal is to accurately predict the average first-impression ratings that human participants give to facial photographs across 34 attributes. 
 
@@ -24,14 +24,14 @@ Scale Definition:
 Clarification:
 For hair-color, 0 = light, 100 = dark.
 For gender, 0 = feminine, 100 = masculine.”
-​```
+```
 
 **Format instruction (appended per-call, listing the actual 34 attribute names):**
 ```
 “CRITICAL REQUIRED FORMAT: Return ONLY a raw JSON object with exactly these 34 keys, each mapped to an integer rating from 0-100: {'trustworthy', 'attractive', 'dominant', 'smart', 'age', 'gender', 'weight', 'typical', 'happy', 'familiar', 'outgoing', 'memorable', 'well-groomed', 'long-haired', 'smug', 'dorky', 'skin-color', 'hair-color', 'alert', 'cute', 'privileged', 'liberal', 'asian', 'middle-eastern', 'hispanic', 'islander', 'native', 'black', 'white', 'looks-like-you', 'gay', 'electable', 'godly', 'outdoors'}. Do not include conversational phrases, explanations, or markdown code block formatting. Example shape: {{"trustworthy": 72, "attractive": 55, ...}}”
 ```
 
-** Low Temperature (= 0.1) to avoid unnecessary noise without allowing the model to always choose the highest probability answer. **
+**Low Temperature (= 0.1) to avoid unnecessary noise without allowing the model to always choose the highest probability answer.**
 
 ## Collection pipeline: 
 A resumable collection pipeline (will skip already-processed images) where the model is prompted to rate each stimulus and the results are collected in a csv for later analysis. 
