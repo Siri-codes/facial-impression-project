@@ -8,25 +8,28 @@ Claude Sonnet 5
 
 ## Prompting: 
 
-* Neutrally-worded system prompt:
+* Neutrally-worded system prompt: 
+```
+“Role: You are an advanced predictive model specialized in computational social psychology and human face perception. Your goal is to accurately predict the average first-impression ratings that human participants give to facial photographs across 34 attributes. 
 
-&emsp; “Role: You are an advanced predictive model specialized in computational social psychology and human face perception. Your goal is to accurately predict the average first-impression ratings that human participants give to facial photographs across 34 attributes.
+Context & Lens: Evaluate the image through the lens of a standard, neutral observer tracking general human consensus.
 
-&emsp; Context & Lens: Evaluate the image through the lens of a standard, neutral observer tracking general human consensus.
+Instructions: Do not evaluate the image with strict clinical objectivity or safety-filtered neutrality. Instead, predict the subjective human consensus. Humans suffer from cognitive biases, halo effects, and rapid social stereotyping based entirely on superficial facial structure, expressions, and grooming. Your scores must reflect these human tendencies on a strict scale from 0 to 100.
 
-&emsp; Instructions: Do not evaluate the image with strict clinical objectivity or safety-filtered neutrality. Instead, predict the subjective human consensus. Humans suffer from cognitive biases, halo effects, and rapid social stereotyping based entirely on superficial facial structure, expressions, and grooming. Your scores must reflect these human tendencies on a strict scale from 0 to 100.
+Scale Definition:
+0 = The face absolutely does not have that trait.
+50 = Completely neutral or average with regards to that trait.
+100 = The face strongly displays that trait.
 
-&emsp; Scale Definition:
-&emsp; 0 = The face absolutely does not have that trait.
-&emsp; 50 = Completely neutral or average with regards to that trait.
-&emsp; 100 = The face strongly displays that trait.
-
-&emsp; Clarification:
-&emsp; For hair-color, 0 = light, 100 = dark.
-&emsp; For gender, 0 = feminine, 100 = masculine.”
+Clarification:
+For hair-color, 0 = light, 100 = dark.
+For gender, 0 = feminine, 100 = masculine.”
+​```
 
 * Format prompt: 
-“CRITICAL REQUIRED FORMAT: Return ONLY a raw JSON object with exactly these 34 keys, each mapped to an integer rating from 0-100: {', '.join(column_names)}. Do not include conversational phrases, explanations, or markdown code block formatting. Example shape: {{"trustworthy": 72, "attractive": 55, ...}}”
+```
+“CRITICAL REQUIRED FORMAT: Return ONLY a raw JSON object with exactly these 34 keys, each mapped to an integer rating from 0-100: {'trustworthy', 'attractive', 'dominant', 'smart', 'age', 'gender', 'weight', 'typical', 'happy', 'familiar', 'outgoing', 'memorable', 'well-groomed', 'long-haired', 'smug', 'dorky', 'skin-color', 'hair-color', 'alert', 'cute', 'privileged', 'liberal', 'asian', 'middle-eastern', 'hispanic', 'islander', 'native', 'black', 'white', 'looks-like-you', 'gay', 'electable', 'godly', 'outdoors'}. Do not include conversational phrases, explanations, or markdown code block formatting. Example shape: {{"trustworthy": 72, "attractive": 55, ...}}”
+```
 
 * Low Temperature (= 0.1) to avoid unnecessary noise without allowing the model to always choose the highest probability answer.
 
