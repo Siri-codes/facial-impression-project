@@ -38,10 +38,10 @@ A resumable collection pipeline (will skip already-processed images) where the m
 Failed calls (parsing errors, API errors) are skipped and logged; images can be re-run manually via the same resume-safe pipeline without duplicating completed work.
 
 ## Analysis 1 — RSA: 
-An RDM shows the dissimilarity between each pair of attributes. In this case, Spearman correlation was used rather than Pearson correlation to allow for nonlinear relationships in the data. Only the upper triangle of the RDM was used for comparison as RDMs are symmetrical and all attributes should have 100% correlation to themselves. 
+For each judge (humans / each model), a 34×34 representational dissimilarity matrix was constructed, where dissimilarity between two attributes is 1 − Pearson r across stimuli. Model and human RDMs were then compared by Spearman rank correlation over the upper triangle (excluding the diagonal), since RDMs are symmetric and the diagonal is trivially zero. Spearman is used at the comparison step so the result depends on the rank ordering of attribute-pair dissimilarities rather than their absolute values.
 
 ## Analysis 2 — Peterson-style per-attribute accuracy: 
 Pearson correlation per attribute, benchmarked against human split-half reliability, as seen in the Peterson et al. 2022 paper.
 
 ## Analysis 3 — Reliability: 
-3 repetitions on 100-image random subsample, averaged pairwise correlation. This establishes a model-side noise ceiling analogous to the human split-half reliability used in Analysis 2—i.e., how much accuracy loss is attributable to the model's own inconsistency versus genuine misalignment with human judgment.
+3 repetitions on 100-image random subsample, averaged pairwise correlation. This establishes a model-side reliability estimate analogous to the human split-half reliability used in Analysis 2 — i.e., how much accuracy loss is attributable to the model's own inconsistency versus genuine misalignment with human judgment.
