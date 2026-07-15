@@ -219,3 +219,10 @@ __marimo__/
 
 # Image dataset
 omi-main-dataset/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated figures (regenerable from src/)
+figures/
