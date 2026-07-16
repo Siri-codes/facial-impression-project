@@ -192,10 +192,10 @@ def collect_data(input_df, system_prompt, model_name, prompt_label, image_dir=Pa
 
 def main(prompt_labels, pilot=True):
     for label in prompt_labels:
-    if label not in PROMPTS:
-        raise ValueError(f"unknown prompt: {label!r}. Available: {sorted(PROMPTS)}")
-        
-    df = load_human_means()          # validated loader, not raw read_csv
+        if label not in PROMPTS:
+            raise ValueError(f"unknown prompt: {label!r}. Available: {sorted(PROMPTS)}")
+            
+    df = load_human_means() # validated loader, not raw read_csv
     if pilot:
         df = df.sample(n=REP_SUBSET_SIZE, random_state=SUBSAMPLE_SEED)
 
