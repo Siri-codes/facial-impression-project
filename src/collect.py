@@ -7,6 +7,7 @@ import base64
 
 from config import ATTRIBUTES, MODEL_DIR, HUMAN_MEANS, HUMAN_RATINGS, IMAGE_DIR, TEMPERATURE, TOKEN_DIR, OPENROUTER_BASE_URL
 from prompts import PROMPTS
+from data_io import load_human_means
 
 _client = None
 
