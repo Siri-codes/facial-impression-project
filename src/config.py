@@ -27,7 +27,15 @@ ATTRIBUTES = [
     'outdoors'
 ]
 
-# ---- Models: label for folder name ----
+#Labels for interpretation, not inputed into analysis
+ATTRIBUTE_GROUPS = {
+    'demographic': ['asian', 'white', 'black', 'hispanic', 'middle-eastern', 'islander', 'native', 'gender', 'age'],
+    'physical':    ['skin-color', 'hair-color', 'long-haired', 'weight', 'attractive', 'well-groomed'],
+    'trait':       ['trustworthy', 'dominant', 'smart', 'happy', 'outgoing', 'smug', 'dorky', 'alert', 'cute', 'privileged', 'liberal', 'gay', 'electable', 'godly'],
+    'other':       ['typical', 'familiar', 'memorable', 'looks-like-you', 'outdoors'],
+}
+
+# ---- Models: label -> folder name ----
 MODELS = {
     'Gemini 2.5 Flash-Lite': 'google_gemini-2.5-flash-lite',
     'GPT-5.4 Mini':          'openai_gpt-5.4-mini',
@@ -48,7 +56,7 @@ OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
 TEMPERATURE = 0.1
 N_REPS = 3
 REP_SUBSET_SIZE = 100     # reps 2-3 use a 100-image subset; rep 1 is full
-PROMPT_VERSION = "neutral_v1"
+SUBSAMPLE_SEED   = 42     # the 100-stimulus subsample: reps 2-3 and all pilots
 
 # ---- Analysis parameters ----
 SEED = 0

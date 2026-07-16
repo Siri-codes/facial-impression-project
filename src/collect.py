@@ -190,10 +190,19 @@ def collect_data(input_df, system_prompt, model_name, prompt_label, image_dir=Pa
         # Update runtime checklist so don't duplicate efforts
         processed_stimuli.add(stim_id)
 
-def main():
-    input_df = pd.read_csv(HUMAN_MEANS)
-    for label, folder in MODELS.items():
-        collect_data(input_df, PROMPTS[PROMPT_VERSION], MODEL_SNAPSHOTS[folder], f"{PROMPT_VERSION}_main")
+def main(prompt_labels=None, pilot=True):
+    df = load_human_means()          # validated loader, not raw read_csv
+    if pilot:
+        df = df.sample(n=REP_SUBSET_SIZE, random_state=SUBSAMPLE_SEED)
+
+    labels = prompt_labels or [PROMPT_VERSION]
+    suffix = "pilot" if pilot else "main"
+
+    for label in labels:
+        for folder in MODELS.values():
+            print(f"\n=== {folder} / {label}_{suffix} ===")
+            collect_data(df, PROMPTS[label], MODEL_SNAPSHOTS[folder],
+                         f"{label}_{suffix}")
 
 if __name__ == "__main__":
-    main()
+    main(["direct", "predict_human"], pilot=True)
