@@ -5,7 +5,7 @@ import json
 from openai import OpenAI
 import base64
 
-from config import ATTRIBUTES, MODEL_DIR, HUMAN_MEANS, HUMAN_RATINGS, IMAGE_DIR, TEMPERATURE, TOKEN_DIR, OPENROUTER_BASE_URL, PROMPT_VERSION
+from config import ATTRIBUTES, MODEL_DIR, HUMAN_MEANS, HUMAN_RATINGS, IMAGE_DIR, TEMPERATURE, TOKEN_DIR, OPENROUTER_BASE_URL
 from prompts import PROMPTS
 
 _client = None
@@ -190,12 +190,16 @@ def collect_data(input_df, system_prompt, model_name, prompt_label, image_dir=Pa
         # Update runtime checklist so don't duplicate efforts
         processed_stimuli.add(stim_id)
 
-def main(prompt_labels=None, pilot=True):
+def main(prompt_labels, pilot=True):
+    for label in prompt_labels:
+    if label not in PROMPTS:
+        raise ValueError(f"unknown prompt: {label!r}. Available: {sorted(PROMPTS)}")
+        
     df = load_human_means()          # validated loader, not raw read_csv
     if pilot:
         df = df.sample(n=REP_SUBSET_SIZE, random_state=SUBSAMPLE_SEED)
 
-    labels = prompt_labels or [PROMPT_VERSION]
+    labels = prompt_labels 
     suffix = "pilot" if pilot else "main"
 
     for label in labels:
