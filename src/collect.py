@@ -27,6 +27,9 @@ def encode_image(image_path):
         encoded_string = base64.b64encode(raw_bytes).decode("utf-8")
         return encoded_string
 
+def _norm(k):
+    return k.strip().lower().replace("_", "-").replace(" ", "-")
+
 def model_predictions(image_path, ATTRIBUTES, system_prompt, model_name):
     """
     Gathers model predictions for a single image.
@@ -69,7 +72,13 @@ def model_predictions(image_path, ATTRIBUTES, system_prompt, model_name):
         elif raw_output.startswith("```"):
             raw_output = raw_output.removeprefix("```").removesuffix("```")
 
-        output = json.loads(raw_output)
+        #replacing `output = json.loads(raw_output)`:
+        output = {_norm(k): v for k, v in json.loads(raw_output).items()}
+
+        missing = [c for c in attributes if c not in output]
+        if missing:
+            raise KeyError(f"missing after normalization: {missing}")
+
         ratings = [output[col] for col in ATTRIBUTES]
         
         prompt_tokens = response.usage.prompt_tokens
