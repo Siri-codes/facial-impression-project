@@ -30,7 +30,7 @@ def encode_image(image_path):
 def _norm(k):
     return k.strip().lower().replace("_", "-").replace(" ", "-")
 
-def model_predictions(image_path, ATTRIBUTES, system_prompt, model_name):
+def model_predictions(image_path, system_prompt, model_name):
     """
     Gathers model predictions for a single image.
     """
@@ -75,7 +75,7 @@ def model_predictions(image_path, ATTRIBUTES, system_prompt, model_name):
         #replacing `output = json.loads(raw_output)`:
         output = {_norm(k): v for k, v in json.loads(raw_output).items()}
 
-        missing = [c for c in attributes if c not in output]
+        missing = [c for c in ATTRIBUTES if c not in output]
         if missing:
             raise KeyError(f"missing after normalization: {missing}")
 
@@ -152,7 +152,7 @@ def collect_data(input_df, system_prompt, model_name, prompt_label, image_dir=Pa
         print(f"Processing stimulus {stim_id}...")
 
         # 3. Get ratings for this image
-        ratings, prompt_tokens, completion_tokens, resolved_model = model_predictions(image_path, ATTRIBUTES, system_prompt, model_name)
+        ratings, prompt_tokens, completion_tokens, resolved_model = model_predictions(image_path, system_prompt, model_name)
 
         # If the API failed and returned None values, skip saving
         if ratings is None:
