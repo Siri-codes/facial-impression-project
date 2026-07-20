@@ -1,0 +1,4 @@
+model,mean_delta,ci_low,ci_high
+Gemini 2.5 Flash-Lite,0.025,0.003,0.045
+GPT-5.4 Mini,-0.0,-0.025,0.018
+Claude Sonnet 5,0.01,-0.004,0.022

@@ -6,8 +6,9 @@ from openai import OpenAI
 import base64
 
 from config import ATTRIBUTES, MODEL_DIR, HUMAN_MEANS, HUMAN_RATINGS, IMAGE_DIR, TEMPERATURE, TOKEN_DIR, OPENROUTER_BASE_URL, REP_SUBSET_SIZE, MODELS, MODEL_SNAPSHOTS, SUBSAMPLE_SEED
-from prompts import PROMPTS
+from prompts import PROMPTS, INSTRUCTION
 from data_io import load_human_means
+from context import context_ids, make_context_grid
 
 _client = None
 
@@ -30,49 +31,42 @@ def encode_image(image_path):
 def _norm(k):
     return k.strip().lower().replace("_", "-").replace(" ", "-")
 
-def model_predictions(image_path, system_prompt, model_name):
-    """
-    Gathers model predictions for a single image.
-    """
 
-    base64_image = encode_image(image_path)
-
-    instruction = f"""
-    CRITICAL REQUIRED FORMAT: Return ONLY a raw JSON object with exactly these 34 keys,
-    each mapped to an integer rating from 0-100: {', '.join(ATTRIBUTES)}
-    Do not include conversational phrases, explanations, or markdown code block formatting.
-    Example shape: {{"trustworthy": 72, "attractive": 55, ...}}
-    """
-
+def model_predictions(image_path, system_prompt, model_name, context_path=None):
+    """Gathers model predictions for a single image."""
     raw_output = None
     try:
+        content = []
+        if context_path:
+            content += [
+                {"type": "text", "text":
+                    "Below is a grid of 25 example faces sampled from the same set, "
+                    "shown to give a sense of the range of faces you will encounter. "
+                    "Do not rate these examples."},
+                {"type": "image_url", "image_url":
+                    {"url": f"data:image/jpeg;base64,{encode_image(context_path)}"}},
+                {"type": "text", "text": "Now rate the following face."},
+            ]
+
+        content += [
+            {"type": "text", "text": INSTRUCTION},
+            {"type": "image_url", "image_url":
+                {"url": f"data:image/jpeg;base64,{encode_image(image_path)}"}},
+        ]
+
         response = get_client().chat.completions.create(
-            model=model_name,  # e.g. "google/gemini-2.5-flash-lite"
-            messages=[
-                {"role": "system", "content": system_prompt},
-                {
-                    "role": "user",
-                    "content": [
-                        {"type": "text", "text": instruction},
-                        { "type": "image_url",
-                            "image_url": {
-                                "url": f"data:image/jpeg;base64,{base64_image}"
-                            }}
-                    ],
-                },
-            ],
-            temperature=TEMPERATURE
-        )
-        
+            model=model_name,
+            messages=[{"role": "system", "content": system_prompt},
+                      {"role": "user", "content": content}],
+            temperature=TEMPERATURE)
+
         raw_output = response.choices[0].message.content.strip()
-        
-        # Strip code block decorators if the model drops them in anyway
+
         if raw_output.startswith("```json"):
             raw_output = raw_output.removeprefix("```json").removesuffix("```")
         elif raw_output.startswith("```"):
             raw_output = raw_output.removeprefix("```").removesuffix("```")
 
-        #replacing `output = json.loads(raw_output)`:
         output = {_norm(k): v for k, v in json.loads(raw_output).items()}
 
         missing = [c for c in ATTRIBUTES if c not in output]
@@ -80,17 +74,16 @@ def model_predictions(image_path, system_prompt, model_name):
             raise KeyError(f"missing after normalization: {missing}")
 
         ratings = [output[col] for col in ATTRIBUTES]
-        
-        prompt_tokens = response.usage.prompt_tokens
-        completion_tokens = response.usage.completion_tokens
-       
-        return ratings, prompt_tokens, completion_tokens, response.model  # ratings should be a list matching ATTRIBUTES order
-    
+
+        return (ratings,
+                response.usage.prompt_tokens,
+                response.usage.completion_tokens,
+                response.model)
+
     except Exception as e:
-        print(f"API failure for {image_path}: {e}")
+        print(f"Failure for {image_path}: {e}")
         print(f"Raw output: {raw_output}")
         return None, 0, 0, None
-
 
 def get_filepath(model_name, prompt_label, base_output_dir=MODEL_DIR):
     """
@@ -109,7 +102,7 @@ def get_filepath(model_name, prompt_label, base_output_dir=MODEL_DIR):
     
     return final_file_path
 
-def collect_data(input_df, system_prompt, model_name, prompt_label, image_dir=Path(IMAGE_DIR)):
+def collect_data(input_df, system_prompt, model_name, prompt_label, image_dir=Path(IMAGE_DIR), context_path=None):
     '''
     Collects data using the specified LLM engine and prompt strategy, saving results to hierarchical resume-safe file structure.
     '''
@@ -152,7 +145,7 @@ def collect_data(input_df, system_prompt, model_name, prompt_label, image_dir=Pa
         print(f"Processing stimulus {stim_id}...")
 
         # 3. Get ratings for this image
-        ratings, prompt_tokens, completion_tokens, resolved_model = model_predictions(image_path, system_prompt, model_name)
+        ratings, prompt_tokens, completion_tokens, resolved_model = model_predictions(image_path, system_prompt, model_name, context_path)
 
         # If the API failed and returned None values, skip saving
         if ratings is None:
@@ -200,23 +193,43 @@ def collect_data(input_df, system_prompt, model_name, prompt_label, image_dir=Pa
         # Update runtime checklist so don't duplicate efforts
         processed_stimuli.add(stim_id)
 
-def main(prompt_labels, pilot=True):
+def main(prompt_labels, pilot=True, primed=False):
+    """
+    Collect model ratings.
+
+    prompt_labels: list of keys into PROMPTS, e.g. ["direct"]
+    pilot:  True  -> 100-stimulus subsample (SUBSAMPLE_SEED)
+            False -> all stimuli (costs real money)
+    primed: True  -> prepend a fixed 25-face context grid to every call.
+                     Context faces are never rated as targets.
+    """
     for label in prompt_labels:
         if label not in PROMPTS:
             raise ValueError(f"unknown prompt: {label!r}. Available: {sorted(PROMPTS)}")
-            
-    df = load_human_means() # validated loader, not raw read_csv
-    if pilot:
-        df = df.sample(n=REP_SUBSET_SIZE, random_state=SUBSAMPLE_SEED)
 
-    labels = prompt_labels 
-    suffix = "pilot" if pilot else "main"
+    human = load_human_means()
+    pilot_ids = human.sample(n=REP_SUBSET_SIZE, random_state=SUBSAMPLE_SEED)['stimulus']
 
-    for label in labels:
+    ctx, ctx_ids = None, []
+    if primed:
+        # Exclude the pilot 100 always, so the grid is identical
+        # across pilot and main runs.
+        ctx_ids = context_ids(human['stimulus'], exclude=pilot_ids)
+        ctx = make_context_grid(ctx_ids)
+        print("context faces:", list(ctx_ids))
+
+    df = human[human['stimulus'].isin(pilot_ids)] if pilot else human
+    df = df[~df['stimulus'].isin(ctx_ids)]      # never rate a context face
+    print(f"targets: {len(df)}")
+
+    suffix = ("primed_" if primed else "") + ("pilot" if pilot else "main")
+
+    for label in prompt_labels:
         for folder in MODELS.values():
             print(f"\n=== {folder} / {label}_{suffix} ===")
             collect_data(df, PROMPTS[label], MODEL_SNAPSHOTS[folder],
-                         f"{label}_{suffix}")
+                         f"{label}_{suffix}", context_path=ctx)
+
 
 if __name__ == "__main__":
-    main(["direct", "predict_human"], pilot=True)
+    main(["direct"], pilot=True, primed=True)

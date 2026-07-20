@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 from scipy.stats import pearsonr
+from config import N_SPLITS, SEED, SPEARMAN_BROWN
 
 def pearsonr_correlation(df_1, df_2):
 

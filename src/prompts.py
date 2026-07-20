@@ -1,3 +1,5 @@
+from config import ATTRIBUTES
+
 #First prompt tested:
 #Note: does not clarify the poles for age, weight, and skin-color; explicitly instructs the model to replicate human biases
 
@@ -43,3 +45,11 @@ PROMPTS = {
     "predict_human": PREDICT_HUMAN,
     "direct": DIRECT,
 }
+
+#format instruction
+INSTRUCTION = f"""
+    CRITICAL REQUIRED FORMAT: Return ONLY a raw JSON object with exactly these 34 keys,
+    each mapped to an integer rating from 0-100: {', '.join(ATTRIBUTES)}
+    Do not include conversational phrases, explanations, or markdown code block formatting.
+    Example shape: {{"trustworthy": 72, "attractive": 55, ...}}
+    """

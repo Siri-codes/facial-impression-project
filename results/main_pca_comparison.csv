@@ -1,0 +1,10 @@
+model,human_pc,human_var,model_pc,model_var,abs_r
+Gemini 2.5 Flash-Lite,1,0.223,1,0.217,0.808
+Gemini 2.5 Flash-Lite,2,0.22,2,0.113,0.617
+Gemini 2.5 Flash-Lite,3,0.106,3,0.096,0.555
+GPT-5.4 Mini,1,0.223,1,0.2,0.841
+GPT-5.4 Mini,2,0.22,2,0.143,0.671
+GPT-5.4 Mini,3,0.106,3,0.109,0.454
+Claude Sonnet 5,1,0.223,1,0.204,0.879
+Claude Sonnet 5,2,0.22,2,0.155,0.891
+Claude Sonnet 5,3,0.106,3,0.122,0.762

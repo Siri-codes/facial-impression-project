@@ -12,7 +12,7 @@ DATA_DIR  = ROOT / "data"
 HUMAN_DIR = DATA_DIR / "human_ratings"
 MODEL_DIR = DATA_DIR / "model_ratings"
 TOKEN_DIR = DATA_DIR / "tokens"
-FIGURES   = ROOT / "figures"
+RESULTS   = ROOT / "results"
 
 HUMAN_MEANS   = HUMAN_DIR / "attribute_means.csv"
 HUMAN_RATINGS = HUMAN_DIR / "attribute_ratings.zip"
@@ -35,7 +35,12 @@ ATTRIBUTE_GROUPS = {
     'other':       ['typical', 'familiar', 'memorable', 'looks-like-you', 'outdoors'],
 }
 
+GROUP_COLORS = {'demographic': '#d62728', 'physical': '#ff7f0e',
+                'trait': '#1f77b4', 'other': '#7f7f7f'}
+
 # ---- Models: label -> folder name ----
+ALL_MODEL_NAMES = ['Gemini 2.5 Flash-Lite', 'GPT-5.4 Mini','Claude Sonnet 5']
+
 MODELS = {
     'Gemini 2.5 Flash-Lite': 'google_gemini-2.5-flash-lite',
     'GPT-5.4 Mini':          'openai_gpt-5.4-mini',
@@ -57,6 +62,10 @@ TEMPERATURE = 0.1
 N_REPS = 3
 REP_SUBSET_SIZE = 100     # reps 2-3 use a 100-image subset; rep 1 is full
 SUBSAMPLE_SEED   = 42     # the 100-stimulus subsample: reps 2-3 and all pilots
+
+# ---- Priming/Context ----
+CONTEXT_GRID = DATA_DIR / "context_grid.jpg"
+CONTEXT_SEED = 55 # distinct from SUBSAMPLE_SEED; meant to mimic distribution of full dataset 
 
 # ---- Analysis parameters ----
 SEED = 0

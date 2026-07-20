@@ -1,0 +1,28 @@
+model,condition,human_pc,human_var,model_pc,model_var,abs_r
+Gemini 2.5 Flash-Lite,biased,1,0.242,3,0.101,0.444
+Gemini 2.5 Flash-Lite,biased,2,0.19,1,0.239,0.765
+Gemini 2.5 Flash-Lite,biased,3,0.126,2,0.166,0.501
+Gemini 2.5 Flash-Lite,predict_human,1,0.242,3,0.103,0.566
+Gemini 2.5 Flash-Lite,predict_human,2,0.19,1,0.217,0.736
+Gemini 2.5 Flash-Lite,predict_human,3,0.126,3,0.103,0.474
+Gemini 2.5 Flash-Lite,direct,1,0.242,2,0.141,0.632
+Gemini 2.5 Flash-Lite,direct,2,0.19,1,0.214,0.684
+Gemini 2.5 Flash-Lite,direct,3,0.126,3,0.115,0.617
+GPT-5.4 Mini,biased,1,0.242,2,0.156,0.599
+GPT-5.4 Mini,biased,2,0.19,1,0.197,0.74
+GPT-5.4 Mini,biased,3,0.126,3,0.106,0.448
+GPT-5.4 Mini,predict_human,1,0.242,1,0.185,0.561
+GPT-5.4 Mini,predict_human,2,0.19,1,0.185,0.663
+GPT-5.4 Mini,predict_human,3,0.126,3,0.125,0.53
+GPT-5.4 Mini,direct,1,0.242,2,0.151,0.633
+GPT-5.4 Mini,direct,2,0.19,1,0.191,0.764
+GPT-5.4 Mini,direct,3,0.126,3,0.117,0.537
+Claude Sonnet 5,biased,1,0.242,1,0.198,0.701
+Claude Sonnet 5,biased,2,0.19,2,0.186,0.673
+Claude Sonnet 5,biased,3,0.126,3,0.134,0.748
+Claude Sonnet 5,predict_human,1,0.242,1,0.198,0.839
+Claude Sonnet 5,predict_human,2,0.19,2,0.184,0.853
+Claude Sonnet 5,predict_human,3,0.126,3,0.127,0.771
+Claude Sonnet 5,direct,1,0.242,1,0.201,0.848
+Claude Sonnet 5,direct,2,0.19,2,0.184,0.841
+Claude Sonnet 5,direct,3,0.126,3,0.132,0.754

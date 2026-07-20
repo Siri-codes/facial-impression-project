@@ -3,7 +3,8 @@ import numpy as np
 from matplotlib.lines import Line2D
 
 from rdm import get_unique_correlations
-from config import FIGURES, ATTRIBUTES
+from config import RESULTS, ATTRIBUTES, ATTRIBUTE_GROUPS, GROUP_COLORS, RESULTS
+
 
 def plot_dissimilarities(rdm_1, rdm_2, name_1, name_2, save=True):
     d1 = get_unique_correlations(rdm_1)
@@ -18,9 +19,9 @@ def plot_dissimilarities(rdm_1, rdm_2, name_1, name_2, save=True):
     ax.set_title(f"{name_1} vs {name_2}: attribute-pair dissimilarities")
 
     if save:
-        FIGURES.mkdir(parents=True, exist_ok=True)
+        RESULTS.mkdir(parents=True, exist_ok=True)
         slug = f"{name_1}_{name_2}".lower().replace(' ', '_')
-        fig.savefig(FIGURES / f"dissimilarities_{slug}.png", bbox_inches="tight")
+        fig.savefig(RESULTS / f"dissimilarities_{slug}.png", bbox_inches="tight")
     return fig
 
 def plot_rdm_comparison(human_rdm, model_rdm, model_label, save=True):
@@ -43,9 +44,9 @@ def plot_rdm_comparison(human_rdm, model_rdm, model_label, save=True):
     fig.colorbar(im, ax=axes, shrink=0.5, label="Dissimilarity (1 - correlation)")
 
     if save:
-        FIGURES.mkdir(parents=True, exist_ok=True)
+        RESULTS.mkdir(parents=True, exist_ok=True)
         slug = model_label.lower().replace(' ', '_')
-        fig.savefig(FIGURES / f"rdm_comparison_{slug}.png", dpi=150, bbox_inches="tight")
+        fig.savefig(RESULTS / f"rdm_comparison_{slug}.png", dpi=150, bbox_inches="tight")
     return fig
 
 def plot_model_comparison(df_results, model_name, show_self_reliability=False, save=True):
@@ -108,7 +109,42 @@ def plot_model_comparison(df_results, model_name, show_self_reliability=False, s
     plt.tight_layout()
 
     if save:
-        FIGURES.mkdir(parents=True, exist_ok=True)
+        RESULTS.mkdir(parents=True, exist_ok=True)
         slug = model_name.lower().replace(' ', '_')
-        fig.savefig(FIGURES / f'model_comparison_{slug}_{'with_self' if show_self_reliability else 'base'}.png', dpi=150, bbox_inches="tight")
+        fig.savefig(RESULTS / f"model_comparison_{slug}_{'with_self' if show_self_reliability else 'base'}.png", dpi=150, bbox_inches="tight")
+    return fig
+
+
+def plot_pca_loadings(pca, judge_label, pc_x=0, pc_y=1, save=True):
+    """Scatter attribute loadings on two PCs, colored by attribute group."""
+    lookup = {a: g for g, attrs in ATTRIBUTE_GROUPS.items() for a in attrs}
+    x = pca.components_[pc_x]
+    y = pca.components_[pc_y]
+
+    fig, ax = plt.subplots(figsize=(9, 9), dpi=150)
+    ax.axhline(0, color='#cccccc', lw=1, zorder=0)
+    ax.axvline(0, color='#cccccc', lw=1, zorder=0)
+
+    for attr, xi, yi in zip(ATTRIBUTES, x, y):
+        g = lookup.get(attr, 'other')
+        ax.scatter(xi, yi, color=GROUP_COLORS[g], s=45, zorder=2)
+        ax.annotate(attr, (xi, yi), fontsize=8, xytext=(4, 3),
+                    textcoords='offset points', color=GROUP_COLORS[g])
+
+    vx = pca.explained_variance_ratio_[pc_x]
+    vy = pca.explained_variance_ratio_[pc_y]
+    ax.set_xlabel(f"PC{pc_x+1} ({vx:.1%})", fontweight='bold')
+    ax.set_ylabel(f"PC{pc_y+1} ({vy:.1%})", fontweight='bold')
+    ax.set_title(f"{judge_label}: attribute loadings", fontstyle='italic')
+    ax.set_aspect('equal')
+
+    handles = [Line2D([0], [0], marker='o', color='w', markerfacecolor=c,
+                      markersize=8, label=g) for g, c in GROUP_COLORS.items()]
+    ax.legend(handles=handles, loc='best', frameon=False)
+
+    if save:
+        FIGURES.mkdir(parents=True, exist_ok=True)
+        slug = judge_label.lower().replace(' ', '_')
+        fig.savefig(FIGURES / f"pca_loadings_{slug}_pc{pc_x+1}pc{pc_y+1}.png",
+                    bbox_inches="tight")
     return fig

@@ -1,0 +1,28 @@
+model,pair,pc,abs_r
+Gemini 2.5 Flash-Lite,rep1v2,1,0.985
+Gemini 2.5 Flash-Lite,rep1v2,2,0.987
+Gemini 2.5 Flash-Lite,rep1v2,3,0.979
+Gemini 2.5 Flash-Lite,rep1v3,1,0.988
+Gemini 2.5 Flash-Lite,rep1v3,2,0.976
+Gemini 2.5 Flash-Lite,rep1v3,3,0.973
+Gemini 2.5 Flash-Lite,rep2v3,1,0.998
+Gemini 2.5 Flash-Lite,rep2v3,2,0.974
+Gemini 2.5 Flash-Lite,rep2v3,3,0.977
+GPT-5.4 Mini,rep1v2,1,0.972
+GPT-5.4 Mini,rep1v2,2,0.974
+GPT-5.4 Mini,rep1v2,3,0.955
+GPT-5.4 Mini,rep1v3,1,0.979
+GPT-5.4 Mini,rep1v3,2,0.936
+GPT-5.4 Mini,rep1v3,3,0.902
+GPT-5.4 Mini,rep2v3,1,0.982
+GPT-5.4 Mini,rep2v3,2,0.953
+GPT-5.4 Mini,rep2v3,3,0.907
+Claude Sonnet 5,rep1v2,1,0.901
+Claude Sonnet 5,rep1v2,2,0.88
+Claude Sonnet 5,rep1v2,3,0.987
+Claude Sonnet 5,rep1v3,1,0.931
+Claude Sonnet 5,rep1v3,2,0.948
+Claude Sonnet 5,rep1v3,3,0.992
+Claude Sonnet 5,rep2v3,1,0.743
+Claude Sonnet 5,rep2v3,2,0.694
+Claude Sonnet 5,rep2v3,3,0.993
