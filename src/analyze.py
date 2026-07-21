@@ -1,14 +1,13 @@
 # analyze.py
 from pathlib import Path
 import pandas as pd
-from config import MODELS, MODEL_DIR, ATTRIBUTES, HUMAN_MEANS, RESULTS, ALL_MODEL_NAMES, REP_SUBSET_SIZE, SUBSAMPLE_SEED
+from config import MODELS, MODEL_DIR, ATTRIBUTES, HUMAN_MEANS, RESULTS, REP_SUBSET_SIZE, SUBSAMPLE_SEED
 from data_io import load_ratings, load_human_means, load_human_raw, common_stimuli
 from rdm import build_rdm, compare_rdms
 from pca import fit_pca, match_components
 from metrics import build_evaluation_dataset
 from plots import plot_model_comparison, plot_pca_loadings
 import numpy as np
-from metrics import pearsonr_correlation
    
 def _save(df, name):
     (RESULTS).mkdir(exist_ok=True)

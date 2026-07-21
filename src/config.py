@@ -40,8 +40,6 @@ GROUP_COLORS = {'demographic': '#d62728', 'physical': '#ff7f0e',
                 'trait': '#1f77b4', 'other': '#7f7f7f'}
 
 # ---- Models: label -> folder name ----
-ALL_MODEL_NAMES = ['Gemini 2.5 Flash-Lite', 'GPT-5.4 Mini','Claude Sonnet 5']
-
 MODELS = {
     'Gemini 2.5 Flash-Lite': 'google_gemini-2.5-flash-lite',
     'GPT-5.4 Mini':          'openai_gpt-5.4-mini',
