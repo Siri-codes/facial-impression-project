@@ -3,7 +3,7 @@ import numpy as np
 from matplotlib.lines import Line2D
 
 from rdm import get_unique_correlations
-from config import RESULTS, ATTRIBUTES, ATTRIBUTE_GROUPS, GROUP_COLORS, RESULTS
+from config import FIGURES, ATTRIBUTES, ATTRIBUTE_GROUPS, GROUP_COLORS
 
 
 def plot_dissimilarities(rdm_1, rdm_2, name_1, name_2, save=True):
@@ -19,9 +19,9 @@ def plot_dissimilarities(rdm_1, rdm_2, name_1, name_2, save=True):
     ax.set_title(f"{name_1} vs {name_2}: attribute-pair dissimilarities")
 
     if save:
-        RESULTS.mkdir(parents=True, exist_ok=True)
+        FIGURES.mkdir(parents=True, exist_ok=True)
         slug = f"{name_1}_{name_2}".lower().replace(' ', '_')
-        fig.savefig(RESULTS / f"dissimilarities_{slug}.png", bbox_inches="tight")
+        fig.savefig(FIGURES / f"dissimilarities_{slug}.png", bbox_inches="tight")
     return fig
 
 def plot_rdm_comparison(human_rdm, model_rdm, model_label, save=True):
@@ -44,9 +44,9 @@ def plot_rdm_comparison(human_rdm, model_rdm, model_label, save=True):
     fig.colorbar(im, ax=axes, shrink=0.5, label="Dissimilarity (1 - correlation)")
 
     if save:
-        RESULTS.mkdir(parents=True, exist_ok=True)
+        FIGURES.mkdir(parents=True, exist_ok=True)
         slug = model_label.lower().replace(' ', '_')
-        fig.savefig(RESULTS / f"rdm_comparison_{slug}.png", dpi=150, bbox_inches="tight")
+        fig.savefig(FIGURES / f"rdm_comparison_{slug}.png", dpi=150, bbox_inches="tight")
     return fig
 
 def plot_model_comparison(df_results, model_name, show_self_reliability=False, save=True):
@@ -109,9 +109,9 @@ def plot_model_comparison(df_results, model_name, show_self_reliability=False, s
     plt.tight_layout()
 
     if save:
-        RESULTS.mkdir(parents=True, exist_ok=True)
+        FIGURES.mkdir(parents=True, exist_ok=True)
         slug = model_name.lower().replace(' ', '_')
-        fig.savefig(RESULTS / f"model_comparison_{slug}_{'with_self' if show_self_reliability else 'base'}.png", dpi=150, bbox_inches="tight")
+        fig.savefig(FIGURES / f"model_comparison_{slug}_{'with_self' if show_self_reliability else 'base'}.png", dpi=150, bbox_inches="tight")
     return fig
 
 

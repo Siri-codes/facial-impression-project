@@ -13,6 +13,7 @@ HUMAN_DIR = DATA_DIR / "human_ratings"
 MODEL_DIR = DATA_DIR / "model_ratings"
 TOKEN_DIR = DATA_DIR / "tokens"
 RESULTS   = ROOT / "results"
+FIGURES = RESULTS / "figures"
 
 HUMAN_MEANS   = HUMAN_DIR / "attribute_means.csv"
 HUMAN_RATINGS = HUMAN_DIR / "attribute_ratings.zip"

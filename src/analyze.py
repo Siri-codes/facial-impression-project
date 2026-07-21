@@ -144,3 +144,17 @@ def reliability_replication(k=3):
                                'pc': i+1, 'abs_r': round(r,3)})
 
     return _save(pd.DataFrame(rows), 'reliability_replication.csv')
+
+def pca_loading_figures(pc_x=0, pc_y=1):
+    '''
+    Loads PCA scatterplots for human and model ratings
+    '''
+    human = load_human_means()
+    models = {l: load_ratings(MODEL_DIR/f/"direct_main.csv") for l, f in MODELS.items()}
+    dfs = common_stimuli(human, *models.values())
+    judges = {'Humans': dfs[0], **dict(zip(models, dfs[1:]))}
+    figs = {}
+    for label, df in judges.items():
+        pca = fit_pca(df[ATTRIBUTES].to_numpy())
+        figs[label] = plot_pca_loadings(pca, label, pc_x, pc_y, save=True)
+    return figs 
