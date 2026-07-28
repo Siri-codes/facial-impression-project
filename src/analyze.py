@@ -5,7 +5,7 @@ from config import MODELS, MODEL_DIR, ATTRIBUTES, HUMAN_MEANS, RESULTS, REP_SUBS
 from data_io import load_ratings, load_human_means, load_human_raw, common_stimuli
 from rdm import build_rdm, compare_rdms
 from pca import fit_pca, match_components
-from metrics import build_evaluation_dataset
+from metrics import build_evaluation_dataset, compute_self_reliability
 from plots import plot_model_comparison, plot_pca_loadings
 import numpy as np
    
@@ -13,6 +13,39 @@ def _save(df, name):
     (RESULTS).mkdir(exist_ok=True)
     df.to_csv(RESULTS / name, index=False)
     return df
+
+def reliability_bars(condition="direct"):
+    """Per-attribute accuracy vs human ceiling and model self-reliability.
+    All three quantities on the same prompt condition."""
+    human_means = load_human_means()
+    human_raw   = load_human_raw()
+
+    rows = []
+    for label, folder in MODELS.items():
+        # 1. accuracy + human ceiling
+        main = load_ratings(MODEL_DIR/folder/f"{condition}_main.csv")
+        results = build_evaluation_dataset(human_means, human_raw, main)
+        # -> columns: attribute, human_reliability_r2, ai_performance_r2
+
+        # 2. self-reliability from the three reps
+        rep1 = load_ratings(MODEL_DIR/folder/f"{condition}_pilot.csv")
+        rep2 = load_ratings(MODEL_DIR/folder/f"{condition}_pilot_rep2.csv")
+        rep3 = load_ratings(MODEL_DIR/folder/f"{condition}_pilot_rep3.csv")
+
+        r1, r2, r3 = common_stimuli(rep1, rep2, rep3)
+        self_rel = compute_self_reliability(r1, r2, r3)
+        # -> columns: attribute, self_reliability_r2
+
+        # 3. merge results + self on 'attribute'
+        merged = pd.merge(results, self_rel, on='attribute')
+
+        # 4. plot
+        fig = plot_model_comparison(merged, label, show_self_reliability=True)
+
+        # 5. labeling
+        rows.append(merged.assign(model=label))
+
+    return _save(pd.concat(rows), f'reliability_bars_{condition}.csv')
 
 def rsa_scores():
     """RDM Spearman, human vs each model, direct condition."""

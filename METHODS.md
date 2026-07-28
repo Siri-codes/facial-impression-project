@@ -13,7 +13,7 @@ Temperature = 0.1 (low enough to suppress sampling noise without forcing purely 
 
 ## Prompting
 
-The **primary condition is `direct`**: the model is asked to rate the face, with no reference to humans. Two alternate conditions were also collected and are used only in the prompt-comparison control (below).
+The **primary condition is `direct`**: the model is asked to rate the face, with no reference to humans (aligned with the instructions human raters recieved in Peterson et al. 2022). Two alternate conditions were also collected and are used only in the prompt-comparison control (below).
 
 **`direct` (primary):**
 ```

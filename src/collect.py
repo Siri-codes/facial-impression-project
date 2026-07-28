@@ -193,7 +193,7 @@ def collect_data(input_df, system_prompt, model_name, prompt_label, image_dir=Pa
         # Update runtime checklist so don't duplicate efforts
         processed_stimuli.add(stim_id)
 
-def main(prompt_labels, pilot=True, primed=False):
+def main(prompt_labels, pilot=True, primed=False, rep=1):    
     """
     Collect model ratings.
 
@@ -202,6 +202,8 @@ def main(prompt_labels, pilot=True, primed=False):
             False -> all stimuli (costs real money)
     primed: True  -> prepend a fixed 25-face context grid to every call.
                      Context faces are never rated as targets.
+    rep:    1 = the base collection 
+            2,3 = additional repetitions, suffixed _rep2 / _rep3
     """
     for label in prompt_labels:
         if label not in PROMPTS:
@@ -222,7 +224,7 @@ def main(prompt_labels, pilot=True, primed=False):
     df = df[~df['stimulus'].isin(ctx_ids)]      # never rate a context face
     print(f"targets: {len(df)}")
 
-    suffix = ("primed_" if primed else "") + ("pilot" if pilot else "main")
+    suffix = ("primed_" if primed else "") + ("pilot" if pilot else "main") + ("_rep2" if rep == 2 else "") + ("_rep3" if rep == 3 else "")
 
     for label in prompt_labels:
         for folder in MODELS.values():
@@ -232,4 +234,4 @@ def main(prompt_labels, pilot=True, primed=False):
 
 
 if __name__ == "__main__":
-    main(["direct"], pilot=True, primed=True)
+    main(["direct"], pilot=True, primed=True, rep=1)
