@@ -5,7 +5,7 @@ import json
 from openai import OpenAI
 import base64
 
-from config import ATTRIBUTES, MODEL_DIR, HUMAN_MEANS, HUMAN_RATINGS, IMAGE_DIR, TEMPERATURE, TOKEN_DIR, OPENROUTER_BASE_URL, REP_SUBSET_SIZE, MODELS, MODEL_SNAPSHOTS, SUBSAMPLE_SEED
+from config import ATTRIBUTES, MODEL_DIR, HUMAN_MEANS, HUMAN_RATINGS, IMAGE_DIR, TEMPERATURE, TOKEN_DIR, OPENROUTER_BASE_URL, REP_SUBSET_SIZE, MODELS, MODEL_SNAPSHOTS, SUBSAMPLE_SEED, REASONING_EFFORT
 from prompts import PROMPTS, INSTRUCTION
 from data_io import load_human_means
 from context import context_ids, make_context_grid
@@ -32,10 +32,12 @@ def _norm(k):
     return k.strip().lower().replace("_", "-").replace(" ", "-")
 
 
-def model_predictions(image_path, system_prompt, model_name, context_path=None):
+def model_predictions(image_path, system_prompt, model_folder, context_path=None):
     """Gathers model predictions for a single image."""
     raw_output = None
+    model_name = MODEL_SNAPSHOTS[model_folder]
     try:
+
         content = []
         if context_path:
             content += [
@@ -54,11 +56,18 @@ def model_predictions(image_path, system_prompt, model_name, context_path=None):
                 {"url": f"data:image/jpeg;base64,{encode_image(image_path)}"}},
         ]
 
+        effort = REASONING_EFFORT.get(model_folder)   # None if not listed
+        extra = {}
+        if effort is not None:
+            extra["reasoning"] = {"effort": effort}   # OpenRouter reasoning config
+
         response = get_client().chat.completions.create(
             model=model_name,
             messages=[{"role": "system", "content": system_prompt},
                       {"role": "user", "content": content}],
-            temperature=TEMPERATURE)
+            temperature=TEMPERATURE,
+            extra_body=extra
+            )
 
         raw_output = response.choices[0].message.content.strip()
 
@@ -85,33 +94,21 @@ def model_predictions(image_path, system_prompt, model_name, context_path=None):
         print(f"Raw output: {raw_output}")
         return None, 0, 0, None
 
-def get_filepath(model_name, prompt_label, base_output_dir=MODEL_DIR):
-    """
-    Creates necessary directories and returns Path object.
-    """
-    # Create safe string names for filesystems (no spaces or slashes)
-    safe_model = model_name.replace("/", "_").replace(" ", "_")
+def get_filepath(model_folder, prompt_label, base_output_dir=MODEL_DIR):
+    """model_folder is already filesystem-safe and unique — use it directly."""
     safe_prompt = prompt_label.lower().strip().replace(" ", "_")
-    
-    # Define and create the directory path object
-    directory_target = Path(base_output_dir) / safe_model
-    directory_target.mkdir(parents=True, exist_ok=True) # Automatically checks and creates folder
- 
-    name = directory_target / safe_prompt
-    final_file_path = f"{name}.csv"
-    
-    return final_file_path
+    directory_target = Path(base_output_dir) / model_folder
+    directory_target.mkdir(parents=True, exist_ok=True)
+    return directory_target / f"{safe_prompt}.csv"
 
-def collect_data(input_df, system_prompt, model_name, prompt_label, image_dir=Path(IMAGE_DIR), context_path=None):
+def collect_data(input_df, system_prompt, model_folder, prompt_label, image_dir=Path(IMAGE_DIR), context_path=None):
     '''
     Collects data using the specified LLM engine and prompt strategy, saving results to hierarchical resume-safe file structure.
     '''
-    
-    safe_model = model_name.replace("/", "_").replace(" ", "_")
 
     # Compute the path so prompt data goes to separate CSVs
-    output_csv = Path(get_filepath(model_name, prompt_label))
-
+    output_csv = get_filepath(model_folder, prompt_label)   # folder-keyed
+    
     # Initialize empty set to keep track of already processed stimuli.
     processed_stimuli = set()
 
@@ -128,8 +125,8 @@ def collect_data(input_df, system_prompt, model_name, prompt_label, image_dir=Pa
         print(f"Resuming previous run. Skipping {len(processed_stimuli)} already processed images.")
 
     else:
-        print(f"No existing progress file found. Starting fresh run for {model_name}, {prompt_label}.")
-
+        print(f"No existing progress file found. Starting fresh run for {model_folder}, {prompt_label}.")
+        
     #start looping through the human ratings csv:
     for idx, row in input_df.iterrows():
         # 1. Extract the stimulus ID from the current row
@@ -145,11 +142,11 @@ def collect_data(input_df, system_prompt, model_name, prompt_label, image_dir=Pa
         print(f"Processing stimulus {stim_id}...")
 
         # 3. Get ratings for this image
-        ratings, prompt_tokens, completion_tokens, resolved_model = model_predictions(image_path, system_prompt, model_name, context_path)
+        ratings, prompt_tokens, completion_tokens, resolved_model = model_predictions(image_path, system_prompt, model_folder, context_path)
 
         # If the API failed and returned None values, skip saving
         if ratings is None:
-            fail_path = Path(MODEL_DIR) / safe_model / f"{prompt_label}_failures.csv"
+            fail_path = Path(MODEL_DIR) / model_folder / f"{prompt_label}_failures.csv"
             pd.DataFrame([{'stimulus': stim_id, 'reason': 'api_or_parse_failure'}]).to_csv(
                 fail_path, mode='a', index=False, header=not fail_path.exists()
             )
@@ -178,17 +175,24 @@ def collect_data(input_df, system_prompt, model_name, prompt_label, image_dir=Pa
         # Store token data
         token_path = Path(TOKEN_DIR)
         token_path.mkdir(parents=True, exist_ok=True)
+
+        token_file = token_path / f"{model_folder}_{prompt_label}_tokens.csv"
+
         token_data = {
             'stimulus': stim_id,
             'prompt_tokens': prompt_tokens,
             'completion_tokens': completion_tokens,
-            'resolved_model': resolved_model,     
-            'timestamp': pd.Timestamp.now().isoformat(),   
+            'resolved_model': resolved_model,
+            'timestamp': pd.Timestamp.now().isoformat(),
         }
 
-        token_header = not (token_path / f"{safe_model}_{prompt_label}_tokens.csv").exists()
         token_df = pd.DataFrame([token_data])
-        token_df.to_csv(token_path / f"{safe_model}_{prompt_label}_tokens.csv", mode='a', index=False, header=token_header)
+        token_df.to_csv(
+            token_file,
+            mode='a',
+            index=False,
+            header=not token_file.exists(),
+        )
 
         # Update runtime checklist so don't duplicate efforts
         processed_stimuli.add(stim_id)
@@ -229,9 +233,9 @@ def main(prompt_labels, pilot=True, primed=False, rep=1):
     for label in prompt_labels:
         for folder in MODELS.values():
             print(f"\n=== {folder} / {label}_{suffix} ===")
-            collect_data(df, PROMPTS[label], MODEL_SNAPSHOTS[folder],
+            collect_data(df, PROMPTS[label], folder,
                          f"{label}_{suffix}", context_path=ctx)
 
 
 if __name__ == "__main__":
-    main(["direct"], pilot=True, primed=True, rep=1)
+    main(["direct"], pilot=True, primed=False, rep=1)

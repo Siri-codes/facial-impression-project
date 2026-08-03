@@ -53,11 +53,11 @@ def rsa_scores():
     human = load_human_means()
     models = {l: load_ratings(MODEL_DIR/f/"direct_main.csv") for l, f in MODELS.items()}
     dfs = common_stimuli(human, *models.values())
-    human_rdm = build_rdm(dfs[0][ATTRIBUTES].to_numpy())     # you have build_rdm
+    human_rdm = build_rdm(dfs[0][ATTRIBUTES].to_numpy())    
     rows = []
     for (label, _), df in zip(models.items(), dfs[1:]):
         rdm = build_rdm(df[ATTRIBUTES].to_numpy())
-        r, p = compare_rdms(human_rdm, rdm)                   # you have compare_rdms
+        r, p = compare_rdms(human_rdm, rdm)                   
         rows.append({'model': label, 'spearman': round(r,3)})
     return _save(pd.DataFrame(rows), 'rsa_scores.csv')
 
@@ -156,13 +156,13 @@ def priming_comparison(n_boot=1000, seed=0):
         
     return _save(pd.DataFrame(rows), 'priming_comparison.csv')
 
-def reliability_replication(k=3):
+def reliability_replication(k=3,condition="direct"):
     """Does PCA structure replicate across 3 collections of the same prompt?
     Reads predict_human_biased_main (=rep1, subset to 100), rep2, rep3."""
     rows = []
-    rep_paths = {1: 'predict_human_biased_main.csv',   # rep1 = main, subset to 100
-                2: 'predict_human_biased_rep2.csv',
-                3: 'predict_human_biased_rep3.csv'}
+    rep_paths = {1: f'{condition}_main.csv',   # rep1 = main, subset to 100
+                2: f'{condition}_rep2.csv',
+                3: f'{condition}_rep3.csv'}
                 
     for model, folder in MODELS.items():
         ratings = {rep: load_ratings(MODEL_DIR/folder/path) for rep, path in rep_paths.items()}

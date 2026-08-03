@@ -6,7 +6,7 @@ from config import N_SPLITS, SEED, SPEARMAN_BROWN
 def pearsonr_correlation(df_1, df_2):
 
     # 1. Merge the two dataframes on the 'stimulus' column
-    # Added suffixes to tell which column is which (e.g., trustworthy_human vs trustworthy_gemini)
+    # Added suffixes to tell which column is which 
     merged_df = pd.merge(df_1, df_2, on='stimulus', suffixes=('_1', '_2'))
 
     # The list of baseline attributes we want to loop through
@@ -20,7 +20,7 @@ def pearsonr_correlation(df_1, df_2):
         col_1 = f"{attr}_1"
         col_2 = f"{attr}_2"
 
-        # Calculate the correlation between the human and gemini columns
+        # Calculate the correlation between the different columns
         current_r = merged_df[col_1].corr(merged_df[col_2])
 
         # Store the result in dictionary
