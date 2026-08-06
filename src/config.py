@@ -44,16 +44,15 @@ MODELS = {
     #Frontier: (80-85% MMMU-Pro)
     'Claude Opus 5' : 'anthropic_claude-opus-5',
     'Gemini 3.5 Flash' : 'google_gemini-3.5-flash',
-    'GPT-5.6 Sol': 'openai_gpt-5.6-sol', #
+   # 'GPT-5.6 Sol': 'openai_gpt-5.6-sol', #
     'Grok 4.5': 'xai_grok-4.5',
     
     #High: (71–79%)
     'Qwen3.6 Plus': 'qwen_qwen3.6-plus', #
-    'Claude Sonnet 5 High':       'anthropic_claude-sonnet-5-high',
-    'Claude Sonnet 5 Max':       'anthropic_claude-sonnet-5-max',
     'Gemini 3.1 Flash Lite': 'google_gemini-3.1-flash-lite',
-    'GPT-5.6 Luna': 'openai_gpt-5.6-luna', #
+   #'GPT-5.6 Luna': 'openai_gpt-5.6-luna', #
     'Grok 4.3': 'xai_grok-4.3', #
+    'Claude Sonnet 5':       'anthropic_claude-sonnet-5-none',
     
     #Upper-Mid: (61–70%):
     'Gemma 4 26B A4B': 'google_gemma-4-26b-a4b',
@@ -82,11 +81,10 @@ MODEL_SNAPSHOTS = {
     'xai_grok-4.5': 'x-ai/grok-4.5',
 
     'qwen_qwen3.6-plus' : 'qwen/qwen3.6-plus',
-    'anthropic_claude-sonnet-5-high':    'anthropic/claude-sonnet-5',
-    'anthropic_claude-sonnet-5-max': 'anthropic/claude-sonnet-5',
     'google_gemini-3.1-flash-lite': 'google/gemini-3.1-flash-lite',
     'openai_gpt-5.6-luna': 'openai/gpt-5.6-luna',
     'xai_grok-4.3': 'x-ai/grok-4.3',
+    'anthropic_claude-sonnet-5-none': 'anthropic/claude-sonnet-5',
 
     'google_gemma-4-26b-a4b' : 'google/gemma-4-26b-a4b-it:free',
     'qwen_qwen3-vl-32b-instruct': 'qwen/qwen3-vl-32b-instruct',
@@ -111,11 +109,10 @@ REASONING_EFFORT = {
     "xai_grok-4.5":                 "high",
 
     "qwen_qwen3.6-plus":              "medium",
-    "anthropic_claude-sonnet-5-high":     "high", 
-    'anthropic_claude-sonnet-5-max': "max",
-    'google_gemini-3.1-flash-lite': "medium",
+    "google_gemini-3.1-flash-lite": "medium",
     "openai_gpt-5.6-luna":                   "low",
     "xai_grok-4.3":                  "low",
+    "anthropic_claude-sonnet-5-none": "none",
     
     "google_gemma-4-26b-a4b":         "none",
     "qwen_qwen3-vl-32b-instruct":     "none",
@@ -131,6 +128,37 @@ REASONING_EFFORT = {
     "mistralai_ministral-3-3b": "none",
     "anthropic_claude-3-haiku":      "none"  # non-reasoning
 }
+
+MMMU_PRO = {
+    "Claude Opus 5":          84,
+    "Gemini 3.5 Flash":       84,
+    "Grok 4.5":               80,
+    "Qwen3.6 Plus":           78,
+    "Gemini 3.1 Flash Lite":  76,
+    "Grok 4.3":               73,
+    "Claude Sonnet 5":        72,   
+    "Gemma 4 26B A4B":        67,
+    "Qwen3 VL 32B Instruct":  64,
+    "Claude Sonnet 4":        62,
+    "GPT-5.4 Mini":           60,
+    "Mistral Large 3":        56,
+    "Gemini 2.5 Flash-Lite":  54,
+    "Qwen3 VL 8B Instruct":   47,
+    "GPT-4o Mini":            42,
+    "Ministral 3 3B":         38,
+    "Claude 3 Haiku":         31,
+}
+
+PROVIDER = {
+    'Claude Opus 5': 'Anthropic', 'Claude Sonnet 5': 'Anthropic', 'Claude Sonnet 4': 'Anthropic', 'Claude 3 Haiku': 'Anthropic',
+    'GPT-5.6 Sol': 'OpenAI', 'GPT-5.6 Luna': 'OpenAI', 'GPT-5.4 Mini': 'OpenAI', 'GPT-4o Mini': 'OpenAI', 
+    'Gemini 3.5 Flash': 'Google', 'Gemini 3.1 Flash Lite': 'Google', 'Gemini 2.5 Flash-Lite': 'Google', 'Gemma 4 26B A4B': 'Google',
+    'Grok 4.5': 'xAI', 'Grok 4.3': 'xAI',
+    'Qwen3.6 Plus': 'Qwen', 'Qwen3 VL 32B Instruct': 'Qwen', 'Qwen3 VL 8B Instruct': 'Qwen',
+    'Mistral Large 3': 'Mistral', 'Ministral 3 3B': 'Mistral'
+}
+PROVIDER_COLORS = {'Anthropic': '#d97757', 'OpenAI': '#000000', 'Google': '#4285f4',
+                   'xAI': '#1da1f2', 'Qwen': '#6b3fa0', 'Mistral': '#ff7000'}
 
 # OpenRouter base url:
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"

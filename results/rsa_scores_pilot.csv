@@ -1,0 +1,18 @@
+model,spearman
+Claude Opus 5,0.798
+Gemini 3.5 Flash,0.778
+Grok 4.5,0.788
+Qwen3.6 Plus,0.606
+Gemini 3.1 Flash Lite,0.668
+Grok 4.3,0.782
+Claude Sonnet 5,0.778
+Gemma 4 26B A4B,0.652
+Qwen3 VL 32B Instruct,0.719
+Claude Sonnet 4,0.681
+GPT-5.4 Mini,0.712
+Mistral Large 3,0.564
+Gemini 2.5 Flash-Lite,0.582
+Qwen3 VL 8B Instruct,0.512
+GPT-4o Mini,0.435
+Ministral 3 3B,0.482
+Claude 3 Haiku,0.461

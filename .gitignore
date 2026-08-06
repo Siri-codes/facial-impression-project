@@ -226,3 +226,6 @@ Thumbs.db
 
 # Generated figures (regenerable from src/)
 figures/
+
+# Election dataset 
+election-dataset/

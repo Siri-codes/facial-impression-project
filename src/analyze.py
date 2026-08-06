@@ -14,6 +14,30 @@ def _save(df, name):
     df.to_csv(RESULTS / name, index=False)
     return df
 
+def usable_models(suffix, sensitive_only=True, min_constant=3):
+    """
+    Returns (usable, excluded) dicts of {label: folder}.
+    A model is excluded if it gives constant ratings on >= min_constant
+    sensitive attributes (i.e. it's refusing/neutralizing).
+    """
+    sensitive = ['asian','black','white','hispanic','middle-eastern','islander',
+                 'native','gay','privileged','liberal']
+    check_attrs = sensitive if sensitive_only else ATTRIBUTES
+
+    usable, excluded = {}, {}
+    for label, folder in MODELS.items():
+        path = MODEL_DIR/folder/f"direct_{suffix}.csv"
+        if not path.exists():
+            excluded[label] = 'missing_file'
+            continue
+        df = load_ratings(path)
+        n_const = sum(df[a].std() == 0 for a in check_attrs if a in df)
+        if n_const >= min_constant:
+            excluded[label] = f'{n_const}_constant_sensitive_attrs'
+        else:
+            usable[label] = folder
+    return usable, excluded
+
 def reliability_bars(condition="direct"):
     """Per-attribute accuracy vs human ceiling and model self-reliability.
     All three quantities on the same prompt condition."""
@@ -47,36 +71,44 @@ def reliability_bars(condition="direct"):
 
     return _save(pd.concat(rows), f'reliability_bars_{condition}.csv')
 
-def rsa_scores():
-    """RDM Spearman, human vs each model, direct condition."""
-    
+def rsa_scores(suffix="main"):
+    """RDM Spearman, human vs each model."""
     human = load_human_means()
-    models = {l: load_ratings(MODEL_DIR/f/"direct_main.csv") for l, f in MODELS.items()}
+    usable, excluded = usable_models(suffix)
+    if excluded:
+        print("Excluded (refusing/neutralizing):")
+        for label, reason in excluded.items():
+            print(f"  {label}: {reason}")
+
+    models = {l: load_ratings(MODEL_DIR/MODELS[l]/f"direct_{suffix}.csv") for l in usable}
     dfs = common_stimuli(human, *models.values())
-    human_rdm = build_rdm(dfs[0][ATTRIBUTES].to_numpy())    
+    human_rdm = build_rdm(dfs[0][ATTRIBUTES].to_numpy())
     rows = []
-    for (label, _), df in zip(models.items(), dfs[1:]):
+    for label, df in zip(models.keys(), dfs[1:]):
         rdm = build_rdm(df[ATTRIBUTES].to_numpy())
-        r, p = compare_rdms(human_rdm, rdm)                   
+        r, p = compare_rdms(human_rdm, rdm)
         rows.append({'model': label, 'spearman': round(r,3)})
-    return _save(pd.DataFrame(rows), 'rsa_scores.csv')
+    return _save(pd.DataFrame(rows), f'rsa_scores_{suffix}.csv')
 
-def main_pca_comparison():
+def main_pca_comparison(suffix="main"):
     """n=1004 direct: match each model's PCs to human, report |r| + variance."""
-
     human = load_human_means()
-    models = {l: load_ratings(MODEL_DIR/f/"direct_main.csv") for l, f in MODELS.items()}
+    usable, excluded = usable_models(suffix)
+    if excluded:
+        print("Excluded (refusing/neutralizing):")
+        for label, reason in excluded.items():
+            print(f"  {label}: {reason}")
+
+    models = {l: load_ratings(MODEL_DIR/MODELS[l]/f"direct_{suffix}.csv") for l in usable}
     dfs = common_stimuli(human, *models.values())
     h_pca = fit_pca(dfs[0][ATTRIBUTES].to_numpy())
-
     rows = []
     for (label, _), df in zip(models.items(), dfs[1:]):
         m_pca = fit_pca(df[ATTRIBUTES].to_numpy())
         for i, j, r, vr, vm in match_components(h_pca, m_pca, k=3):
-            rows.append({'model': label, 'human_pc': i+1,
-                         'human_var': round(vr,3), 'model_pc': j+1,
-                         'model_var': round(vm,3), 'abs_r': round(r,3)})
-    return _save(pd.DataFrame(rows), 'main_pca_comparison.csv')
+            rows.append({'model': label, 'human_pc': i+1, 'human_var': round(vr,3),
+                         'model_pc': j+1, 'model_var': round(vm,3), 'abs_r': round(r,3)})
+    return _save(pd.DataFrame(rows), f'main_pca_comparison_{suffix}.csv')
 
 def prompt_condition_comparison():
     """
@@ -190,3 +222,26 @@ def pca_loading_figures(pc_x=0, pc_y=1):
         pca = fit_pca(df[ATTRIBUTES].to_numpy())
         figs[label] = plot_pca_loadings(pca, label, pc_x, pc_y, save=True)
     return figs 
+
+def capability_plots(suffix="pilot"):
+    from config import MMMU_PRO
+    from plots import plot_capability_scatter
+
+    # RSA vs capability
+    rsa = pd.read_csv(RESULTS / f'rsa_scores_{suffix}.csv')
+    rsa['mmmu'] = rsa['model'].map(MMMU_PRO)
+    plot_capability_scatter(rsa, 'spearman', 'RSA (Spearman ρ)',
+                            'Structural alignment vs capability')
+
+    # Race-axis fidelity vs capability
+    pca = pd.read_csv(RESULTS / f'main_pca_comparison_{suffix}.csv')
+    race = pca[pca['human_pc'] == 2].copy()      # race axis = human PC2
+    race['mmmu'] = race['model'].map(MMMU_PRO)
+    plot_capability_scatter(race, 'abs_r', 'Race-axis fidelity (|r|)',
+                            'Race-axis reproduction vs capability')
+
+    # (optional) valence control: race but human_pc == 1
+    val = pca[pca['human_pc'] == 1].copy()
+    val['mmmu'] = val['model'].map(MMMU_PRO)
+    plot_capability_scatter(val, 'abs_r', 'Valence-axis fidelity (|r|)',
+                            'Valence-axis (control) vs capability')

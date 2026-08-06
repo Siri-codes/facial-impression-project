@@ -1,0 +1,52 @@
+model,human_pc,human_var,model_pc,model_var,abs_r
+Claude Opus 5,1,0.244,2,0.192,0.896
+Claude Opus 5,2,0.191,1,0.265,0.84
+Claude Opus 5,3,0.127,3,0.129,0.739
+Gemini 3.5 Flash,1,0.244,1,0.23,0.887
+Gemini 3.5 Flash,2,0.191,2,0.175,0.926
+Gemini 3.5 Flash,3,0.127,3,0.128,0.759
+Grok 4.5,1,0.244,1,0.228,0.858
+Grok 4.5,2,0.191,2,0.178,0.875
+Grok 4.5,3,0.127,3,0.114,0.684
+Qwen3.6 Plus,1,0.244,1,0.194,0.685
+Qwen3.6 Plus,2,0.191,3,0.116,0.652
+Qwen3.6 Plus,3,0.127,2,0.153,0.475
+Gemini 3.1 Flash Lite,1,0.244,1,0.258,0.812
+Gemini 3.1 Flash Lite,2,0.191,3,0.12,0.679
+Gemini 3.1 Flash Lite,3,0.127,2,0.137,0.667
+Grok 4.3,1,0.244,1,0.22,0.749
+Grok 4.3,2,0.191,2,0.155,0.785
+Grok 4.3,3,0.127,3,0.099,0.743
+Claude Sonnet 5,1,0.244,1,0.196,0.903
+Claude Sonnet 5,2,0.191,2,0.178,0.914
+Claude Sonnet 5,3,0.127,3,0.139,0.765
+Gemma 4 26B A4B,1,0.244,2,0.151,0.628
+Gemma 4 26B A4B,2,0.191,2,0.151,0.706
+Gemma 4 26B A4B,3,0.127,3,0.127,0.589
+Qwen3 VL 32B Instruct,1,0.244,1,0.208,0.768
+Qwen3 VL 32B Instruct,2,0.191,2,0.15,0.782
+Qwen3 VL 32B Instruct,3,0.127,3,0.132,0.516
+Claude Sonnet 4,1,0.244,1,0.198,0.836
+Claude Sonnet 4,2,0.191,2,0.136,0.884
+Claude Sonnet 4,3,0.127,3,0.121,0.63
+GPT-5.4 Mini,1,0.244,2,0.152,0.648
+GPT-5.4 Mini,2,0.191,1,0.191,0.762
+GPT-5.4 Mini,3,0.127,3,0.118,0.549
+Mistral Large 3,1,0.244,3,0.137,0.773
+Mistral Large 3,2,0.191,1,0.258,0.728
+Mistral Large 3,3,0.127,2,0.138,0.525
+Gemini 2.5 Flash-Lite,1,0.244,2,0.142,0.638
+Gemini 2.5 Flash-Lite,2,0.191,1,0.215,0.69
+Gemini 2.5 Flash-Lite,3,0.127,3,0.116,0.618
+Qwen3 VL 8B Instruct,1,0.244,3,0.123,0.665
+Qwen3 VL 8B Instruct,2,0.191,1,0.173,0.755
+Qwen3 VL 8B Instruct,3,0.127,2,0.138,0.491
+GPT-4o Mini,1,0.244,4,0.079,0.604
+GPT-4o Mini,2,0.191,1,0.224,0.671
+GPT-4o Mini,3,0.127,2,0.137,0.433
+Ministral 3 3B,1,0.244,1,0.198,0.587
+Ministral 3 3B,2,0.191,3,0.124,0.657
+Ministral 3 3B,3,0.127,1,0.198,0.39
+Claude 3 Haiku,1,0.244,2,0.185,0.408
+Claude 3 Haiku,2,0.191,1,0.254,0.694
+Claude 3 Haiku,3,0.127,2,0.185,0.508

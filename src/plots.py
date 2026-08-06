@@ -3,7 +3,7 @@ import numpy as np
 from matplotlib.lines import Line2D
 
 from rdm import get_unique_correlations
-from config import FIGURES, ATTRIBUTES, ATTRIBUTE_GROUPS, GROUP_COLORS
+from config import FIGURES, ATTRIBUTES, ATTRIBUTE_GROUPS, GROUP_COLORS, PROVIDER, PROVIDER_COLORS
 
 
 def plot_dissimilarities(rdm_1, rdm_2, name_1, name_2, save=True):
@@ -147,4 +147,40 @@ def plot_pca_loadings(pca, judge_label, pc_x=0, pc_y=1, save=True):
         slug = judge_label.lower().replace(' ', '_')
         fig.savefig(FIGURES / f"pca_loadings_{slug}_pc{pc_x+1}pc{pc_y+1}.png",
                     bbox_inches="tight")
+    return fig
+
+def plot_capability_scatter(df, y_col, y_label, title, save=True):
+    """
+    df: must have columns 'model', 'mmmu', y_col
+    Scatters MMMU-Pro (x) vs y_col (y), colored by provider, labeled per point.
+    """
+
+    fig, ax = plt.subplots(figsize=(9, 6))
+
+    for _, row in df.iterrows():
+        prov = PROVIDER.get(row['model'], 'Other')
+        ax.scatter(row['mmmu'], row[y_col],
+                   color=PROVIDER_COLORS.get(prov, 'gray'),
+                   s=80, zorder=3)
+        # label each point
+        ax.annotate(row['model'], (row['mmmu'], row[y_col]),
+                    fontsize=7, alpha=0.7,
+                    xytext=(4, 4), textcoords='offset points')
+
+    ax.set_xlabel('MMMU-Pro (%)')
+    ax.set_ylabel(y_label)
+    ax.set_title(title)
+
+    # provider legend
+    legend_elements = [Line2D([0], [0], marker='o', color='w', markerfacecolor=color, markersize=8, label=provider) for provider, color in PROVIDER_COLORS.items()]
+
+    ax.legend(handles=legend_elements, loc='lower right', frameon=False, bbox_to_anchor=(1, 0.1))
+    
+   
+    # optional: a light trend line? maybe not for 100 point data though --- revisit later
+
+    if save:
+        FIGURES.mkdir(parents=True, exist_ok=True)
+        slug = y_col.lower().replace(' ', '_')
+        fig.savefig(FIGURES / f"capability_scatter_{slug}.png", bbox_inches="tight")
     return fig

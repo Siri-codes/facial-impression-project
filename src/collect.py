@@ -66,6 +66,7 @@ def model_predictions(image_path, system_prompt, model_folder, context_path=None
             messages=[{"role": "system", "content": system_prompt},
                       {"role": "user", "content": content}],
             temperature=TEMPERATURE,
+            max_tokens=8000, #cap for model response (lots of cushion)
             extra_body=extra
             )
 
