@@ -32,7 +32,7 @@ def _norm(k):
     return k.strip().lower().replace("_", "-").replace(" ", "-")
 
 
-def model_predictions(image_path, system_prompt, model_folder, context_path=None):
+def model_predictions(image_path, system_prompt, model_folder, context_path=None, attributes=ATTRIBUTES):
     """Gathers model predictions for a single image."""
     raw_output = None
     model_name = MODEL_SNAPSHOTS[model_folder]
@@ -79,11 +79,11 @@ def model_predictions(image_path, system_prompt, model_folder, context_path=None
 
         output = {_norm(k): v for k, v in json.loads(raw_output).items()}
 
-        missing = [c for c in ATTRIBUTES if c not in output]
+        missing = [c for c in attributes if c not in output]
         if missing:
             raise KeyError(f"missing after normalization: {missing}")
 
-        ratings = [output[col] for col in ATTRIBUTES]
+        ratings = [output[col] for col in attributes]
 
         return (ratings,
                 response.usage.prompt_tokens,

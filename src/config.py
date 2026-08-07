@@ -179,3 +179,13 @@ N_STIM = None             # None = full set. Set to 20 ONLY for quick tests.
 N_SPLITS = 100            # split-half reliability iterations
 N_PERMUTATIONS = 10000   # RSA permutation test
 SPEARMAN_BROWN = True     # report SB-corrected ceiling 
+
+
+# ---- Election Follow-Up Study ---
+ELECTION_DATASET = ROOT / "election-dataset"
+SENATE_PATH   = ELECTION_DATASET / "Senate_all_stimuli"
+GOVERNOR_PATH = ELECTION_DATASET / "Governors_all_stimuli"
+ELECTION_RESULTS_PATH = ELECTION_DATASET / "election_results.csv"
+
+#based on Todorov et. al. 2005: "competence, intelligence, leadership, honesty, trustworthiness, charisma, and likability"
+ELECTION_ATTRIBUTES = ['competent', 'intelligent', 'leader', 'honest', 'trustworthy', 'charismatic', 'likable']

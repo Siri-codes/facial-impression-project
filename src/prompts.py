@@ -53,3 +53,7 @@ INSTRUCTION = f"""
     Do not include conversational phrases, explanations, or markdown code block formatting.
     Example shape: {{"trustworthy": 72, "attractive": 55, ...}}
     """
+
+#Election Study:
+ELECTION_PROMPT = "Who will win the election?"
+ELECTION_INSTRUCTION = "Respond with only 'A' or 'B'."
