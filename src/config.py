@@ -48,7 +48,7 @@ MODELS = {
     'Grok 4.5': 'xai_grok-4.5',
     
     #High: (71–79%)
-    'Qwen3.6 Plus': 'qwen_qwen3.6-plus', #
+   # 'Qwen3.6 Plus': 'qwen_qwen3.6-plus', # Strange error: flags certain images as "inappropriate content"
     'Gemini 3.1 Flash Lite': 'google_gemini-3.1-flash-lite',
    #'GPT-5.6 Luna': 'openai_gpt-5.6-luna', #
     'Grok 4.3': 'xai_grok-4.3', #
@@ -182,7 +182,7 @@ SPEARMAN_BROWN = True     # report SB-corrected ceiling
 
 
 # ---- Election Follow-Up Study ---
-ELECTION_DATASET = ROOT / "election-dataset"
+ELECTION_DATASET = DATA_DIR / "election-dataset"
 SENATE_PATH   = ELECTION_DATASET / "Senate_all_stimuli"
 GOVERNOR_PATH = ELECTION_DATASET / "Governors_all_stimuli"
 ELECTION_RESULTS_PATH = ELECTION_DATASET / "election_results.csv"

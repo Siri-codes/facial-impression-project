@@ -1,13 +1,14 @@
 # analyze.py
 from pathlib import Path
 import pandas as pd
-from config import MODELS, MODEL_DIR, ATTRIBUTES, HUMAN_MEANS, RESULTS, REP_SUBSET_SIZE, SUBSAMPLE_SEED
+from config import MODELS, MODEL_DIR, ATTRIBUTES, HUMAN_MEANS, RESULTS, REP_SUBSET_SIZE, SUBSAMPLE_SEED, MMMU_PRO
 from data_io import load_ratings, load_human_means, load_human_raw, common_stimuli
 from rdm import build_rdm, compare_rdms
 from pca import fit_pca, match_components
 from metrics import build_evaluation_dataset, compute_self_reliability
 from plots import plot_model_comparison, plot_pca_loadings
 import numpy as np
+from scipy.stats import spearmanr
    
 def _save(df, name):
     (RESULTS).mkdir(exist_ok=True)
@@ -245,3 +246,19 @@ def capability_plots(suffix="pilot"):
     val['mmmu'] = val['model'].map(MMMU_PRO)
     plot_capability_scatter(val, 'abs_r', 'Valence-axis fidelity (|r|)',
                             'Valence-axis (control) vs capability')
+
+def capability_correlations(suffix="main"):
+    pca = pd.read_csv(RESULTS / f'main_pca_comparison_{suffix}.csv')
+    rsa = pd.read_csv(RESULTS / f'rsa_scores_{suffix}.csv')
+
+    for name, pc in [("valence", 1), ("race", 2), ("pc3", 3)]:   # add PC3
+        d = pca[pca['human_pc'] == pc].copy()
+        d['mmmu'] = d['model'].map(MMMU_PRO)
+        d = d.dropna(subset=['mmmu', 'abs_r'])
+        r, p = spearmanr(d['mmmu'], d['abs_r'])
+        print(f"{name} (PC{pc}): r={r:.3f}, p={p:.3f} (n={len(d)})")
+
+    rsa['mmmu'] = rsa['model'].map(MMMU_PRO)
+    d = rsa.dropna(subset=['mmmu', 'spearman'])
+    r, p = spearmanr(d['mmmu'], d['spearman'])
+    print(f"rsa: r={r:.3f}, p={p:.3f} (n={len(d)})")

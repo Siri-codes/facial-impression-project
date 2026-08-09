@@ -87,6 +87,8 @@ def forced_choice(image_a, image_b, model_folder, question):
 
 def collect_election_choices(usable_df, model_folder, img_map, question):
     
+    print("got to collect election choices")
+
     # where to save results
     output_csv = get_filepath(model_folder=model_folder, prompt_label="electability")
 
@@ -99,8 +101,11 @@ def collect_election_choices(usable_df, model_folder, img_map, question):
     # group by race --- each race is one comparison
     for election_id, race in usable_df.groupby('Election ID'):
         if election_id in processed:
+            print("already processed")
             continue
         if len(race) != 2:  # skip races without exactly 2 candidates
+            print(race)
+            print("not 2 candidates")
             continue
 
         # identify the two candidates
@@ -108,6 +113,7 @@ def collect_election_choices(usable_df, model_folder, img_map, question):
         cand_b = race.iloc[1]
 
         if cand_a['Full Label'] not in img_map or cand_b['Full Label'] not in img_map:
+            print("not in image map")
             continue   # skip races where either candidate has no image
 
         img_a = img_map[cand_a['Full Label']] 
@@ -117,6 +123,7 @@ def collect_election_choices(usable_df, model_folder, img_map, question):
 
         # which candidate did the model pick? map 'a'/'b' back to Full Label + outcome
         if winner is None:
+            print("no winner")
             result = {'election_id': election_id, 'chosen_label': None,
                     'chosen_won_real': None, 'chosen_vote_share': None,
                     'status': raw[:30]}
@@ -131,7 +138,9 @@ def collect_election_choices(usable_df, model_folder, img_map, question):
                 'status': 'ok',
             }
 
-        pd.DataFrame([result]).to_csv(output_csv, mode='a', index=False,
+        df = pd.DataFrame([result])
+        print(df)
+        df.to_csv(output_csv, mode='a', index=False,
                                       header=not output_csv.exists())
 
 
@@ -144,12 +153,12 @@ def main():
         if label not in img_map or len(p.name) < len(img_map[label].name):
             img_map[label] = p   # shorter filename = the clean (non-timestamped) one
 
-    raw, complete = clean_election_df(ELECTION_RESULTS_PATH)   # or your cleaned version
+    raw, complete = clean_election_df(ELECTION_RESULTS_PATH)   
     pilot_df = complete.sample(n=5, random_state=42)
 
     for model_folder in MODEL_SNAPSHOTS:
         print(f"\n=== {model_folder} ===")
         collect_election_choices(pilot_df, model_folder, img_map, question=ELECTION_PROMPT)
         
-if name == "main":
+if __name__ == "__main__":
     main()
