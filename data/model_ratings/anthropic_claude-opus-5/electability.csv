@@ -1,0 +1,9 @@
+election_id,chosen_label,chosen_won_real,chosen_vote_share,status
+263.0,G1997NJ0263N0526,Winner,0.51,ok
+265.0,G1996DE0265T0529,Winner,0.69,ok
+266.0,G1996IN0266T0531,Winner ,0.52,ok
+267.0,G1996NC0267N0534,Loser,0.43,ok
+268.0,,,,"POSITION_BIAS: ['b', 'a'] | ['"
+269.0,,,,REFUSE/FAIL: I can't tell from
+271.0,G1996WV0271N0542,Winner,0.53,ok
+273.0,G1995MS0273N0546,Winner,0.56,ok

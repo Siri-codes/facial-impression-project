@@ -6,7 +6,7 @@ from data_io import load_ratings, load_human_means, load_human_raw, common_stimu
 from rdm import build_rdm, compare_rdms
 from pca import fit_pca, match_components
 from metrics import build_evaluation_dataset, compute_self_reliability
-from plots import plot_model_comparison, plot_pca_loadings
+from plots import plot_model_comparison, plot_pca_loadings, plot_capability_scatter
 import numpy as np
 from scipy.stats import spearmanr
    
@@ -224,61 +224,65 @@ def pca_loading_figures(pc_x=0, pc_y=1):
         figs[label] = plot_pca_loadings(pca, label, pc_x, pc_y, save=True)
     return figs 
 
-def capability_plots(suffix="pilot"):
-    from config import MMMU_PRO
-    from plots import plot_capability_scatter
+def capability_plots(suffix="pilot", hle=False):
 
     # RSA vs capability
     rsa = pd.read_csv(RESULTS / f'rsa_scores_{suffix}.csv')
     rsa['mmmu'] = rsa['model'].map(MMMU_PRO)
+    rsa['hle'] = rsa['model'].map(HLE)
     plot_capability_scatter(rsa, 'spearman', 'RSA (Spearman ρ)',
-                            'Structural alignment vs capability')
+                            'Structural alignment vs capability', hle)
     
     pca = pd.read_csv(RESULTS / f'main_pca_comparison_{suffix}.csv')
 
     # Valence axis (PC1) fidelity vs capability:
     val = pca[pca['human_pc'] == 1].copy()
     val['mmmu'] = val['model'].map(MMMU_PRO)
+    val['hle'] = val['model'].map(HLE)
     plot_capability_scatter(val, 'abs_r', 'Valence-Dominance-axis fidelity (|r|)',
-                            'Valence-Dominance-axis vs capability')
+                            'Valence-Dominance-axis vs capability', hle)
 
     # Race-axis 
     race = pca[pca['human_pc'] == 2].copy()      # race axis = human PC2
     race['mmmu'] = race['model'].map(MMMU_PRO)
+    race['hle'] = race['model'].map(HLE)
     plot_capability_scatter(race, 'abs_r', 'Race-axis fidelity (|r|)',
-                            'Race-axis vs capability')
+                            'Race-axis vs capability', hle)
     
     # Competence axis (PC3)
     pc3 = pca[pca['human_pc'] == 3].copy()
     pc3['mmmu'] = pc3['model'].map(MMMU_PRO)
+    pc3['hle'] = pc3['model'].map(HLE)
     plot_capability_scatter(pc3, 'abs_r', 'Competence-axis fidelity (|r|)',
-                            'Competence-axis vs capability')
+                            'Competence-axis vs capability', hle)
    
 
-def capability_correlations(suffix="main"):
+def capability_correlations(suffix="main", hle=False):
     #loading results files
     pca = pd.read_csv(RESULTS / f'main_pca_comparison_{suffix}.csv')
     rsa = pd.read_csv(RESULTS / f'rsa_scores_{suffix}.csv')
+
+    x_metric = 'hle' if hle else 'mmmu'
 
     rows = []
 
     for name, pc in [("valence-dominance", 1), ("race", 2), ("competence", 3)]: #for each PC
         d = pca[pca['human_pc'] == pc].copy() #filtering for current axis
-        d['mmmu'] = d['model'].map(MMMU_PRO) #set mmmu score based on dict in config
-        d = d.dropna(subset=['mmmu', 'abs_r']) #drop rows with missing values
-        r, p = spearmanr(d['mmmu'], d['abs_r']) #calculate spearman correlation between capability and fidelity accross models
+        d[x_metric] = d['model'].map(MMMU_PRO) #set mmmu score based on dict in config
+        d = d.dropna(subset=[x_metric, 'abs_r']) #drop rows with missing values
+        r, p = spearmanr(d[x_metric], d['abs_r']) #calculate spearman correlation between capability and fidelity accross models
         print(f"{name} (PC{pc}): r={r:.3f}, p={p:.3f} (n={len(d)})")
         
         rows.append({'measure': name, 'pc': pc, 'r': round(r, 3),
                      'p': round(p, 3), 'n': len(d)}) #append results to rows
 
 
-    rsa['mmmu'] = rsa['model'].map(MMMU_PRO)
-    d = rsa.dropna(subset=['mmmu', 'spearman'])
-    r, p = spearmanr(d['mmmu'], d['spearman'])
+    rsa[x_metric] = rsa['model'].map(MMMU_PRO)
+    d = rsa.dropna(subset=[x_metric, 'spearman'])
+    r, p = spearmanr(d[x_metric], d['spearman'])
     print(f"rsa: r={r:.3f}, p={p:.3f} (n={len(d)})")
 
     rows.append({'measure': 'rsa', 'pc': None, 'r': round(r, 3),
                  'p': round(p, 3), 'n': len(d)})
 
-    return _save(pd.DataFrame(rows), f'capability_correlations_{suffix}.csv')
+    return _save(pd.DataFrame(rows), f'capability_correlations_{suffix}_{x_metric}.csv')

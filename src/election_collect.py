@@ -85,9 +85,7 @@ def forced_choice(image_a, image_b, model_folder, question):
     else:
         return None, f"POSITION_BIAS: {winners} | {raws}"
 
-def collect_election_choices(usable_df, model_folder, img_map, question):
-    
-    print("got to collect election choices")
+def collect_election_choices(usable_df, model_folder, img_map, question, pilot=False):
 
     # where to save results
     output_csv = get_filepath(model_folder=model_folder, prompt_label="electability")
@@ -98,14 +96,18 @@ def collect_election_choices(usable_df, model_folder, img_map, question):
         existing = pd.read_csv(output_csv)
         processed = set(existing['election_id'])   # track by race, not candidate
 
+    if pilot:
+        first_ids = usable_df['Election ID'].unique()[:10]   # first 10 race IDs
+        usable_df = usable_df[usable_df['Election ID'].isin(first_ids)]
+
+    election_race_pairs = usable_df.groupby('Election ID')
+
     # group by race --- each race is one comparison
-    for election_id, race in usable_df.groupby('Election ID'):
+    for election_id, race in election_race_pairs:
         if election_id in processed:
-            print("already processed")
             continue
         if len(race) != 2:  # skip races without exactly 2 candidates
             print(race)
-            print("not 2 candidates")
             continue
 
         # identify the two candidates
@@ -123,7 +125,6 @@ def collect_election_choices(usable_df, model_folder, img_map, question):
 
         # which candidate did the model pick? map 'a'/'b' back to Full Label + outcome
         if winner is None:
-            print("no winner")
             result = {'election_id': election_id, 'chosen_label': None,
                     'chosen_won_real': None, 'chosen_vote_share': None,
                     'status': raw[:30]}
@@ -139,12 +140,11 @@ def collect_election_choices(usable_df, model_folder, img_map, question):
             }
 
         df = pd.DataFrame([result])
-        print(df)
         df.to_csv(output_csv, mode='a', index=False,
                                       header=not output_csv.exists())
 
 
-def main():
+def main(pilot=False):
     # --- build label -> filepath map, deduping (prefer non-timestamped copy) ---
     all_imgs = list(SENATE_PATH.glob("*.jpg")) + list(GOVERNOR_PATH.glob("*.jpg"))
     img_map = {}
@@ -154,11 +154,10 @@ def main():
             img_map[label] = p   # shorter filename = the clean (non-timestamped) one
 
     raw, complete = clean_election_df(ELECTION_RESULTS_PATH)   
-    pilot_df = complete.sample(n=5, random_state=42)
 
     for model_folder in MODEL_SNAPSHOTS:
         print(f"\n=== {model_folder} ===")
-        collect_election_choices(pilot_df, model_folder, img_map, question=ELECTION_PROMPT)
+        collect_election_choices(complete, model_folder, img_map, question=ELECTION_PROMPT, pilot=pilot)
         
 if __name__ == "__main__":
     main()

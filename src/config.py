@@ -150,6 +150,27 @@ MMMU_PRO = {
     "Claude 3 Haiku":         31,
 }
 
+#Humanity's Last Exam scores. Source: Artificial Analysis
+HLE = {
+    "Claude Opus 5":          52.8,
+    "Gemini 3.5 Flash":       41.3,
+    "Grok 4.5":               42.7,
+    "Qwen3.6 Plus":           27.8,
+    "Gemini 3.1 Flash Lite":  17.2,
+    "Grok 4.3":               18.4,
+    "Claude Sonnet 5":        19.0,   
+    "Gemma 4 26B A4B":        11.5,
+    "Qwen3 VL 32B Instruct": 6.8,
+    "Claude Sonnet 4":        10.7,
+    "GPT-5.4 Mini":           5.9,
+    "Mistral Large 3":        4.2,
+    "Gemini 2.5 Flash-Lite":  3.7,
+    "Qwen3 VL 8B Instruct":    2.7,
+    "GPT-4o Mini":            4.2,
+    "Ministral 3 3B":         5.4,
+    "Claude 3 Haiku":         4.1,
+}
+
 #For color-coding in plots:
 PROVIDER = {
     'Claude Opus 5': 'Anthropic', 'Claude Sonnet 5': 'Anthropic', 'Claude Sonnet 4': 'Anthropic', 'Claude 3 Haiku': 'Anthropic',

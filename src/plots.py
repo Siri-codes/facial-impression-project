@@ -149,25 +149,27 @@ def plot_pca_loadings(pca, judge_label, pc_x=0, pc_y=1, save=True):
                     bbox_inches="tight")
     return fig
 
-def plot_capability_scatter(df, y_col, y_label, title, save=True):
+def plot_capability_scatter(df, y_col, y_label, title, save=True, hle=False):
     """
     df: must have columns 'model', 'mmmu', y_col
     Scatters MMMU-Pro (x) vs y_col (y), colored by provider, labeled per point.
     """
 
     fig, ax = plt.subplots(figsize=(9, 6))
+    x_metric = 'hle' if hle else 'mmmu'
 
     for _, row in df.iterrows():
         prov = PROVIDER.get(row['model'], 'Other')
-        ax.scatter(row['mmmu'], row[y_col],
+        ax.scatter(row[x_metric], row[y_col],
                    color=PROVIDER_COLORS.get(prov, 'gray'),
                    s=80, zorder=3)
         # label each point
-        ax.annotate(row['model'], (row['mmmu'], row[y_col]),
+        ax.annotate(row['model'], (row[x_metric], row[y_col]),
                     fontsize=7, alpha=0.7,
                     xytext=(4, 4), textcoords='offset points')
 
-    ax.set_xlabel('MMMU-Pro (%)')
+    ax.set_xlabel('HLE (%)' if hle else 'MMMU-Pro (%)')
+    #ax.set_xlabel('MMMU-Pro (%)') 
     ax.set_ylabel(y_label)
     ax.set_title(title)
 
@@ -182,5 +184,5 @@ def plot_capability_scatter(df, y_col, y_label, title, save=True):
     if save:
         FIGURES.mkdir(parents=True, exist_ok=True)
         slug = title.lower().replace(' ', '_')
-        fig.savefig(FIGURES / f"capability_scatter_{slug}.png", bbox_inches="tight")
+        fig.savefig(FIGURES / f"capability_scatter_{slug}_{x_metric}.png", bbox_inches="tight")
     return fig
