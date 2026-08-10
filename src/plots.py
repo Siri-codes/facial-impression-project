@@ -181,6 +181,6 @@ def plot_capability_scatter(df, y_col, y_label, title, save=True):
 
     if save:
         FIGURES.mkdir(parents=True, exist_ok=True)
-        slug = y_col.lower().replace(' ', '_')
+        slug = title.lower().replace(' ', '_')
         fig.savefig(FIGURES / f"capability_scatter_{slug}.png", bbox_inches="tight")
     return fig

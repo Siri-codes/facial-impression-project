@@ -44,11 +44,11 @@ MODELS = {
     #Frontier: (80-85% MMMU-Pro)
     'Claude Opus 5' : 'anthropic_claude-opus-5',
     'Gemini 3.5 Flash' : 'google_gemini-3.5-flash',
-   # 'GPT-5.6 Sol': 'openai_gpt-5.6-sol', #
+   #'GPT-5.6 Sol': 'openai_gpt-5.6-sol', #
     'Grok 4.5': 'xai_grok-4.5',
     
     #High: (71–79%)
-   # 'Qwen3.6 Plus': 'qwen_qwen3.6-plus', # Strange error: flags certain images as "inappropriate content"
+   #'Qwen3.6 Plus': 'qwen_qwen3.6-plus', # Strange error: flags certain images as "inappropriate content"
     'Gemini 3.1 Flash Lite': 'google_gemini-3.1-flash-lite',
    #'GPT-5.6 Luna': 'openai_gpt-5.6-luna', #
     'Grok 4.3': 'xai_grok-4.3', #
@@ -129,6 +129,7 @@ REASONING_EFFORT = {
     "anthropic_claude-3-haiku":      "none"  # non-reasoning
 }
 
+#MMMU-Pro scores. Source: Artificial Analysis.
 MMMU_PRO = {
     "Claude Opus 5":          84,
     "Gemini 3.5 Flash":       84,
@@ -149,6 +150,7 @@ MMMU_PRO = {
     "Claude 3 Haiku":         31,
 }
 
+#For color-coding in plots:
 PROVIDER = {
     'Claude Opus 5': 'Anthropic', 'Claude Sonnet 5': 'Anthropic', 'Claude Sonnet 4': 'Anthropic', 'Claude 3 Haiku': 'Anthropic',
     'GPT-5.6 Sol': 'OpenAI', 'GPT-5.6 Luna': 'OpenAI', 'GPT-5.4 Mini': 'OpenAI', 'GPT-4o Mini': 'OpenAI', 

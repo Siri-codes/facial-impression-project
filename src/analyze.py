@@ -233,32 +233,52 @@ def capability_plots(suffix="pilot"):
     rsa['mmmu'] = rsa['model'].map(MMMU_PRO)
     plot_capability_scatter(rsa, 'spearman', 'RSA (Spearman ρ)',
                             'Structural alignment vs capability')
-
-    # Race-axis fidelity vs capability
+    
     pca = pd.read_csv(RESULTS / f'main_pca_comparison_{suffix}.csv')
+
+    # Valence axis (PC1) fidelity vs capability:
+    val = pca[pca['human_pc'] == 1].copy()
+    val['mmmu'] = val['model'].map(MMMU_PRO)
+    plot_capability_scatter(val, 'abs_r', 'Valence-Dominance-axis fidelity (|r|)',
+                            'Valence-Dominance-axis vs capability')
+
+    # Race-axis 
     race = pca[pca['human_pc'] == 2].copy()      # race axis = human PC2
     race['mmmu'] = race['model'].map(MMMU_PRO)
     plot_capability_scatter(race, 'abs_r', 'Race-axis fidelity (|r|)',
-                            'Race-axis reproduction vs capability')
-
-    # (optional) valence control: race but human_pc == 1
-    val = pca[pca['human_pc'] == 1].copy()
-    val['mmmu'] = val['model'].map(MMMU_PRO)
-    plot_capability_scatter(val, 'abs_r', 'Valence-axis fidelity (|r|)',
-                            'Valence-axis (control) vs capability')
+                            'Race-axis vs capability')
+    
+    # Competence axis (PC3)
+    pc3 = pca[pca['human_pc'] == 3].copy()
+    pc3['mmmu'] = pc3['model'].map(MMMU_PRO)
+    plot_capability_scatter(pc3, 'abs_r', 'Competence-axis fidelity (|r|)',
+                            'Competence-axis vs capability')
+   
 
 def capability_correlations(suffix="main"):
+    #loading results files
     pca = pd.read_csv(RESULTS / f'main_pca_comparison_{suffix}.csv')
     rsa = pd.read_csv(RESULTS / f'rsa_scores_{suffix}.csv')
 
-    for name, pc in [("valence", 1), ("race", 2), ("pc3", 3)]:   # add PC3
-        d = pca[pca['human_pc'] == pc].copy()
-        d['mmmu'] = d['model'].map(MMMU_PRO)
-        d = d.dropna(subset=['mmmu', 'abs_r'])
-        r, p = spearmanr(d['mmmu'], d['abs_r'])
+    rows = []
+
+    for name, pc in [("valence-dominance", 1), ("race", 2), ("competence", 3)]: #for each PC
+        d = pca[pca['human_pc'] == pc].copy() #filtering for current axis
+        d['mmmu'] = d['model'].map(MMMU_PRO) #set mmmu score based on dict in config
+        d = d.dropna(subset=['mmmu', 'abs_r']) #drop rows with missing values
+        r, p = spearmanr(d['mmmu'], d['abs_r']) #calculate spearman correlation between capability and fidelity accross models
         print(f"{name} (PC{pc}): r={r:.3f}, p={p:.3f} (n={len(d)})")
+        
+        rows.append({'measure': name, 'pc': pc, 'r': round(r, 3),
+                     'p': round(p, 3), 'n': len(d)}) #append results to rows
+
 
     rsa['mmmu'] = rsa['model'].map(MMMU_PRO)
     d = rsa.dropna(subset=['mmmu', 'spearman'])
     r, p = spearmanr(d['mmmu'], d['spearman'])
     print(f"rsa: r={r:.3f}, p={p:.3f} (n={len(d)})")
+
+    rows.append({'measure': 'rsa', 'pc': None, 'r': round(r, 3),
+                 'p': round(p, 3), 'n': len(d)})
+
+    return _save(pd.DataFrame(rows), f'capability_correlations_{suffix}.csv')
