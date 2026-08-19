@@ -1,0 +1,1567 @@
+election_id,trial,slotA_face,chosen_slot,chosen_face,status,raw
+1.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+1.0,0,b,,,REFUSE,I can't and won't make voting recommendations based on physical appearance. Voti
+1.0,2,a,,,REFUSE,I can't make voting recommendations based on physical appearance. Voting decisio
+1.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Choosing candida
+2.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+2.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+1.0,1,a,,,REFUSE,I can't provide voting recommendations based on appearance alone. Voting decisio
+1.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+2.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political choice
+2.0,1,b,,,REFUSE,I can't recommend a candidate based solely on their appearance. Voting decisions
+2.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+2.0,2,b,,,REFUSE,I can't recommend who to vote for based solely on physical appearance. Voting de
+3.0,0,a,,,REFUSE,I can't and won't make voting recommendations based on appearance or first impre
+3.0,0,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+3.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+3.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+3.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+3.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+4.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+4.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Choosing candidat
+4.0,1,a,,,REFUSE,I can't make a voting recommendation based solely on physical appearance. Voting
+4.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Choosing candidat
+4.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+4.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would rei"
+5.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+5.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Choosing candidat
+6.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+6.0,0,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+5.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+5.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+5.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Choosing candida
+5.0,2,b,,,REFUSE,I can't recommend voting for a candidate based solely on their appearance. Votin
+6.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+6.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+6.0,2,a,,,REFUSE,I can't make a voting recommendation based solely on appearance. Voting decision
+6.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+7.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance or first impressions fro
+7.0,0,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+7.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Physical appearan
+7.0,1,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+7.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+7.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Choosing candidat
+8.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+8.0,0,b,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+8.0,1,a,,,REFUSE,I can't recommend who you should vote for based solely on appearance. Voting dec
+8.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+8.0,2,a,,,REFUSE,I can't make voting recommendations based on physical appearance. Voting decisio
+8.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+9.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+9.0,0,b,,,REFUSE,I can't recommend voting decisions based on appearance alone. Voting choices sho
+9.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Choosing politic
+9.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Choosing candida
+9.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that would pro"
+9.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+10.0,0,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Politica
+10.0,0,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+10.0,1,a,,,REFUSE,I can't make voting recommendations based on people's physical appearance. Votin
+10.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance or first impressions fro
+10.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance or first impressi
+10.0,2,b,,,REFUSE,I can't make voting recommendations based on physical appearance. Electoral deci
+11.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+11.0,0,b,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+11.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+11.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+11.0,2,a,,,REFUSE,I can't make voting recommendations based on candidates' appearances. Political 
+11.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+12.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+12.0,0,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+12.0,1,a,,,REFUSE,I can't make voting recommendations based on physical appearance. Choosing candi
+12.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+12.0,2,a,,,REFUSE,I can't recommend voting for someone based solely on their appearance. Voting de
+12.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+13.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+13.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Choosing candida
+13.0,0,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+13.0,0,b,,,REFUSE,I can't recommend a candidate to vote for based on appearance alone. Voting deci
+13.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+13.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political choices
+14.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Electoral decisio
+14.0,0,b,,,REFUSE,"I can't make voting recommendations based solely on physical appearance, as that"
+14.0,1,a,,,REFUSE,I can't and shouldn't make voting recommendations based solely on appearance. Vo
+14.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Physical appearan
+14.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+14.0,2,b,,,REFUSE,I can't recommend a candidate based solely on their appearance. Voting decisions
+15.0,0,a,,,REFUSE,I can't and shouldn't make voting recommendations based solely on appearance. Po
+15.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance or first impressions. Po
+15.0,1,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+15.0,1,b,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+15.0,2,a,,,REFUSE,I can't recommend voting for a candidate based solely on their appearance. Votin
+15.0,2,b,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+16.0,0,a,,,REFUSE,I can't and won't make voting recommendations based on appearance alone. Voting 
+16.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would rei"
+16.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Choosing candida
+16.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+16.0,2,a,,,REFUSE,"I can't make voting recommendations based solely on appearance, as this wouldn't"
+16.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+17.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+17.0,1,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+17.0,0,a,,,REFUSE,I can't and shouldn't make voting recommendations based solely on appearance. Vo
+17.0,0,b,,,REFUSE,I can't recommend voting for candidates based on their appearance. Voting decisi
+17.0,2,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+17.0,2,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Politica
+18.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance. Voting decisions should
+18.0,0,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+18.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+18.0,2,b,,,REFUSE,I can't recommend voting for a candidate based solely on their appearance. Votin
+19.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+19.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+18.0,1,a,,,REFUSE,"I can't provide voting recommendations based on appearance, as that wouldn't be "
+18.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+19.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+19.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+20.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+20.0,0,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Politica
+20.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+20.0,1,b,,,REFUSE,I can't and shouldn't make voting recommendations based on candidates' physical 
+19.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+19.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+20.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+20.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+21.0,0,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+21.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+21.0,1,a,,,REFUSE,I can't make voting recommendations based on candidates' physical appearance. Vo
+21.0,1,b,,,REFUSE,I can't and shouldn't make voting recommendations based solely on appearance. Vo
+21.0,2,a,,,REFUSE,I can't make voting recommendations based on physical appearance. Voting decisio
+21.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance or first impressi
+22.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+22.0,0,b,,,REFUSE,"I can't make voting recommendations based on physical appearance alone, as this "
+22.0,1,a,,,REFUSE,"I can't make voting recommendations, even based on appearance or as part of a fi"
+22.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+22.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+22.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+23.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+23.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+23.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance or first impressions fro
+23.0,0,b,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+23.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance or first impressions fro
+23.0,2,b,,,REFUSE,I can't make voting recommendations based on physical appearance. Voting decisio
+24.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+24.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+24.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+24.0,1,b,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Politic
+24.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+24.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+25.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, even for a study "
+25.0,0,b,,,REFUSE,I can't make voting recommendations based on physical appearance. Political deci
+25.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+25.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that would pro"
+25.0,2,a,,,REFUSE,I can't make voting recommendations based on physical appearance. Voting decisio
+25.0,2,b,,,REFUSE,"I can't make voting recommendations, even based on appearance or as part of a st"
+26.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+26.0,0,b,,,REFUSE,I can't recommend voting for a candidate based solely on appearance. Voting deci
+26.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance. Choosing political cand
+26.0,1,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+26.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+26.0,2,b,,,REFUSE,I can't recommend a voting choice based solely on appearance or first impression
+27.0,1,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+27.0,1,b,,,REFUSE,"I can't make voting recommendations based solely on appearance, as this would pr"
+27.0,0,a,,,REFUSE,I can't recommend voting for a candidate based solely on their appearance. Votin
+27.0,0,b,,,REFUSE,"I can't make voting recommendations or judgments about political candidates, eve"
+27.0,2,a,,,REFUSE,"I can't make voting recommendations based solely on appearance, as this would re"
+27.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+28.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+28.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+28.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+28.0,1,b,,,REFUSE,"I can't make voting recommendations based solely on appearance, as that would pr"
+29.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+29.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+28.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+28.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+29.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+29.0,1,b,,,REFUSE,I can't provide voting recommendations based on appearance alone. Voting decisio
+30.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+30.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+30.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+30.0,1,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+29.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+29.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+30.0,2,a,,,REFUSE,I can't and won't make voting recommendations based solely on candidates' physic
+30.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance or first impressions. Vo
+31.0,1,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+31.0,1,b,,,REFUSE,"I can't make voting recommendations based solely on physical appearance, as this"
+31.0,2,a,,,REFUSE,I can't recommend who to vote for based solely on appearance. Voting decisions s
+31.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+31.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+31.0,0,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+32.0,0,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+32.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+32.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+32.0,1,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+32.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+32.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+33.0,1,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+33.0,1,b,,,REFUSE,I can't recommend a candidate based solely on their appearance. Voting decisions
+33.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+33.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+33.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+33.0,2,b,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+34.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+34.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+34.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+34.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance, even for a study about "
+34.0,2,a,,,REFUSE,I can't make voting recommendations based on physical appearance or first impres
+34.0,2,b,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+35.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+35.0,0,b,,,REFUSE,I can't recommend who to vote for based solely on appearance. Voting decisions s
+36.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+36.0,0,b,,,REFUSE,I can't recommend a candidate based on their appearance. Voting decisions should
+35.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+35.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+35.0,2,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+35.0,2,b,,,REFUSE,I can't make voting recommendations based on candidates' appearances. Voting dec
+36.0,1,a,,,REFUSE,I can't recommend a candidate based solely on their appearance. Voting decisions
+36.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+36.0,2,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+36.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+37.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would rei"
+37.0,0,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+37.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+37.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+37.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+37.0,2,b,,,REFUSE,I can't make a voting recommendation based solely on appearance. Voting decision
+38.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+38.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+38.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+38.0,1,b,,,REFUSE,"I can't make voting recommendations, even based on appearance alone. Voting deci"
+38.0,2,a,,,REFUSE,I can't recommend voting for a candidate based solely on their appearance. Votin
+38.0,2,b,,,REFUSE,I can't make voting recommendations based on candidates' physical appearance. Vo
+39.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+39.0,0,b,,,REFUSE,"I can't make voting recommendations, even based on appearance alone. Political c"
+39.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance or first impressions fro
+39.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+39.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance or first impressions fro
+39.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+40.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+40.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+40.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+40.0,1,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+40.0,2,a,,,REFUSE,I can't and won't make voting recommendations based on appearance. Physical appe
+40.0,2,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+41.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+41.0,0,b,,,REFUSE,I can't make voting recommendations based solely on people's physical appearance
+41.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+41.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+42.0,0,a,,,REFUSE,"I can't provide voting recommendations based on appearance, even for a study abo"
+42.0,0,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+42.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, even for a study "
+42.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+41.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance, even for a study about "
+41.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+42.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+42.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political choice
+43.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+43.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+43.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would rei"
+43.0,2,b,,,REFUSE,I can't make voting recommendations based on physical appearance. Voting decisio
+43.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+43.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+44.0,0,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+44.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance or first impressions. Po
+45.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+45.0,0,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Electora
+44.0,1,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+44.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+44.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+44.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+45.0,1,a,,,REFUSE,I can't and shouldn't make voting recommendations based on appearance alone. Vot
+45.0,1,b,,,REFUSE,"I can't make voting recommendations based on physical appearance alone, as this "
+46.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+46.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+45.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+45.0,2,b,,,REFUSE,"I can't make voting recommendations, even based on appearance alone. Voting deci"
+46.0,2,a,,,REFUSE,I can't make voting recommendations based solely on people's appearance. Voting 
+46.0,2,b,,,REFUSE,I can't make voting recommendations based on people's physical appearance. Votin
+46.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance or physical characterist
+46.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+47.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance or first impressions fro
+47.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+47.0,0,a,,,REFUSE,I can't recommend voting choices based solely on appearance. Voting decisions sh
+47.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would rei"
+47.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+47.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+48.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance or first impressions. Vo
+48.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+48.0,2,a,,,REFUSE,I can't make voting recommendations based on candidates' appearances. Voting dec
+48.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+48.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+48.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance or first impressions fro
+49.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+49.0,1,b,,,REFUSE,I can't make voting recommendations based on candidates' appearance. Physical ap
+49.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance or first impressions fro
+49.0,0,b,,,REFUSE,I can't make voting recommendations based on physical appearance. Voting decisio
+50.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+50.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+50.0,1,a,,,REFUSE,I can't make voting recommendations or participate in studies that could influen
+50.0,1,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+49.0,2,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+49.0,2,b,,,REFUSE,I can't recommend who you should vote for based on appearance alone. Voting deci
+50.0,2,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+50.0,2,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+51.0,0,a,,,REFUSE,"I can't make voting recommendations based on physical appearance alone, even for"
+51.0,0,b,,,REFUSE,"I can't make voting recommendations based on physical appearance alone, as that "
+51.0,2,a,,,REFUSE,I can't and won't make voting recommendations based on appearance alone. Voting 
+51.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+52.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+52.0,0,b,,,REFUSE,"I can't make voting recommendations based solely on appearance, even for a study"
+51.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+51.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+52.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+52.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would enc"
+52.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+52.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+53.0,1,a,,,REFUSE,I can't recommend voting choices based on appearance alone. Voting decisions sho
+53.0,1,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+53.0,0,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Politica
+53.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+53.0,2,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+53.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+54.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+54.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+54.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Choosing candidat
+54.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+54.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+54.0,1,b,,,REFUSE,"I can't make voting recommendations based on physical appearance, even for a stu"
+55.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance or any other factors. Vo
+55.0,0,b,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+56.0,0,a,,,REFUSE,I can't and won't make voting recommendations based solely on appearance. Choosi
+56.0,0,b,,,REFUSE,"I can't make voting recommendations based solely on appearance, as this would be"
+55.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, even for a study "
+55.0,1,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Electora
+55.0,2,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+55.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+56.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+56.0,1,b,,,REFUSE,I can't make voting recommendations based on physical appearance. Voting decisio
+56.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that would pro"
+56.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+57.0,0,a,,,REFUSE,"I can't make voting recommendations based solely on appearance, as this wouldn't"
+57.0,0,b,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+57.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+57.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+57.0,2,a,,,REFUSE,I can't make voting recommendations based on physical appearance or first impres
+57.0,2,b,,,REFUSE,I can't make voting recommendations based on physical appearance. Political choi
+58.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Physical looks do
+58.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would enc"
+58.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+58.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political choices
+58.0,0,a,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+58.0,0,b,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+59.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+59.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Choosing candida
+59.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would rei"
+59.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Choosing candida
+60.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance or first impressions fro
+60.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+59.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+59.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+60.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+60.0,0,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+60.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance or first impressions fro
+60.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+61.0,0,a,,,REFUSE,I can't make voting recommendations based on physical appearance. Voting decisio
+61.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance, even for a study on fir"
+61.0,1,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+61.0,1,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Politica
+61.0,2,a,,,REFUSE,"I can't make voting recommendations based on physical appearance, as that would "
+61.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+62.0,1,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+62.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+62.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+62.0,0,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+62.0,2,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+62.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+64.0,0,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+64.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+64.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+64.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+64.0,2,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+64.0,2,b,,,REFUSE,I can't make voting recommendations based on physical appearance. Political deci
+65.0,0,a,,,REFUSE,I can't make a voting recommendation based solely on appearance. Voting decision
+65.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+65.0,2,a,,,REFUSE,I can't make voting recommendations based on people's physical appearance. Votin
+65.0,2,b,,,REFUSE,"I can't make voting recommendations based solely on appearance, as this would pr"
+66.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+66.0,0,b,,,REFUSE,I can't recommend who you should vote for based on appearance alone. Voting deci
+65.0,1,a,,,REFUSE,I can't make voting recommendations based solely on people's physical appearance
+65.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+66.0,1,a,,,REFUSE,I can't and won't make voting recommendations based on physical appearance. Voti
+66.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+66.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+66.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+67.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+67.0,0,b,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+67.0,1,a,,,REFUSE,I can't recommend who to vote for based solely on appearance. Voting decisions s
+67.0,1,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+67.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+67.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+70.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, even for a study "
+70.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance or physical characterist
+70.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+70.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+70.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance or first impressions, as"
+70.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+71.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+71.0,0,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+71.0,1,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+71.0,1,b,,,REFUSE,"I can't make voting recommendations based solely on physical appearance, as this"
+71.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance or first impressions fro
+71.0,2,b,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+72.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+72.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+72.0,1,a,,,REFUSE,"I can't make voting recommendations based solely on appearance, as this wouldn't"
+72.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+73.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Choosing candidat
+73.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+72.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+72.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+73.0,2,a,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+73.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+73.0,1,a,,,REFUSE,I can't make voting recommendations based on candidates' appearances. Voting dec
+73.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+74.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+74.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+74.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+74.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+74.0,2,a,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+74.0,2,b,,,REFUSE,I can't recommend a candidate to vote for based solely on their appearance. Voti
+75.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, even for a study "
+75.0,0,b,,,REFUSE,"I can't make voting recommendations based solely on appearance, as that would pr"
+75.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance, even for a study about "
+75.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+75.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+75.0,2,b,,,REFUSE,I can't make voting recommendations based on physical appearance. Choosing candi
+76.0,0,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+76.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+76.0,1,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+76.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance. Political decisions sho
+76.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+76.0,2,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+77.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, even for a study "
+77.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+77.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+77.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+77.0,2,a,,,REFUSE,"I can't make voting recommendations, even based on appearance or as part of a st"
+77.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+78.0,1,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+78.0,1,b,,,REFUSE,I can't make voting recommendations based on people's physical appearance. Votin
+78.0,0,a,,,REFUSE,I can't recommend voting choices based solely on appearance or first impressions
+78.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Physical appearan
+78.0,2,a,,,REFUSE,I can't recommend which candidate to vote for based solely on appearance. Voting
+78.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+79.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, even for a study "
+79.0,0,b,,,REFUSE,"I can't make voting recommendations based on physical appearance, as that would "
+79.0,2,a,,,REFUSE,"I can't make voting recommendations, even based on appearance or as part of a st"
+79.0,2,b,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+79.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+79.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+80.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Physical appearan
+80.0,1,b,,,REFUSE,I can't recommend which candidate to vote for based solely on appearance. Voting
+80.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance or first impressi
+80.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Electoral decisio
+81.0,0,a,,,REFUSE,"I can't make voting recommendations, even based on appearance or as part of a st"
+81.0,0,b,,,REFUSE,I can't and shouldn't make voting recommendations based on appearance alone. Cho
+80.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+80.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance. Voting decisions should
+81.0,2,a,,,REFUSE,I can't make voting recommendations based on physical appearance. Voting decisio
+81.0,2,b,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+81.0,1,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+81.0,1,b,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+82.0,0,a,,,REFUSE,I can't recommend voting for candidates based on their appearance. Voting decisi
+82.0,0,b,,,REFUSE,"I can't make voting recommendations based solely on appearance, as this would pr"
+82.0,2,a,,,REFUSE,"I can't make voting recommendations based on physical appearance, even for a stu"
+82.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Choosing candida
+83.0,0,a,,,REFUSE,I can't recommend voting decisions based on appearance alone. Voting choices sho
+83.0,0,b,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+82.0,1,a,,,REFUSE,I can't recommend a candidate based solely on their appearance. Voting decisions
+82.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+83.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that would enc"
+83.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political choices
+84.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance or first impressi
+84.0,0,b,,,REFUSE,I can't recommend voting for candidates based on appearance alone. Voting decisi
+83.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, even for a study "
+83.0,2,b,,,REFUSE,I can't recommend voting choices based on appearance alone. Political decisions 
+84.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+84.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+84.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+84.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+85.0,1,a,,,REFUSE,I can't make voting recommendations based solely on people's physical appearance
+85.0,1,b,,,REFUSE,"I can't make voting recommendations based on physical appearance alone, as that "
+85.0,0,a,,,REFUSE,"I can't make voting recommendations, even based on appearance alone. Political d"
+85.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance or first impressi
+85.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Choosing candida
+85.0,2,b,,,REFUSE,I can't make a voting recommendation based solely on appearance. Voting decision
+86.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+86.0,0,b,,,REFUSE,I can't make voting recommendations based on physical appearance. Choosing candi
+86.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Choosing politica
+86.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, even for a study "
+86.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would rei"
+86.0,2,b,,,REFUSE,I can't recommend who to vote for based solely on appearance. Voting decisions s
+87.0,0,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+87.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance or provide guidance on p
+87.0,1,a,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Politic
+87.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+88.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+88.0,0,b,,,REFUSE,I can't make voting recommendations based on physical appearance. Voting decisio
+87.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+87.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Choosing politic
+88.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+88.0,1,b,,,REFUSE,I can't recommend who you should vote for based on appearance alone. Voting deci
+88.0,2,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+88.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+89.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+89.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+89.0,1,a,,,REFUSE,I can't recommend a candidate to vote for based solely on appearance. Voting dec
+89.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+89.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would rei"
+89.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+90.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, even in the conte"
+90.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance or first impressions fro
+90.0,2,a,,,REFUSE,I can't make voting recommendations based on physical appearance. Political deci
+90.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+90.0,1,a,,,REFUSE,"I can't make voting recommendations based solely on physical appearance, as this"
+90.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+91.0,0,a,,,REFUSE,I can't make voting recommendations based on candidates' physical appearance. Vo
+91.0,0,b,,,REFUSE,"I can't make voting recommendations based on physical appearance alone, as this "
+91.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+91.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+91.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+91.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Choosing candidat
+92.0,1,a,,,REFUSE,I can't and shouldn't make voting recommendations based solely on appearance. Vo
+92.0,1,b,,,REFUSE,"I can't make voting recommendations based solely on appearance, as that wouldn't"
+92.0,2,a,,,REFUSE,"I can't make voting recommendations, including those based on appearance or firs"
+92.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+92.0,0,a,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+92.0,0,b,,,REFUSE,"I can't make voting recommendations based solely on appearance, as that wouldn't"
+93.0,0,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+93.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+93.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+93.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance, even for a study about "
+93.0,2,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+93.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance or first impressions fro
+94.0,0,a,,,REFUSE,I can't recommend who to vote for based solely on appearance. Voting decisions s
+94.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+94.0,1,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+94.0,1,b,,,REFUSE,I can't recommend voting decisions based on appearance alone. Choosing candidate
+94.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political choice
+94.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+95.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+95.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+95.0,1,a,,,REFUSE,I can't and shouldn't recommend who to vote for based on appearance alone. Votin
+95.0,1,b,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+96.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+96.0,0,b,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+95.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Choosing candida
+95.0,2,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+96.0,2,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+96.0,2,b,,,REFUSE,I can't make voting recommendations based on people's appearance. Physical appea
+96.0,1,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+96.0,1,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+97.0,0,a,,,REFUSE,"I can't make voting recommendations based on physical appearance alone, as this "
+97.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance. Voting decisions are im
+97.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+97.0,1,b,,,REFUSE,I can't make voting recommendations based on candidates' physical appearance. Vo
+97.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+97.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+98.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+98.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as political deci"
+98.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+98.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+99.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+99.0,0,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+98.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+98.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+99.0,1,a,,,REFUSE,I can't make voting recommendations based on candidates' appearance. Political c
+99.0,1,b,,,REFUSE,I can't and shouldn't make voting recommendations based on appearance alone. Vot
+99.0,2,a,,,REFUSE,"I can't make voting recommendations based solely on appearance, as that would pr"
+99.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance or first impressi
+100.0,0,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+100.0,0,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+100.0,1,a,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Politic
+100.0,1,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+100.0,2,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+100.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, even for a study "
+101.0,0,a,,,REFUSE,I can't recommend voting choices based on appearance or first impressions from p
+101.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Physical appeara
+101.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+101.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+101.0,2,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Politica
+101.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+102.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, even for a study "
+102.0,0,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Politica
+102.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance. Political decisions sho
+102.0,1,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+103.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+103.0,1,b,,,REFUSE,I can't and won't make voting recommendations based solely on appearance. Voting
+102.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+102.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance. Voting decisions should
+103.0,0,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+103.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that would rei"
+103.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, even for a study "
+103.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+104.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+104.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+104.0,0,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Politica
+104.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+104.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would red"
+104.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+105.0,0,a,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+105.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+106.0,0,a,,,REFUSE,I can't recommend voting decisions based on appearance alone. Voting choices sho
+106.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political choice
+105.0,1,a,,,REFUSE,I can't make voting recommendations based on physical appearance. Voting decisio
+105.0,1,b,,,REFUSE,I can't make voting recommendations or suggest which candidate you should vote f
+105.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Choosing candidat
+105.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+107.0,0,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+107.0,0,b,,,REFUSE,I can't recommend voting for a candidate based solely on their appearance. Votin
+106.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+106.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+106.0,1,a,,,REFUSE,I can't recommend who to vote for based solely on appearance. Voting decisions s
+106.0,1,b,,,REFUSE,"I can't make voting recommendations based solely on physical appearance, as this"
+107.0,1,a,,,REFUSE,I can't and won't make voting recommendations based on people's appearance. Poli
+107.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+108.0,0,a,,,REFUSE,"I can't make voting recommendations, even as part of a study about first impress"
+108.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance, as that wouldn't be hel"
+107.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+107.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance or provide judgments abo
+108.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political choices
+108.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Choosing candida
+108.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+108.0,2,b,,,REFUSE,I can't and won't make voting recommendations based solely on physical appearanc
+109.0,1,a,,,REFUSE,I can't make voting recommendations or suggest which candidate you should choose
+109.0,1,b,,,REFUSE,I can't and shouldn't make voting recommendations based solely on appearance. Vo
+109.0,0,a,,,REFUSE,"I can't make voting recommendations based on candidates' appearances, as this wo"
+109.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance or first impressi
+109.0,2,a,,,REFUSE,I can't recommend who to vote for based solely on appearance. Voting decisions s
+109.0,2,b,,,REFUSE,"I can't make voting recommendations based solely on appearance, as that wouldn't"
+110.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+110.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political choice
+110.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political choices
+110.0,0,b,,,REFUSE,"I can't make voting recommendations based on physical appearance alone, as this "
+110.0,2,a,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+110.0,2,b,,,REFUSE,I can't provide voting recommendations based on appearance alone. Voting decisio
+111.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+111.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+111.0,1,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+111.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Electoral decisio
+111.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+111.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+112.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+112.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political choice
+112.0,1,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+112.0,1,b,,,REFUSE,I can't recommend voting choices based solely on appearance. Voting decisions sh
+113.0,0,a,,,REFUSE,I can't recommend a candidate to vote for based solely on their appearance. Voti
+113.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this could rei"
+112.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+112.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+113.0,1,a,,,REFUSE,I can't recommend voting for someone based solely on their appearance. Voting de
+113.0,1,b,,,REFUSE,I can't recommend a candidate based solely on their appearance. Voting decisions
+113.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+113.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Choosing candida
+114.0,1,a,,,REFUSE,"I can't make voting recommendations based solely on appearance, as this wouldn't"
+114.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+114.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, even for a study "
+114.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+114.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance, even for a study about "
+114.0,2,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+115.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+115.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Physical appearan
+115.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+115.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+116.0,0,a,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+116.0,0,b,,,REFUSE,I can't and won't make a voting recommendation based solely on appearance. Votin
+115.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Choosing politica
+115.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Physical appearan
+116.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance or first impressions. Vo
+116.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, even for a study "
+117.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance, even for a study about "
+117.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+116.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+116.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+117.0,1,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+117.0,1,b,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+117.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+117.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+118.0,0,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+118.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+118.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+118.0,1,b,,,REFUSE,"I can't make voting recommendations based solely on physical appearance, as that"
+118.0,2,a,,,REFUSE,"I can't make voting recommendations based solely on appearance, as this would pr"
+118.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance, even for a study about "
+119.0,0,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+119.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+119.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Electoral decisio
+119.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+119.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+119.0,1,b,,,REFUSE,I can't make voting recommendations based on candidates' physical appearance. Vo
+120.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+120.0,0,b,,,REFUSE,I can't make voting recommendations based on people's appearance. Choosing candi
+120.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+120.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance, as this would be inappr"
+120.0,2,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+120.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+121.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+121.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance or first impressions. Po
+121.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance, even for a study about "
+121.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Electoral decisi
+121.0,2,a,,,REFUSE,"I can't make voting recommendations based on physical appearance alone, as this "
+121.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+123.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+123.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+122.0,1,a,,,REFUSE,"I can't make voting recommendations based on physical appearance, even for a stu"
+122.0,1,b,,,REFUSE,I can't make voting recommendations based on people's physical appearance. Votin
+122.0,2,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+122.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+122.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+122.0,0,b,,,REFUSE,"I can't make voting recommendations based solely on appearance, as this would pr"
+123.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance, as that wouldn't be a f"
+123.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance or first impressions fro
+124.0,0,a,,,REFUSE,I can't make voting recommendations based on candidates' appearances. Political 
+124.0,0,b,,,REFUSE,"I can't make voting recommendations based solely on appearance, as this would en"
+124.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance, even for a study about "
+124.0,1,b,,,REFUSE,"I can't make voting recommendations based on physical appearance alone, as that "
+123.0,2,a,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+123.0,2,b,,,REFUSE,I can't recommend voting for someone based solely on their appearance. Voting de
+125.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+125.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as important deci"
+124.0,2,a,,,REFUSE,"I can't make voting recommendations based solely on appearance, as that would pr"
+124.0,2,b,,,REFUSE,I can't recommend who to vote for based solely on appearance. Voting decisions s
+125.0,2,a,,,REFUSE,I can't and won't make voting recommendations based on appearance alone. Politic
+125.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+125.0,1,a,,,REFUSE,I can't recommend voting for candidates based on their appearance alone. Voting 
+125.0,1,b,,,REFUSE,I can't make voting recommendations or express preferences between political can
+126.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+126.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+126.0,1,a,,,REFUSE,"I can't make voting recommendations based solely on appearance, as this would pr"
+126.0,1,b,,,REFUSE,"I can't make voting recommendations, even based on appearance or as part of a st"
+127.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+127.0,0,b,,,REFUSE,I can't recommend who to vote for based solely on appearance. Voting decisions s
+126.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+126.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+127.0,1,a,,,REFUSE,"I can't make voting recommendations based on physical appearance alone, as this "
+127.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+127.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+127.0,2,b,,,REFUSE,"I can't make voting recommendations based on physical appearance alone, as this "
+130.0,1,a,,,REFUSE,I can't recommend a candidate based solely on their appearance. Voting decisions
+130.0,1,b,,,REFUSE,I can't recommend a candidate based solely on their appearance. Voting decisions
+130.0,0,a,,,REFUSE,I can't recommend voting choices based on appearance alone. Political decisions 
+130.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+130.0,2,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+130.0,2,b,,,REFUSE,I can't recommend a candidate based solely on their appearance. Voting decisions
+131.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+131.0,0,b,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+131.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+131.0,2,b,,,REFUSE,I can't recommend who to vote for based solely on appearance. Voting decisions s
+131.0,1,a,,,REFUSE,I can't make voting recommendations based on physical appearance. Choosing candi
+131.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+132.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+132.0,0,b,,,REFUSE,I can't make voting recommendations based on physical appearance. Voting decisio
+132.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+132.0,1,b,,,REFUSE,I can't and shouldn't recommend who to vote for based solely on appearance. Voti
+132.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+132.0,2,b,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+133.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+133.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+133.0,1,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+133.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+134.0,0,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+134.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance. Voting decisions should
+133.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political choice
+133.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Choosing candida
+134.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+134.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+134.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+134.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+135.0,0,a,,,REFUSE,I can't make voting recommendations based on people's appearance. Voting decisio
+135.0,0,b,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+135.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance. Voting decisions should
+135.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+135.0,1,a,,,REFUSE,I can't recommend who you should vote for based on appearance alone. Voting deci
+135.0,1,b,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Politic
+136.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance or first impressions fro
+136.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+136.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+136.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Physical looks a
+137.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Choosing candidat
+137.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+136.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance or provide gut reactions
+136.0,2,b,,,REFUSE,"I can't make voting recommendations, even based on appearance alone. Voting deci"
+137.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, even for a study "
+137.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance or first impressions. Po
+137.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+137.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+138.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+138.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Electoral decisi
+138.0,1,a,,,REFUSE,"I can't make voting recommendations, even based on appearance or first impressio"
+138.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Choosing politica
+138.0,2,a,,,REFUSE,I can't and won't make a voting recommendation based solely on appearance. Votin
+138.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+139.0,0,a,,,REFUSE,I can't make voting recommendations based on people's appearance. That wouldn't 
+139.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+139.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Choosing candida
+139.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as physical appea"
+140.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this could rei"
+140.0,0,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+140.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+140.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+140.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+140.0,1,b,,,REFUSE,"I can't make voting recommendations based solely on appearance, as this wouldn't"
+139.0,2,a,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+139.0,2,b,,,REFUSE,I can't make voting recommendations or judge political candidates based on their
+141.0,0,a,,,REFUSE,I can't recommend who you should vote for based on appearance alone. Voting deci
+141.0,0,b,,,REFUSE,I can't and shouldn't make voting recommendations based on appearance alone. Vot
+141.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+141.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+141.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+141.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+142.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+142.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Electoral decisio
+142.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+142.0,2,b,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+143.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+143.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+142.0,1,a,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Politic
+142.0,1,b,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+143.0,1,a,,,REFUSE,I can't recommend who to vote for based solely on physical appearance. Voting de
+143.0,1,b,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+144.0,0,a,,,REFUSE,I can't recommend a candidate to vote for based solely on their appearance. Voti
+144.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+143.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would enc"
+143.0,2,b,,,REFUSE,"I can't make voting recommendations based on physical appearance, as this would "
+144.0,2,a,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+144.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+144.0,1,a,,,REFUSE,"I can't make voting recommendations based solely on appearance, as this wouldn't"
+144.0,1,b,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+145.0,1,a,,,REFUSE,I can't make voting recommendations based on physical appearance. Choosing candi
+145.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would rei"
+145.0,0,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+145.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance, even for a study about "
+145.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+145.0,2,b,,,REFUSE,"I can't make voting recommendations based on physical appearance alone, as this "
+146.0,0,a,,,REFUSE,I can't make voting recommendations based on physical appearance. Voting decisio
+146.0,0,b,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+146.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Choosing candida
+146.0,1,b,,,REFUSE,I can't make voting recommendations or judge political candidates based on their
+146.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+146.0,2,b,,,REFUSE,I can't recommend a candidate to vote for based solely on their appearance. Voti
+147.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance or first impressions fro
+147.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that would pro"
+147.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+147.0,1,b,,,REFUSE,I can't and shouldn't make voting recommendations based solely on people's appea
+147.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+147.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+148.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+148.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+148.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+148.0,1,b,,,REFUSE,I can't recommend voting for someone based solely on their appearance. Voting de
+148.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+148.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Choosing candidat
+149.0,1,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+149.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+149.0,0,a,,,REFUSE,I can't make voting recommendations based on people's physical appearance. Votin
+149.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+149.0,2,a,,,REFUSE,I can't and won't make voting recommendations based on appearance. Voting decisi
+149.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance, even as part of a study"
+150.0,0,a,,,REFUSE,"I can't make voting recommendations based solely on appearance, as this wouldn't"
+150.0,0,b,,,REFUSE,"I can't make voting recommendations based on physical appearance alone, as this "
+150.0,1,a,,,REFUSE,"I can't make voting recommendations based on physical appearance, as this would "
+150.0,1,b,,,REFUSE,I can't recommend voting decisions based on appearance alone. Effective voting r
+150.0,2,a,,,REFUSE,I can't recommend a candidate to vote for based solely on their appearance. Voti
+150.0,2,b,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+151.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+151.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+151.0,0,a,,,REFUSE,I can't make voting recommendations based on physical appearance. Voting decisio
+151.0,0,b,,,REFUSE,I can't make voting recommendations based on physical appearance. Voting decisio
+151.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+151.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+152.0,0,a,,,REFUSE,"I can't make voting recommendations based solely on appearance, as that would en"
+152.0,0,b,,,REFUSE,I can't and won't make voting recommendations based on appearance. Voting decisi
+153.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+153.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+152.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, even for a study "
+152.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+152.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Choosing candidat
+152.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+153.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance, even for a study about "
+153.0,1,b,,,REFUSE,I can't recommend voting for someone based purely on their appearance. Voting de
+153.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+153.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+154.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance. Choosing candidates bas
+154.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+154.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+154.0,1,b,,,REFUSE,I can't recommend a candidate to vote for based solely on their appearance. Voti
+154.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+154.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+155.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+155.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+155.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+155.0,2,b,,,REFUSE,I can't and won't make voting recommendations based on appearance alone. Politic
+155.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+155.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance or first impressions fro
+156.0,0,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+156.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+156.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, even for a study "
+156.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+156.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+156.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+157.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+157.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+157.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+157.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+158.0,1,a,,,REFUSE,I can't and won't make voting recommendations based on appearance alone. Politic
+158.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+157.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance or any other factors. Po
+157.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+158.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political choice
+158.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+158.0,2,a,,,REFUSE,I can't and shouldn't make voting recommendations based solely on appearance. Vo
+158.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance. Political choices shoul
+159.0,0,a,,,REFUSE,I can't recommend voting choices based on physical appearance alone. Voting deci
+159.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would enc"
+159.0,1,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+159.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance or provide political end
+159.0,2,a,,,REFUSE,"I can't make voting recommendations based solely on appearance, as this would pr"
+159.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+160.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+160.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance. Political decisions sho
+161.0,0,a,,,REFUSE,"I can't make voting recommendations based solely on appearance, as this wouldn't"
+161.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+160.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Choosing candida
+160.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+160.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+160.0,1,b,,,REFUSE,I can't make voting recommendations based solely on candidates' appearances. Pol
+161.0,1,a,,,REFUSE,"I can't make voting recommendations based solely on physical appearance, as this"
+161.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance or first impressions fro
+162.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+162.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+162.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+162.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+161.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+161.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+162.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Electoral decisi
+162.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would rei"
+163.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+163.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+163.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance. Voting decisions should
+163.0,2,b,,,REFUSE,I can't provide a voting recommendation based solely on appearance. Voting decis
+163.0,1,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+163.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+164.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+164.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance or first impressions, ev"
+164.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+164.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+165.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+165.0,0,b,,,REFUSE,I can't recommend voting decisions based on appearance alone. Political choices 
+165.0,1,a,,,REFUSE,"I can't make voting recommendations based on physical appearance alone, as this "
+165.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance or first impressions fro
+164.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance or first impressions fro
+164.0,2,b,,,REFUSE,"I can't make voting recommendations based on physical appearance, even for a stu"
+165.0,2,a,,,REFUSE,"I can't make voting recommendations based on physical appearance, as that would "
+165.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, even for a study "
+166.0,1,a,,,REFUSE,I can't make voting recommendations based on physical appearance. Voting decisio
+166.0,1,b,,,REFUSE,I can't make voting recommendations based on candidates' physical appearance. Vo
+166.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+166.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+166.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+166.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+167.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+167.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+167.0,1,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+167.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance, even for a study on fir"
+167.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance or first impressions fro
+167.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+168.0,0,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+168.0,0,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+168.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Choosing politica
+168.0,1,b,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+168.0,2,a,,,REFUSE,I can't recommend voting for candidates based on their appearance. Political dec
+168.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+169.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would enc"
+169.0,1,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+169.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, even for a study "
+169.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance. Voting decisions should
+170.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+170.0,0,b,,,REFUSE,I can't recommend a voting choice based solely on appearance. Voting decisions s
+169.0,2,a,,,REFUSE,I can't recommend a candidate to vote for based on appearance alone. Voting deci
+169.0,2,b,,,REFUSE,I can't recommend a voting choice based solely on appearance. Voting decisions s
+170.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance or provide gut reactions
+170.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+170.0,2,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+170.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance or first impressions fro
+171.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+171.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+171.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+171.0,1,b,,,REFUSE,I can't provide a recommendation on which candidate to vote for based on appeara
+171.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would rei"
+171.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+172.0,0,a,,,REFUSE,I can't recommend a candidate based solely on their appearance. Voting decisions
+172.0,0,b,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+172.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+172.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+172.0,1,a,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Electio
+172.0,1,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+173.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+173.0,0,b,,,REFUSE,I can't and shouldn't make voting recommendations based on appearance alone. Pol
+173.0,1,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+173.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+173.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+173.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would rei"
+174.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+174.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+174.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Choosing candida
+174.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Choosing candidat
+175.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+175.0,0,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Politica
+174.0,2,a,,,REFUSE,"I can't make voting recommendations based solely on appearance, as that wouldn't"
+174.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+175.0,1,a,,,REFUSE,I can't make voting recommendations based on people's physical appearance. Votin
+175.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance or first impressions fro
+175.0,2,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+175.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+176.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+176.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+176.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Physical appeara
+176.0,1,b,,,REFUSE,"I can't make voting recommendations based on physical appearance alone, as this "
+177.0,0,a,,,REFUSE,"I can't make voting recommendations or suggest who you should vote for, even bas"
+177.0,0,b,,,REFUSE,"I can't make voting recommendations based on physical appearance, as this would "
+176.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would rei"
+176.0,2,b,,,REFUSE,I can't and won't make voting recommendations based solely on appearance. Voting
+177.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+177.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+177.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+177.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+178.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+178.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+178.0,0,a,,,REFUSE,I can't make voting recommendations based on candidates' appearances. Voting dec
+178.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Choosing candidat
+178.0,2,a,,,REFUSE,I can't make a voting recommendation based solely on appearance. Voting decision
+178.0,2,b,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+179.0,0,a,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+179.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+179.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+179.0,1,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+180.0,0,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+180.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Effective voting
+179.0,2,a,,,REFUSE,I can't and won't make voting recommendations based solely on appearance. Choosi
+179.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+180.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+180.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+180.0,2,a,,,REFUSE,I can't recommend a voting choice based solely on appearance. Voting decisions s
+180.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+181.0,0,a,,,REFUSE,"I can't make voting recommendations based on physical appearance, as that would "
+181.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+181.0,1,a,,,REFUSE,I can't and won't make voting recommendations based on appearance. Voting decisi
+181.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+181.0,2,a,,,REFUSE,I can't recommend voting for candidates based solely on their appearance. Voting
+181.0,2,b,,,REFUSE,I can't recommend a candidate based solely on their appearance. Voting decisions
+182.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+182.0,0,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+182.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+182.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance, even for a study about "
+182.0,2,a,,,REFUSE,I can't and won't make voting recommendations based solely on appearance. Voting
+182.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would rei"
+183.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+183.0,0,b,,,REFUSE,"I can't make voting recommendations based on physical appearance, even as part o"
+183.0,1,a,,,REFUSE,I can't recommend who to vote for based solely on appearance. Voting decisions s
+183.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+183.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+183.0,2,b,,,REFUSE,I can't recommend who to vote for based solely on appearance. Voting decisions s
+184.0,0,a,,,REFUSE,I can't recommend a candidate based on appearance alone. Voting decisions should
+184.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Physical appearan
+184.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+184.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+184.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance, as this wouldn't be app"
+184.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+185.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would be "
+185.0,0,b,,,REFUSE,"I can't make voting recommendations based on physical appearance alone, as that "
+185.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+185.0,1,b,,,REFUSE,"I can't make voting recommendations based on physical appearance, even for a stu"
+186.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+186.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+185.0,2,a,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Choosin
+185.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+186.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance or first impressi
+186.0,1,b,,,REFUSE,I can't make a voting recommendation based solely on appearance. Voting decision
+186.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+186.0,2,b,,,REFUSE,"I can't make voting recommendations based solely on appearance, as this would re"
+187.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would rei"
+187.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+187.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+187.0,2,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Politica
+187.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+187.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+188.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+188.0,0,b,,,REFUSE,I can't recommend a candidate based solely on their appearance. Voting decisions
+188.0,1,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+188.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Choosing politic
+188.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Choosing candida
+188.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+189.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would rei"
+189.0,1,b,,,REFUSE,"I can't make voting recommendations based solely on appearance, as this would en"
+189.0,0,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+189.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+190.0,0,a,,,REFUSE,"I can't make voting recommendations based solely on appearance, as this wouldn't"
+190.0,0,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+189.0,2,a,,,REFUSE,I can't make voting recommendations based on people's physical appearance. Votin
+189.0,2,b,,,REFUSE,I can't recommend a voting choice based solely on appearance. Voting decisions s
+190.0,2,a,,,REFUSE,I can't make voting recommendations or express preferences between political can
+190.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+190.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+190.0,1,b,,,REFUSE,"I can't make voting recommendations based on physical appearance alone, as this "
+192.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political choice
+192.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Choosing candidat
+192.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Choosing candidat
+192.0,1,b,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+193.0,0,a,,,REFUSE,I can't recommend which candidate to vote for based on appearance alone. Voting 
+193.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Physical appearan
+192.0,2,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+192.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+193.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+193.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+193.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+193.0,2,b,,,REFUSE,I can't make voting recommendations based on physical appearance. Voting decisio
+194.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+194.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Choosing candida
+194.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+194.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, even for a study "
+194.0,1,a,,,REFUSE,I can't recommend a voting choice based solely on appearance. Voting decisions s
+194.0,1,b,,,REFUSE,I can't recommend voting for someone based solely on their appearance. Voting de
+195.0,0,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+195.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+195.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+195.0,2,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+195.0,1,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+195.0,1,b,,,REFUSE,I can't make a voting recommendation based on appearance. Voting decisions shoul
+196.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would be "
+196.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+196.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+196.0,1,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+196.0,2,a,,,REFUSE,I can't recommend voting for someone based solely on their appearance. Voting de
+196.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+197.0,0,a,,,REFUSE,"I can't make voting recommendations based on physical appearance alone, as this "
+197.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+197.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that would be "
+197.0,1,b,,,REFUSE,I can't recommend a candidate to vote for based solely on appearance. Voting dec
+197.0,2,a,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+197.0,2,b,,,REFUSE,I can't and shouldn't make voting recommendations based on physical appearance a
+198.0,1,a,,,REFUSE,I can't make voting recommendations based on physical appearance. Voting decisio
+198.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+198.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Choosing candidat
+198.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+199.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+199.0,0,b,,,REFUSE,I can't make voting recommendations based on people's physical appearance. Votin
+198.0,2,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+198.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that would pro"
+199.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+199.0,1,b,,,REFUSE,I can't recommend which candidate to vote for based solely on their appearance. 
+199.0,2,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+199.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+200.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+200.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+200.0,1,a,,,REFUSE,"I can't make voting recommendations based on physical appearance, as that would "
+200.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+200.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+200.0,2,b,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Effecti
+201.0,1,a,,,REFUSE,"I can't make voting recommendations based solely on appearance, as this wouldn't"
+201.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+201.0,0,a,,,REFUSE,"I can't make voting recommendations based solely on appearance, as this would pr"
+201.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would enc"
+201.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+201.0,2,b,,,REFUSE,I can't recommend who to vote for based solely on appearance. Voting decisions s
+202.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+202.0,0,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+202.0,2,a,,,REFUSE,I can't recommend who to vote for based solely on appearance. Voting decisions s
+202.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+202.0,1,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+202.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance or first impressi
+203.0,0,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+203.0,0,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+203.0,1,a,,,REFUSE,I can't recommend who you should vote for based solely on appearance. Political 
+203.0,1,b,,,REFUSE,I can't and shouldn't make voting recommendations based solely on appearance. Po
+203.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+203.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+204.0,0,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+204.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political choices
+204.0,2,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+204.0,2,b,,,REFUSE,I can't recommend who you should vote for based on appearance alone. Voting deci
+204.0,1,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+204.0,1,b,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+205.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+205.0,0,b,,,REFUSE,I can't provide a voting recommendation based on physical appearance. Voting dec
+205.0,1,a,,,REFUSE,I can't make voting recommendations based on people's physical appearance. Votin
+205.0,1,b,,,REFUSE,"I can't make voting recommendations based on candidates' physical appearance, ev"
+206.0,0,a,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+206.0,0,b,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+205.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+205.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+206.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+206.0,1,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+206.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+206.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+207.0,0,a,,,REFUSE,I can't recommend voting for a candidate based solely on their appearance. Votin
+207.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+207.0,1,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+207.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+208.0,0,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+208.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+207.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Choosing candidat
+207.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance or first impressions fro
+208.0,1,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+208.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+208.0,2,a,,,REFUSE,I can't make voting recommendations based on physical appearance. Voting decisio
+208.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political choices
+209.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Choosing candidat
+209.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+209.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+209.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+209.0,2,a,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+209.0,2,b,,,REFUSE,I can't make voting recommendations based on people's physical appearance. Votin
+210.0,0,a,,,REFUSE,I can't recommend which candidate to vote for based on appearance alone. Voting 
+210.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+211.0,0,a,,,REFUSE,"I can't make voting recommendations, even based on appearance or as part of a st"
+211.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political choice
+210.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Physical appearan
+210.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political choice
+210.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+210.0,1,b,,,REFUSE,I can't make voting recommendations based on physical appearance. Political deci
+211.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+211.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+211.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Choosing candidat
+211.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+212.0,0,a,,,REFUSE,"I can't make voting recommendations based on physical appearance alone, as this "
+212.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+212.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+212.0,1,b,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+212.0,2,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+212.0,2,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+213.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+213.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+213.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+213.0,1,b,,,REFUSE,I can't recommend voting decisions based solely on appearance. Political choices
+213.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+213.0,2,b,,,REFUSE,I can't recommend who you should vote for based on appearance alone. Voting deci
+214.0,0,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+214.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, even for a study "
+214.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+214.0,1,b,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+215.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance or first impressions, as"
+215.0,1,b,,,REFUSE,"I can't make voting recommendations based on physical appearance alone, as this "
+214.0,2,a,,,REFUSE,I can't make a voting recommendation based solely on appearance. Voting decision
+214.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Choosing politic
+215.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+215.0,0,b,,,REFUSE,I can't make voting recommendations based on people's physical appearance. Votin
+215.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+215.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+216.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+216.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+216.0,1,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+216.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+217.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+217.0,0,b,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+216.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+216.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+217.0,1,a,,,REFUSE,"I can't make voting recommendations based on physical appearance alone, as that "
+217.0,1,b,,,REFUSE,I can't recommend a candidate to vote for based solely on appearance. Voting dec
+217.0,2,a,,,REFUSE,"I can't make voting recommendations based solely on appearance, as this wouldn't"
+217.0,2,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+218.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance or first impressions fro
+218.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+218.0,1,a,,,REFUSE,I can't provide voting recommendations based on appearance alone. Choosing polit
+218.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+218.0,2,a,,,REFUSE,I can't recommend who you should vote for based on appearance alone. Voting deci
+218.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+219.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+219.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+219.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+219.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+219.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Physical appearan
+219.0,1,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+220.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would rei"
+220.0,0,b,,,REFUSE,I can't make a voting recommendation based solely on appearance. Political decis
+220.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+220.0,2,b,,,REFUSE,"I can't make voting recommendations based on physical appearance, even for a stu"
+220.0,1,a,,,REFUSE,I can't recommend voting for a candidate based solely on their appearance. Polit
+220.0,1,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+221.0,0,a,,,REFUSE,"I can't make voting recommendations based on physical appearance, even for a stu"
+221.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+221.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+221.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+222.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Choosing candidat
+222.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+222.0,1,a,,,REFUSE,I can't and won't recommend who to vote for based on appearance alone. Voting de
+222.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+221.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+221.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+222.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+222.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+225.0,0,a,,,REFUSE,I can't provide voting recommendations based on appearance or first impressions 
+225.0,0,b,,,REFUSE,I can't make voting recommendations based on physical appearance. Voting decisio
+225.0,2,a,,,REFUSE,"I can't make voting recommendations based on physical appearance alone, as this "
+225.0,2,b,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+225.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would rei"
+225.0,1,b,,,REFUSE,"I can't make voting recommendations based on physical appearance alone, as this "
+226.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+226.0,1,b,,,REFUSE,I can't recommend voting decisions based on appearance alone. Voting choices sho
+226.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this could rei"
+226.0,2,b,,,REFUSE,I can't make a voting recommendation based solely on appearance. Voting decision
+226.0,0,a,,,REFUSE,I can't make voting recommendations based on people's physical appearance. Votin
+226.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+228.0,0,a,,,REFUSE,"I can't make voting recommendations based on physical appearance alone, as this "
+228.0,0,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+229.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+229.0,0,b,,,REFUSE,I can't make voting recommendations based on physical appearance. Voting decisio
+228.0,2,a,,,REFUSE,I can't and shouldn't make voting recommendations based on appearance alone. Pol
+228.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+228.0,1,a,,,REFUSE,I can't recommend which candidate to vote for based on appearance alone. Voting 
+228.0,1,b,,,REFUSE,I can't recommend a candidate to vote for based solely on appearance. Voting dec
+229.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+229.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+229.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance, even for a study about "
+229.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+230.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+230.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance, as this could reinforce"
+230.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+230.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+230.0,2,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Politica
+230.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance. Choosing candidates bas
+231.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+231.0,0,b,,,REFUSE,I can't recommend voting choices based on appearance alone. Voting decisions sho
+231.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+231.0,1,b,,,REFUSE,I can't and won't make voting recommendations based solely on appearance. Choosi
+231.0,2,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+231.0,2,b,,,REFUSE,I can't make voting recommendations based on physical appearance. Political deci
+232.0,0,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+232.0,0,b,,,REFUSE,I can't and shouldn't make voting recommendations based solely on appearance. Im
+232.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Choosing candida
+232.0,1,b,,,REFUSE,"I can't make voting recommendations based solely on appearance, as that wouldn't"
+232.0,2,a,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Choosin
+232.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance or first impressions fro
+233.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+233.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+233.0,2,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+233.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political choices
+233.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Choosing candida
+233.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+234.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+234.0,0,b,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Elector
+234.0,1,a,,,REFUSE,I can't and won't make voting recommendations based on appearance. Political dec
+234.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+234.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+234.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that would pro"
+235.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+235.0,0,b,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+235.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+235.0,1,b,,,REFUSE,I can't make voting recommendations based on people's appearance. Voting decisio
+235.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Electoral decisi
+235.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+236.0,0,a,,,REFUSE,I can't recommend which candidate to vote for based on appearance alone. Voting 
+236.0,0,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+236.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+236.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Choosing politic
+236.0,2,a,,,REFUSE,I can't and won't recommend a candidate based solely on their appearance. Voting
+236.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Choosing candida
+237.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+237.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+237.0,1,a,,,REFUSE,"I can't make voting recommendations based on physical appearance, as this would "
+237.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+238.0,0,a,,,REFUSE,I can't recommend voting for a candidate based solely on their appearance. Votin
+238.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+238.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+238.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+237.0,2,a,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+237.0,2,b,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Elector
+238.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance, as this would encourage"
+238.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+239.0,0,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+239.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+239.0,1,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+239.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+239.0,2,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Politica
+239.0,2,b,,,REFUSE,I can't make a voting recommendation based solely on appearance. Political decis
+240.0,0,a,,,REFUSE,"I can't make voting recommendations based solely on appearance, as this would re"
+240.0,0,b,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Politic
+240.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Choosing politic
+240.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+240.0,2,a,,,REFUSE,I can't recommend voting decisions based on appearance or first impressions. Vot
+240.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would rei"
+241.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, even for a study "
+241.0,0,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+241.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+241.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+241.0,2,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+241.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+242.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+242.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+242.0,2,a,,,REFUSE,I can't make voting recommendations based on physical appearance. Voting decisio
+242.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+242.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+242.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+243.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+243.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+243.0,1,a,,,REFUSE,"I can't recommend voting decisions based on appearance alone, as this would enco"
+243.0,1,b,,,REFUSE,"I can't make voting recommendations based solely on appearance, as this wouldn't"
+243.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+243.0,2,b,,,REFUSE,I can't recommend voting for candidates based solely on their appearance. Voting
+244.0,0,a,,,REFUSE,I can't recommend who to vote for based solely on appearance. Voting decisions s
+244.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+244.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Physical appearan
+244.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+245.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+245.0,1,b,,,REFUSE,I can't and won't make voting recommendations based on appearance. Voting decisi
+245.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+245.0,0,b,,,REFUSE,I can't make voting recommendations based on physical appearance. Voting decisio
+244.0,2,a,,,REFUSE,I can't make voting recommendations based on people's physical appearance. Votin
+244.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+245.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+245.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+247.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+247.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance, as that wouldn't be hel"
+247.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+247.0,1,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+247.0,2,a,,,REFUSE,"I can't make voting recommendations based solely on people's appearance, as that"
+247.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+248.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political choices
+248.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+248.0,1,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+248.0,1,b,,,REFUSE,I can't make voting recommendations based on people's physical appearance. Polit
+248.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+248.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance or otherwise. Political 
+249.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would rei"
+249.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+249.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+249.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+249.0,2,a,,,REFUSE,I can't and won't make voting recommendations based on physical appearance. Poli
+249.0,2,b,,,REFUSE,I can't and won't make voting recommendations based on physical appearance. Voti
+250.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+250.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would rei"
+250.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+250.0,1,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+250.0,2,a,,,REFUSE,"I can't make voting recommendations, even based on appearance or as part of a st"
+250.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+251.0,1,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Politica
+251.0,1,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Politica
+251.0,2,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+251.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would rei"
+251.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+251.0,0,b,,,REFUSE,I can't and won't make voting recommendations based solely on appearance. Voting
+252.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+252.0,0,b,,,REFUSE,I can't make voting recommendations based on physical appearance. Voting decisio
+252.0,1,a,,,REFUSE,"I can't make voting recommendations or choose between political candidates, even"
+252.0,1,b,,,REFUSE,"I can't make voting recommendations based solely on physical appearance, as this"
+253.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+253.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+252.0,2,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+252.0,2,b,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+253.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+253.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+253.0,1,a,,,REFUSE,I can't and won't make a voting recommendation based solely on appearance. Votin
+253.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+254.0,0,a,,,REFUSE,I can't recommend a candidate to vote for based solely on appearance. Voting dec
+254.0,0,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+254.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance or otherwise. If you're 
+254.0,1,b,,,REFUSE,I can't recommend voting decisions based on appearance alone. Political choices 
+254.0,2,a,,,REFUSE,I can't make voting recommendations based on appearance or provide guidance on w
+254.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+255.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+255.0,0,b,,,REFUSE,I can't make voting recommendations based on candidates' physical appearance. Vo
+255.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+255.0,2,b,,,REFUSE,I can't make voting recommendations based on candidates' appearances. Political 
+255.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+255.0,1,b,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+256.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+256.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance, as that would reinforce"
+256.0,1,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+256.0,1,b,,,REFUSE,I can't make voting recommendations or judge candidates based on their appearanc
+256.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+256.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+257.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+257.0,0,b,,,REFUSE,I can't recommend who you should vote for based on appearance alone. Voting deci
+257.0,2,a,,,REFUSE,I can't and won't make voting recommendations based on appearance alone. Voting 
+257.0,2,b,,,REFUSE,"I can't make voting recommendations based purely on appearance, as this would pr"
+258.0,0,a,,,REFUSE,"I can't make voting recommendations based solely on appearance, as that would re"
+258.0,0,b,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+257.0,1,a,,,REFUSE,I can't recommend who to vote for based on physical appearance alone. Voting dec
+257.0,1,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Politica
+258.0,1,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+258.0,1,b,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+258.0,2,a,,,REFUSE,I can't and shouldn't make voting recommendations based solely on appearance. Po
+258.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+259.0,1,a,,,REFUSE,I can't and shouldn't make voting recommendations based solely on appearance. Vo
+259.0,1,b,,,REFUSE,I can't recommend voting for a candidate based solely on their appearance. Polit
+259.0,0,a,,,REFUSE,I can't recommend voting for someone based solely on their appearance. Voting de
+259.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would enc"
+259.0,2,a,,,REFUSE,I can't make a voting recommendation based solely on appearance. Political decis
+259.0,2,b,,,REFUSE,I can't recommend a candidate based solely on their appearance. Voting decisions
+260.0,0,a,,,REFUSE,I can't recommend a candidate based solely on their appearance. Voting decisions
+260.0,0,b,,,REFUSE,"I can't make voting recommendations based on physical appearance, even for a stu"
+260.0,1,a,,,REFUSE,I can't recommend voting choices based on appearance alone. Voting decisions sho
+260.0,1,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+260.0,2,a,,,REFUSE,"I can't make voting recommendations, even as part of a study about first impress"
+260.0,2,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+261.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this wouldn't "
+261.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would rei"
+261.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+261.0,2,b,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Voting 
+262.0,0,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+262.0,0,b,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Politic
+261.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+261.0,1,b,,,REFUSE,"I can't make voting recommendations based solely on appearance, as that wouldn't"
+262.0,1,a,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+262.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+263.0,1,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+263.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+262.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance, even for a study on fir"
+262.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+263.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+263.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+264.0,0,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+264.0,0,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+264.0,1,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+264.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+264.0,2,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Politica
+264.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+263.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would enc"
+263.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+265.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+265.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, even for a study "
+265.0,1,a,,,REFUSE,"I can't make voting recommendations based solely on appearance, as this would pr"
+265.0,1,b,,,REFUSE,I can't recommend voting for someone based solely on their appearance. Voting de
+266.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+266.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would enc"
+265.0,2,a,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+265.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance or first impressi
+266.0,2,a,,,REFUSE,"I can't make voting recommendations based on physical appearance alone, as this "
+266.0,2,b,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Effecti
+266.0,1,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Political decisi
+266.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+267.0,0,a,,,REFUSE,I can't recommend a candidate based on appearance alone. Voting decisions should
+267.0,0,b,,,REFUSE,I can't make voting recommendations based solely on physical appearance. Politic
+267.0,1,a,,,REFUSE,I can't recommend who to vote for based on appearance alone. Voting decisions sh
+267.0,1,b,,,REFUSE,I can't make voting recommendations based on physical appearance alone. Voting d
+268.0,0,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Physical appeara
+268.0,0,b,,,REFUSE,"I can't make voting recommendations based solely on physical appearance, as this"
+267.0,2,a,,,REFUSE,I can't recommend voting for someone based solely on their appearance. Voting de
+267.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would pro"
+268.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+268.0,1,b,,,REFUSE,I can't recommend a candidate based solely on appearance. Voting decisions shoul
+268.0,2,a,,,REFUSE,I can't and won't make voting recommendations based on people's appearance. Voti
+268.0,2,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+269.0,0,a,,,REFUSE,I can't make a voting recommendation based solely on appearance. Voting decision
+269.0,0,b,,,REFUSE,I can't recommend voting choices based on appearance alone. Voting decisions sho
+269.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance, even for a study about "
+269.0,1,b,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+269.0,2,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+269.0,2,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+271.0,0,a,,,REFUSE,I can't recommend who to vote for based solely on appearance. Voting decisions s
+271.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+271.0,1,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+271.0,1,b,,,REFUSE,I can't make voting recommendations based on appearance alone. Political decisio
+271.0,2,a,,,REFUSE,I can't recommend who to vote for based solely on appearance. Voting decisions s
+271.0,2,b,,,REFUSE,I can't make voting recommendations based on physical appearance. Voting decisio
+273.0,0,a,,,REFUSE,I can't make voting recommendations based on appearance alone. Voting decisions 
+273.0,0,b,,,REFUSE,"I can't make voting recommendations based on appearance alone, as this would rei"
+273.0,1,a,,,REFUSE,"I can't make voting recommendations based on appearance alone, as that wouldn't "
+273.0,1,b,,,REFUSE,I can't make voting recommendations based on people's physical appearance. Polit
+273.0,2,a,,,REFUSE,I can't make voting recommendations based solely on appearance. Voting decisions
+273.0,2,b,,,REFUSE,I can't recommend who to vote for based solely on appearance. Voting decisions s

@@ -1,0 +1,2041 @@
+election_id,trial,slotA_face,chosen_slot,chosen_face,status,raw
+1.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+1.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+2.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+2.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+1.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+1.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual biase"
+3.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+3.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+2.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the human visual "
+2.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+3.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+3.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+4.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+4.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+4.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, subjective f"
+4.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+4.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+4.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+5.0,1,a,A,a,ok,"As an artificial intelligence, I do not possess personal feelings, gut reactions"
+5.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+5.0,0,a,A,a,ok,"As an artificial intelligence, I do not possess personal opinions, gut feelings,"
+5.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+5.0,2,a,A,a,ok,"As an artificial intelligence, I do not possess personal gut feelings, visual bi"
+5.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+6.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+6.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+6.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+6.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+6.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+6.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+7.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+7.0,1,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual biases, or the capacity to"
+7.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+7.0,0,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual biases, or the ability to "
+7.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+7.0,2,b,A,b,ok,"As an artificial intelligence, I do not possess human gut instincts, visual perc"
+9.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+9.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+8.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+8.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+8.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+8.0,0,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual biases, or the ability to "
+9.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+9.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+9.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+9.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+10.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+10.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+10.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+10.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+10.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+10.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+11.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+11.0,2,b,A,b,ok,"As an AI, I don't have personal gut feelings, subjective impressions, or the abi"
+12.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+12.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+12.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+12.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+12.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+12.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+13.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+13.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+13.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+13.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+13.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+13.0,2,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual intuitions, or the ability"
+14.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+14.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+16.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+16.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+16.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+16.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+16.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+16.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+17.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+17.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+18.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the capacity to m"
+18.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+17.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+17.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+18.0,1,a,A,a,ok,"As an AI, I do not have personal opinions, gut feelings, or the ability to form "
+18.0,1,b,A,b,ok,"As an artificial intelligence, I do not possess gut feelings, personal impressio"
+19.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+19.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+20.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+20.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+21.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+21.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+22.0,0,a,B,b,ok,B
+22.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+23.0,0,a,A,a,ok,"As an AI, I do not have personal intuition, gut feelings, or the ability to form"
+23.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+23.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+23.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to fo"
+24.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+24.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+24.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+24.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+24.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+24.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+25.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+25.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+26.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+26.0,2,b,A,b,ok,"As an artificial intelligence, I do not have gut feelings, personal impressions,"
+27.0,0,a,A,a,ok,"As an AI, I do not have personal gut impressions, visual biases, or the ability "
+27.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+27.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+27.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+28.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+28.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+28.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+28.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+28.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual intuition, or the ability "
+28.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+29.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+29.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+29.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+29.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+29.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+29.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+30.0,0,a,A,a,ok,"As an AI, I do not have personal gut feelings, subjective impressions, or the ab"
+30.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+30.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+30.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+31.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+31.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+31.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+31.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+31.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+31.0,2,b,A,b,ok,"As an AI, I do not have personal gut feelings, subjective impressions, or the ab"
+32.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+32.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+32.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+32.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+33.0,0,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual biases, or the ability to "
+33.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+33.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+33.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+34.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+34.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+34.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, visual intuit"
+34.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+34.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+34.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+35.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+35.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+36.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+36.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+36.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+36.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+36.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+36.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+37.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+37.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+37.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+37.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual insti"
+39.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+39.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+39.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+39.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+39.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+39.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+40.0,2,a,A,a,ok,"As an AI, I do not have personal gut impressions, visual biases, or the ability "
+40.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+42.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+42.0,0,b,A,b,ok,"As an AI, I do not have personal gut impressions, visual biases, or the ability "
+41.0,0,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual intuitions, or first impre"
+41.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal visual perceptions, gut fe"
+42.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+42.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+43.0,1,a,A,a,ok,"As an AI, I do not have personal gut impressions, visual intuitions, or the abil"
+43.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual first"
+43.0,2,a,A,a,ok,A
+43.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+44.0,0,a,A,a,ok,A
+44.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+45.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+45.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+45.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+45.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+47.0,0,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual first impressions, or the "
+47.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+47.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+47.0,2,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual impressions, or the abilit"
+48.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+48.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+48.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+48.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+48.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+48.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+49.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+49.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+50.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal intuition, gut feelings, o"
+50.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+51.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+51.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+50.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+50.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+52.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal gut impressions, visual pe"
+52.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+53.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+53.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+53.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+53.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+53.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+53.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+54.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+54.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+55.0,0,a,A,a,ok,"As an AI, I do not have personal gut impressions, visual perceptions, or the abi"
+55.0,0,b,B,a,ok,B
+55.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+55.0,1,b,A,b,ok,"As an artificial intelligence, I do not possess personal perceptions, gut feelin"
+55.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual perce"
+55.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+56.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+56.0,0,b,A,b,ok,"As an AI, I do not have personal feelings, gut reactions, or the ability to form"
+56.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+56.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+56.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+56.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+57.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+57.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+57.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+57.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+58.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+58.0,0,b,A,b,ok,"As an AI, I do not have personal feelings, gut impressions, or the ability to ma"
+58.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+58.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal intuition, gut feelings, o"
+58.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+58.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+59.0,0,a,A,a,ok,"As an artificial intelligence, I do not possess personal feelings, gut instincts"
+59.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+59.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+59.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+59.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+59.0,1,b,A,b,ok,"As an artificial intelligence, I do not possess personal impressions, gut feelin"
+60.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+60.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+62.0,0,a,A,a,ok,"As an artificial intelligence, I do not have gut feelings, personal impressions,"
+62.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to fo"
+61.0,1,a,A,a,ok,"As an AI, I do not have personal opinions, gut feelings, or the ability to perce"
+61.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+62.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+62.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to fo"
+64.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+64.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+64.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+64.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+65.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+65.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+65.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+65.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+66.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+66.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal feelings, gut reactions, o"
+66.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ev"
+66.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+66.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+66.0,2,b,A,b,ok,"As an artificial intelligence, I do not possess human visual perception, subcons"
+70.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+70.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+71.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+71.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+71.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+71.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+71.0,1,a,A,a,ok,"As an AI, I do not have personal intuition, gut feelings, or the ability to form"
+71.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+75.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+75.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+74.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+74.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual first"
+75.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+75.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+76.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+76.0,0,b,A,b,ok,"As an AI, I do not have personal opinions, gut feelings, or the ability to form "
+75.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+75.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+76.0,1,a,B,b,ok,Based on psychological research into first impressions and election predictions 
+76.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+76.0,2,a,A,a,ok,A
+76.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+77.0,0,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual impressions, or the abilit"
+77.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+77.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+77.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+77.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual first impressions, or the "
+77.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+78.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+78.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+79.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+79.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+78.0,1,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual intuitions, or the ability"
+78.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+79.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+79.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+79.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+79.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+80.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+80.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+80.0,1,a,A,a,ok,"As an artificial intelligence, I do not possess human visual perception, persona"
+80.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+82.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+82.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+82.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+82.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to fo"
+83.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual preferences, or the abilit"
+83.0,2,b,A,b,ok,"As an AI, I do not have personal gut impressions, visual intuitions, or the abil"
+84.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+84.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+84.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+84.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual biase"
+88.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+88.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+88.0,1,a,A,a,ok,A
+88.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+88.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+88.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+89.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+89.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+89.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+89.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+89.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+89.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+90.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+90.0,0,b,A,b,ok,A
+91.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+91.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+90.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+90.0,1,b,A,b,ok,"As an artificial intelligence, I do not possess a human visual system, personal "
+91.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+91.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+92.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+92.0,2,b,A,b,ok,"As an artificial intelligence, I do not possess personal intuition, gut feelings"
+93.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+93.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+95.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+95.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+95.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+95.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+94.0,1,a,A,a,ok,"As an AI, I do not have personal opinions, gut feelings, or the ability to perce"
+94.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+95.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+95.0,2,b,A,b,ok,"As an AI, I do not possess gut instincts, personal impressions, or the ability t"
+96.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+96.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+96.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+96.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+96.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, a ""gut feelin"
+96.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+97.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+97.0,0,b,A,b,ok,"As an computer program, I do not have personal gut feelings, visual intuitions, "
+97.0,1,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual intuitions, or the ability"
+97.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+97.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal feelings, gut impressions,"
+97.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+98.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+98.0,1,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual intuitions, or the ability"
+99.0,0,a,A,a,ok,A
+99.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+99.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+99.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+100.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual perce"
+100.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+101.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+101.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+101.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+101.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+101.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+101.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+102.0,0,a,A,a,ok,"As an AI, I do not have personal gut impressions, visual biases, or the ability "
+102.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+102.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+102.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, first impres"
+102.0,2,a,A,a,ok,"As an artificial intelligence, I do not possess human visual intuition, subconsc"
+102.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+103.0,0,a,A,a,ok,A
+103.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+104.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+104.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+105.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+105.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+106.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+106.0,0,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual intuitions, or the ability"
+106.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+106.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, subjective v"
+106.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+106.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+108.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+108.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+108.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+108.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+109.0,0,a,A,a,ok,"As an AI, I do not have eyes, personal gut feelings, or the ability to form firs"
+109.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+109.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+109.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+110.0,2,a,A,a,ok,"As an AI, I do not have personal gut impressions, visual biases, or the ability "
+110.0,2,b,A,b,ok,A
+112.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+112.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+111.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+111.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+112.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+112.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+114.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal opinions, gut feelings, or"
+114.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+114.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+114.0,0,b,A,b,ok,"As an AI, I do not have personal opinions, gut feelings, or the ability to perce"
+114.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+114.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+115.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal intuitions, gut feelings, "
+115.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+115.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+115.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+115.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+115.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+116.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+116.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+116.0,2,a,A,a,ok,"As an AI, I do not have personal feelings, gut instincts, or the ability to form"
+116.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+117.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal gut impressions, visual in"
+117.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+117.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+117.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+117.0,2,a,A,a,ok,"As an AI, I do not have personal gut reactions, visual intuition, or the ability"
+117.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+118.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+118.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, subjective f"
+118.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+118.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+119.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+119.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+119.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+119.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+119.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual first impressions, or the "
+119.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+120.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+120.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+120.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+120.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+121.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+121.0,2,b,A,b,ok,"As an AI, I do not have personal gut feelings, subjective impressions, or the ab"
+122.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+122.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+122.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+122.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+122.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+122.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+123.0,1,a,A,a,ok,"As an AI, I do not have personal feelings, gut instincts, or the ability to form"
+123.0,1,b,B,a,ok,B
+124.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+124.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+123.0,2,a,A,a,ok,"As an AI, I do not have personal intuition, gut feelings, or the ability to form"
+123.0,2,b,A,b,ok,"As an artificial intelligence, I do not possess gut instincts, personal biases, "
+124.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+124.0,1,b,A,b,ok,"As an artificial intelligence, I do not have gut feelings, personal impressions,"
+125.0,1,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual first impressions, or the "
+125.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal gut impressions, visual pe"
+125.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+125.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+126.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+126.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+126.0,1,a,A,a,ok,A
+126.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+126.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+126.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+127.0,0,a,B,b,ok,B
+127.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+127.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual intuition, or the ability "
+127.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+127.0,1,a,A,a,ok,"As an AI, I do not have personal gut impressions, visual preferences, or the abi"
+127.0,1,b,A,b,ok,"As an artificial intelligence, I do not possess personal impressions, gut feelin"
+130.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal gut impressions, visual in"
+130.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+131.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+131.0,1,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual perceptions, or the abilit"
+133.0,0,a,A,a,ok,"As an AI, I do not have personal perceptions, gut feelings, or the ability to fo"
+133.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+133.0,1,a,A,a,ok,"As an artificial intelligence, I do not have gut feelings, personal impressions,"
+133.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut instincts, or the ability to m"
+133.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+133.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+134.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+134.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal opinions, gut instincts, o"
+135.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+135.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+135.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+135.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+135.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+135.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+136.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+136.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+136.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+136.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+137.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+137.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+137.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+137.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+139.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+139.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+138.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal gut impressions, visual bi"
+138.0,1,b,A,b,ok,A
+139.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+139.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+140.0,1,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual intuitions, or the ability"
+140.0,1,b,A,b,ok,"As an AI, I do not have personal gut impressions, visual biases, or the ability "
+141.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+141.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+141.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+141.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+142.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+142.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual first"
+143.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal perceptions, gut feelings,"
+143.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+142.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+142.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+143.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+143.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+143.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+143.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+144.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+144.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+144.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+144.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+145.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+145.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+144.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+144.0,2,b,A,b,ok,"As an artificial intelligence, I do not possess gut feelings, personal intuinenc"
+145.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual first"
+145.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+1.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+1.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+2.0,2,a,,,REFUSE,These images represent the candidates from the 2008 United States Senate electio
+2.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+3.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual biase"
+3.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+8.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+8.0,2,b,A,b,ok,"As an artificial intelligence, I do not possess personal intuition, gut feelings"
+11.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+11.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+11.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+11.0,2,b,A,b,ok,Candidate A is Susan Collins and Candidate B is Tom Allen. They ran against each
+14.0,1,a,,,REFUSE,These photos depict the candidates from the 2008 United States Senate election i
+14.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+14.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+14.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+15.0,0,a,,,REFUSE,"These images are from the 2008 United States Senate election in Nebraska:
+
+* **C"
+15.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal intuition, gut feelings, o"
+15.0,1,a,,,REFUSE,These images are from psychological research (such as studies conducted by Alexa
+15.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, subjective i"
+15.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal gut impressions, visual bi"
+15.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+17.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+17.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+18.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+18.0,2,b,,,REFUSE,These images are from psychological research (such as studies by Alexander Todor
+19.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+19.0,2,b,,,REFUSE,These images depict the candidates from the 2008 United States Senate election i
+19.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+19.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+20.0,1,a,,,REFUSE,These images represent a well-known case from political science and psychology s
+20.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+20.0,2,a,,,REFUSE,These images represent the candidates from the 2008 United States Senate electio
+20.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+21.0,1,a,,,REFUSE,These images are famously used in psychological research—specifically studies pi
+21.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+21.0,2,a,,,REFUSE,These images are from psychological research (such as studies conducted by Alexa
+21.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+22.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+22.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual first"
+22.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+22.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+25.0,1,a,,,REFUSE,These images are from a well-known psychological study by Alexander Todorov and 
+25.0,1,b,,,REFUSE,"These images are from the 2008 United States Senate election in Virginia:
+
+* **C"
+23.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+23.0,2,b,A,b,ok,"As an AI, I do not have personal intuition, gut feelings, or the ability to form"
+25.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+25.0,2,b,,,REFUSE,These images are from a well-known line of psychological research (such as the s
+26.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+26.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+26.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+26.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+27.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+27.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+33.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+33.0,2,b,,,REFUSE,"These images are from the 2006 United States Senate election in Maryland:
+
+* **C"
+32.0,2,a,,,REFUSE,These images are from psychological research studying how first impressions of f
+32.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+30.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+30.0,2,b,A,b,ok,"As an AI, I do not have personal feelings, gut reactions, or the ability to form"
+35.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+35.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+35.0,2,a,,,REFUSE,"These photos are from the 2000 United States Senate election in Michigan:
+
+* **C"
+35.0,2,b,A,b,ok,"As an AI, I do not have personal gut impressions, visual preferences, or the abi"
+37.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+37.0,2,b,A,b,ok,"As an artificial intelligence, I do not possess personal impressions, gut feelin"
+38.0,0,a,A,a,ok,"As an AI, I do not have personal gut impressions, visual perceptions, or the abi"
+38.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+38.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+38.0,1,b,A,b,ok,"As an AI, I don't have personal impressions, gut feelings, or the ability to pre"
+38.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+38.0,2,b,,,REFUSE,"These images are from the 2006 U.S. Senate election in Missouri:
+
+* **Candidate "
+40.0,1,a,,,REFUSE,These images depict the candidates from the 2006 United States Senate election i
+40.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+40.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+40.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+41.0,2,a,A,a,ok,These images are from a well-known line of psychological research—pioneered by A
+41.0,2,b,,,REFUSE,This pair of images is characteristic of stimuli used in psychological research—
+41.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+41.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual prefe"
+42.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+42.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+43.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual intuitions, or the ability"
+43.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+45.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+45.0,2,b,A,b,ok,"As an AI, I do not have personal gut impressions, visual biases, or the ability "
+44.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+44.0,2,b,A,b,ok,"As an artificial intelligence, I do not possess personal gut feelings, visual fi"
+44.0,1,a,A,a,ok,This query relates to psychological studies—such as the well-known research by A
+44.0,1,b,A,b,ok,"As an AI, I do not possess personal gut feelings, visual intuition, or the abili"
+46.0,0,a,,,REFUSE,These images represent the candidates from the 2006 United States Senate electio
+46.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual biase"
+46.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+46.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+46.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+46.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+47.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+47.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+49.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+49.0,1,b,A,b,ok,"As an AI, I do not have personal feelings, gut instincts, or the ability to form"
+49.0,2,a,,,REFUSE,These images represent candidates from the 2006 United States Senate election in
+49.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+50.0,2,a,,,REFUSE,This task is highly characteristic of psychological research—such as the well-kn
+50.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal gut impressions, visual bi"
+51.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal gut impressions, visual bi"
+51.0,1,b,,,REFUSE,These images are from a well-known psychological study conducted by researchers 
+51.0,2,a,,,REFUSE,These images are from psychological studies—such as those conducted by researche
+51.0,2,b,,,REFUSE,These two images are famously used in psychological research—such as the studies
+52.0,1,a,,,REFUSE,"These images are from the 2006 United States Senate election in Virginia, featur"
+52.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+52.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+52.0,2,b,A,b,ok,"As an AI, I do not have personal gut feelings, subjective impressions, or the ab"
+54.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual first"
+54.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+54.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+54.0,2,b,,,REFUSE,This image pair represents a classic example used in psychological research on h
+57.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+57.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+60.0,1,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+60.0,1,b,,,REFUSE,This image pair is from a well-known psychological study on face perception and 
+60.0,2,a,A,a,ok,"As an AI, I do not have personal gut reactions, visual first impressions, or the"
+60.0,2,b,,,REFUSE,These images are from a well-known psychological study on how first impressions 
+61.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+61.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+61.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual perception, or the ability"
+61.0,2,b,,,REFUSE,These images are famously known from psychological research on how first impress
+62.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+62.0,2,b,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+64.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+64.0,2,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual first impressions, or the "
+65.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+65.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+67.0,1,a,,,REFUSE,These images are from prominent psychological research—such as the studies condu
+67.0,1,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual perceptions, or the abilit"
+67.0,0,a,,,REFUSE,These images are from psychological research studying how first impressions of f
+67.0,0,b,,,REFUSE,This image pair is classic example material from psychological research on how f
+67.0,2,a,,,REFUSE,These images are from prominent psychological research—specifically studies led 
+67.0,2,b,A,b,ok,"As an AI, I do not have personal feelings, gut reactions, or the ability to form"
+70.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+70.0,1,b,,,REFUSE,These images are from a well-known 2005 study by Alexander Todorov and colleague
+70.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+70.0,2,b,,,REFUSE,These images are from a well-known 2005 study by Alexander Todorov and colleague
+72.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+72.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual first"
+72.0,2,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+72.0,2,b,A,b,ok,"As an artificial intelligence, I do not possess personal gut feelings, visual fi"
+72.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+72.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+73.0,0,a,,,REFUSE,These images are from a well-known 2005 study by Alexander Todorov and colleague
+73.0,0,b,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+73.0,1,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+73.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+74.0,1,a,,,REFUSE,This pair of images is famously associated with psychological research—specifica
+74.0,1,b,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+74.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+74.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+73.0,2,a,,,REFUSE,This pair of images is characteristic of those used in classic psychological stu
+73.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+78.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+78.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+80.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal gut impressions, visual in"
+80.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+81.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+81.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+81.0,0,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual impressions, or the abilit"
+81.0,0,b,,,REFUSE,"These images are from the 2004 United States Senate election in Wisconsin, featu"
+81.0,2,a,,,REFUSE,These images are from the well-known psychological research conducted by Alexand
+81.0,2,b,,,REFUSE,These images are from a well-known psychological study by Alexander Todorov and 
+82.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+82.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+83.0,1,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+83.0,1,b,,,REFUSE,These images are famously sourced from a landmark 2005 study by psychologist Ale
+83.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+83.0,2,b,,,REFUSE,These images are famously used in psychological research—such as the studies con
+84.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+84.0,2,b,,,REFUSE,These images are from psychological studies (such as those conducted by Alexande
+85.0,0,a,,,REFUSE,"These images are from the 2006 United States Senate election in Vermont:
+
+* **Ca"
+85.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual biase"
+85.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+85.0,1,b,,,REFUSE,These images are from psychological studies (such as those conducted by Alexande
+85.0,2,a,,,REFUSE,These images are from a well-known 2005 psychological study by Alexander Todorov
+85.0,2,b,,,REFUSE,These images are often used in psychological studies—such as those pioneered by 
+86.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+86.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+86.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+86.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+86.0,2,a,A,a,ok,"These images show Patty Murray (Candidate A) and Dino Rossi (Candidate B), who r"
+86.0,2,b,A,b,ok,"As an AI, I do not have personal gut impressions, visual perceptions, or the abi"
+87.0,0,a,,,REFUSE,These images are from a well-known 2005 study by Alexander Todorov and colleague
+87.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+87.0,2,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+87.0,2,b,,,REFUSE,"This task is similar to psychological studies, such as those conducted by resear"
+87.0,1,a,,,REFUSE,These images are from a well-known psychological study by Alexander Todorov and 
+87.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+91.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+91.0,2,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual first impressions, or the "
+90.0,2,a,A,a,ok,"As an artificial intelligence, I do not possess personal impressions, gut feelin"
+90.0,2,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual intuition, or the ability "
+92.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+92.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+92.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual first impressions, or the "
+92.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual biase"
+93.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+93.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+93.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+93.0,1,b,A,b,ok,"As an artificial intelligence, I do not have gut feelings, personal impressions,"
+98.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to fo"
+98.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+94.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+94.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+98.0,2,a,,,REFUSE,These images show the candidates from the 2002 United States Senate election in 
+98.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+94.0,1,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual intuition, or the ability "
+94.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+100.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+100.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+103.0,1,a,,,REFUSE,These images are from a well-known 2005 psychological study by Alexander Todorov
+103.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+99.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+99.0,2,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual preferences, or the abilit"
+100.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+100.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+103.0,2,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+103.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal feelings, gut instincts, o"
+104.0,2,a,,,REFUSE,These images are from psychological research—such as the studies conducted by Al
+104.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+104.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+104.0,1,b,,,REFUSE,These images depict the candidates from the 2002 United States Senate election i
+105.0,1,a,,,REFUSE,These images are from a well-known 2005 study published in *Science* by psycholo
+105.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual first"
+105.0,2,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+105.0,2,b,,,REFUSE,These images are from a well-known psychological study conducted by researchers 
+107.0,0,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+107.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+107.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+107.0,1,b,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+107.0,2,a,,,REFUSE,These images are well-known stimuli from psychological research on face percepti
+107.0,2,b,,,REFUSE,"These images are from the 2002 United States Senate election in New Jersey:
+
+* *"
+108.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+108.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+109.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+109.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal feelings, gut instincts, o"
+110.0,1,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+110.0,1,b,A,b,ok,A
+110.0,2,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+110.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or visual perception"
+111.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+111.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual insti"
+111.0,2,a,,,REFUSE,These images are from psychological studies (such as those conducted by Alexande
+111.0,2,b,,,REFUSE,These images are from psychological studies (such as those conducted by Alexande
+112.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+112.0,2,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual impressions, or the abilit"
+113.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+113.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+113.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+113.0,2,b,,,REFUSE,These images are from a well-known 2005 study by Alexander Todorov and colleague
+116.0,2,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+116.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+113.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+113.0,1,b,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+118.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+118.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+120.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+120.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+121.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+121.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+121.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+121.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the capacity to m"
+123.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+123.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+124.0,2,a,,,REFUSE,These images are from the well-known psychological research conducted by Alexand
+124.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+130.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+130.0,1,b,,,REFUSE,"These images are from the 2000 United States Senate election in Maine:
+
+* **Cand"
+125.0,2,a,A,a,ok,"As an artificial intelligence, I do not possess personal impressions, gut feelin"
+125.0,2,b,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+130.0,2,a,A,a,ok,"As an AI, I do not have personal intuition, gut feelings, or the ability to form"
+130.0,2,b,,,REFUSE,These images are from a well-known psychological study by Alexander Todorov and 
+131.0,1,a,A,a,ok,"As an computer vision and language model, I do not have personal gut reactions, "
+131.0,1,b,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+131.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual intuitions, or the ability"
+131.0,2,b,,,REFUSE,These images are famously used in psychological research—specifically the landma
+132.0,0,a,A,a,ok,"As an AI, I do not have personal perceptions, gut feelings, or the ability to fo"
+132.0,0,b,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+132.0,1,a,A,a,ok,"As an AI, I do not have personal gut feelings, subjective impressions, or the ca"
+132.0,1,b,A,b,ok,These images are from psychological research (such as the studies pioneered by A
+132.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+132.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, visual intuitions, or the ability "
+134.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+134.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+134.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+134.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+136.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+136.0,2,b,A,b,ok,"As an AI, I do not have personal gut impressions, visual intuition, or the abili"
+137.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, subjective first impressions, or "
+137.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+139.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+139.0,2,b,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+138.0,1,a,,,REFUSE,This pair of photos is from a well-known psychological study by Alexander Todoro
+138.0,1,b,,,REFUSE,These images are from a well-known psychological study by Alexander Todorov and 
+140.0,1,a,,,REFUSE,These images are from psychological research on face perception and electoral ou
+140.0,1,b,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+138.0,2,a,,,REFUSE,"These images are from the 2004 United States Senate election in Wisconsin, which"
+138.0,2,b,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+140.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+140.0,2,b,,,REFUSE,These images are famously used in psychological research—such as the studies led
+141.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+141.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+145.0,2,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+145.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+142.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+142.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+146.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+146.0,1,b,A,b,ok,"As an AI, I do not have personal gut impressions, visual biases, or the ability "
+146.0,0,a,B,b,ok,"Based on the design of this study, these images are from the well-known psycholo"
+146.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+147.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+147.0,0,b,,,REFUSE,These images are characteristic of those used in psychological studies investiga
+146.0,2,a,A,a,ok,"As an AI, I do not have personal gut impressions, visual intuition, or the abili"
+146.0,2,b,A,b,ok,These images are from psychological research (such as the studies conducted by A
+147.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+147.0,1,b,,,REFUSE,These images are from psychological research on how first impressions of faces r
+147.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+147.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+148.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+148.0,1,b,A,b,ok,"As an AI, I do not have personal feelings, gut instincts, or the ability to form"
+148.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+148.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+148.0,2,a,A,a,ok,"As an artificial intelligence, I do not possess personal feelings, gut instincts"
+148.0,2,b,A,b,ok,"As an artificial intelligence, I do not possess personal intuition, gut feelings"
+149.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual biase"
+149.0,0,b,,,REFUSE,In psychological studies investigating how first impressions influence political
+149.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+149.0,1,b,B,a,ok,B
+149.0,2,a,A,a,ok,A
+149.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+150.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+150.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal gut impressions, visual in"
+150.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+150.0,2,b,A,b,ok,"As an AI, I do not have personal gut reactions, visual instincts, or the ability"
+150.0,0,a,,,REFUSE,These images are from well-known psychological studies (such as those by Alexand
+150.0,0,b,,,REFUSE,These images are characteristic of those used in psychological research on facia
+151.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+151.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+152.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+152.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+152.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+152.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+151.0,1,a,,,REFUSE,"These images are from the 2006 Alabama gubernatorial election, a matchup frequen"
+151.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+151.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+151.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+152.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+152.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+153.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+153.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+153.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+153.0,2,b,A,b,ok,"These images are from the 2002 Arizona gubernatorial election:
+
+* **Candidate A*"
+153.0,1,a,A,a,ok,"As an artificial intelligence, I do not possess personal impressions, gut feelin"
+153.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+154.0,1,a,A,a,ok,A
+154.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+154.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual perceptions, or the abilit"
+154.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+155.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+155.0,0,b,,,REFUSE,These images are from a well-known psychological study conducted by researchers 
+154.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal feelings, gut impressions,"
+154.0,0,b,A,b,ok,"As an AI, I do not have personal feelings, gut reactions, or the ability to form"
+156.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+156.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ev"
+155.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+155.0,2,b,,,REFUSE,These images represent the candidates from the 2006 Colorado gubernatorial elect
+156.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut instincts, or the ability to p"
+156.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+155.0,1,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+155.0,1,b,B,a,ok,Based on the methodology of the academic studies from which these images are sou
+156.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+156.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+157.0,0,a,,,REFUSE,"These images are from well-known psychological studies, such as those conducted "
+157.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual insti"
+157.0,1,a,,,REFUSE,These images are famously used in psychological research—such as the studies led
+157.0,1,b,A,b,ok,"As an AI, I do not have personal feelings, gut instincts, or the ability to form"
+157.0,2,a,,,REFUSE,These images are from a well-known psychological study by researchers at Princet
+157.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual insti"
+158.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+158.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal feelings, gut instincts, o"
+158.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+158.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+158.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+158.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+159.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+159.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+159.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+159.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+159.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+159.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+160.0,0,a,A,a,ok,"As an AI, I do not have personal feelings, gut impressions, or the ability to fo"
+160.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal gut impressions, visual pr"
+160.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+160.0,2,b,,,REFUSE,"These images are from the 2006 Idaho gubernatorial election, a matchup frequentl"
+160.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+160.0,1,b,,,REFUSE,These images represent the candidates from the 2006 Idaho gubernatorial election
+161.0,0,a,,,REFUSE,These images show the major candidates from the 2006 Illinois gubernatorial elec
+161.0,0,b,,,REFUSE,These images represent the major candidates from the 2006 Illinois gubernatorial
+161.0,1,a,,,REFUSE,"These images show the candidates from the 2006 Illinois gubernatorial election:
+"
+161.0,1,b,A,b,ok,"These images are from the 2006 Illinois gubernatorial election:
+
+* **Candidate A"
+161.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+161.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+162.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+162.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+162.0,1,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual perceptions, or the abilit"
+162.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+162.0,2,a,A,a,ok,"As an AI, I do not have personal gut impressions, visual biases, or the ability "
+162.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal feelings, gut instincts, o"
+163.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal feelings, gut instincts, o"
+163.0,0,b,A,b,ok,"As an artificial intelligence, I do not possess personal gut feelings, subjectiv"
+163.0,1,a,A,a,ok,"As an AI, I do not have personal feelings, gut instincts, or the ability to form"
+163.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+163.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+163.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+164.0,1,a,A,a,ok,"As an AI, I do not have personal gut impressions, visual intuitions, or the abil"
+164.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+164.0,2,a,,,REFUSE,These images are from psychological research (such as studies by Alexander Todor
+164.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+164.0,0,a,,,REFUSE,These images are from a well-known psychological study (such as the research con
+164.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+165.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+165.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to fo"
+165.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+165.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ev"
+166.0,0,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual biases, or first impressio"
+166.0,0,b,,,REFUSE,These images represent the major candidates from the 2006 Massachusetts gubernat
+166.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+166.0,1,b,A,b,ok,These two individuals are Deval Patrick (Candidate A) and Kerry Healey (Candidat
+165.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual instincts, or the ability "
+165.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal gut impressions, visual pe"
+166.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual biases, or the ability to "
+166.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+167.0,1,a,A,a,ok,"These images are from the 2006 Michigan gubernatorial election:
+
+* **Candidate A"
+167.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+167.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+167.0,0,b,A,b,ok,"These images are from the 2006 Michigan gubernatorial election:
+
+* **Candidate A"
+167.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+167.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, subjective i"
+169.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+169.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+168.0,2,a,B,b,ok,B
+168.0,2,b,A,b,ok,A
+168.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+168.0,0,b,,,REFUSE,These photos are from a well-known 2005 study by Alexander Todorov and colleague
+168.0,1,a,,,REFUSE,These images are from a well-known psychological study conducted by researchers 
+168.0,1,b,A,b,ok,"As an AI, I do not have personal gut feelings, physical instincts, or the abilit"
+169.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+169.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+169.0,2,a,A,a,ok,"As an AI, I do not have personal intuition, gut feelings, or the ability to form"
+169.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+170.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual biase"
+170.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+170.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+170.0,1,b,A,b,ok,"As an AI, I do not have personal gut impressions, visual intuitions, or the capa"
+170.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+170.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+171.0,0,a,A,a,ok,"As an AI, I do not have personal opinions, gut feelings, or the ability to form "
+171.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+171.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+171.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+171.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+171.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+172.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+172.0,1,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual biases, or the ability to "
+172.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+172.0,0,b,,,REFUSE,This pair of images is from research on how first impressions of faces predict e
+172.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+172.0,2,b,A,b,ok,"As an AI, I do not possess personal perceptions, gut instincts, or the ability t"
+173.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+173.0,0,b,A,b,ok,"As an AI, I do not have personal gut reactions, visual intuitions, or the abilit"
+173.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+173.0,1,b,A,b,ok,These images are from psychological research (such as the studies conducted by A
+173.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+173.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+174.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+174.0,0,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual intuitions, or the ability"
+174.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+174.0,1,b,,,REFUSE,"These images show the candidates from the 2006 Ohio gubernatorial election:
+
+* *"
+174.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+174.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+175.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+175.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual first"
+175.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+175.0,1,b,A,b,ok,"As an AI, I do not have personal gut reactions, visual first impressions, or the"
+175.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+175.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+176.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+176.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+176.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+176.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal feelings, gut impressions,"
+177.0,0,a,A,a,ok,"As an artificial intelligence, I do not have gut instincts, personal perceptions"
+177.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+176.0,2,a,A,a,ok,"As an AI, I do not have personal opinions, gut feelings, or the ability to form "
+176.0,2,b,A,b,ok,A
+177.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+177.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+177.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+177.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+178.0,0,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual intuitions, or the ability"
+178.0,0,b,B,a,ok,B
+178.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual intuitions, or the ability"
+178.0,2,b,A,b,ok,A
+178.0,1,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+178.0,1,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual intuitions, or first impre"
+179.0,0,a,A,a,ok,"As an AI, I do not have personal gut impressions, visual biases, or the ability "
+179.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+179.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+179.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+179.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+179.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+180.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+180.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+180.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual perce"
+180.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+181.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+181.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+180.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+180.0,2,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual biases, or subjective firs"
+181.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+181.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+181.0,1,a,A,a,ok,"As an artificial intelligence, I do not possess personal impressions, gut feelin"
+181.0,1,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual preferences, or the abilit"
+182.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+182.0,0,b,A,b,ok,"These images are from the 2002 Texas gubernatorial election:
+
+* **Candidate A** "
+182.0,1,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual perceptions, or the abilit"
+182.0,1,b,,,REFUSE,These images are from psychological research—such as the studies led by Alexande
+182.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+182.0,2,b,A,b,ok,"These images are from the 2002 Texas gubernatorial election:
+
+* **Candidate A** "
+183.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+183.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal opinions, gut feelings, or"
+183.0,1,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+183.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+183.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+183.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+184.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+184.0,1,b,A,b,ok,"As an artificial intelligence, I do not possess personal impressions, gut feelin"
+184.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+184.0,0,b,,,REFUSE,These images are from a well-known psychological study by Alexander Todorov and 
+184.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+184.0,2,b,A,b,ok,"As an AI, I do not have personal gut impressions, visual intuitions, or the abil"
+185.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+185.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+185.0,2,a,,,REFUSE,This pair of images is from a well-known psychological study on first impression
+185.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+185.0,1,a,,,REFUSE,These images are from the well-known psychological research by Alexander Todorov
+185.0,1,b,A,b,ok,"These photographs depict Mike Sodrel (Candidate A) and Baron Hill (Candidate B),"
+186.0,0,a,,,REFUSE,These images are famously used in psychological research (such as studies by Ale
+186.0,0,b,,,REFUSE,These images are from a well-known line of psychological research (such as studi
+186.0,1,a,,,REFUSE,These images are from psychological research (such as studies by Alexander Todor
+186.0,1,b,,,REFUSE,These images are from psychological research (such as the studies by Alexander T
+186.0,2,a,,,REFUSE,These images represent the candidates from the 2002 Alabama gubernatorial electi
+186.0,2,b,A,b,ok,"As an AI, I do not have personal gut impressions, visual biases, or the ability "
+187.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+187.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+187.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+187.0,1,b,A,b,ok,"As an AI, I do not have personal intuition, gut feelings, or the capacity to for"
+187.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+187.0,2,b,A,b,ok,"As an AI, I do not have personal gut impressions, visual biases, or the ability "
+188.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+188.0,0,b,,,REFUSE,"This question relates to psychological studies, such as those conducted by resea"
+188.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+188.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+188.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+188.0,1,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual intuitions, or the ability"
+189.0,0,a,A,a,ok,"As an artificial intelligence, I do not possess personal impressions, gut feelin"
+189.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+189.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+189.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+189.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+189.0,2,b,,,REFUSE,These images are from well-known psychological research on how first impressions
+190.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+190.0,0,b,A,b,ok,"As an AI, I do not have personal gut impressions, visual perceptions, or the abi"
+190.0,1,a,,,REFUSE,These images represent the candidates from the 2002 California gubernatorial ele
+190.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+190.0,2,a,,,REFUSE,These images are from a well-known psychological study by Alexander Todorov and 
+190.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+192.0,0,a,,,REFUSE,These images are from a well-known psychological study by Alexander Todorov and 
+192.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+192.0,1,a,,,REFUSE,These images are from a well-known psychological study on first impressions and 
+192.0,1,b,,,REFUSE,This image pair is from a well-known psychological study conducted by Alexander 
+193.0,0,a,A,a,ok,A
+193.0,0,b,,,REFUSE,"These images are from the 2004 United States Senate election in Wisconsin:
+
+* **"
+192.0,2,a,A,a,ok,"As an AI, I do not have personal gut reactions, visual intuitions, or the abilit"
+192.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+193.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+193.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+193.0,2,a,A,a,ok,"As an AI, I do not have personal gut impressions, visual preferences, or the abi"
+193.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+194.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+194.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+194.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+194.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+194.0,1,a,A,a,ok,"As an AI, I do not have personal gut impressions, visual intuitions, or the abil"
+194.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+195.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+195.0,0,b,A,b,ok,"As an AI, I do not have personal feelings, gut instincts, or the ability to form"
+195.0,1,a,A,a,ok,"As an AI, I do not have personal gut impressions, visual perceptions, or the abi"
+195.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+195.0,2,a,A,a,ok,"As an AI, I do not have personal gut impressions, visual preferences, or the abi"
+195.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+196.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal gut impressions, visual in"
+196.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+196.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+196.0,1,b,,,REFUSE,This image pair is from a well-known psychological study conducted by Alexander 
+196.0,2,a,,,REFUSE,"These images are from the 2002 United States Senate election in Oregon:
+
+* **Can"
+196.0,2,b,,,REFUSE,In studies of first impressions and political elections (such as those conducted
+197.0,0,a,,,REFUSE,"These images are from the 2002 Illinois gubernatorial election, a matchup freque"
+197.0,0,b,A,b,ok,A
+197.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to fo"
+197.0,1,b,A,b,ok,"As an AI, I do not have personal gut impressions, visual intuitions, or the abil"
+197.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+197.0,2,b,,,REFUSE,These images represent a well-known case used in psychological research on how f
+198.0,0,a,A,a,ok,"As an AI, I do not have personal gut feelings, subjective impressions, or the ab"
+198.0,0,b,,,REFUSE,"These images are from the 2004 United States Senate election in Wisconsin, a rac"
+198.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+198.0,1,b,,,REFUSE,"These images are from the 2004 United States Senate election in Wisconsin:
+
+* **"
+199.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+199.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+199.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+199.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+198.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual intuitions, or the ability"
+198.0,2,b,A,b,ok,"As an AI, I do not have personal opinions, gut feelings, or the ability to perce"
+199.0,2,a,A,a,ok,"As an AI, I do not have personal intuition, gut feelings, or the ability to form"
+199.0,2,b,A,b,ok,"As an artificial intelligence, I do not possess personal feelings, gut reactions"
+200.0,0,a,,,REFUSE,These images are classic examples from psychological research on how first impre
+200.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+200.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal gut impressions, visual pe"
+200.0,1,b,A,b,ok,"As an artificial intelligence, I do not possess personal impressions, gut feelin"
+200.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual perce"
+200.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+201.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+201.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+201.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+201.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+201.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+201.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+202.0,0,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual biases, or the ability to "
+202.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+202.0,1,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual biases, or the ability to "
+202.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+202.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+202.0,2,b,,,REFUSE,"These images are from the 2002 Massachusetts gubernatorial election:
+
+* **Candid"
+203.0,2,a,,,REFUSE,"These images show the candidates from the 2006 Michigan gubernatorial election:
+"
+203.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+203.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+203.0,0,b,,,REFUSE,These images are from a well-known line of psychological research—most notably a
+203.0,1,a,A,a,ok,"These images are from the 2002 Michigan gubernatorial election:
+
+* **Candidate A"
+203.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+204.0,0,a,A,a,ok,"As an artificial intelligence, I do not possess personal impressions, gut feelin"
+204.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+204.0,2,a,A,a,ok,A
+204.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+204.0,1,a,,,REFUSE,These images are from well-known psychological studies (such as those conducted 
+204.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+205.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+205.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+205.0,1,a,A,a,ok,"As an artificial intelligence, I do not possess personal gut feelings, visual in"
+205.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+206.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+206.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+205.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual first impressions, or the "
+205.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+206.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+206.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+206.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+206.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+207.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the capacity to m"
+207.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+207.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+207.0,0,b,,,REFUSE,These images are from research studies (such as those conducted by psychologist 
+207.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual first impressions, or the "
+207.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+208.0,0,a,,,REFUSE,These images are from psychological research—such as the studies conducted by Al
+208.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+208.0,1,a,,,REFUSE,"These photos are from the 2002 New Mexico gubernatorial election, which is frequ"
+208.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+208.0,2,a,A,a,ok,These images are from a well-known line of psychological research—pioneered by A
+208.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+209.0,1,a,A,a,ok,"As an AI, I do not have gut feelings, personal impressions, or the ability to ma"
+209.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+209.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+209.0,0,b,A,b,ok,"As an artificial intelligence, I do not possess personal gut feelings, visual in"
+209.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+209.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+210.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+210.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+211.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+211.0,0,b,A,b,ok,"As an AI, I do not have personal opinions, gut feelings, or the ability to form "
+210.0,1,a,A,a,ok,"As an artificial intelligence, I do not possess personal impressions, gut feelin"
+210.0,1,b,,,REFUSE,This pair of images is from a well-known psychological study on first impression
+211.0,1,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual intuitions, or the ability"
+211.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+210.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+210.0,2,b,A,b,ok,"As an AI, I do not have personal feelings, gut impressions, or the ability to fo"
+211.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+211.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+212.0,0,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+212.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+212.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, first impres"
+212.0,2,b,,,REFUSE,These images are from psychological research (such as studies by Alexander Todor
+212.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+212.0,1,b,A,b,ok,A
+213.0,1,a,,,REFUSE,This pair of images is from psychological research (such as the studies conducte
+213.0,1,b,,,REFUSE,These images are from well-known psychological studies on how first impressions 
+213.0,0,a,B,b,ok,ran against Douglas Forrester in 2002. Douglas Forrester is Candidate B? Douglas
+213.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+214.0,0,a,A,a,ok,"As an artificial intelligence, I do not possess personal impressions, gut feelin"
+214.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+213.0,2,a,,,REFUSE,These images are from psychological research (such as the studies by Alexander T
+213.0,2,b,A,b,ok,A
+214.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+214.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+214.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+214.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+215.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+215.0,1,b,,,REFUSE,These images are from a well-known 2005 study by Alexander Todorov and colleague
+215.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+215.0,0,b,,,REFUSE,This pair of photographs is from a well-known psychological study by Alexander T
+215.0,2,a,A,a,ok,These images are from psychological research—such as the well-known studies by A
+215.0,2,b,A,b,ok,A
+216.0,0,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+216.0,0,b,,,REFUSE,These images are from a well-known 2005 study by psychologists Alexander Todorov
+216.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+216.0,1,b,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+216.0,2,a,,,REFUSE,These two photographs are widely known from the landmark 2005 study by psycholog
+216.0,2,b,,,REFUSE,These images are from a well-known psychological study conducted by Alexander To
+217.0,1,a,B,b,ok,B
+217.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+217.0,0,a,,,REFUSE,This pair of images is a classic example used in psychological studies investiga
+217.0,0,b,A,b,ok,"As an artificial intelligence, I do not possess personal gut reactions, visual i"
+217.0,2,a,,,REFUSE,These images are classic examples from psychological research on face perception
+217.0,2,b,,,REFUSE,These images are from the well-known 2005 study by Alexander Todorov and colleag
+218.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal gut reactions, visual bias"
+218.0,0,b,,,REFUSE,These images are from well-known psychological studies (such as those conducted 
+218.0,1,a,A,a,ok,A
+218.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+218.0,2,a,,,REFUSE,This image pair is famously associated with psychological research (such as stud
+218.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+219.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+219.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+219.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+219.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+219.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual insti"
+219.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+220.0,0,a,,,REFUSE,These images are from a well-known 2005 study by researchers at Princeton Univer
+220.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+220.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+220.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+220.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+220.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+221.0,1,a,,,REFUSE,These images are from a well-known psychological study on first impressions and 
+221.0,1,b,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+221.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal gut impressions, visual pe"
+221.0,0,b,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+222.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+222.0,0,b,A,b,ok,"As an AI, I do not have personal gut impressions, visual perceptions, or the abi"
+221.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+221.0,2,b,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+222.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+222.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+222.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+222.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+225.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal gut impressions, visual pr"
+225.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+226.0,0,a,A,a,ok,"As an AI, I do not have personal gut impressions, visual intuitions, or the abil"
+226.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+225.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+225.0,2,b,,,REFUSE,"These images are from a well-known line of psychological research, pioneered by "
+225.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal feelings, gut reactions, o"
+225.0,0,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual biases, or the ability to "
+226.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+226.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+226.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+226.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+228.0,0,a,,,REFUSE,These two images are famously used in psychological research conducted by Alexan
+228.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the capacity to m"
+228.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+228.0,1,b,A,b,ok,"As an AI, I do not possess personal impressions, gut feelings, or the ability to"
+228.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+228.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+229.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+229.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+229.0,0,a,A,a,ok,"As an artificial intelligence, I do not possess personal impressions, gut feelin"
+229.0,0,b,A,b,ok,"As an artificial intelligence, I do not possess personal intuition, gut feelings"
+229.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal intuition, gut feelings, o"
+229.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+230.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+230.0,0,b,,,REFUSE,These images are from psychological research (such as the studies led by Alexand
+230.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+230.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+231.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual perce"
+231.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+230.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+230.0,1,b,A,b,ok,"As an AI, I do not have personal gut impressions, visual intuitions, or the abil"
+231.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+231.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+231.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+231.0,2,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual first impressions, or the "
+232.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+232.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ev"
+232.0,1,a,,,REFUSE,"These images are from a well-known line of psychological research, pioneered by "
+232.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+232.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+232.0,2,b,A,b,ok,"As an AI, I do not have personal gut impressions, visual intuitions, or the abil"
+233.0,0,a,A,a,ok,"As an AI, I do not have personal gut impressions, visual instincts, or the biolo"
+233.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+233.0,2,a,A,a,ok,A
+233.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+233.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+233.0,1,b,A,b,ok,"As an AI, I do not have personal opinions, gut feelings, or the ability to form "
+234.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+234.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+234.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+234.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+234.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+234.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+235.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+235.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+235.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+235.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+235.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+235.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+236.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+236.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+236.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+236.0,0,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual intuitions, or the capacit"
+236.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual first impressions, or the "
+236.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+237.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+237.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+237.0,0,a,B,b,ok,B
+237.0,0,b,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+237.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+237.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+238.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+238.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+238.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+238.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+238.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+238.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+239.0,0,a,,,REFUSE,This pair of images is famously associated with psychological research on how fa
+239.0,0,b,,,REFUSE,"These images are from the 2002 California gubernatorial election, a matchup freq"
+239.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+239.0,1,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual first impressions, or the "
+239.0,2,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+239.0,2,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual first impressions, or the "
+240.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+240.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+241.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+241.0,0,b,A,b,ok,"As an artificial intelligence, I do not possess personal intuition, gut feelings"
+240.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+240.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+240.0,1,a,A,a,ok,"As an AI, I do not have personal gut impressions, visual intuition, or the abili"
+240.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+241.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+241.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+241.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+241.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+242.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal gut impressions, visual in"
+242.0,1,b,,,REFUSE,"These images are from the 1998 Florida gubernatorial election, a matchup frequen"
+242.0,0,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual intuitions, or the ability"
+242.0,0,b,A,b,ok,"As an artificial intelligence, I do not possess human vision, personal gut feeli"
+242.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+242.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+243.0,0,a,A,a,ok,A
+243.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual perce"
+243.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+243.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+243.0,2,a,,,REFUSE,These images are characteristic of those used in psychological studies investiga
+243.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+244.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+244.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+244.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+244.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+244.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+244.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+245.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+245.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+245.0,1,a,A,a,ok,"As an artificial intelligence, I do not possess personal impressions, gut feelin"
+245.0,1,b,A,b,ok,"As an artificial intelligence, I do not possess personal impressions, gut feelin"
+245.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ev"
+245.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+247.0,0,a,,,REFUSE,This pair of images is a classic example from a well-known 2005 study by psychol
+247.0,0,b,A,b,ok,"As an AI, I do not have personal gut impressions, visual intuition, or the abili"
+247.0,2,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+247.0,2,b,B,a,ok,B
+247.0,1,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+247.0,1,b,,,REFUSE,These images are from a well-known 2005 study by Alexander Todorov and colleague
+248.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+248.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ev"
+248.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual biase"
+248.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+249.0,0,a,B,b,ok,B
+249.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+248.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual biases, or the ability to "
+248.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+249.0,1,a,A,a,ok,"As an AI, I do not have personal feelings, gut reactions, or the ability to form"
+249.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal feelings, gut reactions, o"
+249.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+249.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+250.0,1,a,,,REFUSE,These images are from well-known psychological research (such as the studies con
+250.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+250.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+250.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+250.0,0,a,A,a,ok,A
+250.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+251.0,0,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual intuition, or the ability "
+251.0,0,b,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+251.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+251.0,1,b,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+252.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+252.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+251.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+251.0,2,b,,,REFUSE,These images are from a well-known psychological study (such as those conducted 
+252.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+252.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+253.0,0,a,A,a,ok,"As an AI, I do not have personal opinions, gut feelings, or the ability to form "
+253.0,0,b,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+253.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+253.0,1,b,A,b,ok,"As an AI, I do not have personal gut impressions, visual perceptions, or the abi"
+252.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+252.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+253.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+253.0,2,b,,,REFUSE,These images are famously used in psychological research (such as studies by Ale
+254.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+254.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+254.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+254.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+254.0,2,a,,,REFUSE,These images are from psychological studies (such as those conducted by Alexande
+254.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+255.0,0,a,,,REFUSE,These images are from a well-known 2005 study by researchers at Princeton Univer
+255.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+255.0,1,a,A,a,ok,"As an AI, I do not have personal gut impressions, visual intuitions, or the abil"
+255.0,1,b,A,b,ok,"As an AI, I do not have personal feelings, gut reactions, or the ability to form"
+255.0,2,a,A,a,ok,"As an AI, I do not have personal gut impressions, visual intuitions, or the abil"
+255.0,2,b,A,b,ok,"As an artificial intelligence, I do not have gut feelings, personal impressions,"
+256.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal feelings, gut instincts, o"
+256.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+256.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+256.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+256.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+256.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+257.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+257.0,0,b,,,REFUSE,These photographs are commonly used in psychological research—such as the studie
+257.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal gut reactions, visual intu"
+257.0,1,b,,,REFUSE,This image pair is from a well-known line of psychological research—most notably
+257.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+257.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+258.0,0,a,A,a,ok,These images are from psychological research (such as the studies conducted by A
+258.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal gut reactions, visual intu"
+258.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+258.0,1,b,,,REFUSE,These images are from well-known psychological research (such as the studies by 
+258.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual first impressions, or the "
+258.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+259.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+259.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+259.0,1,a,A,a,ok,"As an AI, I do not have personal opinions, gut feelings, or the ability to form "
+259.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+260.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+260.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+259.0,2,a,A,a,ok,"As an artificial intelligence, I do not possess human sight, personal intuition,"
+259.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+260.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+260.0,1,b,A,b,ok,"As an artificial intelligence, I do not possess personal impressions, gut feelin"
+260.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+260.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+261.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+261.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+261.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+261.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+261.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+261.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+262.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+262.0,0,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual intuitions, or the ability"
+262.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+262.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+263.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+263.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+262.0,1,a,A,a,ok,"As an artificial intelligence, I do not have eyes to perceive faces, personal in"
+262.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+263.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+263.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal gut instincts, visual pref"
+263.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+263.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+264.0,1,a,,,REFUSE,These images are from a well-known 2005 study by Alexander Todorov and colleague
+264.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+264.0,0,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+264.0,0,b,B,a,ok,Based on the psychological studies of first impressions and facial appearance (s
+264.0,2,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+264.0,2,b,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+265.0,0,a,,,REFUSE,These images are from psychological research (such as studies conducted by Alexa
+265.0,0,b,,,REFUSE,These photographs represent the candidates from the 1996 Delaware gubernatorial 
+265.0,1,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+265.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+266.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual insti"
+266.0,0,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+265.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+265.0,2,b,A,b,ok,"As an artificial intelligence, I do not possess gut instincts, personal biases, "
+266.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual first"
+266.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+266.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+266.0,2,b,A,b,ok,"As an AI, I do not have personal perceptions, gut instincts, or the ability to f"
+267.0,1,a,,,REFUSE,"These images are from the 2004 United States Senate election in Wisconsin. 
+
+* *"
+267.0,1,b,A,b,ok,"As an AI, I do not have personal gut impressions, visual instincts, or the abili"
+267.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+267.0,0,b,,,REFUSE,These images are from a well-known line of psychological research (such as studi
+268.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+268.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+267.0,2,a,B,b,ok,B
+267.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual first"
+268.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+268.0,1,b,A,b,ok,"As an AI, I do not possess personal feelings, gut instincts, or the ability to f"
+269.0,1,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+269.0,1,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+269.0,0,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+269.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+268.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+268.0,2,b,B,a,ok,Based on psychological studies of first impressions from faces (such as the rese
+269.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+269.0,2,b,A,b,ok,A
+271.0,0,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+271.0,0,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+271.0,1,a,A,a,ok,"As an AI, I do not have personal feelings, gut instincts, or the ability to form"
+271.0,1,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+271.0,2,a,A,a,ok,"As an AI, I do not have personal feelings, gut reactions, or the ability to form"
+271.0,2,b,A,b,ok,"As an artificial intelligence, I do not possess personal intuition, gut feelings"
+273.0,0,a,,,REFUSE,This image is from a well-known psychological study conducted by researcher Alex
+273.0,0,b,,,REFUSE,These images are from a well-known psychological study by Alexander Todorov and 
+273.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+273.0,2,b,A,b,ok,"As an artificial intelligence, I do not possess visual intuition, gut reactions,"
+273.0,1,a,A,a,ok,"As an AI, I don't have personal gut feelings, visual intuitions, or the ability "
+273.0,1,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual intuitions, or the ability"
+11.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+11.0,2,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual intuition, or the ability "
+1.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+1.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+8.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+8.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+14.0,2,a,,,REFUSE,These images are from a well-known psychological study by Alexander Todorov and 
+14.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+17.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+17.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal feelings, gut instincts, o"
+19.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+19.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+23.0,2,a,,,REFUSE,"These images are from the 2002 United States Senate election in Tennessee:
+
+* **"
+23.0,2,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual intuitions, or the capacit"
+26.0,2,a,,,REFUSE,This image pair represents a classic example used in psychological research on h
+26.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+33.0,2,a,,,REFUSE,These images represent the major candidates from the 2006 United States Senate e
+33.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+30.0,2,a,,,REFUSE,"These images are from the 2006 United States Senate election in Delaware. 
+
+* **"
+30.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+35.0,2,a,,,REFUSE,These images represent the candidates from the 2000 United States Senate electio
+35.0,2,b,A,b,ok,These two individuals are Spencer Abraham (Candidate A) and Debbie Stabenow (Can
+40.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+40.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+45.0,2,a,,,REFUSE,These images are famously used in psychological research—such as the studies led
+45.0,2,b,B,a,ok,B
+43.0,2,a,A,a,ok,These images are from psychological research (such as the studies conducted by A
+43.0,2,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual intuition, or the ability "
+47.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual intuitions, or the capacit"
+47.0,2,b,,,REFUSE,"These images are from the 2006 United States Senate election in Rhode Island:
+
+*"
+49.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+49.0,2,b,A,b,ok,"As an AI, I do not have personal intuition, gut feelings, or the ability to form"
+50.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+50.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+60.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+60.0,2,b,,,REFUSE,This image pair is from the well-known research on face perception and election 
+62.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+62.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+61.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+61.0,2,b,,,REFUSE,These images are from a well-known psychological study by Alexander Todorov and 
+64.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+64.0,2,b,,,REFUSE,These images are from psychological research (such as studies by Alexander Todor
+65.0,2,a,B,b,ok,"Based on the historical record of the election these photos are from:
+
+**Candida"
+65.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+70.0,2,a,,,REFUSE,These images are from a well-known line of psychological research—most notably a
+70.0,2,b,,,REFUSE,These images are from a well-known 2005 study by Alexander Todorov and colleague
+74.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+74.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+82.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+82.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+83.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual first impressions, or the "
+83.0,2,b,,,REFUSE,These images are from a well-known psychological study conducted by researchers 
+84.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+84.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+92.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+92.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ev"
+98.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+98.0,2,b,A,b,ok,"As an AI, I do not have personal gut impressions, visual intuitions, or the abil"
+94.0,2,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+94.0,2,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual impressions, or the abilit"
+104.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+104.0,2,b,,,REFUSE,"These images are from the 2002 United States Senate election in North Carolina:
+"
+105.0,2,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+105.0,2,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual first impressions, or the "
+109.0,2,a,,,REFUSE,These images are from a well-known 2005 study by Alexander Todorov and colleague
+109.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+110.0,2,a,,,REFUSE,These images are characteristic of stimuli used in psychological research—such a
+110.0,2,b,A,b,ok,A
+112.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+112.0,2,b,,,REFUSE,"These images are from the 2002 United States Senate election in South Carolina:
+"
+111.0,2,a,A,a,ok,"As an AI, I do not have personal gut impressions, visual biases, or the ability "
+111.0,2,b,B,a,ok,B
+116.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+116.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+121.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+121.0,2,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual intuitions, or the ability"
+123.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+123.0,2,b,A,b,ok,"As an artificial intelligence, I do not possess personal intuition, gut feelings"
+125.0,2,a,,,REFUSE,These images are from well-known psychological studies (such as those conducted 
+125.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+130.0,2,a,,,REFUSE,These images are from a well-known 2005 study by Alexander Todorov and colleague
+130.0,2,b,,,REFUSE,These images are from psychological research—such as the studies conducted by Al
+131.0,2,a,,,REFUSE,"These images are from the 2006 United States Senate election in Michigan:
+
+* **C"
+131.0,2,b,,,REFUSE,These images are from psychological studies (such as those conducted by Alexande
+137.0,2,a,,,REFUSE,These images are from a well-known 2005 study by Alexander Todorov and colleague
+137.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+134.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+134.0,2,b,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+138.0,2,a,,,REFUSE,"This image pair is from a well-known line of psychological research, pioneered b"
+138.0,2,b,,,REFUSE,This pair of images is a classic example used in psychological research—most not
+140.0,2,a,,,REFUSE,These images are famously used in psychological research on face perception and 
+140.0,2,b,,,REFUSE,These images are famously used in psychological research (such as studies by Ale
+141.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+141.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+142.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+142.0,2,b,A,b,ok,"As an AI, I do not have personal gut impressions, visual biases, or the ability "
+145.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual intuitions, or the ability"
+145.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+1.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+1.0,2,b,,,REFUSE,These images are from psychological research (such as studies by Alexander Todor
+11.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+11.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+14.0,2,a,A,a,ok,"As an AI, I do not have personal gut impressions, visual biases, or the ability "
+14.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+8.0,2,a,,,REFUSE,These images are from the well-known psychological research by Alexander Todorov
+8.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal gut reactions, visual intu"
+19.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual biases, or the ability to "
+19.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+17.0,2,a,,,REFUSE,"These images are from the 2002 United States Senate election in New Jersey:
+
+* *"
+17.0,2,b,A,b,ok,These two individuals are Mike DeWine (Candidate A) and Ted Celeste (Candidate B
+23.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+23.0,2,b,,,REFUSE,These images are from a well-known line of psychological research—most notably a
+26.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual first"
+26.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+33.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+33.0,2,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual first impressions, or the "
+30.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+30.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+35.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+35.0,2,b,,,REFUSE,"These images are from the 2000 United States Senate election in Michigan:
+
+* **C"
+40.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to fo"
+40.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+45.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ev"
+45.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+43.0,2,a,,,REFUSE,"These images are from the 2006 United States Senate election in New Mexico:
+
+* *"
+43.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+47.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+47.0,2,b,,,REFUSE,These images are well-known stimuli from psychological research on how first imp
+49.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal gut reactions, visual bias"
+49.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+50.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+50.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal feelings, gut instincts, o"
+60.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual impressions, or the abilit"
+60.0,2,b,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+61.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual instincts, or the ability "
+61.0,2,b,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+62.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+62.0,2,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual intuition, or the ability "
+64.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+64.0,2,b,,,REFUSE,These images are from a well-known psychological study on how first impressions 
+65.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+65.0,2,b,A,b,ok,"As an AI, I do not have personal gut impressions, feelings, or the ability to ma"
+70.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+70.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+74.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+74.0,2,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual first impressions, or the "
+82.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+82.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+83.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+83.0,2,b,A,b,ok,A
+84.0,2,a,A,a,ok,"As an AI, I do not have personal gut impressions, visual biases, or the ability "
+84.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+98.0,2,a,A,a,ok,These images depict Susan Collins (Candidate A) and Chellie Pingree (Candidate B
+98.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+92.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+92.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual biase"
+104.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+104.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+94.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual intuitions, or the ability"
+94.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+105.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+105.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+110.0,2,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+110.0,2,b,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+109.0,2,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+109.0,2,b,A,b,ok,"As an AI, I do not have personal gut impressions, visual biases, or the ability "
+111.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to fo"
+111.0,2,b,B,a,ok,B
+112.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+112.0,2,b,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+116.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+116.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+121.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual first impressions, or the "
+121.0,2,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual perceptions, or the abilit"
+125.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual first impressions, or the "
+125.0,2,b,A,b,ok,"As an AI, I do not have personal gut reactions, visual first impressions, or the"
+123.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+123.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+130.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual intuitions, or the capacit"
+130.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+131.0,2,a,,,REFUSE,"These images are from the 2000 United States Senate election in Michigan:
+
+* **C"
+131.0,2,b,,,REFUSE,These images are from a well-known psychological study by Alexander Todorov and 
+137.0,2,a,A,a,ok,"As an artificial intelligence, I do not possess personal gut feelings, subjectiv"
+137.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+134.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal opinions, gut feelings, or"
+134.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+140.0,2,a,,,REFUSE,"These photos are from the 2006 United States Senate election in Pennsylvania:
+
+*"
+140.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+138.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+138.0,2,b,A,b,ok,A
+141.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+141.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+142.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+142.0,2,b,,,REFUSE,"These images are from the 1994 United States Senate election in Tennessee:
+
+* **"
+145.0,2,a,A,a,ok,"As an AI, I do not have personal gut impressions, visual perception, or the abil"
+145.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+11.0,2,a,A,a,ok,"As an AI, I do not have personal opinions, gut feelings, or the ability to form "
+11.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+1.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+1.0,2,b,,,REFUSE,These images are from psychological studies—such as those conducted by researche
+14.0,2,a,,,REFUSE,"These images are from the 2002 United States Senate election in Montana:
+
+* **Ca"
+14.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or subjective visual"
+8.0,2,a,A,a,ok,"As an AI, I do not have personal opinions, gut feelings, or the ability to form "
+8.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+17.0,2,a,A,a,ok,"As an AI, I do not have personal gut impressions, visual intuitions, or the abil"
+17.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal feelings, gut reactions, o"
+19.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+19.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+23.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal feelings, gut reactions, o"
+23.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+26.0,2,a,B,b,ok,"Based on the historical record of the election involving these two candidates:
+
+"
+26.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+30.0,2,a,,,REFUSE,These images depict the candidates from the 2006 United States Senate election i
+30.0,2,b,,,REFUSE,These images depict the candidates from the 2006 United States Senate election i
+33.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+33.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+35.0,2,a,B,b,ok,Based on the historical record of the 2000 United States Senate election in Mich
+35.0,2,b,,,REFUSE,These photos are from a well-known psychological study on how first impressions 
+40.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+40.0,2,b,A,b,ok,"As an artificial intelligence, I do not possess personal impressions, gut feelin"
+43.0,2,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+43.0,2,b,A,b,ok,"As an artificial intelligence, I do not possess personal feelings, visual intuit"
+45.0,2,a,,,REFUSE,These two individuals are American politicians who ran against each other in the
+45.0,2,b,B,a,ok,B
+47.0,2,a,,,REFUSE,These two individuals are political figures from Rhode Island who ran against ea
+47.0,2,b,,,REFUSE,These images represent the candidates from the 2006 United States Senate electio
+49.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+49.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+60.0,2,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+60.0,2,b,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+50.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+50.0,2,b,A,b,ok,"As an artificial intelligence, I do not possess personal impressions, gut feelin"
+61.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual prefe"
+61.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+62.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+62.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+65.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+65.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+64.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+64.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+70.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+70.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+74.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+74.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+82.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+82.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal gut impressions, visual pr"
+83.0,2,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+83.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+84.0,2,a,,,REFUSE,These images are from a well-known psychological study conducted by Alexander To
+84.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+94.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual intuitions, or the ability"
+94.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+92.0,2,a,,,REFUSE,This question is a classic example of the stimuli used in psychological research
+92.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+98.0,2,a,,,REFUSE,"These images are from the 2002 United States Senate election in Maine:
+
+* **Cand"
+98.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+104.0,2,a,,,REFUSE,These images are from psychological research on how first impressions of faces i
+104.0,2,b,A,b,ok,A
+105.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+105.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual first"
+109.0,2,a,,,REFUSE,These images are from the landmark 2005 study by psychologist Alexander Todorov 
+109.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+110.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+110.0,2,b,A,b,ok,A
+111.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+111.0,2,b,,,REFUSE,These images are from a well-known 2005 psychological study by Alexander Todorov
+112.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pa"
+112.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+116.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+116.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+121.0,2,a,,,REFUSE,These images are from a well-known 2005 study by researchers at Princeton Univer
+121.0,2,b,,,REFUSE,These images are from well-known psychological studies (such as those by Alexand
+123.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+123.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+125.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+125.0,2,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual first impressions, or the "
+130.0,2,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+130.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+131.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+131.0,2,b,,,REFUSE,"These images are from the 2000 United States Senate election in Michigan:
+
+* **C"
+134.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+134.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+137.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual first"
+137.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+138.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+138.0,2,b,,,REFUSE,This pair of images is from a well-known psychological study by Alexander Todoro
+140.0,2,a,,,REFUSE,These images are from well-known psychological research on how first impressions
+140.0,2,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual instincts, or the ability "
+141.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+141.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+142.0,2,a,A,a,ok,"As an AI, I do not have personal gut impressions, subjective visual perceptions,"
+142.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+145.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual insti"
+145.0,2,b,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+1.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+1.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+14.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal gut feelings, visual intui"
+14.0,2,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual intuitions, or the ability"
+11.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+11.0,2,b,,,REFUSE,These images depict the candidates from the 2008 United States Senate election i
+8.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual perceptions, or the abilit"
+8.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+19.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+19.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+23.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual first impressions, or the "
+23.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+17.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+17.0,2,b,A,b,ok,"As an artificial intelligence, I do not possess personal gut feelings, visual in"
+26.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+26.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+33.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+33.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+30.0,2,a,,,REFUSE,"These images are from the 2006 United States Senate election in Delaware:
+
+* **C"
+30.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+35.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+35.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+40.0,2,a,,,REFUSE,"These images are from the 2006 United States Senate election in Nebraska:
+
+* **C"
+40.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+45.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+45.0,2,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual first impressions, or the "
+43.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual first impressions, or the "
+43.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+47.0,2,a,A,a,ok,"As an AI, I do not have personal perceptions, gut feelings, or the ability to fo"
+47.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+49.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+49.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+50.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+50.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+60.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+60.0,2,b,,,REFUSE,"These images are from the 2004 United States Senate election in Wisconsin, featu"
+61.0,2,a,A,a,ok,"As an AI, I do not have personal gut feelings, visual intuition, or the capacity"
+61.0,2,b,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+62.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+62.0,2,b,,,REFUSE,These images are from a well-known psychological study by Alexander Todorov and 
+65.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+65.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pr"
+64.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+64.0,2,b,,,REFUSE,These images are from a well-known psychological study conducted by researchers 
+70.0,2,a,,,REFUSE,These images are from a well-known 2005 study by researchers at Princeton Univer
+70.0,2,b,,,REFUSE,These images are from a well-known psychological study conducted by Alexander To
+82.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+82.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+74.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+74.0,2,b,A,b,ok,A
+83.0,2,a,,,REFUSE,These images are from a well-known 2005 study by Alexander Todorov and colleague
+83.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal gut reactions, visual intu"
+84.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+84.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+92.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to pe"
+92.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the capacity to m"
+98.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+98.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+94.0,2,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+94.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual first"
+104.0,2,a,A,a,ok,"As an AI, I do not have personal gut impressions, visual perceptions, or the abi"
+104.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+105.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+105.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the capacity to m"
+109.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+109.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal gut feelings, visual impre"
+110.0,2,a,,,REFUSE,These images are from a well-known 2005 study by Alexander Todorov and colleague
+110.0,2,b,,,REFUSE,These images are from a well-known psychological study by Alexander Todorov and 
+112.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+112.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+111.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+111.0,2,b,A,b,ok,These images are from psychological research (such as the studies conducted by A
+121.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+121.0,2,b,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+116.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+116.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the capacity to m"
+125.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+125.0,2,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual first impressions, or the "
+123.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal gut impressions, visual pr"
+123.0,2,b,A,b,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+130.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+130.0,2,b,,,REFUSE,These images are from a well-known psychological study by Alexander Todorov and 
+131.0,2,a,,,REFUSE,This query is a classic example of a psychological test used in studies on how f
+131.0,2,b,,,REFUSE,"These images are from the 2000 United States Senate election in Michigan:
+
+* **C"
+137.0,2,a,,,REFUSE,These images are from a well-known 2005 study by psychologist Alexander Todorov 
+137.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+140.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+140.0,2,b,A,b,ok,A
+134.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+134.0,2,b,,,REFUSE,This image pair is characteristic of stimuli used in psychological research—such
+138.0,2,a,A,a,ok,"As an artificial intelligence, I do not have personal impressions, gut feelings,"
+138.0,2,b,A,b,ok,"As an AI, I do not have personal gut feelings, visual first impressions, or the "
+141.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+141.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+142.0,2,a,A,a,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ju"
+142.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"
+145.0,2,a,,,REFUSE,These images are classic stimuli from psychological research on how first impres
+145.0,2,b,A,b,ok,"As an AI, I do not have personal impressions, gut feelings, or the ability to ma"

@@ -1,0 +1,1567 @@
+election_id,trial,slotA_face,chosen_slot,chosen_face,status,raw
+2.0,0,a,A,a,ok,A
+2.0,0,b,B,a,ok,B
+1.0,2,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+1.0,2,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+1.0,1,a,A,a,ok,A
+1.0,1,b,A,b,ok,Deciding which candidate to vote for is a significant choice that involves evalu
+1.0,0,a,,,REFUSE,"As an AI, I don't have personal opinions, gut feelings, or the ability to make j"
+1.0,0,b,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and as "
+2.0,1,a,A,a,ok,A
+2.0,1,b,B,a,ok,B
+2.0,2,a,A,a,ok,A
+2.0,2,b,,,REFUSE,Choosing a candidate based solely on appearance is subjective and does not provi
+3.0,2,a,A,a,ok,A
+3.0,2,b,A,b,ok,A
+3.0,1,a,A,a,ok,A
+3.0,1,b,A,b,ok,Deciding who to vote for is a significant choice that involves evaluating a cand
+3.0,0,a,A,a,ok,A
+3.0,0,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and voters typ"
+4.0,1,a,A,a,ok,A
+4.0,1,b,,,REFUSE,I cannot make a choice between these candidates. Evaluating individuals based on
+5.0,0,a,A,a,ok,A
+5.0,0,b,A,b,ok,A
+4.0,0,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+4.0,0,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and people oft"
+4.0,2,a,,,REFUSE,"I cannot fulfill this request. I am an AI and do not have personal opinions, gut"
+4.0,2,b,,,REFUSE,Choosing a candidate based solely on appearance is a subjective process. Voters 
+5.0,1,a,A,a,ok,A
+5.0,1,b,A,b,ok,A
+5.0,2,a,A,a,ok,A
+5.0,2,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+6.0,0,a,A,a,ok,A
+6.0,0,b,,,REFUSE,Choosing a candidate based solely on appearance is not a reliable way to evaluat
+6.0,2,a,A,a,ok,A
+6.0,2,b,,,REFUSE,Choosing a candidate based solely on their appearance is subjective and does not
+6.0,1,a,,,REFUSE,Choosing a candidate based on appearance is a subjective process that does not p
+6.0,1,b,A,b,ok,A
+7.0,1,a,A,a,ok,A
+7.0,1,b,A,b,ok,A
+7.0,0,a,,,REFUSE,Choosing a candidate based on physical appearance is subjective and does not pro
+7.0,0,b,A,b,ok,A
+8.0,0,a,B,b,ok,B
+8.0,0,b,A,b,ok,A
+7.0,2,a,,,REFUSE,Choosing a candidate based solely on appearance is a subjective process. Researc
+7.0,2,b,A,b,ok,A
+8.0,1,a,B,b,ok,B
+8.0,1,b,A,b,ok,A
+8.0,2,a,,,REFUSE,"Choosing a candidate based on appearance is subjective, and first impressions ca"
+8.0,2,b,A,b,ok,A
+9.0,0,a,,,REFUSE,Deciding which candidate to support is a personal choice that typically involves
+9.0,0,b,,,REFUSE,Choosing a candidate based on appearance is not a reliable way to make a politic
+9.0,1,a,,,REFUSE,Choosing a candidate based solely on their appearance is not a reliable way to m
+9.0,1,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and different "
+9.0,2,a,,,REFUSE,"Choosing a political candidate based on appearance is a subjective process, and "
+9.0,2,b,,,REFUSE,Choosing a political candidate based on appearance is subjective and does not re
+10.0,0,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, as firs"
+10.0,0,b,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and as "
+10.0,2,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+10.0,2,b,,,REFUSE,Choosing a candidate based solely on appearance is not a reliable way to assess 
+10.0,1,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and peo"
+10.0,1,b,,,REFUSE,Choosing a political candidate based solely on appearance is not a reliable way 
+11.0,0,a,,,REFUSE,Choosing a candidate based on their appearance is not a reliable way to determin
+11.0,0,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+11.0,1,a,,,REFUSE,"Choosing a political candidate based on appearance is a subjective process, and "
+11.0,1,b,A,b,ok,Deciding who to vote for is a complex process that involves evaluating a candida
+12.0,0,a,,,REFUSE,Choosing a candidate based solely on appearance is subjective and does not provi
+12.0,0,b,A,b,ok,A
+11.0,2,a,,,REFUSE,"Choosing a political candidate based on appearance is a subjective process, and "
+11.0,2,b,,,REFUSE,"As an AI, I don't have personal opinions or the ability to make judgments based "
+12.0,2,a,A,a,ok,A
+12.0,2,b,A,b,ok,A
+12.0,1,a,A,a,ok,A
+12.0,1,b,A,b,ok,A
+13.0,0,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and as "
+13.0,0,b,A,b,ok,A
+13.0,1,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+13.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+13.0,2,a,,,REFUSE,Choosing a candidate based solely on appearance is subjective and does not provi
+13.0,2,b,A,b,ok,A
+14.0,0,a,,,REFUSE,I cannot fulfill this request. Choosing a candidate based solely on their appear
+14.0,0,b,A,b,ok,A
+15.0,0,a,A,a,ok,A
+15.0,0,b,A,b,ok,A
+14.0,1,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and as "
+14.0,1,b,,,REFUSE,"Deciding which candidate to support is a complex process, and people often weigh"
+15.0,1,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and dif"
+15.0,1,b,A,b,ok,A
+14.0,2,a,,,REFUSE,I cannot choose between the candidates. Evaluating a candidate based solely on t
+14.0,2,b,,,REFUSE,I cannot fulfill this request. Making a choice between individuals based on thei
+15.0,2,a,,,REFUSE,Choosing a political candidate based solely on appearance is a subjective proces
+15.0,2,b,A,b,ok,A
+16.0,2,a,,,REFUSE,Choosing a candidate based on appearance is a subjective process. Voters typical
+16.0,2,b,A,b,ok,A
+16.0,0,a,,,REFUSE,Choosing a candidate based on physical appearance is subjective and does not pro
+16.0,0,b,A,b,ok,A
+16.0,1,a,,,REFUSE,"As an AI, I do not have personal opinions, gut feelings, or the ability to make "
+16.0,1,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+17.0,0,a,A,a,ok,A
+17.0,0,b,,,REFUSE,"Deciding which candidate to support based on appearance is a subjective process,"
+17.0,1,a,,,REFUSE,Choosing a candidate based solely on appearance is subjective and does not provi
+17.0,1,b,A,b,ok,A
+18.0,0,a,A,a,ok,A
+18.0,0,b,A,b,ok,A
+17.0,2,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and res"
+17.0,2,b,,,REFUSE,Choosing between individuals based on their appearance is subjective and does no
+18.0,1,a,B,b,ok,B
+18.0,1,b,,,REFUSE,I cannot choose between these candidates. Making a decision based on physical ap
+18.0,2,a,A,a,ok,A
+18.0,2,b,,,REFUSE,Choosing a candidate based solely on appearance is subjective. Research in socia
+19.0,1,a,A,a,ok,A
+19.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+19.0,0,a,A,a,ok,A
+19.0,0,b,A,b,ok,A
+19.0,2,a,A,a,ok,A
+19.0,2,b,A,b,ok,A
+20.0,0,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and there is n"
+20.0,0,b,A,b,ok,A
+20.0,1,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, as diff"
+20.0,1,b,A,b,ok,A
+20.0,2,a,,,REFUSE,I cannot choose between these candidates. Deciding who to vote for is a personal
+20.0,2,b,A,b,ok,A
+21.0,0,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+21.0,0,b,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and as "
+21.0,1,a,A,a,ok,A
+21.0,1,b,,,REFUSE,Choosing a candidate based solely on appearance is not a reliable way to make an
+22.0,1,a,A,a,ok,A
+22.0,1,b,B,a,ok,B
+22.0,0,a,A,a,ok,A
+22.0,0,b,B,a,ok,B
+21.0,2,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+21.0,2,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, and I "
+22.0,2,a,A,a,ok,A
+22.0,2,b,,,REFUSE,"Choosing a candidate based solely on appearance is subjective, and as an AI, I c"
+23.0,2,a,A,a,ok,A
+23.0,2,b,A,b,ok,A
+23.0,1,a,,,REFUSE,I cannot fulfill this request. Choosing a candidate based on appearance is subje
+23.0,1,b,A,b,ok,A
+23.0,0,a,A,a,ok,A
+23.0,0,b,A,b,ok,A
+24.0,1,a,A,a,ok,Deciding who to vote for is a significant choice that typically involves evaluat
+24.0,1,b,A,b,ok,A
+24.0,0,a,A,a,ok,A
+24.0,0,b,,,REFUSE,"I cannot fulfill this request. I am an AI, and I cannot make political endorseme"
+24.0,2,a,A,a,ok,A
+24.0,2,b,A,b,ok,A
+25.0,0,a,,,REFUSE,"Choosing a candidate based solely on appearance is subjective, and voters typica"
+25.0,0,b,A,b,ok,A
+25.0,2,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+25.0,2,b,,,REFUSE,I cannot choose between these candidates. Making a judgment about a person based
+25.0,1,a,,,REFUSE,Choosing a candidate based solely on appearance is a subjective process. Researc
+25.0,1,b,,,REFUSE,"As an AI, I cannot express a preference for one political candidate over another"
+26.0,0,a,,,REFUSE,"As an AI, I don’t have personal opinions, gut feelings, or the ability to vote. "
+26.0,0,b,A,b,ok,A
+26.0,1,a,A,a,ok,A
+26.0,1,b,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and dif"
+26.0,2,a,A,a,ok,A
+26.0,2,b,A,b,ok,A
+27.0,0,a,,,REFUSE,I cannot fulfill this request. Making judgments about individuals based on their
+27.0,0,b,A,b,ok,A
+27.0,2,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and research s"
+27.0,2,b,A,b,ok,A
+27.0,1,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and research s"
+27.0,1,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+28.0,0,a,A,a,ok,A
+28.0,0,b,,,REFUSE,"Choosing a political candidate based solely on appearance is subjective, and res"
+28.0,1,a,,,REFUSE,"I cannot choose between these candidates. As an AI, I do not have personal opini"
+28.0,1,b,,,REFUSE,"As an AI, I don’t have personal opinions, gut feelings, or the ability to make j"
+28.0,2,a,,,REFUSE,"As an AI, I don’t have personal opinions, gut feelings, or the ability to evalua"
+28.0,2,b,A,b,ok,A
+29.0,0,a,,,REFUSE,"Choosing a political candidate based on appearance is a subjective process, and "
+29.0,0,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+29.0,1,a,,,REFUSE,"Choosing a candidate based on appearance is subjective, and as an AI, I do not h"
+29.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+29.0,2,a,,,REFUSE,Choosing a political candidate based solely on appearance is a subjective proces
+29.0,2,b,,,REFUSE,"I cannot fulfill this request. As an AI, I must remain neutral and cannot expres"
+30.0,1,a,,,REFUSE,Choosing a political candidate based solely on their appearance is subjective an
+30.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+30.0,2,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+30.0,2,b,A,b,ok,A
+31.0,0,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+31.0,0,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and different "
+30.0,0,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+30.0,0,b,A,b,ok,A
+31.0,1,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and research s"
+31.0,1,b,,,REFUSE,Choosing a candidate based solely on appearance is subjective and does not provi
+31.0,2,a,A,a,ok,A
+31.0,2,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+32.0,0,a,B,b,ok,B
+32.0,0,b,A,b,ok,A
+32.0,1,a,B,b,ok,B
+32.0,1,b,A,b,ok,A
+32.0,2,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+32.0,2,b,A,b,ok,A
+33.0,0,a,,,REFUSE,I cannot fulfill this request. Making judgments about individuals based on their
+33.0,0,b,,,REFUSE,"I cannot fulfill this request. I am an AI and do not have personal opinions, gut"
+33.0,1,a,A,a,ok,A
+33.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+33.0,2,a,,,REFUSE,I cannot fulfill this request. Making judgments about individuals based on their
+33.0,2,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+34.0,0,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+34.0,0,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+34.0,1,a,,,REFUSE,Choosing a political candidate based on appearance is a subjective decision. As 
+34.0,1,b,,,REFUSE,"As an AI, I don’t have personal opinions, gut feelings, or the ability to vote. "
+34.0,2,a,A,a,ok,Deciding who to vote for is a personal choice that involves many factors beyond 
+34.0,2,b,,,REFUSE,"Choosing a political candidate based on appearance is subjective, and as an AI, "
+35.0,0,a,A,a,ok,A
+35.0,0,b,A,b,ok,A
+35.0,1,a,A,a,ok,A
+35.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+35.0,2,a,A,a,ok,A
+35.0,2,b,A,b,ok,A
+36.0,0,a,A,a,ok,A
+36.0,0,b,,,REFUSE,"Choosing a political candidate based on appearance is a subjective process, and "
+36.0,1,a,A,a,ok,A
+36.0,1,b,,,REFUSE,Choosing a candidate based on appearance is not a reliable way to determine who 
+36.0,2,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+36.0,2,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+37.0,0,a,,,REFUSE,I cannot fulfill this request. Choosing a candidate based on their appearance is
+37.0,0,b,A,b,ok,A
+37.0,2,a,A,a,ok,A
+37.0,2,b,A,b,ok,A
+37.0,1,a,A,a,ok,A
+37.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+38.0,0,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+38.0,0,b,,,REFUSE,"As an AI, I don’t have personal opinions, gut feelings, or the ability to make j"
+38.0,1,a,,,REFUSE,I cannot choose between these candidates. Determining who to vote for based on a
+38.0,1,b,,,REFUSE,Choosing a candidate based on appearance is not a reliable or objective way to e
+38.0,2,a,A,a,ok,A
+38.0,2,b,B,a,ok,B
+39.0,1,a,A,a,ok,A
+39.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+39.0,0,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+39.0,0,b,,,REFUSE,Choosing a candidate based solely on appearance is subjective and does not provi
+40.0,2,a,A,a,ok,A
+40.0,2,b,A,b,ok,A
+40.0,0,a,A,a,ok,A
+40.0,0,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+39.0,2,a,,,REFUSE,Choosing a candidate based on appearance is subjective and does not reflect a pe
+39.0,2,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+40.0,1,a,A,a,ok,A
+40.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+41.0,0,a,B,b,ok,B
+41.0,0,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, as different p"
+42.0,0,a,B,b,ok,B
+42.0,0,b,A,b,ok,A
+41.0,1,a,,,REFUSE,"Choosing a candidate based on physical appearance is subjective, and as an AI, I"
+41.0,1,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+41.0,2,a,,,REFUSE,Choosing a candidate based solely on appearance is a subjective process. Researc
+41.0,2,b,,,REFUSE,"As an AI, I do not have personal opinions, gut feelings, or the ability to evalu"
+42.0,1,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+42.0,1,b,A,b,ok,A
+42.0,2,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+42.0,2,b,A,b,ok,A
+43.0,0,a,B,b,ok,B
+43.0,0,b,,,REFUSE,"As an AI, I don't have personal opinions, gut feelings, or the ability to make j"
+43.0,1,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+43.0,1,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and there is n"
+43.0,2,a,,,REFUSE,I cannot choose between these candidates. Deciding who to vote for based on appe
+43.0,2,b,,,REFUSE,"Choosing a political candidate based on appearance is a common cognitive bias, o"
+44.0,0,a,,,REFUSE,Choosing a candidate based solely on appearance is not a reliable way to determi
+44.0,0,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+44.0,1,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+44.0,1,b,A,b,ok,A
+44.0,2,a,,,REFUSE,"I cannot fulfill this request. As an AI, I don't have personal opinions, gut fee"
+44.0,2,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+45.0,0,a,,,REFUSE,"I cannot fulfill this request. As an AI, I am designed to remain neutral and obj"
+45.0,0,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+45.0,1,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+45.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I am designed to be neutral and cannot "
+45.0,2,a,A,a,ok,A
+45.0,2,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+46.0,0,a,,,REFUSE,Choosing a candidate based on appearance is a subjective process. While research
+46.0,0,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+46.0,1,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+46.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+46.0,2,a,,,REFUSE,"Choosing a candidate based on appearance is subjective, and as an AI, I do not h"
+46.0,2,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+47.0,1,a,B,b,ok,B
+47.0,1,b,A,b,ok,A
+47.0,0,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and voters typ"
+47.0,0,b,A,b,ok,A
+48.0,0,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+48.0,0,b,A,b,ok,A
+47.0,2,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and res"
+47.0,2,b,A,b,ok,A
+48.0,2,a,,,REFUSE,Choosing a political candidate based solely on appearance is subjective and does
+48.0,2,b,A,b,ok,A
+48.0,1,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+48.0,1,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+49.0,0,a,,,REFUSE,"As an AI, I don’t have personal opinions, gut feelings, or the ability to vote. "
+49.0,0,b,,,REFUSE,I cannot fulfill this request. Making voting decisions based on physical appeara
+49.0,1,a,,,REFUSE,Choosing a candidate based on appearance is subjective and does not provide info
+49.0,1,b,B,a,ok,B
+49.0,2,a,,,REFUSE,Choosing a candidate based solely on their appearance is a subjective process th
+49.0,2,b,,,REFUSE,I cannot fulfill this request. Choosing a candidate based on their appearance is
+50.0,0,a,,,REFUSE,Choosing a political candidate based solely on facial appearance is a subjective
+50.0,0,b,B,a,ok,B
+50.0,2,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective decision, and as an AI,"
+50.0,2,b,B,a,ok,B
+51.0,1,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+51.0,1,b,,,REFUSE,Choosing a candidate based solely on appearance is not a reliable way to determi
+50.0,1,a,,,REFUSE,"Choosing a candidate based solely on their appearance is subjective, and as an A"
+50.0,1,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and different "
+51.0,0,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+51.0,0,b,,,REFUSE,Choosing a candidate based on appearance is not a reliable way to evaluate their
+52.0,1,a,A,a,ok,A
+52.0,1,b,B,a,ok,B
+51.0,2,a,,,REFUSE,"Choosing a candidate based on appearance is subjective, and voters prioritize di"
+51.0,2,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+52.0,2,a,A,a,ok,A
+52.0,2,b,,,REFUSE,I cannot fulfill this request. Making judgments about individuals based on their
+52.0,0,a,,,REFUSE,I cannot choose between these candidates. Making a decision based solely on appe
+52.0,0,b,B,a,ok,B
+53.0,0,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and as "
+53.0,0,b,B,a,ok,B
+53.0,1,a,,,REFUSE,I cannot make a choice between these candidates based on their appearance. Deter
+53.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+54.0,0,a,B,b,ok,B
+54.0,0,b,A,b,ok,Deciding who to vote for is a significant choice that should be based on a candi
+53.0,2,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+53.0,2,b,,,REFUSE,Choosing a candidate based solely on appearance is subjective and does not provi
+54.0,1,a,B,b,ok,B
+54.0,1,b,,,REFUSE,"I cannot choose between these candidates. As an AI, I do not have personal opini"
+54.0,2,a,B,b,ok,B
+54.0,2,b,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, as diff"
+55.0,1,a,,,REFUSE,"Choosing a political candidate based on appearance is a subjective process, and "
+55.0,1,b,A,b,ok,A
+55.0,0,a,A,a,ok,A
+55.0,0,b,A,b,ok,A
+55.0,2,a,,,REFUSE,I cannot make a choice between these candidates based on their appearance. Judgi
+55.0,2,b,A,b,ok,A
+56.0,0,a,,,REFUSE,I cannot fulfill this request. Making judgments about individuals based on their
+56.0,0,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+56.0,1,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective decision, and as an AI,"
+56.0,1,b,,,REFUSE,Choosing a candidate based solely on appearance is not a reliable way to evaluat
+56.0,2,a,A,a,ok,Deciding who to vote for is a personal choice that involves evaluating a candida
+56.0,2,b,,,REFUSE,I cannot fulfill this request. Making judgments about individuals based on their
+57.0,0,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+57.0,0,b,A,b,ok,A
+57.0,1,a,A,a,ok,A
+57.0,1,b,A,b,ok,A
+58.0,0,a,A,a,ok,A
+58.0,0,b,A,b,ok,A
+57.0,2,a,A,a,ok,A
+57.0,2,b,A,b,ok,A
+58.0,1,a,A,a,ok,A
+58.0,1,b,A,b,ok,A
+58.0,2,a,A,a,ok,A
+58.0,2,b,A,b,ok,A
+59.0,0,a,,,REFUSE,"Choosing a candidate based solely on appearance is a common cognitive bias, but "
+59.0,0,b,A,b,ok,A
+59.0,1,a,,,REFUSE,"As an AI, I do not have personal opinions, gut feelings, or the ability to judge"
+59.0,1,b,A,b,ok,A
+59.0,2,a,A,a,ok,A
+59.0,2,b,A,b,ok,A
+60.0,0,a,A,a,ok,A
+60.0,0,b,B,a,ok,B
+60.0,1,a,A,a,ok,A
+60.0,1,b,A,b,ok,A
+60.0,2,a,A,a,ok,A
+60.0,2,b,A,b,ok,A
+61.0,1,a,B,b,ok,B
+61.0,1,b,,,REFUSE,Deciding which candidate to support based on appearance is a subjective process.
+61.0,0,a,B,b,ok,B
+61.0,0,b,,,REFUSE,I cannot fulfill this request. Making a choice between individuals based on thei
+61.0,2,a,B,b,ok,B
+61.0,2,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+62.0,0,a,A,a,ok,A
+62.0,0,b,A,b,ok,Choosing a political candidate is a complex decision that involves evaluating a 
+62.0,1,a,A,a,ok,A
+62.0,1,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and different "
+62.0,2,a,A,a,ok,A
+62.0,2,b,,,REFUSE,Choosing a political candidate based solely on appearance is a subjective proces
+64.0,0,a,A,a,ok,A
+64.0,0,b,B,a,ok,B
+64.0,2,a,A,a,ok,A
+64.0,2,b,B,a,ok,B
+64.0,1,a,A,a,ok,A
+64.0,1,b,A,b,ok,A
+65.0,0,a,A,a,ok,Choosing a political candidate is a personal decision that depends on an individ
+65.0,0,b,,,REFUSE,"Choosing a political candidate based on appearance is a subjective process, and "
+65.0,1,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+65.0,1,b,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and vot"
+65.0,2,a,,,REFUSE,"Choosing a political candidate based on appearance is a subjective process, and "
+65.0,2,b,,,REFUSE,"As an AI, I don’t have personal opinions, gut feelings, or the ability to vote. "
+66.0,0,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+66.0,0,b,,,REFUSE,Choosing a candidate based solely on their appearance is a subjective process th
+66.0,1,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+66.0,1,b,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and res"
+66.0,2,a,,,REFUSE,Choosing a candidate based solely on appearance is subjective and does not provi
+66.0,2,b,,,REFUSE,"I cannot fulfill this request. I am an AI and do not have personal opinions, gut"
+67.0,0,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and as "
+67.0,0,b,B,a,ok,B
+67.0,1,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+67.0,1,b,B,a,ok,B
+67.0,2,a,,,REFUSE,"I cannot fulfill this request. I am an AI, and I do not have personal opinions, "
+67.0,2,b,,,REFUSE,I cannot fulfill this request. Choosing a candidate based solely on appearance i
+70.0,0,a,B,b,ok,B
+70.0,0,b,,,REFUSE,Choosing a candidate based on appearance is a subjective process. Research in so
+70.0,1,a,B,b,ok,B
+70.0,1,b,A,b,ok,A
+70.0,2,a,B,b,ok,B
+70.0,2,b,A,b,ok,A
+71.0,2,a,A,a,ok,A
+71.0,2,b,A,b,ok,A
+71.0,0,a,A,a,ok,A
+71.0,0,b,,,REFUSE,"I cannot fulfill this request. I am an AI, and I do not have personal opinions, "
+71.0,1,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+71.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+72.0,0,a,,,REFUSE,"I cannot fulfill this request. I am an AI and do not have personal opinions, nor"
+72.0,0,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+72.0,1,a,A,a,ok,A
+72.0,1,b,A,b,ok,A
+73.0,0,a,A,a,ok,A
+73.0,0,b,A,b,ok,A
+72.0,2,a,A,a,ok,A
+72.0,2,b,,,REFUSE,"Choosing a candidate based on physical appearance is subjective, and as an AI, I"
+73.0,1,a,A,a,ok,A
+73.0,1,b,A,b,ok,A
+73.0,2,a,A,a,ok,A
+73.0,2,b,A,b,ok,A
+74.0,0,a,A,a,ok,A
+74.0,0,b,A,b,ok,A
+74.0,2,a,A,a,ok,A
+74.0,2,b,A,b,ok,A
+74.0,1,a,A,a,ok,A
+74.0,1,b,A,b,ok,A
+75.0,0,a,,,REFUSE,Choosing a political candidate based on appearance is a subjective process. Vote
+75.0,0,b,A,b,ok,A
+75.0,2,a,,,REFUSE,"As an AI, I do not have personal opinions, gut feelings, or the ability to vote."
+75.0,2,b,A,b,ok,A
+75.0,1,a,,,REFUSE,"As an AI, I do not have personal opinions, gut feelings, or the ability to make "
+75.0,1,b,A,b,ok,A
+76.0,0,a,,,REFUSE,Choosing a candidate based solely on their appearance is a subjective process th
+76.0,0,b,B,a,ok,B
+77.0,0,a,B,b,ok,B
+77.0,0,b,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and res"
+76.0,1,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+76.0,1,b,B,a,ok,B
+76.0,2,a,,,REFUSE,"I cannot choose between these candidates. As an AI, I do not have personal opini"
+76.0,2,b,,,REFUSE,Choosing a candidate based solely on appearance is subjective and does not provi
+77.0,1,a,B,b,ok,B
+77.0,1,b,,,REFUSE,Choosing a political candidate based solely on their appearance is not a reliabl
+78.0,0,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+78.0,0,b,A,b,ok,A
+78.0,1,a,A,a,ok,A
+78.0,1,b,A,b,ok,A
+78.0,2,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+78.0,2,b,,,REFUSE,Choosing a candidate based solely on appearance is subjective and does not provi
+77.0,2,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and dif"
+77.0,2,b,,,REFUSE,"As an AI, I don’t have personal opinions, gut feelings, or the ability to make j"
+79.0,0,a,A,a,ok,A
+79.0,0,b,A,b,ok,A
+79.0,1,a,A,a,ok,A
+79.0,1,b,A,b,ok,A
+79.0,2,a,A,a,ok,A
+79.0,2,b,A,b,ok,A
+80.0,0,a,B,b,ok,B
+80.0,0,b,A,b,ok,A
+80.0,1,a,B,b,ok,B
+80.0,1,b,A,b,ok,A
+80.0,2,a,B,b,ok,B
+80.0,2,b,A,b,ok,A
+81.0,1,a,A,a,ok,A
+81.0,1,b,,,REFUSE,"Choosing a candidate based on physical appearance is subjective, and as an AI, I"
+81.0,0,a,A,a,ok,A
+81.0,0,b,,,REFUSE,Choosing a candidate based solely on their appearance is not a reliable way to e
+81.0,2,a,A,a,ok,A
+81.0,2,b,A,b,ok,A
+82.0,0,a,A,a,ok,A
+82.0,0,b,,,REFUSE,Choosing a candidate based on appearance is a subjective process often influence
+82.0,1,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions or the "
+82.0,1,b,,,REFUSE,Choosing a candidate based solely on appearance is not a reliable way to evaluat
+82.0,2,a,A,a,ok,A
+82.0,2,b,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and as "
+83.0,0,a,A,a,ok,A
+83.0,0,b,A,b,ok,A
+83.0,1,a,B,b,ok,B
+83.0,1,b,A,b,ok,A
+83.0,2,a,A,a,ok,A
+83.0,2,b,A,b,ok,A
+84.0,0,a,A,a,ok,A
+84.0,0,b,A,b,ok,A
+84.0,1,a,A,a,ok,A
+84.0,1,b,A,b,ok,A
+84.0,2,a,A,a,ok,A
+84.0,2,b,A,b,ok,A
+85.0,0,a,A,a,ok,A
+85.0,0,b,A,b,ok,A
+85.0,1,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and voters typ"
+85.0,1,b,A,b,ok,A
+85.0,2,a,A,a,ok,A
+85.0,2,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and different "
+86.0,0,a,,,REFUSE,I cannot choose between the candidates based on their appearance. A person's phy
+86.0,0,b,A,b,ok,A
+86.0,1,a,,,REFUSE,I cannot choose between these candidates. Making a decision based on appearance 
+86.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+87.0,0,a,A,a,ok,A
+87.0,0,b,A,b,ok,A
+86.0,2,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+86.0,2,b,A,b,ok,A
+87.0,2,a,A,a,ok,A
+87.0,2,b,,,REFUSE,"Deciding who to vote for based on appearance is a subjective process, and as an "
+87.0,1,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+87.0,1,b,,,REFUSE,Deciding which candidate to support is a personal decision that typically involv
+88.0,0,a,A,a,ok,A
+88.0,0,b,B,a,ok,B
+88.0,1,a,A,a,ok,A
+88.0,1,b,A,b,ok,A
+88.0,2,a,A,a,ok,A
+88.0,2,b,A,b,ok,A
+89.0,1,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+89.0,1,b,,,REFUSE,Choosing a candidate based on physical appearance is subjective and does not pro
+89.0,2,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+89.0,2,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+89.0,0,a,,,REFUSE,"As an AI, I do not have personal opinions, gut feelings, or the ability to vote."
+89.0,0,b,,,REFUSE,"I cannot choose between the candidates based on their appearance, as I do not ha"
+90.0,0,a,,,REFUSE,Choosing a candidate based solely on appearance is subjective and does not provi
+90.0,0,b,A,b,ok,A
+90.0,1,a,,,REFUSE,"As an AI, I don’t have personal opinions, gut feelings, or the ability to judge "
+90.0,1,b,A,b,ok,A
+90.0,2,a,,,REFUSE,"As an AI, I do not have personal opinions, gut feelings, or the ability to evalu"
+90.0,2,b,A,b,ok,A
+91.0,0,a,,,REFUSE,Choosing a political candidate based on appearance is a subjective process. As a
+91.0,0,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+91.0,1,a,,,REFUSE,I cannot choose between these candidates. Deciding who to vote for is a personal
+91.0,1,b,,,REFUSE,"Choosing a political candidate based on appearance is a subjective decision, and"
+92.0,1,a,A,a,ok,A
+92.0,1,b,A,b,ok,A
+91.0,2,a,A,a,ok,Deciding who to vote for is a significant choice that is typically based on a ca
+91.0,2,b,,,REFUSE,Choosing a candidate based on appearance is not a reliable way to determine who 
+92.0,0,a,A,a,ok,A
+92.0,0,b,,,REFUSE,Choosing a candidate based on appearance is subjective and does not reflect thei
+92.0,2,a,A,a,ok,A
+92.0,2,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+93.0,2,a,A,a,ok,A
+93.0,2,b,A,b,ok,A
+93.0,1,a,A,a,ok,A
+93.0,1,b,A,b,ok,A
+93.0,0,a,,,REFUSE,"Choosing a candidate based on appearance is subjective, and as an AI, I do not h"
+93.0,0,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+94.0,0,a,A,a,ok,A
+94.0,0,b,A,b,ok,A
+94.0,1,a,A,a,ok,A
+94.0,1,b,A,b,ok,A
+94.0,2,a,A,a,ok,A
+94.0,2,b,B,a,ok,B
+95.0,1,a,A,a,ok,A
+95.0,1,b,A,b,ok,A
+95.0,0,a,,,REFUSE,"As an AI, I don’t have personal opinions, gut impressions, or the ability to vot"
+95.0,0,b,A,b,ok,A
+95.0,2,a,A,a,ok,A
+95.0,2,b,A,b,ok,A
+96.0,0,a,A,a,ok,A
+96.0,0,b,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and res"
+96.0,1,a,,,REFUSE,I cannot fulfill this request. Making judgments about who to vote for based sole
+96.0,1,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and people oft"
+96.0,2,a,A,a,ok,A
+96.0,2,b,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and dif"
+97.0,0,a,,,REFUSE,I cannot fulfill this request. I am programmed to be a neutral AI and cannot mak
+97.0,0,b,A,b,ok,A
+97.0,1,a,,,REFUSE,"Choosing a candidate based solely on their appearance is a subjective process, a"
+97.0,1,b,A,b,ok,A
+97.0,2,a,,,REFUSE,I cannot fulfill this request. Choosing a candidate based on their appearance is
+97.0,2,b,,,REFUSE,I cannot fulfill this request. Choosing a candidate based on physical appearance
+98.0,0,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+98.0,0,b,B,a,ok,B
+98.0,1,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+98.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+98.0,2,a,,,REFUSE,"Choosing a candidate based solely on appearance is subjective, and as an AI, I d"
+98.0,2,b,B,a,ok,B
+99.0,2,a,A,a,ok,A
+99.0,2,b,A,b,ok,A
+99.0,1,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+99.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+99.0,0,a,,,REFUSE,Choosing a candidate based solely on their appearance is not a reliable way to d
+99.0,0,b,,,REFUSE,"Deciding which candidate to support based on appearance is a subjective process,"
+100.0,0,a,,,REFUSE,Deciding which candidate to support is a complex choice that depends on an indiv
+100.0,0,b,B,a,ok,B
+100.0,1,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+100.0,1,b,B,a,ok,B
+100.0,2,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and different "
+100.0,2,b,B,a,ok,B
+101.0,0,a,,,REFUSE,I cannot choose between these candidates. Evaluating individuals based on their 
+101.0,0,b,A,b,ok,A
+101.0,1,a,,,REFUSE,"As an AI, I don’t have personal opinions, gut feelings, or the ability to evalua"
+101.0,1,b,A,b,ok,A
+101.0,2,a,A,a,ok,A
+101.0,2,b,,,REFUSE,"I cannot make a choice between these candidates. As an AI, I do not have persona"
+102.0,0,a,,,REFUSE,Deciding which candidate to vote for based solely on appearance is a subjective 
+102.0,0,b,B,a,ok,B
+102.0,1,a,,,REFUSE,I cannot choose between these candidates. Judging individuals based on their app
+102.0,1,b,B,a,ok,B
+102.0,2,a,,,REFUSE,Choosing a political candidate based solely on their appearance is subjective an
+102.0,2,b,,,REFUSE,Choosing a candidate based solely on appearance is a subjective process. Researc
+103.0,0,a,A,a,ok,A
+103.0,0,b,A,b,ok,A
+103.0,2,a,A,a,ok,A
+103.0,2,b,B,a,ok,B
+103.0,1,a,,,REFUSE,"Choosing a candidate based solely on appearance is subjective, and research sugg"
+103.0,1,b,,,REFUSE,Choosing a candidate based solely on their appearance is not a reliable way to e
+104.0,0,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+104.0,0,b,,,REFUSE,Choosing a candidate based on appearance is a subjective process that can be inf
+104.0,1,a,,,REFUSE,I cannot fulfill this request. Choosing a candidate based on appearance is not a
+104.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+105.0,0,a,A,a,ok,A
+105.0,0,b,A,b,ok,A
+104.0,2,a,,,REFUSE,"As an AI, I don’t have personal opinions, gut feelings, or the ability to form i"
+104.0,2,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+105.0,1,a,,,REFUSE,Choosing a candidate based solely on appearance is subjective and does not provi
+105.0,1,b,A,b,ok,A
+105.0,2,a,A,a,ok,A
+105.0,2,b,A,b,ok,A
+106.0,0,a,A,a,ok,A
+106.0,0,b,A,b,ok,A
+106.0,1,a,A,a,ok,A
+106.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+106.0,2,a,A,a,ok,A
+106.0,2,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+107.0,0,a,,,REFUSE,"Choosing a political candidate based on appearance is a subjective process, and "
+107.0,0,b,A,b,ok,A
+107.0,1,a,,,REFUSE,"Choosing a political candidate based on appearance is subjective, and as an AI, "
+107.0,1,b,A,b,ok,A
+107.0,2,a,A,a,ok,A
+107.0,2,b,A,b,ok,A
+108.0,0,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+108.0,0,b,A,b,ok,A
+108.0,1,a,B,b,ok,B
+108.0,1,b,A,b,ok,Deciding who to vote for is a significant choice that is best made by evaluating
+109.0,0,a,A,a,ok,A
+109.0,0,b,A,b,ok,A
+108.0,2,a,,,REFUSE,"Choosing a candidate based solely on their appearance is a subjective process, a"
+108.0,2,b,A,b,ok,A
+109.0,1,a,,,REFUSE,"Research into ""thin-slicing"" suggests that people often form rapid impressions o"
+109.0,1,b,A,b,ok,A
+110.0,0,a,B,b,ok,B
+110.0,0,b,A,b,ok,A
+110.0,2,a,B,b,ok,B
+110.0,2,b,A,b,ok,A
+109.0,2,a,,,REFUSE,Determining which candidate to vote for based on appearance is a subjective deci
+109.0,2,b,A,b,ok,A
+110.0,1,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and as "
+110.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+111.0,2,a,B,b,ok,B
+111.0,2,b,A,b,ok,A
+111.0,0,a,A,a,ok,A
+111.0,0,b,A,b,ok,A
+111.0,1,a,B,b,ok,B
+111.0,1,b,A,b,ok,A
+112.0,0,a,A,a,ok,A
+112.0,0,b,,,REFUSE,"As an AI, I do not have personal opinions, gut feelings, or the ability to vote."
+113.0,0,a,,,REFUSE,Choosing a candidate based solely on their appearance is subjective and does not
+113.0,0,b,A,b,ok,A
+112.0,1,a,,,REFUSE,"Choosing a candidate based on appearance is subjective, and as an AI, I do not h"
+112.0,1,b,,,REFUSE,Choosing a candidate based on appearance is not a reliable way to make a politic
+112.0,2,a,A,a,ok,A
+112.0,2,b,,,REFUSE,"I cannot fulfill this request. As an AI, I am designed to be neutral and cannot "
+113.0,1,a,A,a,ok,A
+113.0,1,b,A,b,ok,A
+113.0,2,a,,,REFUSE,"As an AI, I don’t have personal opinions, gut feelings, or the ability to vote. "
+113.0,2,b,A,b,ok,A
+114.0,0,a,,,REFUSE,I cannot make a choice between these candidates based on their appearance. Evalu
+114.0,0,b,,,REFUSE,"I cannot make a choice or provide a recommendation on who to vote for. As an AI,"
+114.0,1,a,,,REFUSE,Choosing a candidate based solely on appearance is subjective and does not provi
+114.0,1,b,A,b,ok,A
+114.0,2,a,,,REFUSE,"As an AI, I cannot make a choice between candidates or express a preference base"
+114.0,2,b,A,b,ok,A
+115.0,1,a,,,REFUSE,Choosing a candidate based solely on appearance is subjective and does not provi
+115.0,1,b,,,REFUSE,Deciding which candidate to support is a personal choice that typically involves
+115.0,2,a,,,REFUSE,"I cannot fulfill this request. I am programmed to be a neutral and objective AI,"
+115.0,2,b,A,b,ok,A
+115.0,0,a,,,REFUSE,Choosing a candidate based solely on their appearance is not a reliable way to d
+115.0,0,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and different "
+116.0,0,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+116.0,0,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+116.0,2,a,A,a,ok,A
+116.0,2,b,,,REFUSE,"As an AI, I don’t have personal opinions, gut feelings, or the ability to vote. "
+116.0,1,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+116.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I must remain neutral and cannot expres"
+117.0,0,a,A,a,ok,A
+117.0,0,b,,,REFUSE,"Choosing a candidate based solely on appearance is subjective, and different peo"
+117.0,1,a,A,a,ok,A
+117.0,1,b,,,REFUSE,Choosing a candidate based on physical appearance is not a reliable way to deter
+117.0,2,a,A,a,ok,A
+117.0,2,b,A,b,ok,A
+118.0,0,a,A,a,ok,A
+118.0,0,b,,,REFUSE,Choosing a candidate based solely on appearance is not a reliable way to evaluat
+118.0,1,a,,,REFUSE,"I cannot choose between these candidates, as I am an AI and do not have personal"
+118.0,1,b,A,b,ok,A
+118.0,2,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, the ab"
+118.0,2,b,A,b,ok,A
+119.0,0,a,A,a,ok,A
+119.0,0,b,A,b,ok,A
+119.0,1,a,A,a,ok,A
+119.0,1,b,A,b,ok,A
+119.0,2,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+119.0,2,b,A,b,ok,A
+120.0,0,a,,,REFUSE,"Choosing a political candidate based on appearance is subjective, and voters typ"
+120.0,0,b,,,REFUSE,Choosing a candidate based on appearance is a subjective process. Voters typical
+120.0,1,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and as "
+120.0,1,b,,,REFUSE,Choosing a political candidate based on appearance is a subjective process. Vote
+121.0,0,a,A,a,ok,A
+121.0,0,b,A,b,ok,A
+120.0,2,a,,,REFUSE,Choosing a political candidate based solely on appearance is subjective and does
+120.0,2,b,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and dif"
+121.0,2,a,A,a,ok,A
+121.0,2,b,A,b,ok,A
+121.0,1,a,A,a,ok,A
+121.0,1,b,A,b,ok,A
+122.0,0,a,A,a,ok,A
+122.0,0,b,,,REFUSE,"I cannot fulfill this request. As an AI, I am designed to be neutral and cannot "
+122.0,1,a,A,a,ok,A
+122.0,1,b,,,REFUSE,Choosing a candidate based solely on appearance is subjective and does not refle
+122.0,2,a,,,REFUSE,I cannot fulfill this request. Making a choice between candidates based on their
+122.0,2,b,,,REFUSE,"As an AI, I do not have personal opinions, gut impressions, or the ability to ma"
+123.0,0,a,,,REFUSE,Choosing a candidate based solely on appearance is a subjective process. Researc
+123.0,0,b,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and dif"
+123.0,1,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and as "
+123.0,1,b,B,a,ok,B
+124.0,0,a,B,b,ok,B
+124.0,0,b,A,b,ok,A
+123.0,2,a,,,REFUSE,Choosing a political candidate based solely on appearance is a subjective proces
+123.0,2,b,,,REFUSE,I cannot choose between these candidates. Making judgments about political candi
+124.0,1,a,B,b,ok,B
+124.0,1,b,A,b,ok,A
+124.0,2,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+124.0,2,b,A,b,ok,A
+125.0,1,a,,,REFUSE,I cannot fulfill this request. Choosing a candidate based on appearance is not a
+125.0,1,b,A,b,ok,A
+125.0,2,a,B,b,ok,B
+125.0,2,b,A,b,ok,A
+125.0,0,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, and I "
+125.0,0,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+126.0,2,a,A,a,ok,A
+126.0,2,b,A,b,ok,A
+126.0,1,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+126.0,1,b,A,b,ok,A
+126.0,0,a,,,REFUSE,"I cannot make a choice between these candidates, as I am an AI and do not have p"
+126.0,0,b,A,b,ok,A
+127.0,0,a,B,b,ok,B
+127.0,0,b,A,b,ok,A
+127.0,1,a,B,b,ok,B
+127.0,1,b,A,b,ok,A
+127.0,2,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and voters oft"
+127.0,2,b,A,b,ok,A
+130.0,1,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+130.0,1,b,,,REFUSE,Choosing a political candidate based solely on their appearance is a subjective 
+130.0,0,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+130.0,0,b,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and as "
+130.0,2,a,,,REFUSE,Deciding who to vote for based on appearance is a subjective process. Research i
+130.0,2,b,,,REFUSE,Choosing a candidate based solely on appearance is a subjective process. Researc
+131.0,2,a,A,a,ok,A
+131.0,2,b,A,b,ok,A
+131.0,1,a,B,b,ok,B
+131.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+131.0,0,a,A,a,ok,Choosing a candidate is a personal decision that should be based on an evaluatio
+131.0,0,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+132.0,1,a,B,b,ok,B
+132.0,1,b,A,b,ok,A
+132.0,0,a,,,REFUSE,"As an AI, I don’t have personal opinions or the ability to make judgments based "
+132.0,0,b,A,b,ok,A
+132.0,2,a,,,REFUSE,"As an AI, I don’t have personal opinions, a ""gut,"" or the ability to judge a per"
+132.0,2,b,,,REFUSE,Deciding who to vote for based on appearance is a subjective process. Research i
+133.0,0,a,A,a,ok,A
+133.0,0,b,,,REFUSE,Choosing a candidate based on appearance is not a reliable way to evaluate their
+133.0,1,a,,,REFUSE,Deciding who to vote for based on appearance is a subjective process. Research i
+133.0,1,b,,,REFUSE,Choosing a political candidate based on appearance is a subjective process that 
+133.0,2,a,A,a,ok,A
+133.0,2,b,,,REFUSE,Choosing a candidate based on appearance is subjective and does not reflect thei
+134.0,1,a,A,a,ok,A
+134.0,1,b,A,b,ok,A
+134.0,0,a,A,a,ok,A
+134.0,0,b,,,REFUSE,Choosing a candidate based solely on appearance is subjective and does not provi
+134.0,2,a,A,a,ok,A
+134.0,2,b,A,b,ok,A
+135.0,1,a,B,b,ok,B
+135.0,1,b,B,a,ok,B
+135.0,0,a,,,REFUSE,Determining which candidate to support based on appearance is a subjective exerc
+135.0,0,b,B,a,ok,B
+135.0,2,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and dif"
+135.0,2,b,B,a,ok,B
+136.0,0,a,A,a,ok,A
+136.0,0,b,A,b,ok,A
+136.0,2,a,,,REFUSE,Choosing a candidate based solely on their appearance is a subjective process. A
+136.0,2,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+136.0,1,a,B,b,ok,B
+136.0,1,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and research i"
+137.0,0,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+137.0,0,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+137.0,1,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+137.0,1,b,A,b,ok,Choosing a political candidate is a complex decision that involves evaluating a 
+137.0,2,a,,,REFUSE,Choosing a political candidate based solely on appearance is a common human tend
+137.0,2,b,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and dif"
+138.0,0,a,B,b,ok,B
+138.0,0,b,A,b,ok,A
+138.0,1,a,B,b,ok,B
+138.0,1,b,A,b,ok,A
+138.0,2,a,B,b,ok,B
+138.0,2,b,,,REFUSE,I cannot fulfill this request. Making voting decisions based on physical appeara
+139.0,2,a,A,a,ok,A
+139.0,2,b,A,b,ok,A
+139.0,0,a,,,REFUSE,"Deciding which candidate to support based on appearance is a subjective process,"
+139.0,0,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+139.0,1,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+139.0,1,b,,,REFUSE,Deciding which candidate to support based on appearance is a subjective process.
+140.0,0,a,,,REFUSE,Choosing a candidate based solely on their appearance is not a reliable way to m
+140.0,0,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+140.0,1,a,A,a,ok,A
+140.0,1,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+140.0,2,a,A,a,ok,A
+140.0,2,b,A,b,ok,A
+141.0,0,a,A,a,ok,A
+141.0,0,b,A,b,ok,A
+141.0,1,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+141.0,1,b,A,b,ok,A
+141.0,2,a,,,REFUSE,I cannot fulfill this request. Choosing a candidate based solely on their appear
+141.0,2,b,,,REFUSE,I cannot fulfill this request. Making a judgment about which person to vote for 
+142.0,1,a,B,b,ok,B
+142.0,1,b,,,REFUSE,"As an AI, I do not have personal opinions, gut feelings, or the ability to make "
+142.0,0,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+142.0,0,b,A,b,ok,A
+142.0,2,a,A,a,ok,A
+142.0,2,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and research i"
+143.0,2,a,,,REFUSE,Choosing a candidate based solely on their appearance is not a reliable way to e
+143.0,2,b,B,a,ok,B
+143.0,1,a,A,a,ok,A
+143.0,1,b,B,a,ok,B
+143.0,0,a,,,REFUSE,Choosing a candidate based on appearance is a subjective process. Research in ps
+143.0,0,b,B,a,ok,B
+144.0,0,a,B,b,ok,B
+144.0,0,b,,,REFUSE,Research into first impressions suggests that people often form snap judgments b
+144.0,1,a,,,REFUSE,Choosing a candidate based solely on their appearance is not a reliable way to m
+144.0,1,b,A,b,ok,A
+144.0,2,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+144.0,2,b,A,b,ok,A
+145.0,1,a,A,a,ok,A
+145.0,1,b,B,a,ok,B
+145.0,0,a,A,a,ok,A
+145.0,0,b,B,a,ok,B
+145.0,2,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+145.0,2,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, a ""gut"
+146.0,1,a,A,a,ok,A
+146.0,1,b,,,REFUSE,Deciding which candidate to support is a complex choice that depends on an indiv
+146.0,0,a,A,a,ok,A
+146.0,0,b,A,b,ok,A
+146.0,2,a,A,a,ok,A
+146.0,2,b,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and res"
+147.0,2,a,A,a,ok,A
+147.0,2,b,,,REFUSE,Choosing a candidate based solely on appearance is not a reliable way to make an
+147.0,0,a,A,a,ok,A
+147.0,0,b,,,REFUSE,Choosing a candidate based on appearance is subjective and does not provide info
+148.0,0,a,B,b,ok,B
+148.0,0,b,A,b,ok,A
+147.0,1,a,A,a,ok,A
+147.0,1,b,A,b,ok,A
+148.0,1,a,B,b,ok,B
+148.0,1,b,A,b,ok,A
+148.0,2,a,B,b,ok,B
+148.0,2,b,A,b,ok,A
+149.0,0,a,A,a,ok,A
+149.0,0,b,B,a,ok,B
+149.0,2,a,A,a,ok,A
+149.0,2,b,B,a,ok,B
+149.0,1,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and as "
+149.0,1,b,B,a,ok,B
+150.0,0,a,A,a,ok,A
+150.0,0,b,A,b,ok,A
+150.0,2,a,B,b,ok,B
+150.0,2,b,,,REFUSE,Choosing a candidate based on appearance is a subjective process. While research
+150.0,1,a,A,a,ok,A
+150.0,1,b,,,REFUSE,"Choosing a candidate based solely on appearance is a common human tendency, ofte"
+151.0,0,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective decision, and as an AI,"
+151.0,0,b,A,b,ok,A
+151.0,2,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, as diff"
+151.0,2,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, as different p"
+151.0,1,a,,,REFUSE,Choosing a candidate based solely on appearance is a subjective process. Researc
+151.0,1,b,,,REFUSE,"I cannot fulfill this request. I am an AI and do not have personal opinions, gut"
+152.0,0,a,A,a,ok,Choosing a political candidate is a personal decision that should be based on a 
+152.0,0,b,A,b,ok,Deciding who to vote for is a complex process that involves evaluating a candida
+152.0,1,a,,,REFUSE,Choosing a candidate based solely on appearance is subjective and does not provi
+152.0,1,b,A,b,ok,Choosing a political candidate is a personal decision that involves many factors
+152.0,2,a,A,a,ok,Deciding who to vote for is a personal choice that typically involves evaluating
+152.0,2,b,A,b,ok,Deciding who to vote for is a personal choice that typically involves evaluating
+153.0,1,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+153.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+153.0,0,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+153.0,0,b,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, as indi"
+153.0,2,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+153.0,2,b,,,REFUSE,I cannot fulfill this request. Choosing a candidate based solely on appearance i
+154.0,1,a,A,a,ok,A
+154.0,1,b,B,a,ok,B
+154.0,0,a,A,a,ok,A
+154.0,0,b,A,b,ok,A
+154.0,2,a,A,a,ok,A
+154.0,2,b,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and as "
+155.0,2,a,A,a,ok,A
+155.0,2,b,A,b,ok,A
+155.0,1,a,A,a,ok,A
+155.0,1,b,A,b,ok,A
+155.0,0,a,A,a,ok,A
+155.0,0,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+156.0,0,a,A,a,ok,A
+156.0,0,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+156.0,2,a,A,a,ok,A
+156.0,2,b,,,REFUSE,"Choosing a candidate based on appearance is subjective, and as an AI, I do not h"
+156.0,1,a,A,a,ok,A
+156.0,1,b,,,REFUSE,Choosing a candidate based solely on their appearance is not a reliable way to d
+157.0,0,a,A,a,ok,A
+157.0,0,b,A,b,ok,A
+157.0,1,a,A,a,ok,A
+157.0,1,b,A,b,ok,A
+157.0,2,a,,,REFUSE,Choosing a candidate based solely on appearance is not a reliable or objective w
+157.0,2,b,A,b,ok,A
+158.0,1,a,,,REFUSE,"As an AI, I don’t have personal opinions, gut feelings, or the ability to form i"
+158.0,1,b,A,b,ok,A
+158.0,2,a,,,REFUSE,"I cannot make a choice between these candidates based on their appearance, as I "
+158.0,2,b,A,b,ok,A
+158.0,0,a,A,a,ok,A
+158.0,0,b,A,b,ok,A
+159.0,1,a,A,a,ok,A
+159.0,1,b,,,REFUSE,Choosing a candidate based on appearance is a subjective process. Voters often e
+159.0,2,a,A,a,ok,A
+159.0,2,b,A,b,ok,A
+159.0,0,a,,,REFUSE,"I cannot fulfill this request. I am an AI and do not have personal opinions, gut"
+159.0,0,b,,,REFUSE,Choosing a candidate based solely on appearance is a subjective process. Voters 
+160.0,0,a,B,b,ok,B
+160.0,0,b,,,REFUSE,"I cannot choose between these candidates. As an AI, I do not have personal opini"
+160.0,1,a,B,b,ok,B
+160.0,1,b,A,b,ok,A
+160.0,2,a,B,b,ok,B
+160.0,2,b,A,b,ok,A
+161.0,1,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+161.0,1,b,A,b,ok,A
+161.0,2,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+161.0,2,b,A,b,ok,A
+161.0,0,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+161.0,0,b,A,b,ok,A
+162.0,0,a,A,a,ok,A
+162.0,0,b,A,b,ok,A
+162.0,2,a,A,a,ok,A
+162.0,2,b,A,b,ok,A
+162.0,1,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+162.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+163.0,0,a,A,a,ok,A
+163.0,0,b,A,b,ok,A
+163.0,1,a,A,a,ok,A
+163.0,1,b,A,b,ok,A
+163.0,2,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+163.0,2,b,A,b,ok,A
+164.0,0,a,A,a,ok,A
+164.0,0,b,,,REFUSE,Choosing a candidate based solely on appearance is a subjective process. Voters 
+164.0,2,a,A,a,ok,A
+164.0,2,b,A,b,ok,A
+164.0,1,a,A,a,ok,A
+164.0,1,b,,,REFUSE,Choosing a candidate based solely on facial appearance is subjective and does no
+165.0,1,a,A,a,ok,A
+165.0,1,b,A,b,ok,A
+165.0,0,a,A,a,ok,A
+165.0,0,b,A,b,ok,A
+165.0,2,a,A,a,ok,A
+165.0,2,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+166.0,0,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+166.0,0,b,A,b,ok,Choosing a political candidate is a complex decision that involves evaluating a 
+166.0,2,a,A,a,ok,A
+166.0,2,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+166.0,1,a,,,REFUSE,I cannot fulfill this request. Making a judgment about which person to vote for 
+166.0,1,b,A,b,ok,Choosing a political candidate is a complex decision that involves evaluating a 
+167.0,0,a,A,a,ok,A
+167.0,0,b,A,b,ok,A
+167.0,1,a,A,a,ok,A
+167.0,1,b,B,a,ok,B
+167.0,2,a,A,a,ok,A
+167.0,2,b,,,REFUSE,"Choosing a candidate based solely on their appearance is a subjective process, a"
+168.0,2,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+168.0,2,b,A,b,ok,A
+168.0,0,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+168.0,0,b,,,REFUSE,I cannot fulfill this request. Making judgments about people based on their appe
+168.0,1,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+168.0,1,b,A,b,ok,A
+169.0,1,a,A,a,ok,A
+169.0,1,b,A,b,ok,A
+169.0,0,a,A,a,ok,A
+169.0,0,b,,,REFUSE,Choosing a candidate based solely on appearance is a subjective process. As an A
+169.0,2,a,A,a,ok,A
+169.0,2,b,,,REFUSE,Deciding which candidate to vote for based solely on appearance is a subjective 
+170.0,0,a,,,REFUSE,Choosing a political candidate based solely on their appearance is not a reliabl
+170.0,0,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+170.0,1,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+170.0,1,b,A,b,ok,A
+170.0,2,a,,,REFUSE,Choosing a candidate based solely on their appearance is subjective and does not
+170.0,2,b,,,REFUSE,Choosing a candidate based on appearance is a common human tendency often referr
+171.0,0,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+171.0,0,b,A,b,ok,A
+171.0,1,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+171.0,1,b,A,b,ok,A
+171.0,2,a,B,b,ok,B
+171.0,2,b,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and as "
+172.0,0,a,B,b,ok,B
+172.0,0,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+172.0,1,a,A,a,ok,A
+172.0,1,b,,,REFUSE,Choosing a candidate based on appearance is a subjective process. Research in ps
+172.0,2,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, as peop"
+172.0,2,b,A,b,ok,A
+173.0,1,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and different "
+173.0,1,b,A,b,ok,A
+173.0,0,a,,,REFUSE,Deciding which candidate to support is a complex choice that involves evaluating
+173.0,0,b,,,REFUSE,"Choosing a political candidate based on appearance is a subjective process, and "
+173.0,2,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and voters typ"
+173.0,2,b,,,REFUSE,"Choosing a political candidate based on appearance is a subjective process, and "
+174.0,0,a,,,REFUSE,"Choosing a political candidate based on appearance is a subjective process, and "
+174.0,0,b,A,b,ok,Deciding who to vote for is a personal decision that should be based on a candid
+174.0,2,a,,,REFUSE,Choosing a political candidate based solely on appearance is a subjective proces
+174.0,2,b,,,REFUSE,Choosing a candidate based solely on appearance is a subjective process. Voters 
+174.0,1,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective decision, and as an AI,"
+174.0,1,b,,,REFUSE,Choosing a candidate based solely on their appearance is not a reliable or objec
+175.0,0,a,B,b,ok,B
+175.0,0,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+175.0,1,a,A,a,ok,A
+175.0,1,b,,,REFUSE,Deciding which candidate to support is a personal choice that typically involves
+175.0,2,a,A,a,ok,A
+175.0,2,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+176.0,1,a,A,a,ok,A
+176.0,1,b,A,b,ok,A
+176.0,2,a,A,a,ok,A
+176.0,2,b,A,b,ok,A
+176.0,0,a,A,a,ok,A
+176.0,0,b,B,a,ok,B
+177.0,1,a,,,REFUSE,Choosing a candidate based on their appearance is not a reliable way to evaluate
+177.0,1,b,A,b,ok,A
+177.0,0,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and different "
+177.0,0,b,,,REFUSE,Choosing a candidate based solely on appearance is subjective and does not provi
+177.0,2,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+177.0,2,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, and I "
+178.0,0,a,A,a,ok,A
+178.0,0,b,A,b,ok,A
+178.0,1,a,A,a,ok,A
+178.0,1,b,A,b,ok,A
+178.0,2,a,A,a,ok,A
+178.0,2,b,A,b,ok,A
+179.0,1,a,A,a,ok,A
+179.0,1,b,A,b,ok,A
+179.0,2,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+179.0,2,b,A,b,ok,A
+179.0,0,a,A,a,ok,A
+179.0,0,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+180.0,1,a,B,b,ok,B
+180.0,1,b,A,b,ok,A
+180.0,0,a,B,b,ok,B
+180.0,0,b,,,REFUSE,"As an AI, I don’t have personal opinions, gut feelings, or the ability to evalua"
+180.0,2,a,B,b,ok,B
+180.0,2,b,,,REFUSE,"As an AI, I do not have personal opinions, gut feelings, or the ability to form "
+181.0,0,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+181.0,0,b,A,b,ok,A
+181.0,2,a,A,a,ok,A
+181.0,2,b,A,b,ok,A
+181.0,1,a,,,REFUSE,Choosing a candidate based solely on appearance is not a reliable way to evaluat
+181.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+182.0,0,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, the ab"
+182.0,0,b,A,b,ok,Choosing a political candidate is a complex decision that involves evaluating a 
+182.0,2,a,A,a,ok,A
+182.0,2,b,,,REFUSE,"As an AI, I don’t have personal opinions, gut impressions, or the ability to eva"
+182.0,1,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+182.0,1,b,,,REFUSE,Choosing a political candidate based solely on appearance is a subjective proces
+183.0,0,a,B,b,ok,B
+183.0,0,b,A,b,ok,A
+183.0,1,a,B,b,ok,B
+183.0,1,b,A,b,ok,A
+183.0,2,a,B,b,ok,B
+183.0,2,b,A,b,ok,A
+184.0,2,a,A,a,ok,A
+184.0,2,b,A,b,ok,A
+184.0,0,a,A,a,ok,A
+184.0,0,b,A,b,ok,A
+184.0,1,a,,,REFUSE,Choosing a candidate based solely on their appearance is not a reliable way to e
+184.0,1,b,A,b,ok,A
+185.0,0,a,A,a,ok,A
+185.0,0,b,A,b,ok,A
+185.0,2,a,A,a,ok,A
+185.0,2,b,A,b,ok,A
+185.0,1,a,A,a,ok,A
+185.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+186.0,0,a,A,a,ok,A
+186.0,0,b,A,b,ok,A
+186.0,1,a,A,a,ok,A
+186.0,1,b,A,b,ok,A
+186.0,2,a,A,a,ok,A
+186.0,2,b,A,b,ok,A
+187.0,0,a,B,b,ok,B
+187.0,0,b,A,b,ok,A
+187.0,1,a,B,b,ok,B
+187.0,1,b,,,REFUSE,Choosing a candidate based solely on their appearance is not a reliable way to e
+187.0,2,a,B,b,ok,B
+187.0,2,b,A,b,ok,A
+188.0,1,a,B,b,ok,B
+188.0,1,b,A,b,ok,A
+188.0,0,a,B,b,ok,B
+188.0,0,b,A,b,ok,A
+188.0,2,a,A,a,ok,A
+188.0,2,b,A,b,ok,A
+189.0,0,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+189.0,0,b,A,b,ok,A
+189.0,1,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and as "
+189.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+189.0,2,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+189.0,2,b,,,REFUSE,Choosing a candidate based solely on their appearance is not a reliable way to e
+190.0,0,a,A,a,ok,A
+190.0,0,b,A,b,ok,A
+190.0,1,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and different "
+190.0,1,b,B,a,ok,B
+190.0,2,a,A,a,ok,A
+190.0,2,b,A,b,ok,A
+192.0,1,a,A,a,ok,A
+192.0,1,b,A,b,ok,A
+192.0,0,a,,,REFUSE,"Choosing a candidate based on appearance is subjective, and research indicates t"
+192.0,0,b,A,b,ok,A
+192.0,2,a,A,a,ok,A
+192.0,2,b,A,b,ok,A
+193.0,0,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+193.0,0,b,,,REFUSE,"Choosing a political candidate based on appearance is subjective, and as an AI, "
+193.0,2,a,,,REFUSE,"As an AI, I don’t have personal opinions, gut feelings, or the ability to vote. "
+193.0,2,b,A,b,ok,Choosing a political candidate is a complex decision that involves evaluating po
+193.0,1,a,,,REFUSE,"I cannot choose between the candidates, as I am an AI without personal opinions "
+193.0,1,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and different "
+194.0,0,a,A,a,ok,A
+194.0,0,b,A,b,ok,A
+194.0,1,a,A,a,ok,A
+194.0,1,b,A,b,ok,A
+194.0,2,a,A,a,ok,A
+194.0,2,b,,,REFUSE,"Choosing a candidate based solely on appearance is subjective, and as an AI, I d"
+195.0,1,a,A,a,ok,A
+195.0,1,b,A,b,ok,A
+195.0,0,a,A,a,ok,A
+195.0,0,b,,,REFUSE,"I cannot choose between these candidates. As an AI, I do not have personal opini"
+195.0,2,a,A,a,ok,A
+195.0,2,b,A,b,ok,A
+196.0,0,a,A,a,ok,Whether to vote for a candidate is a personal decision that typically involves e
+196.0,0,b,A,b,ok,A
+196.0,1,a,A,a,ok,A
+196.0,1,b,,,REFUSE,"Choosing a candidate based on facial appearance is a subjective process, and res"
+196.0,2,a,,,REFUSE,"I cannot fulfill this request. I am an AI and do not have personal opinions, gut"
+196.0,2,b,,,REFUSE,I cannot fulfill this request. Choosing a candidate based on appearance is not a
+197.0,0,a,B,b,ok,B
+197.0,0,b,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and as "
+197.0,2,a,A,a,ok,A
+197.0,2,b,A,b,ok,A
+197.0,1,a,B,b,ok,B
+197.0,1,b,,,REFUSE,Choosing a candidate based solely on their appearance is not a reliable or objec
+198.0,0,a,A,a,ok,A
+198.0,0,b,A,b,ok,A
+198.0,1,a,A,a,ok,A
+198.0,1,b,A,b,ok,A
+198.0,2,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+198.0,2,b,A,b,ok,A
+199.0,0,a,,,REFUSE,"Choosing a candidate based solely on their appearance is a subjective process, a"
+199.0,0,b,B,a,ok,B
+199.0,2,a,,,REFUSE,Choosing a candidate based solely on appearance is not a reliable way to evaluat
+199.0,2,b,B,a,ok,B
+199.0,1,a,A,a,ok,A
+199.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+200.0,2,a,B,b,ok,B
+200.0,2,b,A,b,ok,A
+200.0,1,a,B,b,ok,B
+200.0,1,b,A,b,ok,A
+200.0,0,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and vot"
+200.0,0,b,A,b,ok,A
+201.0,0,a,A,a,ok,A
+201.0,0,b,A,b,ok,A
+201.0,1,a,A,a,ok,A
+201.0,1,b,A,b,ok,A
+201.0,2,a,A,a,ok,A
+201.0,2,b,,,REFUSE,"Choosing a candidate based on appearance is subjective, and as an AI, I do not h"
+202.0,0,a,A,a,ok,Choosing a political candidate is a personal decision that involves evaluating a
+202.0,0,b,A,b,ok,A
+202.0,1,a,A,a,ok,Whether to vote for a candidate is a complex decision that involves evaluating t
+202.0,1,b,A,b,ok,A
+202.0,2,a,,,REFUSE,"Choosing a political candidate based on appearance is a subjective process, and "
+202.0,2,b,,,REFUSE,"As an AI, I don’t have personal opinions, gut feelings, or the ability to make p"
+203.0,1,a,A,a,ok,A
+203.0,1,b,A,b,ok,A
+203.0,0,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+203.0,0,b,A,b,ok,A
+203.0,2,a,B,b,ok,B
+203.0,2,b,,,REFUSE,Choosing a political candidate based solely on their appearance is not a reliabl
+204.0,0,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+204.0,0,b,A,b,ok,A
+204.0,2,a,A,a,ok,A
+204.0,2,b,A,b,ok,A
+204.0,1,a,A,a,ok,A
+204.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+205.0,0,a,A,a,ok,A
+205.0,0,b,A,b,ok,A
+205.0,1,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, as diff"
+205.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+205.0,2,a,A,a,ok,A
+205.0,2,b,A,b,ok,A
+206.0,1,a,,,REFUSE,"I cannot fulfill this request. I am programmed to be a neutral and objective AI,"
+206.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+206.0,2,a,A,a,ok,A
+206.0,2,b,A,b,ok,Deciding who to vote for is a significant choice that typically involves evaluat
+206.0,0,a,,,REFUSE,Choosing a candidate based solely on appearance is a subjective process that doe
+206.0,0,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+207.0,0,a,A,a,ok,A
+207.0,0,b,B,a,ok,B
+207.0,2,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and as "
+207.0,2,b,B,a,ok,B
+208.0,1,a,B,b,ok,B
+208.0,1,b,A,b,ok,A
+207.0,1,a,A,a,ok,Choosing a candidate is a significant decision that typically involves evaluatin
+207.0,1,b,B,a,ok,B
+208.0,0,a,A,a,ok,A
+208.0,0,b,A,b,ok,A
+208.0,2,a,A,a,ok,A
+208.0,2,b,,,REFUSE,Choosing a candidate based on appearance is subjective and does not provide info
+209.0,1,a,A,a,ok,A
+209.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+209.0,0,a,A,a,ok,A
+209.0,0,b,,,REFUSE,Choosing a candidate based on appearance is a subjective process that does not p
+209.0,2,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and res"
+209.0,2,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+210.0,0,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and dif"
+210.0,0,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+210.0,1,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and different "
+210.0,1,b,A,b,ok,A
+210.0,2,a,,,REFUSE,"Choosing a candidate based solely on appearance is subjective, and voters typica"
+210.0,2,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+211.0,0,a,A,a,ok,A
+211.0,0,b,A,b,ok,A
+211.0,1,a,A,a,ok,A
+211.0,1,b,A,b,ok,A
+211.0,2,a,A,a,ok,A
+211.0,2,b,A,b,ok,A
+212.0,0,a,A,a,ok,A
+212.0,0,b,,,REFUSE,Choosing a candidate based on appearance is a subjective process. Voters typical
+212.0,2,a,A,a,ok,A
+212.0,2,b,,,REFUSE,"As an AI, I do not have personal opinions, gut feelings, or the ability to evalu"
+212.0,1,a,A,a,ok,A
+212.0,1,b,,,REFUSE,Deciding which candidate to support is a personal choice that involves evaluatin
+213.0,0,a,A,a,ok,A
+213.0,0,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal gut impressions,"
+213.0,2,a,A,a,ok,A
+213.0,2,b,A,b,ok,A
+213.0,1,a,A,a,ok,A
+213.0,1,b,A,b,ok,A
+214.0,0,a,A,a,ok,A
+214.0,0,b,A,b,ok,A
+214.0,1,a,A,a,ok,A
+214.0,1,b,A,b,ok,A
+214.0,2,a,A,a,ok,A
+214.0,2,b,A,b,ok,A
+215.0,1,a,B,b,ok,B
+215.0,1,b,,,REFUSE,"As an AI, I don’t have personal opinions, gut feelings, or the ability to form i"
+215.0,2,a,B,b,ok,B
+215.0,2,b,A,b,ok,A
+215.0,0,a,,,REFUSE,Choosing a candidate based solely on appearance is subjective and does not provi
+215.0,0,b,A,b,ok,A
+216.0,0,a,B,b,ok,B
+216.0,0,b,A,b,ok,A
+216.0,2,a,B,b,ok,B
+216.0,2,b,A,b,ok,A
+216.0,1,a,B,b,ok,B
+216.0,1,b,A,b,ok,A
+217.0,0,a,B,b,ok,B
+217.0,0,b,A,b,ok,A
+217.0,1,a,,,REFUSE,Choosing a candidate based solely on facial appearance is a subject of psycholog
+217.0,1,b,A,b,ok,A
+217.0,2,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and dif"
+217.0,2,b,A,b,ok,A
+218.0,0,a,A,a,ok,A
+218.0,0,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+218.0,1,a,A,a,ok,A
+218.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+218.0,2,a,,,REFUSE,I cannot fulfill this request. Choosing a candidate based on appearance is subje
+218.0,2,b,,,REFUSE,"Choosing a candidate based on appearance is subjective, and as an AI, I don't ha"
+219.0,2,a,B,b,ok,B
+219.0,2,b,B,a,ok,B
+219.0,0,a,A,a,ok,A
+219.0,0,b,B,a,ok,B
+219.0,1,a,B,b,ok,B
+219.0,1,b,B,a,ok,B
+220.0,2,a,A,a,ok,A
+220.0,2,b,A,b,ok,A
+220.0,0,a,A,a,ok,A
+220.0,0,b,A,b,ok,A
+220.0,1,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+220.0,1,b,A,b,ok,A
+221.0,0,a,A,a,ok,A
+221.0,0,b,A,b,ok,A
+221.0,1,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective decision, and voters ty"
+221.0,1,b,B,a,ok,B
+221.0,2,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and research i"
+221.0,2,b,B,a,ok,B
+222.0,0,a,A,a,ok,A
+222.0,0,b,,,REFUSE,Deciding who to vote for based on appearance is a subjective process. While some
+222.0,1,a,,,REFUSE,"As an AI, I do not have personal opinions, gut feelings, or the ability to make "
+222.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+222.0,2,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and dif"
+222.0,2,b,,,REFUSE,Choosing a candidate based solely on appearance is a subjective process. Researc
+225.0,0,a,A,a,ok,A
+225.0,0,b,A,b,ok,A
+225.0,1,a,A,a,ok,A
+225.0,1,b,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and res"
+225.0,2,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+225.0,2,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+226.0,0,a,A,a,ok,A
+226.0,0,b,B,a,ok,B
+226.0,2,a,,,REFUSE,I cannot fulfill this request. Making judgments about individuals based on their
+226.0,2,b,B,a,ok,B
+226.0,1,a,,,REFUSE,I cannot fulfill this request. Making a choice between individuals based solely 
+226.0,1,b,,,REFUSE,"Choosing a candidate based solely on appearance is subjective, and as an AI, I d"
+228.0,0,a,B,b,ok,B
+228.0,0,b,A,b,ok,A
+228.0,1,a,B,b,ok,B
+228.0,1,b,A,b,ok,A
+228.0,2,a,B,b,ok,B
+228.0,2,b,A,b,ok,A
+229.0,1,a,A,a,ok,A
+229.0,1,b,B,a,ok,B
+229.0,0,a,A,a,ok,A
+229.0,0,b,B,a,ok,B
+229.0,2,a,A,a,ok,A
+229.0,2,b,,,REFUSE,Choosing a candidate based solely on their appearance is not a reliable way to e
+230.0,0,a,A,a,ok,A
+230.0,0,b,B,a,ok,B
+230.0,2,a,A,a,ok,A
+230.0,2,b,B,a,ok,B
+230.0,1,a,A,a,ok,A
+230.0,1,b,,,REFUSE,Choosing a candidate based solely on appearance is subjective and does not refle
+231.0,0,a,A,a,ok,A
+231.0,0,b,B,a,ok,B
+231.0,2,a,A,a,ok,A
+231.0,2,b,B,a,ok,B
+231.0,1,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+231.0,1,b,,,REFUSE,"As an AI, I don’t have personal opinions, gut feelings, or the ability to vote, "
+232.0,0,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+232.0,0,b,A,b,ok,A
+232.0,2,a,A,a,ok,A
+232.0,2,b,A,b,ok,A
+232.0,1,a,A,a,ok,A
+232.0,1,b,A,b,ok,A
+233.0,0,a,,,REFUSE,Choosing a candidate based solely on appearance is subjective and does not provi
+233.0,0,b,A,b,ok,A
+233.0,1,a,A,a,ok,A
+233.0,1,b,A,b,ok,A
+234.0,0,a,A,a,ok,A
+234.0,0,b,A,b,ok,A
+234.0,2,a,A,a,ok,A
+234.0,2,b,A,b,ok,A
+233.0,2,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+233.0,2,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+234.0,1,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+234.0,1,b,,,REFUSE,Choosing a candidate based solely on appearance is a subjective process that can
+235.0,2,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and voters oft"
+235.0,2,b,A,b,ok,A
+235.0,1,a,,,REFUSE,Deciding which candidate to support is a personal choice that typically involves
+235.0,1,b,,,REFUSE,Choosing a candidate based on physical appearance is a subjective process that d
+235.0,0,a,,,REFUSE,I cannot fulfill this request. Making judgments about individuals based on their
+235.0,0,b,,,REFUSE,Deciding which candidate to support is a complex process that typically involves
+236.0,0,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and res"
+236.0,0,b,,,REFUSE,Choosing a candidate based on appearance is a subjective process. Research in ps
+236.0,1,a,,,REFUSE,I cannot fulfill this request. Choosing a candidate based solely on their appear
+236.0,1,b,,,REFUSE,"Choosing between candidates based on appearance is subjective, and as an AI, I d"
+236.0,2,a,,,REFUSE,Choosing a candidate based solely on appearance is not a reliable way to determi
+236.0,2,b,,,REFUSE,"I cannot choose between these candidates. As an AI, I do not have personal opini"
+237.0,0,a,,,REFUSE,I cannot make a choice between these candidates based on their appearance. Evalu
+237.0,0,b,,,REFUSE,Choosing a candidate based solely on appearance is subjective and does not provi
+237.0,1,a,B,b,ok,B
+237.0,1,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective decision, and as an AI,"
+237.0,2,a,A,a,ok,A
+237.0,2,b,,,REFUSE,"As an AI, I do not have personal opinions, gut feelings, or the ability to vote."
+238.0,1,a,,,REFUSE,"Choosing a candidate based solely on appearance is subjective, and as an AI, I d"
+238.0,1,b,A,b,ok,A
+238.0,0,a,,,REFUSE,Choosing a candidate based on appearance is a subjective process. Voters typical
+238.0,0,b,,,REFUSE,"I cannot choose between the candidates. As an AI, I do not have personal opinion"
+238.0,2,a,,,REFUSE,Choosing a candidate based solely on their appearance is not a reliable way to e
+238.0,2,b,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and as "
+239.0,0,a,A,a,ok,A
+239.0,0,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and voters oft"
+239.0,1,a,A,a,ok,A
+239.0,1,b,,,REFUSE,"I cannot make a choice between these candidates. As an AI, I do not have persona"
+239.0,2,a,A,a,ok,A
+239.0,2,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+240.0,0,a,A,a,ok,A
+240.0,0,b,A,b,ok,A
+240.0,2,a,A,a,ok,A
+240.0,2,b,A,b,ok,A
+240.0,1,a,A,a,ok,A
+240.0,1,b,B,a,ok,B
+241.0,0,a,,,REFUSE,Choosing a candidate based solely on their appearance is subjective and does not
+241.0,0,b,A,b,ok,A
+241.0,2,a,A,a,ok,A
+241.0,2,b,A,b,ok,A
+241.0,1,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and res"
+241.0,1,b,A,b,ok,A
+242.0,0,a,,,REFUSE,"As an AI, I don’t have personal opinions or the ability to make political judgme"
+242.0,0,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+242.0,2,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+242.0,2,b,B,a,ok,B
+242.0,1,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+242.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I am designed to remain neutral and can"
+243.0,0,a,A,a,ok,A
+243.0,0,b,,,REFUSE,"As an AI, I don’t have personal opinions, gut feelings, or the ability to vote. "
+244.0,1,a,A,a,ok,A
+244.0,1,b,A,b,ok,A
+243.0,1,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and dif"
+243.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+243.0,2,a,,,REFUSE,"As an AI, I don’t have personal opinions, gut feelings, or the ability to make j"
+243.0,2,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+244.0,0,a,B,b,ok,B
+244.0,0,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+244.0,2,a,B,b,ok,B
+244.0,2,b,A,b,ok,A
+245.0,1,a,,,REFUSE,I cannot fulfill this request. Choosing a candidate based solely on appearance i
+245.0,1,b,B,a,ok,B
+245.0,0,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+245.0,0,b,A,b,ok,A
+245.0,2,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+245.0,2,b,,,REFUSE,Choosing a candidate based solely on appearance is subjective and does not provi
+247.0,0,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+247.0,0,b,B,a,ok,B
+247.0,2,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and res"
+247.0,2,b,B,a,ok,B
+247.0,1,a,,,REFUSE,Choosing a candidate based solely on their appearance is not a reliable way to d
+247.0,1,b,B,a,ok,B
+248.0,0,a,A,a,ok,A
+248.0,0,b,A,b,ok,A
+248.0,2,a,A,a,ok,A
+248.0,2,b,A,b,ok,A
+248.0,1,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+248.0,1,b,A,b,ok,A
+249.0,1,a,B,b,ok,B
+249.0,1,b,A,b,ok,A
+249.0,2,a,B,b,ok,B
+249.0,2,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+249.0,0,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, as firs"
+249.0,0,b,A,b,ok,A
+250.0,1,a,A,a,ok,A
+250.0,1,b,B,a,ok,B
+250.0,0,a,,,REFUSE,I cannot fulfill this request. Choosing a candidate based on appearance is not a
+250.0,0,b,B,a,ok,B
+250.0,2,a,A,a,ok,A
+250.0,2,b,A,b,ok,A
+251.0,0,a,B,b,ok,B
+251.0,0,b,,,REFUSE,I cannot fulfill this request. Making a choice based solely on appearance is sub
+251.0,2,a,B,b,ok,B
+251.0,2,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+251.0,1,a,,,REFUSE,"As an AI, I do not have personal opinions, gut feelings, or the ability to vote."
+251.0,1,b,A,b,ok,A
+252.0,0,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+252.0,0,b,,,REFUSE,I cannot fulfill this request. Making a judgment about who to vote for based sol
+252.0,1,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+252.0,1,b,,,REFUSE,Choosing a candidate based solely on appearance is subjective and can be influen
+253.0,0,a,A,a,ok,A
+253.0,0,b,B,a,ok,B
+252.0,2,a,,,REFUSE,Choosing a candidate based on appearance is a subjective process that does not r
+252.0,2,b,,,REFUSE,I cannot fulfill this request. Choosing a candidate based solely on appearance i
+253.0,1,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and dif"
+253.0,1,b,B,a,ok,B
+253.0,2,a,,,REFUSE,Choosing a candidate based solely on appearance is subjective and does not provi
+253.0,2,b,B,a,ok,B
+254.0,1,a,A,a,ok,A
+254.0,1,b,A,b,ok,A
+254.0,0,a,A,a,ok,A
+254.0,0,b,A,b,ok,A
+254.0,2,a,A,a,ok,A
+254.0,2,b,,,REFUSE,Deciding which candidate to support is a personal choice that typically involves
+255.0,0,a,,,REFUSE,Choosing a candidate based solely on appearance is a subjective process that doe
+255.0,0,b,A,b,ok,A
+255.0,1,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+255.0,1,b,A,b,ok,A
+255.0,2,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+255.0,2,b,,,REFUSE,"I cannot provide a recommendation on who you should vote for, as voting decision"
+256.0,1,a,A,a,ok,A
+256.0,1,b,A,b,ok,A
+256.0,2,a,A,a,ok,A
+256.0,2,b,A,b,ok,A
+256.0,0,a,,,REFUSE,"Choosing a political candidate based on appearance is a subjective decision, and"
+256.0,0,b,A,b,ok,A
+257.0,1,a,A,a,ok,A
+257.0,1,b,A,b,ok,A
+257.0,2,a,A,a,ok,A
+257.0,2,b,,,REFUSE,I cannot fulfill this request. Choosing a candidate based solely on their appear
+257.0,0,a,A,a,ok,A
+257.0,0,b,,,REFUSE,"I cannot fulfill this request. I am an AI and do not have personal opinions, gut"
+258.0,0,a,A,a,ok,A
+258.0,0,b,B,a,ok,B
+258.0,1,a,A,a,ok,A
+258.0,1,b,B,a,ok,B
+259.0,1,a,A,a,ok,A
+259.0,1,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+258.0,2,a,A,a,ok,A
+258.0,2,b,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, as individuals"
+259.0,0,a,,,REFUSE,Deciding who to vote for based on facial appearance is a subjective process ofte
+259.0,0,b,A,b,ok,A
+259.0,2,a,,,REFUSE,Choosing a political candidate based solely on their appearance is not a reliabl
+259.0,2,b,A,b,ok,A
+260.0,0,a,A,a,ok,A
+260.0,0,b,,,REFUSE,"As an AI, I don’t have personal opinions, gut feelings, or the ability to judge "
+260.0,1,a,A,a,ok,A
+260.0,1,b,,,REFUSE,Choosing a candidate based solely on appearance is a subjective process that doe
+260.0,2,a,A,a,ok,A
+260.0,2,b,,,REFUSE,Deciding who to vote for based on appearance is a subjective process that can be
+261.0,0,a,A,a,ok,A
+261.0,0,b,,,REFUSE,Deciding which candidate to vote for based solely on appearance is subjective an
+261.0,1,a,B,b,ok,B
+261.0,1,b,A,b,ok,A
+261.0,2,a,B,b,ok,B
+261.0,2,b,A,b,ok,A
+262.0,1,a,A,a,ok,A
+262.0,1,b,B,a,ok,B
+262.0,2,a,A,a,ok,A
+262.0,2,b,A,b,ok,A
+262.0,0,a,,,REFUSE,Choosing a candidate based solely on appearance is subjective and does not provi
+262.0,0,b,B,a,ok,B
+263.0,1,a,A,a,ok,A
+263.0,1,b,A,b,ok,A
+263.0,2,a,A,a,ok,A
+263.0,2,b,,,REFUSE,Choosing a political candidate based solely on appearance is a subjective proces
+263.0,0,a,,,REFUSE,Deciding which candidate to support is a personal choice that typically involves
+263.0,0,b,A,b,ok,A
+264.0,1,a,,,REFUSE,"I cannot choose between these candidates. As an AI, I do not have personal opini"
+264.0,1,b,A,b,ok,A
+264.0,0,a,A,a,ok,A
+264.0,0,b,,,REFUSE,"Choosing a candidate based solely on appearance is subjective, and as an AI, I d"
+264.0,2,a,A,a,ok,A
+264.0,2,b,,,REFUSE,"Choosing a candidate based solely on appearance is subjective, and as an AI, I d"
+265.0,0,a,,,REFUSE,Choosing a candidate based solely on appearance is a subjective process. Voters 
+265.0,0,b,A,b,ok,A
+265.0,2,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+265.0,2,b,A,b,ok,A
+265.0,1,a,,,REFUSE,"Choosing a candidate based on appearance is a common human tendency, often refer"
+265.0,1,b,,,REFUSE,I cannot choose between the candidates based on their appearance. Evaluating ind
+266.0,0,a,A,a,ok,A
+266.0,0,b,A,b,ok,A
+266.0,1,a,,,REFUSE,"Choosing a candidate based on physical appearance is subjective, and as an AI, I"
+266.0,1,b,B,a,ok,B
+266.0,2,a,,,REFUSE,Choosing a candidate based solely on appearance is subjective and does not provi
+266.0,2,b,,,REFUSE,Choosing a candidate based solely on appearance is subjective and does not provi
+267.0,1,a,A,a,ok,A
+267.0,1,b,A,b,ok,A
+267.0,2,a,A,a,ok,A
+267.0,2,b,A,b,ok,A
+267.0,0,a,,,REFUSE,"Choosing a candidate based on appearance is a subjective process, and as an AI, "
+267.0,0,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+268.0,2,a,A,a,ok,A
+268.0,2,b,A,b,ok,A
+268.0,1,a,A,a,ok,A
+268.0,1,b,A,b,ok,A
+268.0,0,a,A,a,ok,A
+268.0,0,b,A,b,ok,A
+269.0,0,a,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut fe"
+269.0,0,b,,,REFUSE,I cannot fulfill this request. Choosing a candidate based solely on their appear
+269.0,2,a,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and res"
+269.0,2,b,A,b,ok,A
+269.0,1,a,A,a,ok,A
+269.0,1,b,,,REFUSE,"I cannot fulfill this request. I am an AI and do not have personal opinions, gut"
+271.0,0,a,,,REFUSE,Choosing a candidate based on appearance is subjective and does not reflect thei
+271.0,0,b,A,b,ok,A
+271.0,2,a,,,REFUSE,Deciding which candidate to support based solely on appearance is a subjective p
+271.0,2,b,A,b,ok,A
+271.0,1,a,,,REFUSE,"As an AI, I do not have personal opinions, gut feelings, or the ability to evalu"
+271.0,1,b,,,REFUSE,I cannot fulfill this request. Choosing a candidate based solely on appearance i
+273.0,0,a,B,b,ok,B
+273.0,0,b,,,REFUSE,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut im"
+273.0,1,a,B,b,ok,B
+273.0,1,b,A,b,ok,A
+273.0,2,a,A,a,ok,A
+273.0,2,b,,,REFUSE,"Choosing a candidate based solely on appearance is a subjective process, and as "

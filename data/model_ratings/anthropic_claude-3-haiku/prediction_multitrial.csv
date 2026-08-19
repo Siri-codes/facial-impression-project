@@ -1,0 +1,281 @@
+election_id,trial,slotA_face,chosen_slot,chosen_face,status,raw
+1.0,0,a,B,b,ok,B
+1.0,0,b,B,a,ok,B
+1.0,1,a,B,b,ok,B
+1.0,1,b,B,a,ok,B
+1.0,2,a,B,b,ok,B
+1.0,2,b,B,a,ok,B
+2.0,0,a,B,b,ok,B
+2.0,0,b,B,a,ok,B
+2.0,1,a,B,b,ok,B
+2.0,1,b,B,a,ok,B
+2.0,2,a,B,b,ok,B
+2.0,2,b,B,a,ok,B
+3.0,0,a,B,b,ok,B
+3.0,0,b,B,a,ok,B
+3.0,1,a,B,b,ok,B
+3.0,1,b,B,a,ok,B
+3.0,2,a,B,b,ok,B
+3.0,2,b,B,a,ok,B
+4.0,0,a,B,b,ok,B
+4.0,0,b,B,a,ok,B
+4.0,1,a,,,REFUSE,I will not speculate on or make judgments about individuals based solely on thei
+4.0,1,b,B,a,ok,B
+5.0,1,a,B,b,ok,B
+5.0,1,b,B,a,ok,B
+5.0,0,a,B,b,ok,B
+5.0,0,b,B,a,ok,B
+4.0,2,a,B,b,ok,B
+4.0,2,b,B,a,ok,B
+5.0,2,a,B,b,ok,B
+5.0,2,b,B,a,ok,B
+6.0,0,a,B,b,ok,B
+6.0,0,b,B,a,ok,B
+6.0,2,a,B,b,ok,B
+6.0,2,b,B,a,ok,B
+6.0,1,a,B,b,ok,B
+6.0,1,b,B,a,ok,B
+7.0,0,a,B,b,ok,B
+7.0,0,b,,,REFUSE,I will not speculate on or make judgments about candidates based solely on their
+8.0,0,a,B,b,ok,B
+8.0,0,b,B,a,ok,B
+7.0,1,a,B,b,ok,B
+7.0,1,b,,,REFUSE,I will not speculate on or make judgments about individuals based solely on thei
+7.0,2,a,,,REFUSE,I will not speculate on or make judgments about people's electability based sole
+7.0,2,b,,,REFUSE,I will not speculate on or make judgments about candidates based solely on their
+8.0,1,a,B,b,ok,B
+8.0,1,b,B,a,ok,B
+8.0,2,a,B,b,ok,B
+8.0,2,b,B,a,ok,B
+9.0,0,a,B,b,ok,B
+9.0,0,b,B,a,ok,B
+9.0,1,a,B,b,ok,B
+9.0,1,b,B,a,ok,B
+9.0,2,a,B,b,ok,B
+9.0,2,b,B,a,ok,B
+10.0,0,a,B,b,ok,B
+10.0,0,b,B,a,ok,B
+10.0,1,a,B,b,ok,B
+10.0,1,b,B,a,ok,B
+10.0,2,a,B,b,ok,B
+10.0,2,b,B,a,ok,B
+11.0,0,a,B,b,ok,B
+11.0,0,b,B,a,ok,B
+11.0,1,a,B,b,ok,B
+11.0,1,b,B,a,ok,B
+11.0,2,a,B,b,ok,B
+11.0,2,b,,,REFUSE,I will not speculate on or make judgments about the candidates based solely on t
+12.0,0,a,,,REFUSE,"I apologize, but I do not feel comfortable speculating about or making predictio"
+12.0,0,b,,,REFUSE,I will not speculate on or make judgments about candidates based solely on their
+12.0,1,a,,,REFUSE,I will not speculate on or make judgments about people's appearances or make pre
+12.0,1,b,B,a,ok,B
+12.0,2,a,,,REFUSE,I will not speculate on or make judgments about people's appearances or make pre
+12.0,2,b,,,REFUSE,I will not speculate on or make judgments about candidates based solely on their
+13.0,0,a,,,REFUSE,I will not speculate on or make judgments about candidates based solely on their
+13.0,0,b,B,a,ok,B
+13.0,1,a,,,REFUSE,"I apologize, but I do not feel comfortable speculating about or making judgments"
+13.0,1,b,B,a,ok,B
+13.0,2,a,B,b,ok,B
+13.0,2,b,B,a,ok,B
+14.0,0,a,,,REFUSE,I will not speculate on or make judgments about candidates based solely on their
+14.0,0,b,,,REFUSE,I will not speculate on or make judgments about the candidates based solely on t
+14.0,1,a,B,b,ok,B
+14.0,1,b,,,REFUSE,I will not speculate on or make judgments about the candidates based solely on t
+15.0,0,a,,,REFUSE,I will not speculate on or make judgments about which candidate may win an elect
+15.0,0,b,B,a,ok,B
+14.0,2,a,B,b,ok,B
+14.0,2,b,,,REFUSE,I will not speculate on or make judgments about people's electability based sole
+15.0,1,a,,,REFUSE,I will not speculate on or make judgments about which candidate may win an elect
+15.0,1,b,B,a,ok,B
+15.0,2,a,,,REFUSE,I will not speculate on or make judgments about the candidates based solely on t
+15.0,2,b,B,a,ok,B
+16.0,0,a,B,b,ok,B
+16.0,0,b,B,a,ok,B
+16.0,1,a,B,b,ok,B
+16.0,1,b,B,a,ok,B
+16.0,2,a,B,b,ok,B
+16.0,2,b,B,a,ok,B
+17.0,0,a,B,b,ok,B
+17.0,0,b,B,a,ok,B
+17.0,2,a,B,b,ok,B
+17.0,2,b,B,a,ok,B
+17.0,1,a,B,b,ok,B
+17.0,1,b,B,a,ok,B
+18.0,0,a,B,b,ok,B
+18.0,0,b,,,REFUSE,I will not speculate on or make judgments about the candidates based solely on t
+18.0,1,a,B,b,ok,B
+18.0,1,b,,,REFUSE,"I apologize, but I do not feel comfortable speculating about or making judgments"
+19.0,0,a,B,b,ok,B
+19.0,0,b,B,a,ok,B
+18.0,2,a,,,REFUSE,I will not speculate on or make judgments about the candidates based solely on t
+18.0,2,b,,,REFUSE,I will not speculate on or make judgments about the candidates based solely on t
+19.0,1,a,B,b,ok,B
+19.0,1,b,B,a,ok,B
+19.0,2,a,,,REFUSE,I will not speculate on or make judgments about the candidates based solely on t
+19.0,2,b,B,a,ok,B
+20.0,0,a,B,b,ok,B
+20.0,0,b,B,a,ok,B
+20.0,2,a,B,b,ok,B
+20.0,2,b,B,a,ok,B
+20.0,1,a,B,b,ok,B
+20.0,1,b,,,REFUSE,I will not speculate on or make judgments about candidates based solely on their
+21.0,1,a,B,b,ok,B
+21.0,1,b,B,a,ok,B
+21.0,0,a,B,b,ok,B
+21.0,0,b,B,a,ok,B
+21.0,2,a,,,REFUSE,I will not speculate on or make judgments about the candidates based solely on t
+21.0,2,b,B,a,ok,B
+22.0,0,a,,,REFUSE,I will not speculate on or make judgments about the candidates based solely on t
+22.0,0,b,B,a,ok,B
+22.0,2,a,,,REFUSE,I will not speculate on or make judgments about the candidates based solely on t
+22.0,2,b,B,a,ok,B
+22.0,1,a,,,REFUSE,I will not speculate on or make judgments about the candidates based solely on t
+22.0,1,b,B,a,ok,B
+23.0,0,a,B,b,ok,B
+23.0,0,b,B,a,ok,B
+23.0,1,a,B,b,ok,B
+23.0,1,b,,,REFUSE,"I apologize, but I do not feel comfortable speculating about or making judgments"
+24.0,1,a,B,b,ok,B
+24.0,1,b,B,a,ok,B
+24.0,0,a,B,b,ok,B
+24.0,0,b,B,a,ok,B
+23.0,2,a,B,b,ok,B
+23.0,2,b,,,REFUSE,"I apologize, but I do not feel comfortable speculating about or making judgments"
+24.0,2,a,B,b,ok,B
+24.0,2,b,B,a,ok,B
+25.0,0,a,,,REFUSE,I will not speculate on or make judgments about the candidates based solely on t
+25.0,0,b,B,a,ok,B
+25.0,1,a,B,b,ok,B
+25.0,1,b,B,a,ok,B
+25.0,2,a,B,b,ok,B
+25.0,2,b,B,a,ok,B
+26.0,0,a,,,REFUSE,I will not speculate on or make judgments about the candidates based solely on t
+26.0,0,b,B,a,ok,B
+26.0,2,a,B,b,ok,B
+26.0,2,b,B,a,ok,B
+26.0,1,a,B,b,ok,B
+26.0,1,b,B,a,ok,B
+27.0,0,a,B,b,ok,B
+27.0,0,b,B,a,ok,B
+27.0,1,a,B,b,ok,B
+27.0,1,b,B,a,ok,B
+27.0,2,a,B,b,ok,B
+27.0,2,b,B,a,ok,B
+28.0,0,a,,,REFUSE,I will not speculate on or make judgments about the candidates based solely on t
+28.0,0,b,B,a,ok,B
+28.0,1,a,B,b,ok,B
+28.0,1,b,B,a,ok,B
+28.0,2,a,,,REFUSE,I will not speculate on or make judgments about the candidates based solely on t
+28.0,2,b,B,a,ok,B
+29.0,0,a,,,REFUSE,I will not speculate on or make judgments about candidates based solely on their
+29.0,0,b,B,a,ok,B
+29.0,1,a,,,REFUSE,I will not speculate about or make judgments based solely on the appearance of t
+29.0,1,b,B,a,ok,B
+29.0,2,a,,,REFUSE,I will not speculate on or make judgments about candidates based solely on their
+29.0,2,b,B,a,ok,B
+30.0,0,a,,,REFUSE,I will not speculate on or make judgments about candidates based solely on their
+30.0,0,b,B,a,ok,B
+30.0,1,a,,,REFUSE,I will not speculate on or make judgments about candidates based solely on their
+30.0,1,b,B,a,ok,B
+30.0,2,a,,,REFUSE,I will not speculate on or make judgments about candidates based solely on their
+30.0,2,b,B,a,ok,B
+31.0,1,a,,,REFUSE,"I apologize, but I do not feel comfortable speculating about or making predictio"
+31.0,1,b,,,REFUSE,I will not speculate on or make judgments about the candidates based solely on t
+31.0,0,a,,,REFUSE,"I apologize, but I do not feel comfortable speculating about or making predictio"
+31.0,0,b,,,REFUSE,I will not speculate on or make judgments about the candidates based solely on t
+31.0,2,a,,,REFUSE,I will not speculate on or make judgments about the candidates based solely on t
+31.0,2,b,,,REFUSE,I will not speculate on or make judgments about the candidates based solely on t
+32.0,0,a,B,b,ok,B
+32.0,0,b,B,a,ok,B
+32.0,1,a,B,b,ok,B
+32.0,1,b,B,a,ok,B
+32.0,2,a,B,b,ok,B
+32.0,2,b,B,a,ok,B
+33.0,0,a,B,b,ok,B
+33.0,0,b,B,a,ok,B
+33.0,1,a,B,b,ok,B
+33.0,1,b,B,a,ok,B
+33.0,2,a,B,b,ok,B
+33.0,2,b,B,a,ok,B
+34.0,0,a,B,b,ok,B
+34.0,0,b,B,a,ok,B
+34.0,1,a,B,b,ok,B
+34.0,1,b,B,a,ok,B
+34.0,2,a,B,b,ok,B
+34.0,2,b,B,a,ok,B
+35.0,0,a,B,b,ok,B
+35.0,0,b,B,a,ok,B
+35.0,1,a,B,b,ok,B
+35.0,1,b,B,a,ok,B
+35.0,2,a,B,b,ok,B
+35.0,2,b,B,a,ok,B
+36.0,1,a,B,b,ok,B
+36.0,1,b,B,a,ok,B
+36.0,0,a,B,b,ok,B
+36.0,0,b,B,a,ok,B
+36.0,2,a,B,b,ok,B
+36.0,2,b,B,a,ok,B
+37.0,0,a,B,b,ok,B
+37.0,0,b,B,a,ok,B
+37.0,1,a,B,b,ok,B
+37.0,1,b,B,a,ok,B
+37.0,2,a,B,b,ok,B
+37.0,2,b,B,a,ok,B
+38.0,0,a,,,REFUSE,I will not speculate on or make judgments about candidates based solely on their
+38.0,0,b,B,a,ok,B
+38.0,1,a,,,REFUSE,I will not speculate on or make judgments about the candidates based solely on t
+38.0,1,b,B,a,ok,B
+38.0,2,a,,,REFUSE,I will not speculate on or make judgments about candidates based solely on their
+38.0,2,b,B,a,ok,B
+39.0,1,a,B,b,ok,B
+39.0,1,b,B,a,ok,B
+39.0,0,a,B,b,ok,B
+39.0,0,b,B,a,ok,B
+39.0,2,a,B,b,ok,B
+39.0,2,b,B,a,ok,B
+40.0,1,a,B,b,ok,B
+40.0,1,b,B,a,ok,B
+40.0,0,a,B,b,ok,B
+40.0,0,b,,,REFUSE,I will not speculate on or make judgments about the candidates based solely on t
+40.0,2,a,B,b,ok,B
+40.0,2,b,,,REFUSE,I will not speculate on or make judgments about the candidates based solely on t
+41.0,0,a,B,b,ok,B
+41.0,0,b,B,a,ok,B
+41.0,1,a,B,b,ok,B
+41.0,1,b,B,a,ok,B
+42.0,0,a,,,REFUSE,I will not speculate on or make judgments about the candidates based solely on t
+42.0,0,b,B,a,ok,B
+42.0,1,a,B,b,ok,B
+42.0,1,b,,,REFUSE,I will not speculate on or make judgments about individuals based solely on thei
+42.0,2,a,,,REFUSE,"I apologize, but I do not feel comfortable speculating about or making predictio"
+42.0,2,b,B,a,ok,B
+41.0,2,a,B,b,ok,B
+41.0,2,b,B,a,ok,B
+43.0,0,a,B,b,ok,B
+43.0,0,b,B,a,ok,B
+43.0,1,a,B,b,ok,B
+43.0,1,b,B,a,ok,B
+43.0,2,a,B,b,ok,B
+43.0,2,b,B,a,ok,B
+44.0,0,a,B,b,ok,B
+44.0,0,b,B,a,ok,B
+44.0,1,a,B,b,ok,B
+44.0,1,b,B,a,ok,B
+44.0,2,a,B,b,ok,B
+44.0,2,b,B,a,ok,B
+45.0,0,a,,,REFUSE,I will not speculate on or make judgments about candidates based solely on their
+45.0,0,b,B,a,ok,B
+45.0,1,a,,,REFUSE,I will not speculate on or make judgments about candidates based solely on their
+45.0,1,b,B,a,ok,B
+45.0,2,a,,,REFUSE,I will not speculate on or make judgments about candidates based solely on their
+45.0,2,b,B,a,ok,B
+46.0,0,a,,,REFUSE,I will not speculate on or make judgments about the candidates based solely on t
+46.0,0,b,B,a,ok,B
+46.0,1,a,,,REFUSE,"I apologize, but I do not feel comfortable speculating about or making judgments"
+46.0,1,b,B,a,ok,B
+46.0,2,a,,,REFUSE,I will not speculate on or make judgments about the candidates based solely on t
+46.0,2,b,B,a,ok,B
+47.0,0,a,B,b,ok,B
+47.0,0,b,B,a,ok,B
+47.0,1,a,B,b,ok,B
+47.0,1,b,B,a,ok,B

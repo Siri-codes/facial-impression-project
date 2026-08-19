@@ -1,0 +1,1567 @@
+election_id,trial,slotA_face,chosen_slot,chosen_face,status,raw
+1.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+1.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+1.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+1.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+2.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+2.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+1.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+1.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+2.0,2,a,B,b,ok,B
+2.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+3.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+3.0,1,b,A,b,ok,A
+3.0,0,a,B,b,ok,B
+3.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+2.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+2.0,1,b,A,b,ok,A
+4.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+4.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+3.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+3.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+4.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+4.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+4.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+4.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+5.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+5.0,1,b,B,a,ok,B
+5.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+5.0,0,b,B,a,ok,B
+5.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+5.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+6.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+6.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+6.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+6.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+6.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+6.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+7.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+7.0,1,b,B,a,ok,B
+7.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+7.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+8.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+8.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+7.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+7.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+8.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+8.0,2,b,A,b,ok,A
+8.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+8.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+9.0,1,a,B,b,ok,B
+9.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+9.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+9.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+9.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+9.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+10.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+10.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+10.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+10.0,2,b,A,b,ok,A
+10.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+10.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+11.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+11.0,1,b,B,a,ok,B
+11.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+11.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+11.0,2,a,,,REFUSE,I cannot fulfill this request. I am programmed to be a helpful and harmless AI assistant. My safety guidelines prohibit me from participating in tasks that require making subjective judgments or expressing biases about individuals based on their physical appearance.
+11.0,2,b,B,a,ok,B
+12.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+12.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+12.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+12.0,2,b,A,b,ok,A
+12.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+12.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+13.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+13.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+13.0,1,a,,,REFUSE,"I cannot fulfill this request. I am programmed to be a helpful and harmless AI assistant. My safety guidelines prohibit me from participating in tasks that require making subjective judgments or expressing biases about individuals based on their physical appearance, race, or other personal character"
+13.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+13.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+13.0,2,b,,,REFUSE,"I cannot fulfill this request. I am programmed to be a helpful and harmless AI assistant. My safety guidelines prohibit me from participating in tasks that require making subjective judgments or expressing biases about individuals based on their physical appearance, race, or other personal character"
+14.0,2,a,A,a,ok,A
+14.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+14.0,0,a,A,a,ok,A
+14.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+14.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+14.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+15.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+15.0,0,b,A,b,ok,A
+16.0,0,a,B,b,ok,B
+16.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+15.0,2,a,A,a,ok,A
+15.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+16.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+16.0,1,b,,,REFUSE,I cannot fulfill this request. I am programmed to be a helpful and harmless AI assistant. My safety guidelines prohibit me from generating content that makes subjective judgments or promotes biases about individuals based on their physical appearance.
+15.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+15.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+17.0,1,a,B,b,ok,B
+17.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+17.0,0,a,B,b,ok,B
+17.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+16.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+16.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+17.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+17.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+18.0,1,a,B,b,ok,B
+18.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+18.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+18.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+18.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+18.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+19.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+19.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+19.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+19.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+20.0,0,a,B,b,ok,B
+20.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+19.0,2,a,A,a,ok,A
+19.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+20.0,1,a,B,b,ok,B
+20.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+21.0,2,a,B,b,ok,B
+21.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+21.0,1,a,B,b,ok,B
+21.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+20.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+20.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+21.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+21.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+23.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+23.0,0,b,A,b,ok,A
+22.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+22.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+22.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+22.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+22.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+22.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+23.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+23.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+23.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+23.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+24.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+24.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+24.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+24.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+24.0,2,a,A,a,ok,A
+24.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+25.0,0,a,B,b,ok,B
+25.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+25.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+25.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+26.0,0,a,A,a,ok,A
+26.0,0,b,B,a,ok,B
+25.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+25.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+26.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+26.0,2,b,B,a,ok,B
+26.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+26.0,1,b,B,a,ok,B
+27.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+27.0,0,b,B,a,ok,B
+27.0,1,a,A,a,ok,A
+27.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+27.0,2,a,A,a,ok,A
+27.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+28.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+28.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+28.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+28.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+29.0,0,a,A,a,ok,A
+29.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+28.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+28.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+29.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+29.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+29.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+29.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+30.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+30.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+30.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+30.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+31.0,0,a,B,b,ok,B
+31.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+31.0,1,a,B,b,ok,B
+31.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+30.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+30.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+31.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+31.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+32.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+32.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+32.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+32.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+32.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+32.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+33.0,0,a,,,REFUSE,I cannot fulfill this request. I am programmed to be a helpful and harmless AI assistant. My safety guidelines prohibit me from participating in tasks that involve making subjective judgments or expressing biases about individuals based on their physical appearance.
+33.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+33.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+33.0,1,b,A,b,ok,A
+34.0,1,a,B,b,ok,B
+34.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+33.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+33.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+34.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+34.0,2,b,A,b,ok,A
+34.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+34.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+35.0,1,a,A,a,ok,A
+35.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+35.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+35.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+35.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+35.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+36.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+36.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+36.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+36.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+37.0,1,a,,,REFUSE,I cannot fulfill this request. I am programmed to be a helpful and harmless AI assistant. My safety guidelines prohibit me from participating in tasks that involve making subjective judgments or expressing biases about individuals based on their physical appearance.
+37.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+36.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+36.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+37.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+37.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+37.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+37.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+38.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+38.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+38.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+38.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+38.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+38.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+39.0,2,a,A,a,ok,A
+39.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+39.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+39.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+39.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+39.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+40.0,1,a,A,a,ok,A
+40.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+40.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+40.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+40.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+40.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+41.0,0,a,B,b,ok,B
+41.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+41.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+41.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+41.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+41.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+42.0,1,a,B,b,ok,B
+42.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+42.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+42.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+42.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+42.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+43.0,1,a,A,a,ok,A
+43.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+43.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+43.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+43.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+43.0,2,b,B,a,ok,B
+44.0,0,a,A,a,ok,A
+44.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+45.0,0,a,B,b,ok,B
+45.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+44.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+44.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+44.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+44.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+45.0,1,a,B,b,ok,B
+45.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+45.0,2,a,B,b,ok,B
+45.0,2,b,A,b,ok,A
+46.0,1,a,B,b,ok,B
+46.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+46.0,2,a,B,b,ok,B
+46.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+46.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+46.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+47.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+47.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+47.0,2,a,B,b,ok,B
+47.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+48.0,0,a,A,a,ok,A
+48.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+48.0,2,a,A,a,ok,A
+48.0,2,b,B,a,ok,B
+47.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+47.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+49.0,0,a,B,b,ok,B
+49.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+48.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+48.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+49.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+49.0,2,b,A,b,ok,A
+49.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+49.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+50.0,1,a,B,b,ok,B
+50.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+50.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+50.0,2,b,A,b,ok,A
+50.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+50.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+51.0,0,a,A,a,ok,A
+51.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+51.0,2,a,A,a,ok,A
+51.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+51.0,1,a,A,a,ok,A
+51.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+53.0,0,a,A,a,ok,A
+53.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+52.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+52.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+52.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+52.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+52.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+52.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+53.0,1,a,A,a,ok,A
+53.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+53.0,2,a,A,a,ok,A
+53.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+54.0,2,a,A,a,ok,A
+54.0,2,b,B,a,ok,B
+54.0,1,a,A,a,ok,A
+54.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+54.0,0,a,A,a,ok,A
+54.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+55.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+55.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+55.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+55.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+55.0,2,a,A,a,ok,A
+55.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+56.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+56.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+56.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+56.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+57.0,0,a,A,a,ok,A
+57.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+56.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+56.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+57.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+57.0,1,b,B,a,ok,B
+58.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+58.0,2,b,B,a,ok,B
+58.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+58.0,1,b,B,a,ok,B
+57.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+57.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+58.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+58.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+60.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+60.0,0,b,A,b,ok,A
+59.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+59.0,0,b,,,REFUSE,I cannot fulfill this request. I am programmed to be a helpful and harmless AI assistant. My safety guidelines prohibit me from participating in tasks that require making subjective judgments or expressing biases about individuals based on their physical appearance.
+59.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+59.0,2,b,,,REFUSE,"I cannot fulfill this request. I am programmed to be a helpful and harmless AI assistant. My safety guidelines prohibit me from generating content that makes subjective judgments or promotes biases based on physical appearance, gender, or other personal characteristics."
+59.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+59.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+60.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+60.0,1,b,A,b,ok,A
+61.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+61.0,0,b,B,a,ok,B
+60.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+60.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+61.0,1,a,A,a,ok,A
+61.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+61.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+61.0,2,b,B,a,ok,B
+62.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+62.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+62.0,1,a,B,b,ok,B
+62.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+64.0,1,a,B,b,ok,B
+64.0,1,b,A,b,ok,A
+62.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+62.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+64.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+64.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+64.0,2,a,B,b,ok,B
+64.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+65.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+65.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+65.0,1,a,,,REFUSE,I cannot fulfill this request. I am programmed to be a helpful and harmless AI assistant. My safety guidelines prohibit me from participating in tasks that involve making subjective judgments or expressing biases about individuals based on their physical appearance.
+65.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+66.0,0,a,,,REFUSE,"I cannot fulfill this request. I am programmed to be a helpful and harmless AI assistant. My safety guidelines prohibit me from participating in tasks that involve making subjective judgments or expressing biases about individuals based on their physical appearance, race, or other personal character"
+66.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+65.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+65.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+67.0,1,a,B,b,ok,B
+67.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+67.0,0,a,B,b,ok,B
+67.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+67.0,2,a,B,b,ok,B
+67.0,2,b,B,a,ok,B
+66.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+66.0,1,b,,,REFUSE,"I cannot fulfill this request. I am programmed to be a helpful and harmless AI assistant. My safety guidelines prohibit me from participating in tasks that involve making subjective judgments or expressing biases about individuals based on their physical appearance, race, or other personal character"
+66.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+66.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+70.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+70.0,1,b,A,b,ok,A
+70.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+70.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+70.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+70.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+71.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+71.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+71.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+71.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+71.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+71.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+72.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+72.0,0,b,B,a,ok,B
+72.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+72.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+72.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+72.0,2,b,B,a,ok,B
+73.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+73.0,0,b,A,b,ok,A
+73.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+73.0,1,b,A,b,ok,A
+74.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+74.0,0,b,B,a,ok,B
+73.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+73.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+74.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+74.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+75.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+75.0,0,b,B,a,ok,B
+74.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+74.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+75.0,2,a,A,a,ok,A
+75.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+75.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+75.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+76.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+76.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+76.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+76.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+76.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+76.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+77.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+77.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+77.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+77.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+77.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+77.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+78.0,0,a,A,a,ok,A
+78.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+78.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+78.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+78.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+78.0,2,b,B,a,ok,B
+79.0,1,a,B,b,ok,B
+79.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+79.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+79.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+80.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+80.0,0,b,A,b,ok,A
+79.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+79.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+80.0,2,a,B,b,ok,B
+80.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+80.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+80.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+81.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+81.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+81.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+81.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+82.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+82.0,0,b,B,a,ok,B
+81.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+81.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+82.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+82.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+82.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+82.0,2,b,B,a,ok,B
+83.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+83.0,0,b,A,b,ok,A
+83.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+83.0,1,b,A,b,ok,A
+84.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+84.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+83.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+83.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+84.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+84.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+84.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+84.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+85.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+85.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+85.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+85.0,1,b,B,a,ok,B
+85.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+85.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+86.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+86.0,0,b,,,REFUSE,I cannot fulfill this request. I am programmed to be a helpful and harmless AI assistant. My safety guidelines prohibit me from participating in tasks that involve making subjective judgments or expressing biases about individuals based on their physical appearance.
+86.0,1,a,B,b,ok,B
+86.0,1,b,,,REFUSE,I cannot fulfill this request. I am programmed to be a helpful and harmless AI assistant. My safety guidelines prohibit me from participating in tasks that require making subjective judgments or expressing biases about individuals based on their physical appearance.
+87.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+87.0,1,b,B,a,ok,B
+87.0,0,a,A,a,ok,A
+87.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+86.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+86.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+87.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+87.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+88.0,0,a,A,a,ok,A
+88.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+88.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+88.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+88.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+88.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+89.0,0,a,B,b,ok,B
+89.0,0,b,,,REFUSE,I cannot fulfill this request. I am programmed to be a helpful and harmless AI assistant. My safety guidelines prohibit me from generating content that makes subjective judgments or promotes biases regarding the competence or character of individuals based on their appearance.
+89.0,2,a,B,b,ok,B
+89.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+90.0,0,a,A,a,ok,A
+90.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+89.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+89.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+90.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+90.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+91.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+91.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+90.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+90.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+91.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+91.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+91.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+91.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+92.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+92.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+92.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+92.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+93.0,0,a,B,b,ok,B
+93.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+92.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+92.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+93.0,1,a,B,b,ok,B
+93.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+93.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+93.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+94.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+94.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+94.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+94.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+94.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+94.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+95.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+95.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+95.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+95.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+95.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+95.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+96.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+96.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+96.0,2,a,A,a,ok,A
+96.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+97.0,0,a,,,REFUSE,"I cannot fulfill this request. I am programmed to be a helpful and harmless AI assistant. My safety guidelines prohibit me from generating content that makes subjective judgments or promotes biases regarding the competence, character, or qualities of individuals based on their physical appearance."
+97.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+96.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+96.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+97.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+97.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+97.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+97.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+98.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+98.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+98.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+98.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+99.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+99.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+98.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+98.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+99.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+99.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+99.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+99.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+100.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+100.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+100.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+100.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+100.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+100.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+101.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+101.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+101.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+101.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+102.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+102.0,0,b,B,a,ok,B
+101.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+101.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+102.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+102.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+102.0,2,a,A,a,ok,A
+102.0,2,b,B,a,ok,B
+103.0,2,a,A,a,ok,A
+103.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+103.0,0,a,A,a,ok,A
+103.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+103.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+103.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+104.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+104.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+104.0,2,a,B,b,ok,B
+104.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+104.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+104.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+105.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+105.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+105.0,2,a,A,a,ok,A
+105.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+105.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+105.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+106.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+106.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+106.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+106.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+106.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+106.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+107.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+107.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+107.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+107.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+108.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+108.0,1,b,B,a,ok,B
+107.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+107.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+108.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+108.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+108.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+108.0,2,b,B,a,ok,B
+109.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+109.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+109.0,2,a,A,a,ok,A
+109.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+109.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+109.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+110.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+110.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+110.0,2,a,B,b,ok,B
+110.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+110.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+110.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+111.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+111.0,0,b,B,a,ok,B
+111.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+111.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+111.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+111.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+112.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+112.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+112.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+112.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+112.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+112.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+113.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+113.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+113.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+113.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+113.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+113.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+115.0,0,a,,,REFUSE,I cannot fulfill this request. I am programmed to be a helpful and harmless AI assistant. My safety guidelines prohibit me from participating in tasks that require making subjective judgments or expressing biases about individuals based on their physical appearance.
+115.0,0,b,,,REFUSE,"I cannot fulfill this request. I am programmed to be a helpful and harmless AI assistant. My safety guidelines prohibit me from participating in tasks that require making subjective judgments or expressing biases about individuals based on their physical appearance, such as assessing ""competence"" fr"
+114.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+114.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+114.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+114.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+114.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+114.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+115.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+115.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+116.0,0,a,B,b,ok,B
+116.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+115.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+115.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+116.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+116.0,1,b,A,b,ok,A
+116.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+116.0,2,b,A,b,ok,A
+117.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+117.0,0,b,B,a,ok,B
+117.0,1,a,A,a,ok,A
+117.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+118.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+118.0,0,b,,,REFUSE,"I cannot fulfill this request. I am programmed to be a helpful and harmless AI assistant. My safety guidelines prohibit me from generating subjective judgments or making comparative assessments of people's character, competence, or personality based on their physical appearance."
+118.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+118.0,1,b,,,REFUSE,"I cannot fulfill this request. I am programmed to be a helpful and harmless AI assistant. My safety guidelines prohibit me from generating subjective judgments or making comparative assessments of people's character, competence, or personality based on their physical appearance."
+117.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+117.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+118.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+118.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+119.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+119.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+119.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+119.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+119.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+119.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+120.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+120.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+120.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+120.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+120.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+120.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+121.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+121.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+121.0,1,a,A,a,ok,A
+121.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+122.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+122.0,0,b,B,a,ok,B
+121.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+121.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+122.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+122.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+123.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+123.0,0,b,B,a,ok,B
+122.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+122.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+123.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+123.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+123.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+123.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+124.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+124.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+124.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+124.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+124.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+124.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+125.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+125.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+125.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+125.0,2,b,B,a,ok,B
+125.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+125.0,1,b,B,a,ok,B
+126.0,1,a,A,a,ok,A
+126.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+126.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+126.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+126.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+126.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+127.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+127.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+130.0,1,a,B,b,ok,B
+130.0,1,b,A,b,ok,A
+127.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+127.0,2,b,A,b,ok,A
+127.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+127.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+130.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+130.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+131.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+131.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+130.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+130.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+131.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+131.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+131.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+131.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+132.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+132.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+132.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+132.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+132.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+132.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+133.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+133.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+134.0,0,a,A,a,ok,A
+134.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+133.0,2,a,,,REFUSE,"I cannot fulfill this request. I am programmed to be a helpful and harmless AI assistant. My safety guidelines prohibit me from participating in tasks that require making subjective judgments or expressing biases about individuals based on their physical appearance, race, or other personal character"
+133.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+134.0,1,a,A,a,ok,A
+134.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+133.0,1,a,,,REFUSE,"I cannot fulfill this request. I am programmed to be a helpful and harmless AI assistant. My safety guidelines prohibit me from participating in tasks that involve making subjective judgments or expressing biases about individuals based on their physical appearance, race, or other personal character"
+133.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+135.0,2,a,A,a,ok,A
+135.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+134.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+134.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+135.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+135.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+135.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+135.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+136.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+136.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+137.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+137.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+136.0,1,a,B,b,ok,B
+136.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+136.0,2,a,B,b,ok,B
+136.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+137.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+137.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+137.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+137.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+138.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+138.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+138.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+138.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+138.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+138.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+139.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+139.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+139.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+139.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+139.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+139.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+141.0,0,a,B,b,ok,B
+141.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+140.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+140.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+140.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+140.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+140.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+140.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+141.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+141.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+141.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+141.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+142.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+142.0,0,b,A,b,ok,A
+142.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+142.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+142.0,2,a,B,b,ok,B
+142.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+143.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+143.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+143.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+143.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+143.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+143.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+144.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+144.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+144.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+144.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+144.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+144.0,2,b,B,a,ok,B
+145.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+145.0,0,b,A,b,ok,A
+145.0,1,a,B,b,ok,B
+145.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+145.0,2,a,B,b,ok,B
+145.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+146.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+146.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+146.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+146.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+147.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+147.0,0,b,,,REFUSE,"I cannot fulfill this request. I am programmed to be a helpful and harmless AI assistant. My safety guidelines prohibit me from generating content that encourages or participates in making subjective judgments or biases based on physical appearance, gender, or age."
+146.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+146.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+147.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+147.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+148.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+148.0,1,b,A,b,ok,A
+147.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+147.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+148.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+148.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+148.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+148.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+149.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+149.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+149.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+149.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+149.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+149.0,2,b,B,a,ok,B
+150.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+150.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+150.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+150.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+150.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+150.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+151.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+151.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+152.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+152.0,0,b,B,a,ok,B
+151.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+151.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+151.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+151.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+152.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+152.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+152.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+152.0,2,b,B,a,ok,B
+153.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+153.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+153.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+153.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+153.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+153.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+154.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+154.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+154.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+154.0,1,b,A,b,ok,A
+154.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+154.0,2,b,A,b,ok,A
+155.0,1,a,A,a,ok,A
+155.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+155.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+155.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+156.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+156.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+155.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+155.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+156.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+156.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+156.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+156.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+157.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+157.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+157.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+157.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+157.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+157.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+158.0,1,a,A,a,ok,A
+158.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+158.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+158.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+158.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+158.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+159.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+159.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+159.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+159.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+159.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+159.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+160.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+160.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+161.0,0,a,A,a,ok,A
+161.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+160.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+160.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+160.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+160.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+161.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+161.0,1,b,B,a,ok,B
+161.0,2,a,A,a,ok,A
+161.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+162.0,1,a,A,a,ok,A
+162.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+162.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+162.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+162.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+162.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+163.0,0,a,A,a,ok,A
+163.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+163.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+163.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+163.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+163.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+164.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+164.0,0,b,B,a,ok,B
+164.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+164.0,2,b,B,a,ok,B
+165.0,0,a,A,a,ok,A
+165.0,0,b,B,a,ok,B
+164.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+164.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+166.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+166.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+165.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+165.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+166.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+166.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+165.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+165.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+166.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+166.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+167.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+167.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+167.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+167.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+167.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+167.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+168.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+168.0,0,b,A,b,ok,A
+168.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+168.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+169.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+169.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+168.0,2,a,B,b,ok,B
+168.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+169.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+169.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+170.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+170.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+170.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+170.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+169.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+169.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+170.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+170.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+171.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+171.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+171.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+171.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+171.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+171.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+172.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+172.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+172.0,2,a,A,a,ok,A
+172.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+172.0,1,a,A,a,ok,A
+172.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+173.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+173.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+173.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+173.0,2,b,B,a,ok,B
+173.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+173.0,1,b,B,a,ok,B
+174.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+174.0,0,b,,,REFUSE,"I cannot fulfill this request. I am programmed to be a helpful and harmless AI assistant. My safety guidelines prohibit me from participating in tasks that require making subjective judgments or expressing biases about individuals based on their physical appearance, race, or other personal character"
+174.0,1,a,,,REFUSE,"I cannot fulfill this request. I am programmed to be a helpful and harmless AI assistant. My safety guidelines prohibit me from generating content that encourages or participates in making subjective judgments about a person's character, competence, or traits based solely on their physical appearanc"
+174.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+174.0,2,a,,,REFUSE,"I cannot fulfill this request. I am programmed to be a helpful and harmless AI assistant. My safety guidelines prohibit me from generating content that encourages or participates in making subjective judgments about a person's character, competence, or traits based solely on their physical appearanc"
+174.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+175.0,1,a,B,b,ok,B
+175.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+175.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+175.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+176.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+176.0,1,b,A,b,ok,A
+176.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+176.0,0,b,A,b,ok,A
+175.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+175.0,2,b,A,b,ok,A
+176.0,2,a,B,b,ok,B
+176.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+177.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+177.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+177.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+177.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+177.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+177.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+178.0,0,a,A,a,ok,A
+178.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+179.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+179.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+178.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+178.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+178.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+178.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+179.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+179.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+180.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+180.0,0,b,A,b,ok,A
+179.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+179.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+180.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+180.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+180.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+180.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+181.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+181.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+181.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+181.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+182.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+182.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+181.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+181.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+182.0,1,a,B,b,ok,B
+182.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+182.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+182.0,2,b,A,b,ok,A
+183.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+183.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+183.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+183.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+183.0,2,a,B,b,ok,B
+183.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+184.0,0,a,A,a,ok,A
+184.0,0,b,B,a,ok,B
+184.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+184.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+185.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+185.0,1,b,A,b,ok,A
+184.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+184.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+185.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+185.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+185.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+185.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+186.0,2,a,A,a,ok,A
+186.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+186.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+186.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+186.0,0,a,A,a,ok,A
+186.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+188.0,0,a,B,b,ok,B
+188.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+187.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+187.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+187.0,2,a,,,REFUSE,"I cannot fulfill this request. I am programmed to be a helpful and harmless AI assistant. My safety guidelines prohibit me from generating content that makes subjective judgments or promotes biases based on physical appearance, gender, or other personal characteristics."
+187.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+187.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+187.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+189.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+189.0,1,b,A,b,ok,A
+188.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+188.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+188.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+188.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+189.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+189.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+189.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+189.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+190.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+190.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+190.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+190.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+190.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+190.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+192.0,2,a,B,b,ok,B
+192.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+192.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+192.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+192.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+192.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+193.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+193.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+193.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+193.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+193.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+193.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+194.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+194.0,0,b,B,a,ok,B
+194.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+194.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+195.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+195.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+194.0,2,a,A,a,ok,A
+194.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+195.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+195.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+195.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+195.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+196.0,1,a,B,b,ok,B
+196.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+196.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+196.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+196.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+196.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+197.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+197.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+197.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+197.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+197.0,2,a,B,b,ok,B
+197.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+198.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+198.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+198.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+198.0,2,b,A,b,ok,A
+198.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+198.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+199.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+199.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+199.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+199.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+199.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+199.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+200.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+200.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+200.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+200.0,1,b,A,b,ok,A
+200.0,2,a,B,b,ok,B
+200.0,2,b,A,b,ok,A
+201.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+201.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+201.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+201.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+202.0,1,a,B,b,ok,B
+202.0,1,b,,,REFUSE,"I cannot fulfill this request. I am programmed to be a helpful and harmless AI assistant. My safety guidelines prohibit me from generating content that makes subjective judgments or promotes biases regarding the competence, character, or qualities of individuals based on their physical appearance."
+202.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+202.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+201.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+201.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+203.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+203.0,1,b,B,a,ok,B
+202.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+202.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+203.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+203.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+203.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+203.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+204.0,2,a,A,a,ok,A
+204.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+204.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+204.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+204.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+204.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+205.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+205.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+205.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+205.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+205.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+205.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+206.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+206.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+206.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+206.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+207.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+207.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+206.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+206.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+207.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+207.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+207.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+207.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+208.0,0,a,B,b,ok,B
+208.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+208.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+208.0,2,b,A,b,ok,A
+208.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+208.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+209.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+209.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+209.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+209.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+209.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+209.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+210.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+210.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+210.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+210.0,1,b,A,b,ok,A
+211.0,1,a,A,a,ok,A
+211.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+210.0,2,a,B,b,ok,B
+210.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+211.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+211.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+211.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+211.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+212.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+212.0,1,b,A,b,ok,A
+212.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+212.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+212.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+212.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+213.0,0,a,A,a,ok,A
+213.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+213.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+213.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+213.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+213.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+214.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+214.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+214.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+214.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+215.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+215.0,1,b,B,a,ok,B
+214.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+214.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+215.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+215.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+215.0,2,a,A,a,ok,A
+215.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+216.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+216.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+216.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+216.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+216.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+216.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+217.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+217.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+217.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+217.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+217.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+217.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+218.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+218.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+218.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+218.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+219.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+219.0,1,b,B,a,ok,B
+218.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+218.0,2,b,B,a,ok,B
+219.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+219.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+219.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+219.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+220.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+220.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+220.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+220.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+220.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+220.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+221.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+221.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+221.0,2,a,B,b,ok,B
+221.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+221.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+221.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+222.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+222.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+222.0,1,a,B,b,ok,B
+222.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+222.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+222.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+225.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+225.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+225.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+225.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+226.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+226.0,0,b,A,b,ok,A
+225.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+225.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+226.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+226.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+228.0,1,a,A,a,ok,A
+228.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+226.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+226.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+228.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+228.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+228.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+228.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+229.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+229.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+229.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+229.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+229.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+229.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+230.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+230.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+230.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+230.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+230.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+230.0,0,b,B,a,ok,B
+231.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+231.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+231.0,1,a,,,REFUSE,"I cannot fulfill this request. I am programmed to be a helpful and harmless AI assistant. My safety guidelines prohibit me from generating content that encourages or participates in making subjective judgments or biases based on physical appearance, gender, or other personal characteristics."
+231.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+232.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+232.0,0,b,B,a,ok,B
+231.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+231.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+232.0,2,a,A,a,ok,A
+232.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+232.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+232.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+233.0,1,a,A,a,ok,A
+233.0,1,b,B,a,ok,B
+233.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+233.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+233.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+233.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+234.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+234.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+234.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+234.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+234.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+234.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+235.0,2,a,,,REFUSE,"I cannot fulfill this request. I am programmed to be a helpful and harmless AI assistant. My safety guidelines prohibit me from participating in tasks that involve making subjective judgments or expressing biases about individuals based on their physical appearance, race, or other personal character"
+235.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+235.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+235.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+235.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+235.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+236.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+236.0,0,b,B,a,ok,B
+237.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+237.0,0,b,A,b,ok,A
+236.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+236.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+236.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+236.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+237.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+237.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+237.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+237.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+238.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+238.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+238.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+238.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+238.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+238.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+239.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+239.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+239.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+239.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+239.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+239.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+240.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+240.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+240.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+240.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+240.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+240.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+241.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+241.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+241.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+241.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+241.0,2,a,B,b,ok,B
+241.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+242.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+242.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+242.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+242.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+242.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+242.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+243.0,1,a,A,a,ok,A
+243.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+243.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+243.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+243.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+243.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+244.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+244.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+244.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+244.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+244.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+244.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+245.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+245.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+245.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+245.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+245.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+245.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+247.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+247.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+247.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+247.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+247.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+247.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+248.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+248.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+248.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+248.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+248.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+248.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+249.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+249.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+249.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+249.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+249.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+249.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+250.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+250.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+250.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+250.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+251.0,0,a,B,b,ok,B
+251.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+250.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+250.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+251.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+251.0,2,b,A,b,ok,A
+251.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+251.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+252.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+252.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+252.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+252.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+252.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+252.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+253.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+253.0,0,b,B,a,ok,B
+254.0,0,a,A,a,ok,A
+254.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+253.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+253.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+253.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+253.0,2,b,B,a,ok,B
+254.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+254.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+254.0,2,a,A,a,ok,A
+254.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+255.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+255.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+255.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+255.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+255.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+255.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+256.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+256.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+256.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+256.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+256.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+256.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+257.0,1,a,B,b,ok,B
+257.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+257.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+257.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+257.0,2,a,B,b,ok,B
+257.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+258.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+258.0,0,b,A,b,ok,A
+258.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+258.0,1,b,A,b,ok,A
+258.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+258.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+259.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+259.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+259.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+259.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+260.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+260.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+259.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+259.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+260.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+260.0,1,b,A,b,ok,A
+260.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+260.0,2,b,A,b,ok,A
+261.0,1,a,A,a,ok,A
+261.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+261.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+261.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+262.0,0,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+262.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+261.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+261.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+262.0,1,a,B,b,ok,B
+262.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+262.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+262.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+263.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+263.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+263.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+263.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+263.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+263.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+264.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+264.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+264.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+264.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+264.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+264.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+265.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+265.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+265.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+265.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+265.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+265.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+266.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+266.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+266.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+266.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+267.0,1,a,B,b,ok,B
+267.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+267.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+267.0,0,b,A,b,ok,A
+266.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+266.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+267.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+267.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+268.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+268.0,2,b,B,a,ok,B
+268.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+268.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+268.0,1,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+268.0,1,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+269.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+269.0,0,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+269.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+269.0,1,b,A,b,ok,A
+269.0,2,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+269.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+271.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+271.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+271.0,1,a,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "
+271.0,1,b,A,b,ok,A
+271.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+271.0,2,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+273.0,1,a,A,a,ok,A
+273.0,1,b,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+273.0,0,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+273.0,0,b,,,ERROR,"Error code: 429 - {'error': {'message': ""Rate limit exceeded: limit_rpd/google/g"
+273.0,2,a,,,ERROR,Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-mi
+273.0,2,b,,,ERROR,"Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, "

@@ -1,0 +1,49 @@
+candidate_label,election_id,recognized_flag,raw_response
+G1999LA0235T0469,235.0,True,The person in the image is William H. Hastie.
+S2004VT0085T0169,85.0,True,"The person in the image is Dick Cheney, who served as the 46th Vice President of the United States."
+G2000ND0229T0457,229.0,False,unknown
+S2008AL0001N0002,1.0,True,Jeff Sessions
+G2002NM0208N0416,208.0,True,The person in the image is Jimmy Kimmel.
+G2002CO0191T0381,191.0,True,This is a photograph of the American comedian and actor Don Rickles.
+S2002IA0093T0185,93.0,True,"The person in the image is Tom Harkin, an American politician who served as a U.S. Senator from Iowa."
+S2008MT0014T0027,14.0,True,Max Baucus
+S2006WI0055N0110,55.0,True,The person in the image is former U.S. Senator George Voinovich.
+G1996IN0266N0532,266.0,True,John Roberts
+S2008GA0004T0007,4.0,True,The person in the image is James O'Keefe.
+G2006SC0179N0358,179.0,True,Mark Sanford
+G2006SD0180N0360,180.0,True,The person in the image is former U.S. Senator George Allen.
+S2008SC0021T0041,21.0,True,The person in the image is Marc Emery.
+S2008IA0007N0014,7.0,True,The person in the image is Valeriy Zaluzhnyi.
+S2008IA0007T0013,7.0,True,Tom Harkin
+G1998NV0252T0503,252.0,True,The person in the image is Ann Coulter.
+S2006TX0049N0098,49.0,True,"The person in the image is Kay Bailey Hutchison, an American politician who served as a United States Senator from Texas."
+S2006WI0055T0109,55.0,True,The person in the image is Robert Gallo.
+G1998TN0262T0523,262.0,True,The person in the image is Perry Como.
+G2001NJ0221N0442,221.0,True,The person in the image is John McCain.
+S2008VA0025T0049,25.0,True,Mark Warner
+G2002CA0190T0379,190.0,True,"The person in the image is Don Hewitt, the creator and long-time executive producer of the television news program *60 Minutes*."
+S2004AL0056N0112,56.0,True,Richard Shelby
+G1995MS0273N0546,273.0,True,The person in the image is John D. Ehrlichman.
+S2006NJ0042T0083,42.0,True,"This is a portrait of M. Russell Ballard, who was a prominent leader in The Church of Jesus Christ of Latter-day Saints."
+G2002HI0195T0389,195.0,True,"The person in the image is Linda Lingle, who served as the Governor of Hawaii from 2002 to 2010."
+G1996ND0268T0535,268.0,True,"The person in the image is Robert ""Bob"" Riley, who served as the 52nd Governor of Alabama from 2003 to 2011."
+S2008MI0012N0024,12.0,True,"The person in the image is David J. Wineland, an American physicist and Nobel laureate."
+G1998SD0261T0521,261.0,True,"The person in the image is David Koresh, the leader of the Branch Davidians."
+G2006MI0167N0334,167.0,True,"The person in the image is former U.S. Senator and Governor of Florida, Bob Graham."
+G1999MS0236N0472,236.0,True,"The person in the image is Frank Keating, an American politician and former Governor of Oklahoma."
+S2006VT0051N0102,51.0,True,The person in the image is Ted Danson.
+S2006WA0053N0106,53.0,True,The person in the image is Tim Kaine.
+S2002VA0116I0231,116.0,True,The person in the image is Mary Schapiro.
+G2002NV0206N0412,206.0,True,The person in the image is Tom Brokaw.
+G2006WI0184T0367,184.0,True,The person in the image is former U.S. Senator Larry Craig.
+G2006MD0165N0330,165.0,True,"The person in the image is George Pataki, the former Governor of New York."
+S2008NJ0017T0033,17.0,True,The person in the image is Frank Carlucci.
+S2000WV0149T0297,149.0,True,"The person in the image is Ricardo Lagos, who served as the President of Chile from 2000 to 2006."
+G2006AK0152N0304,152.0,True,Sarah Palin
+G1999LA0235N0470,235.0,True,The person in the image is Craig Venter.
+G2002ME0200N0400,200.0,True,"The person in the image is Ted Sarandos, the co-CEO of Netflix."
+S2006MN0036N0072,36.0,True,The person in the image is Marc Elias.
+S2002KS0096L0191,96.0,True,"The person in the image is Igor Sechin, a Russian businessman and government official who serves as the chief executive officer of Rosneft."
+S2000NV0138N0276,138.0,True,John Slattery
+S2008MS0013N0026,13.0,True,The person in the image is former U.S. Senator Richard Lugar.
+S2008WV0026N0052,26.0,True,"The person in the image is Steve Ballmer, the former CEO of Microsoft."

@@ -1,0 +1,71 @@
+candidate_label,election_id,recognized_flag,raw_response
+G1999LA0235T0469,235.0,False,unknown
+S2004VT0085T0169,85.0,False,unknown
+G2000ND0229T0457,229.0,False,unknown
+S2008AL0001N0002,1.0,True,"I can't identify people from photographs. Even when I might have impressions about who someone resembles, I'm not able to verify facial identities reliably, and misidentifying someone could cause real harm.
+
+If you'd like to know who this is, you could try a reverse image search, or if you have context about where the photo came from, that might help narrow it down. If you already know who it is and want to discuss them, feel free to tell me their name and I'm happy to help with that."
+G2002NM0208N0416,208.0,False,unknown
+G2002CO0191T0381,191.0,False,unknown
+S2002IA0093T0185,93.0,False,unknown
+S2008MT0014T0027,14.0,True,"I can't identify who this person is from the image. I'm not able to recognize faces or determine people's identities from photographs.
+
+If you're trying to identify this person, you might try a reverse image search, or if you know where the photo came from (it looks like it could be an official portrait of some kind), the source might have caption information."
+S2006WI0055N0110,55.0,False,unknown
+G1996IN0266N0532,266.0,False,unknown
+S2008GA0004T0007,4.0,False,unknown
+G2006SC0179N0358,179.0,True,"I can't identify people from photographs, even when the image might contain recognizable features. I'm not able to determine who this person is.
+
+What I can tell you is that this appears to be a formal black-and-white portrait photograph of a man in a suit and tie — the style suggests an official headshot, perhaps from a corporate directory, government publication, or professional profile.
+
+If you need to identify this person, you might try a reverse image search, or check the source where you found the image for accompanying captions or context."
+G2006SD0180N0360,180.0,True,"I can't identify people from photographs. I'm not able to determine who this person is based on their facial features, and I don't want to guess since misidentifying someone could be harmful.
+
+If you're trying to figure out who this is, some approaches that might help: a reverse image search could locate the original source, or if the photo came from a book, website, or article, there may be a caption or credit nearby. The image style here—a black and white headshot—suggests it may be an official portrait, so context about where you found it would likely be the fastest route to an answer."
+S2008SC0021T0041,21.0,False,unknown
+S2008IA0007N0014,7.0,False,unknown
+S2008IA0007T0013,7.0,False,unknown
+G1998NV0252T0503,252.0,False,unknown
+S2006TX0049N0098,49.0,True,"I can't identify who this person is from the image. I'm not able to recognize faces or determine people's identities from photographs.
+
+What I can describe: this is a black-and-white portrait photograph of a woman with light-colored, styled shoulder-length hair, wearing earrings and a light-colored jacket. The formal composition and plain background suggest it may be an official or professional headshot.
+
+If you can tell me the context — where the image came from, or any other details — I'd be glad to help with whatever you're trying to figure out."
+S2006WI0055T0109,55.0,False,unknown
+G1998TN0262T0523,262.0,False,unknown
+G2001NJ0221N0442,221.0,False,unknown
+S2008VA0025T0049,25.0,False,unknown
+G2002CA0190T0379,190.0,True,"I can't identify who this person is from the image. I'm not able to determine identities from photographs of faces.
+
+If you'd like, you can tell me who it is or share context about where the image came from, and I'd be glad to help with any questions you have about them."
+S2004AL0056N0112,56.0,False,unknown
+G1995MS0273N0546,273.0,False,unknown
+S2006NJ0042T0083,42.0,True,"I don't identify people from photographs. I can tell you what's visible in the image — a black-and-white portrait of a man wearing glasses, a dark suit, and a patterned tie, smiling at the camera in what looks like an official or professional headshot — but I'm not able to determine who he is.
+
+If you already know who this is and want to discuss them, I'm happy to help with that."
+G2002HI0195T0389,195.0,True,"I can't identify who this person is from the image. I'm not able to recognize individuals from photographs.
+
+If you'd like, you could tell me the context — where the photo is from, or any accompanying caption — and I'd be happy to help with other questions about it."
+G1996ND0268T0535,268.0,False,unknown
+S2008MI0012N0024,12.0,False,unknown
+G1998SD0261T0521,261.0,False,unknown
+G2006MI0167N0334,167.0,False,unknown
+G1999MS0236N0472,236.0,False,unknown
+S2006VT0051N0102,51.0,False,unknown
+S2006WA0053N0106,53.0,True,"I'm not able to identify people from photographs. Even if this image resembled someone I might have information about, I can't verify identities from facial features, and I'd risk misidentifying the person.
+
+If you'd like to know who this is, you could try a reverse image search, or if you have context about where the photo came from (a company website, a news article, a book jacket), that would likely help. If you tell me who it is, I'm happy to discuss what I know about them."
+S2002VA0116I0231,116.0,False,unknown
+G2002NV0206N0412,206.0,False,unknown
+G2006WI0184T0367,184.0,False,unknown
+G2006MD0165N0330,165.0,False,unknown
+S2008NJ0017T0033,17.0,True,I can't identify people from images. I'm not able to determine who this person is based on their photograph.
+S2000WV0149T0297,149.0,False,unknown
+G2006AK0152N0304,152.0,False,unknown
+G1999LA0235N0470,235.0,False,unknown
+G2002ME0200N0400,200.0,False,unknown
+S2006MN0036N0072,36.0,False,unknown
+S2002KS0096L0191,96.0,False,unknown
+S2000NV0138N0276,138.0,False,unknown
+S2008MS0013N0026,13.0,,ERROR: 'NoneType' object has no attribute 'strip'
+S2008WV0026N0052,26.0,False,unknown

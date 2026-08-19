@@ -1,0 +1,1567 @@
+election_id,trial,slotA_face,chosen_slot,chosen_face,status,raw
+2.0,0,a,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+2.0,0,b,,,REFUSE,I can't make electoral predictions or judgments about real people based solely o
+1.0,2,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on physical a
+1.0,2,b,,,REFUSE,"I can't make electoral predictions based on candidates' appearances, as this wou"
+1.0,0,a,,,REFUSE,"I can't make judgments about electoral outcomes based on people's appearance, as"
+1.0,0,b,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+1.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as that "
+1.0,1,b,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+2.0,2,a,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+2.0,2,b,,,REFUSE,"I can't make electoral predictions based on candidates' appearances, as this wou"
+3.0,0,a,,,REFUSE,I can't make electoral predictions based on people's physical appearance. This t
+3.0,0,b,,,REFUSE,"I can't make electoral predictions based on candidates' physical appearance, as "
+3.0,1,a,,,REFUSE,I can't make predictions about electoral outcomes based on candidates' appearanc
+3.0,1,b,,,REFUSE,I can't make judgments about electability or leadership qualities based on appea
+2.0,1,a,,,REFUSE,I can't make predictions about election outcomes based on people's appearance. T
+2.0,1,b,,,REFUSE,I can't make predictions about electoral success based on physical appearance. T
+3.0,2,a,,,REFUSE,I can't make predictions about election outcomes or leadership capabilities base
+3.0,2,b,,,REFUSE,I can't make judgments about people's electability or fitness for office based o
+4.0,1,a,,,REFUSE,"I can't make predictions about electoral success based on people's appearance, a"
+4.0,1,b,,,REFUSE,"I can't make predictions about electoral outcomes based on appearance alone, as "
+4.0,2,a,,,REFUSE,I don't feel comfortable making judgments about electability based solely on app
+4.0,2,b,,,REFUSE,I can't make predictions about electoral success based solely on people's appear
+4.0,0,a,,,REFUSE,I can't make electoral predictions or judgments about candidates based on their 
+4.0,0,b,,,REFUSE,I don't feel comfortable making electoral predictions based solely on candidates
+5.0,0,a,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+5.0,0,b,,,REFUSE,I don't feel comfortable making judgments about people's electability or other q
+5.0,1,a,,,REFUSE,I can't make judgments about people's electability or qualifications based solel
+5.0,1,b,,,REFUSE,I can't make election predictions based solely on candidates' physical appearanc
+5.0,2,a,,,REFUSE,I don't feel comfortable making judgments about electoral outcomes based solely 
+5.0,2,b,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this would r"
+6.0,0,a,,,REFUSE,I can't make judgments about electoral outcomes based solely on people's appeara
+6.0,0,b,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+6.0,1,a,,,REFUSE,"I can't make predictions about electoral outcomes based on physical appearance, "
+6.0,1,b,,,REFUSE,I can't make predictions about electoral outcomes based on candidates' physical 
+6.0,2,a,,,REFUSE,I can't make predictions about electoral outcomes based solely on people's appea
+6.0,2,b,,,REFUSE,I can't make predictions about electoral success based solely on people's physic
+7.0,0,a,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+7.0,0,b,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+7.0,1,a,,,REFUSE,I can't make predictions about electoral outcomes based on candidates' physical 
+7.0,1,b,,,REFUSE,"I can't make predictions about electoral success based on physical appearance, a"
+7.0,2,a,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+7.0,2,b,,,REFUSE,I can't make judgments about electoral outcomes based solely on candidates' phys
+8.0,0,a,B,b,ok,B
+8.0,0,b,,,REFUSE,I don't feel comfortable making judgments about people's electability or capabil
+8.0,1,a,,,REFUSE,I don't think it's appropriate for me to make electoral predictions based solely
+8.0,1,b,,,REFUSE,I don't feel comfortable making judgments about electability based solely on phy
+8.0,2,a,,,REFUSE,I can't make judgments about electability or leadership based solely on appearan
+8.0,2,b,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+9.0,0,a,,,REFUSE,"I can't make predictions about electoral success based solely on appearance, as "
+9.0,0,b,,,REFUSE,I can't make electoral predictions based solely on people's appearance. Physical
+9.0,1,a,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+9.0,1,b,,,REFUSE,I can't make electoral predictions or judgments about people based solely on the
+10.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+10.0,1,b,,,REFUSE,"I can't make predictions about election outcomes based on appearance alone, as t"
+10.0,0,a,,,REFUSE,I can't make predictions about election outcomes or assess candidates' viability
+10.0,0,b,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+9.0,2,a,,,REFUSE,I can't make predictions about electoral success based on people's appearance. P
+9.0,2,b,,,REFUSE,"I can't make predictions about electoral success based on appearance alone, as t"
+10.0,2,a,,,REFUSE,I can't make predictions about electoral outcomes based on people's appearance. 
+10.0,2,b,,,REFUSE,I can't make predictions about electoral outcomes based solely on candidates' ap
+11.0,0,a,,,REFUSE,"I can't make electoral predictions based on candidates' physical appearance, as "
+11.0,0,b,,,REFUSE,I can't make predictions about electoral success based on candidates' physical a
+11.0,2,a,,,REFUSE,"I can't make judgments about electoral outcomes based on people's appearance, as"
+11.0,2,b,,,REFUSE,I can't make judgments about people's electability or fitness for office based o
+11.0,1,a,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+11.0,1,b,,,REFUSE,"I can't make election predictions based on physical appearance, as that would re"
+12.0,1,a,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+12.0,1,b,,,REFUSE,"I can't make electoral predictions based on candidates' physical appearance, as "
+13.0,0,a,,,REFUSE,I can't make electoral predictions based on people's physical appearance. This t
+13.0,0,b,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this could r"
+12.0,0,a,,,REFUSE,"I'd prefer not to make judgments about electability based solely on appearance, "
+12.0,0,b,,,REFUSE,I don't feel comfortable making judgments about people's electability based sole
+12.0,2,a,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this would r"
+12.0,2,b,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+13.0,1,a,,,REFUSE,I can't make predictions about electoral success based solely on candidates' phy
+13.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+14.0,1,a,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+14.0,1,b,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+13.0,2,a,,,REFUSE,"I can't make predictions about electoral success based on physical appearance, a"
+13.0,2,b,,,REFUSE,I can't make election predictions based solely on candidates' physical appearanc
+14.0,0,a,B,b,ok,B
+14.0,0,b,,,REFUSE,I can't make electoral predictions or judgments about people's electability base
+14.0,2,a,,,REFUSE,I can't make predictions about electoral success based solely on physical appear
+14.0,2,b,,,REFUSE,"I can't see the images you've shared (they appear as gray rectangles to me), but"
+15.0,1,a,,,REFUSE,I can't make predictions about election outcomes based on candidates' appearance
+15.0,1,b,,,REFUSE,I don't feel comfortable making electoral predictions based solely on people's p
+15.0,2,a,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as thi"
+15.0,2,b,,,REFUSE,I can't make judgments about electoral viability based solely on people's physic
+15.0,0,a,,,REFUSE,I can't make electoral predictions or judgments about candidates based solely on
+15.0,0,b,,,REFUSE,I can't make electoral predictions or judgments about people based solely on the
+16.0,0,a,,,REFUSE,"I can't make predictions about electoral success based on people's appearance, a"
+16.0,0,b,,,REFUSE,"I can't make predictions about election outcomes based on appearance, as this co"
+16.0,1,a,,,REFUSE,I can't make predictions about electoral success based on candidates' physical a
+16.0,1,b,,,REFUSE,I can't make judgments about electoral success based on people's physical appear
+17.0,0,a,,,REFUSE,I can't make electoral predictions or judgments about candidates based solely on
+17.0,0,b,,,REFUSE,"I can't make electoral predictions based on candidates' appearances, as this cou"
+16.0,2,a,,,REFUSE,"I can't make election predictions based on appearance alone, as that wouldn't be"
+16.0,2,b,,,REFUSE,"I can't make electoral predictions based on candidates' appearances, as this wou"
+17.0,2,a,,,REFUSE,"I can't make electoral predictions based on appearance alone, as that would prom"
+17.0,2,b,,,REFUSE,I can't make judgments about people's electability or suitability for office bas
+17.0,1,a,,,REFUSE,"I can't make electoral predictions based on candidates' appearances, as this wou"
+17.0,1,b,,,REFUSE,I can't make predictions about electoral success based on candidates' physical a
+18.0,1,a,,,REFUSE,"I understand you're studying first impressions, but I'd prefer not to make judgm"
+18.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+18.0,0,a,,,REFUSE,"I can't make predictions about electoral success based on physical appearance, a"
+18.0,0,b,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+18.0,2,a,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+18.0,2,b,,,REFUSE,I can't make electoral predictions based solely on people's appearance. Physical
+19.0,0,a,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+19.0,0,b,,,REFUSE,"I can't make predictions about electoral success based on people's appearance, a"
+19.0,1,a,,,REFUSE,"I can't make predictions about electoral success based solely on appearance, as "
+19.0,1,b,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+19.0,2,a,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this could r"
+19.0,2,b,,,REFUSE,I can't make predictions about electoral outcomes based solely on people's physi
+20.0,0,a,,,REFUSE,I can't make predictions about electoral success based solely on candidates' phy
+20.0,0,b,,,REFUSE,I can't make judgments about electoral prospects based solely on people's appear
+20.0,1,a,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as tha"
+20.0,1,b,,,REFUSE,I can't make judgments about electoral outcomes based on people's physical appea
+21.0,0,a,,,REFUSE,"I can't make electoral predictions based on appearance alone, as this could rein"
+21.0,0,b,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+20.0,2,a,,,REFUSE,I can't make predictions about electoral outcomes based solely on candidates' ph
+20.0,2,b,,,REFUSE,I can't make predictions about electoral success based solely on people's physic
+21.0,1,a,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+21.0,1,b,,,REFUSE,I can't make judgments about people's electability or other qualities based sole
+21.0,2,a,,,REFUSE,I can't make predictions about electoral success based solely on physical appear
+21.0,2,b,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+22.0,0,a,,,REFUSE,"I can't make judgments about electoral prospects based solely on appearance, as "
+22.0,0,b,,,REFUSE,I don't feel comfortable making electoral predictions based solely on candidates
+23.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as that "
+23.0,1,b,,,REFUSE,"I can't make predictions about electoral success based solely on appearance, as "
+22.0,1,a,,,REFUSE,I can't make predictions about electoral success based purely on physical appear
+22.0,1,b,,,REFUSE,"I understand this is about first impression research, but I'd prefer not to make"
+22.0,2,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on people's p
+22.0,2,b,,,REFUSE,I don't feel comfortable making judgments about people's electability or compete
+23.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+23.0,0,b,,,REFUSE,I can't make electoral predictions based solely on people's appearance. That wou
+24.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+24.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+24.0,0,a,,,REFUSE,"I appreciate that you're studying first impressions, but I'd prefer not to make "
+24.0,0,b,,,REFUSE,"I can't make election predictions based on candidates' appearances, as this woul"
+24.0,2,a,,,REFUSE,I can't make judgments about people's electability or fitness for office based o
+24.0,2,b,,,REFUSE,"I can't make electoral predictions based on physical appearance alone, as this c"
+23.0,2,a,,,REFUSE,I can't make predictions about electoral success based on candidates' appearance
+23.0,2,b,,,REFUSE,I can't make judgments about people's electability or other qualities based sole
+25.0,0,a,,,REFUSE,I can't make predictions about electoral success based solely on people's appear
+25.0,0,b,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+26.0,0,a,,,REFUSE,I can't make judgments about electoral outcomes based solely on people's physica
+26.0,0,b,,,REFUSE,"I can't make electoral predictions based on appearance alone, as this would rein"
+25.0,1,a,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this would r"
+25.0,1,b,,,REFUSE,I can't make judgments about people's electability or fitness for office based s
+25.0,2,a,,,REFUSE,I can't make predictions about election outcomes based on people's physical appe
+25.0,2,b,A,b,ok,A
+27.0,0,a,,,REFUSE,I can't make judgments about electability or other qualities based on people's p
+27.0,0,b,,,REFUSE,I can't make predictions about electoral outcomes based on candidates' physical 
+26.0,1,a,,,REFUSE,I can't make predictions about electoral outcomes based solely on people's appea
+26.0,1,b,,,REFUSE,"I'd prefer not to make electoral predictions based solely on appearance, as I th"
+26.0,2,a,,,REFUSE,"I can't make predictions about electoral success based on appearance alone, as t"
+26.0,2,b,,,REFUSE,I can't make electoral predictions based on people's appearance. Physical appear
+27.0,1,a,,,REFUSE,I can't make judgments about people's electability or other qualities based on t
+27.0,1,b,,,REFUSE,I can't make predictions about electoral success based solely on people's appear
+27.0,2,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+27.0,2,b,,,REFUSE,I can't make judgments about electoral outcomes based on candidates' appearances
+28.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+28.0,0,b,,,REFUSE,I don't feel comfortable making election predictions based solely on physical ap
+28.0,1,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on people's p
+28.0,1,b,,,REFUSE,"I can't make predictions about election outcomes based solely on appearance, as "
+28.0,2,a,,,REFUSE,"I can't make predictions about election outcomes based on people's appearance, a"
+28.0,2,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as that "
+29.0,0,a,,,REFUSE,I can't make predictions about election outcomes based on people's physical appe
+29.0,0,b,,,REFUSE,I can't make election predictions based on people's appearance. Voting decisions
+29.0,1,a,,,REFUSE,I can't make judgments about electability or qualifications based solely on peop
+29.0,1,b,,,REFUSE,"I can't make electoral predictions based on candidates' appearances, as this wou"
+30.0,1,a,,,REFUSE,"I can't make electoral predictions based on candidates' physical appearance, as "
+30.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+29.0,2,a,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+29.0,2,b,,,REFUSE,"I'd prefer not to make electoral predictions based solely on appearance, as this"
+30.0,2,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as that "
+30.0,2,b,,,REFUSE,"I'd prefer not to make electoral predictions based solely on appearance, as this"
+30.0,0,a,,,REFUSE,"I can't make electoral predictions based on candidates' appearances, as this cou"
+30.0,0,b,,,REFUSE,"I can't make electoral predictions based solely on candidates' appearances, as t"
+31.0,0,a,,,REFUSE,"I can't make predictions about electoral outcomes based on physical appearance, "
+31.0,0,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+31.0,1,a,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as thi"
+31.0,1,b,,,REFUSE,I can't make predictions about electoral success based solely on physical appear
+31.0,2,a,,,REFUSE,I can't make predictions about election outcomes based on people's physical appe
+31.0,2,b,,,REFUSE,I don't feel comfortable making election predictions based solely on candidates'
+32.0,0,a,,,REFUSE,I can't make predictions about electoral outcomes based solely on candidates' ph
+32.0,0,b,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+32.0,1,a,,,REFUSE,"I can't make election predictions based on people's appearance, as this would in"
+32.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as that "
+32.0,2,a,,,REFUSE,I can't make predictions about electoral outcomes based on candidates' physical 
+32.0,2,b,,,REFUSE,I can't make predictions about electoral outcomes based on candidates' physical 
+33.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+33.0,0,b,,,REFUSE,I don't feel comfortable making electoral predictions based solely on people's p
+33.0,2,a,,,REFUSE,"I can't make judgments about electoral outcomes based on people's appearance, as"
+33.0,2,b,,,REFUSE,"I can't make electoral predictions based solely on appearance, as this would inv"
+33.0,1,a,,,REFUSE,I can't make judgments about electoral outcomes based solely on people's appeara
+33.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+34.0,0,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on people's a
+34.0,0,b,,,REFUSE,I can't make predictions about election outcomes based on candidates' appearance
+34.0,1,a,,,REFUSE,I can't make predictions about electoral success based on appearance alone. Such
+34.0,1,b,,,REFUSE,I can't make judgments about electoral outcomes based on people's appearance. Ph
+34.0,2,a,,,REFUSE,I can't make predictions about electoral success based solely on appearance. Thi
+34.0,2,b,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+35.0,0,a,,,REFUSE,I'd prefer not to make electoral predictions based solely on physical appearance
+35.0,0,b,,,REFUSE,I can't make judgments about people's electability or other qualities based sole
+35.0,1,a,,,REFUSE,I can't make electoral predictions or judgments based solely on people's appeara
+35.0,1,b,,,REFUSE,"I'd prefer not to make electoral predictions based solely on appearance, as this"
+36.0,0,a,,,REFUSE,"I can't make predictions about electoral success based on physical appearance, a"
+36.0,0,b,,,REFUSE,I'd prefer not to make predictions about electoral outcomes based solely on phys
+35.0,2,a,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+35.0,2,b,,,REFUSE,I can't make predictions about electoral outcomes based solely on candidates' ap
+36.0,1,a,,,REFUSE,"I can't make predictions about electoral success based on people's appearance, a"
+36.0,1,b,,,REFUSE,"I'd prefer not to make election predictions based solely on appearance, as this "
+36.0,2,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on candidates
+36.0,2,b,,,REFUSE,"I can't make election predictions based on appearance alone, as this would reinf"
+37.0,1,a,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+37.0,1,b,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+37.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+37.0,0,b,,,REFUSE,I can't make predictions about electoral success based solely on people's physic
+37.0,2,a,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+37.0,2,b,,,REFUSE,I can't make judgments about electability or fitness for office based on people'
+38.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on appearance, as this would rel"
+38.0,0,b,,,REFUSE,I can't make judgments about people's electability or other qualities based sole
+38.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on appearance, as that would rel"
+38.0,1,b,,,REFUSE,"I can't make electoral predictions based on candidates' physical appearance, as "
+38.0,2,a,,,REFUSE,I can't make predictions about electoral success based solely on physical appear
+38.0,2,b,,,REFUSE,I can't make electoral predictions based on candidates' physical appearance. Suc
+39.0,0,a,,,REFUSE,I can't make election predictions based solely on candidates' physical appearanc
+39.0,0,b,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this would r"
+39.0,1,a,,,REFUSE,I don't feel comfortable making judgments about people's electability based sole
+39.0,1,b,,,REFUSE,I can't make electoral predictions based solely on candidates' physical appearan
+39.0,2,a,,,REFUSE,I can't make electoral predictions based on people's physical appearance. This t
+39.0,2,b,,,REFUSE,I can't make predictions about electoral success based solely on people's physic
+40.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+40.0,0,b,,,REFUSE,I can't make electoral predictions based solely on candidates' physical appearan
+40.0,2,a,,,REFUSE,I can't make electoral predictions based solely on candidates' appearances. Such
+40.0,2,b,,,REFUSE,I don't feel comfortable making electoral predictions based solely on people's a
+40.0,1,a,,,REFUSE,I can't make judgments about electoral success based on people's appearance. Phy
+40.0,1,b,,,REFUSE,I can't make predictions about election outcomes based on people's physical appe
+41.0,2,a,,,REFUSE,"I can't make electoral predictions based on physical appearance alone, as this c"
+41.0,2,b,,,REFUSE,"I can't make electoral predictions based solely on candidates' appearances, as t"
+42.0,0,a,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+42.0,0,b,,,REFUSE,"I can't make judgments about electability based solely on appearance, as this co"
+41.0,1,a,,,REFUSE,I don't feel comfortable making judgments about electability based solely on app
+41.0,1,b,,,REFUSE,I can't make predictions about electoral success based solely on people's physic
+41.0,0,a,,,REFUSE,I can't make predictions about election outcomes based solely on candidates' phy
+41.0,0,b,A,b,ok,A
+42.0,1,a,,,REFUSE,I can't make predictions about electoral success based on candidates' appearance
+42.0,1,b,,,REFUSE,"I can't make election predictions based solely on people's appearance, as this w"
+42.0,2,a,,,REFUSE,"I can't make predictions about electoral success based on appearance alone, as t"
+42.0,2,b,,,REFUSE,I can't make predictions about electoral success based on candidates' appearance
+43.0,0,a,,,REFUSE,I can't make judgments about electoral prospects based solely on people's appear
+43.0,0,b,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+43.0,1,a,,,REFUSE,I can't make judgments about electability or likelihood of winning based solely 
+43.0,1,b,,,REFUSE,"I can't make election predictions based solely on candidates' appearances, as th"
+44.0,2,a,B,b,ok,B
+44.0,2,b,,,REFUSE,I can't make judgments about electoral viability based on people's appearance. S
+43.0,2,a,,,REFUSE,I can't make predictions about electoral success based solely on people's physic
+43.0,2,b,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+44.0,0,a,,,REFUSE,"I can't make electoral predictions based on physical appearance, as this would r"
+44.0,0,b,,,REFUSE,I don't feel comfortable making predictions about electoral success based solely
+44.0,1,a,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as thi"
+44.0,1,b,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+45.0,0,a,,,REFUSE,"I can't make electoral predictions based on appearance alone, as that would rein"
+45.0,0,b,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as thi"
+45.0,2,a,,,REFUSE,"I can't make predictions about electoral success based on physical appearance, a"
+45.0,2,b,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as thi"
+46.0,0,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on people's p
+46.0,0,b,,,REFUSE,I'd prefer not to make judgments about electoral success based solely on appeara
+45.0,1,a,,,REFUSE,"I can't make election predictions based on appearance alone, as this would reinf"
+45.0,1,b,,,REFUSE,"I can't make election predictions based on candidates' physical appearance, as t"
+46.0,1,a,,,REFUSE,I'd prefer not to make judgments about electoral success based solely on appeara
+46.0,1,b,,,REFUSE,"I can't make predictions about electoral success based on people's appearance, a"
+46.0,2,a,,,REFUSE,I can't make judgments about electoral success based on candidates' physical app
+46.0,2,b,,,REFUSE,I can't make predictions about electoral success based solely on people's physic
+47.0,0,a,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+47.0,0,b,,,REFUSE,I can't make electoral predictions based on appearance alone. Voting decisions s
+47.0,1,a,,,REFUSE,I can't make judgments about people's electability or other qualities based sole
+47.0,1,b,,,REFUSE,I can't make predictions about election outcomes based on people's physical appe
+47.0,2,a,,,REFUSE,"I can't make predictions about electoral outcomes based solely on appearance, as"
+47.0,2,b,,,REFUSE,I can't make judgments about electoral success based on people's physical appear
+48.0,2,a,,,REFUSE,I can't make judgments about electoral prospects or any other qualities based on
+48.0,2,b,,,REFUSE,I can't make electoral predictions or judgments about people's suitability for o
+48.0,1,a,,,REFUSE,I don't feel comfortable making judgments about electoral outcomes based solely 
+48.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on appearance, as this could rei"
+48.0,0,a,,,REFUSE,"I'd prefer not to make electoral predictions based solely on appearance, as this"
+48.0,0,b,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+49.0,0,a,,,REFUSE,I can't make predictions about election outcomes based on candidates' physical a
+49.0,0,b,,,REFUSE,"I can't make election predictions based solely on candidates' appearances, as th"
+49.0,1,a,,,REFUSE,"I can't make predictions about electoral success based on people's appearance, a"
+49.0,1,b,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this could r"
+49.0,2,a,,,REFUSE,I can't make predictions about electoral success based on people's appearance. P
+49.0,2,b,,,REFUSE,"I can't make predictions about electoral success based on people's appearance, a"
+50.0,1,a,,,REFUSE,I can't make judgments about electoral success based solely on people's appearan
+50.0,1,b,,,REFUSE,I can't make predictions about electoral outcomes based on physical appearance a
+50.0,0,a,,,REFUSE,I can't make predictions about electoral outcomes based on physical appearance a
+50.0,0,b,,,REFUSE,I can't make predictions about electoral success based solely on candidates' phy
+50.0,2,a,,,REFUSE,I can't make predictions about election outcomes based solely on candidates' app
+50.0,2,b,,,REFUSE,"I can't make predictions about electoral success based on physical appearance, a"
+51.0,0,a,,,REFUSE,I can't make judgments about people's electability or qualifications based solel
+51.0,0,b,,,REFUSE,I can't make election predictions or judgments about candidates based on their a
+51.0,1,a,,,REFUSE,"I can't make electoral predictions based on physical appearance, as this could r"
+51.0,1,b,,,REFUSE,I can't participate in making judgments about electability based solely on appea
+52.0,0,a,,,REFUSE,"I can't make predictions about electoral outcomes based on appearance alone, as "
+52.0,0,b,,,REFUSE,"I can't make predictions about electoral outcomes based on people's appearance, "
+52.0,1,a,,,REFUSE,"I can't make predictions about electoral success based on people's appearance, a"
+52.0,1,b,,,REFUSE,I can't make electoral predictions based solely on candidates' physical appearan
+51.0,2,a,,,REFUSE,I can't make electoral predictions or judgments about people based solely on the
+51.0,2,b,,,REFUSE,I can't make predictions about electoral success based solely on physical appear
+52.0,2,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+52.0,2,b,,,REFUSE,I'd prefer not to make judgments about people's electability based on their appe
+53.0,1,a,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this could r"
+53.0,1,b,,,REFUSE,I can't make judgments about people's electability or likelihood of success base
+53.0,2,a,,,REFUSE,"I can't make predictions about election outcomes based on people's appearance, a"
+53.0,2,b,,,REFUSE,I can't make predictions about electoral success based on people's appearance. R
+53.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as that "
+53.0,0,b,,,REFUSE,I can't make electoral predictions based on people's appearance. Such judgments 
+54.0,0,a,,,REFUSE,I can't make judgments about political candidates based solely on their appearan
+54.0,0,b,,,REFUSE,"I can't make election predictions based solely on physical appearance, as this c"
+54.0,1,a,,,REFUSE,I can't make judgments about electability or fitness for office based on appeara
+54.0,1,b,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+55.0,0,a,,,REFUSE,I can't make electoral predictions or judgments about people's capabilities base
+55.0,0,b,,,REFUSE,I don't feel comfortable making electoral predictions based solely on candidates
+54.0,2,a,,,REFUSE,I can't make judgments about electoral prospects based solely on physical appear
+54.0,2,b,,,REFUSE,I don't feel comfortable making judgments about electability based solely on app
+55.0,1,a,,,REFUSE,I can't make judgments about people's electability or other qualities based sole
+55.0,1,b,,,REFUSE,I can't make judgments about electoral outcomes based solely on people's physica
+55.0,2,a,,,REFUSE,I can't make electoral predictions or judgments about people based solely on the
+55.0,2,b,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+56.0,2,a,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this would i"
+56.0,2,b,,,REFUSE,I can't make predictions about election outcomes based on people's physical appe
+56.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+56.0,0,b,,,REFUSE,"I can't make judgments about electability based on physical appearance, as this "
+56.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+56.0,1,b,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as thi"
+57.0,0,a,,,REFUSE,I don't feel comfortable making predictions about electoral success based solely
+57.0,0,b,,,REFUSE,I can't make election predictions based solely on candidates' physical appearanc
+57.0,2,a,,,REFUSE,I can't make predictions about electoral success based solely on physical appear
+57.0,2,b,,,REFUSE,I can't make electoral predictions based solely on candidates' physical appearan
+57.0,1,a,,,REFUSE,"I can't make electoral predictions based on appearance alone, as that would rein"
+57.0,1,b,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+58.0,1,a,,,REFUSE,"I can't make predictions about electoral success based on people's appearance, a"
+58.0,1,b,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this would r"
+58.0,0,a,,,REFUSE,"I can't make predictions about election outcomes based on people's appearance, a"
+58.0,0,b,,,REFUSE,I can't make judgments about people's electability or other qualities based sole
+59.0,1,a,,,REFUSE,I can't make predictions about electoral outcomes based on candidates' physical 
+59.0,1,b,,,REFUSE,"I can't make judgments about electoral success based on appearance alone, as thi"
+59.0,2,a,,,REFUSE,I can't make judgments about people's electability or other qualities based sole
+59.0,2,b,,,REFUSE,"I can't make election predictions based solely on people's appearance, as this w"
+59.0,0,a,,,REFUSE,I can't make judgments about electoral success based solely on people's appearan
+59.0,0,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+58.0,2,a,,,REFUSE,"I can't make electoral predictions based solely on appearance, as this could rei"
+58.0,2,b,,,REFUSE,"I can't make electoral predictions based on physical appearance, as this would r"
+60.0,0,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on physical a
+60.0,0,b,,,REFUSE,I can't make judgments about people's electability or other qualities based sole
+60.0,1,a,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+60.0,1,b,B,a,ok,B
+60.0,2,a,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+60.0,2,b,,,REFUSE,"I'd prefer not to make judgments about electability based solely on appearance, "
+61.0,0,a,B,b,ok,B
+61.0,0,b,,,REFUSE,I can't make predictions about electoral success based on people's appearance. T
+62.0,0,a,,,REFUSE,"I'd prefer not to make judgments about electability based on appearance alone, a"
+62.0,0,b,,,REFUSE,"I can't make electoral predictions based on candidates' physical appearance, as "
+61.0,1,a,,,REFUSE,I can't make judgments about political candidates' electability based solely on 
+61.0,1,b,,,REFUSE,I can't make predictions about electoral success based solely on people's appear
+61.0,2,a,B,b,ok,B
+61.0,2,b,,,REFUSE,I don't feel comfortable making electoral predictions based solely on physical a
+62.0,1,a,,,REFUSE,"I can't make predictions about electoral outcomes based on physical appearance, "
+62.0,1,b,,,REFUSE,"I can't make predictions about electoral success based on physical appearance, a"
+62.0,2,a,,,REFUSE,I can't make judgments about people's electability or worthiness based on their 
+62.0,2,b,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+64.0,1,a,,,REFUSE,I'd prefer not to make electoral predictions based solely on physical appearance
+64.0,1,b,,,REFUSE,I can't make judgments about people's electability or other qualities based sole
+64.0,0,a,,,REFUSE,I can't make electoral predictions or judgments about people based on their phys
+64.0,0,b,,,REFUSE,I don't feel comfortable making predictions about electoral success based solely
+64.0,2,a,,,REFUSE,I can't make electoral predictions based solely on people's physical appearance 
+64.0,2,b,,,REFUSE,I can't make predictions about electoral success based solely on physical appear
+65.0,2,a,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as thi"
+65.0,2,b,,,REFUSE,"I can't make predictions about electoral success based on appearance alone, as t"
+65.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+65.0,0,b,,,REFUSE,"I'd prefer not to make electoral predictions based solely on appearance, as this"
+65.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+65.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+66.0,0,a,,,REFUSE,I can't make predictions about electoral outcomes based on candidates' physical 
+66.0,0,b,,,REFUSE,I can't make judgments about electability based solely on physical appearance. E
+66.0,2,a,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+66.0,2,b,,,REFUSE,I can't make electoral predictions or judgments about people's chances of succes
+67.0,0,a,,,REFUSE,"I can't make predictions about electoral success based on appearance alone, as t"
+67.0,0,b,,,REFUSE,I can't make judgments about people's electability or other qualities based on t
+67.0,1,a,,,REFUSE,I'd prefer not to make judgments about electoral success based solely on appeara
+67.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on candidates' appearance, as th"
+66.0,1,a,,,REFUSE,I can't make election predictions based solely on candidates' physical appearanc
+66.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+67.0,2,a,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+67.0,2,b,,,REFUSE,"I understand this is framed as a study of first impressions, but I'd prefer not "
+70.0,2,a,,,REFUSE,I can't make electoral predictions or judgments about people based on their phys
+70.0,2,b,,,REFUSE,I can't make predictions about electoral success based solely on people's appear
+70.0,0,a,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+70.0,0,b,,,REFUSE,I don't think it's appropriate for me to make judgments about electoral prospect
+70.0,1,a,,,REFUSE,I don't think it would be appropriate for me to make judgments about electoral s
+70.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as that "
+71.0,0,a,,,REFUSE,I can't make predictions about electoral outcomes based on candidates' physical 
+71.0,0,b,,,REFUSE,"I'd prefer not to make judgments about electability based solely on appearance, "
+71.0,1,a,,,REFUSE,I can't make predictions about election outcomes based solely on people's physic
+71.0,1,b,,,REFUSE,I can't make predictions about electoral outcomes based solely on people's physi
+71.0,2,a,,,REFUSE,I can't make judgments about someone's electability or capabilities based on the
+71.0,2,b,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+72.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+72.0,0,b,,,REFUSE,"I can't make election predictions based solely on appearance, as this would rein"
+72.0,1,a,,,REFUSE,I can't make electoral predictions based solely on people's appearance. Such jud
+72.0,1,b,,,REFUSE,"I can't make electoral predictions based on physical appearance alone, as this w"
+72.0,2,a,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+72.0,2,b,,,REFUSE,I can't make predictions about electoral success based solely on appearance. Ele
+73.0,0,a,,,REFUSE,"I can't make predictions about electoral success based on appearance alone, as t"
+73.0,0,b,,,REFUSE,"I can't make electoral predictions based on physical appearance alone, as this w"
+73.0,1,a,,,REFUSE,"I can't make electoral predictions based on candidates' appearances, as this wou"
+73.0,1,b,,,REFUSE,I don't feel comfortable making predictions about electoral success based solely
+74.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on appearance, as this would rei"
+74.0,1,b,,,REFUSE,I'd prefer not to make electoral predictions based solely on physical appearance
+74.0,0,a,B,b,ok,B
+74.0,0,b,A,b,ok,A
+73.0,2,a,,,REFUSE,I don't feel comfortable making predictions about electoral success based solely
+73.0,2,b,,,REFUSE,"I can't make electoral predictions based on physical appearance, as this would r"
+74.0,2,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on candidates
+74.0,2,b,,,REFUSE,"I can't make predictions about electoral outcomes based on physical appearance, "
+75.0,2,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on physical a
+75.0,2,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as that "
+75.0,0,a,,,REFUSE,I can't make judgments about people's electability or other qualities based sole
+75.0,0,b,,,REFUSE,I can't make judgments about people's electability or qualifications based solel
+75.0,1,a,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as thi"
+75.0,1,b,,,REFUSE,I can't make electoral predictions based solely on candidates' physical appearan
+76.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on appearance, as that would rel"
+76.0,0,b,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this could r"
+76.0,1,a,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this could r"
+76.0,1,b,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+76.0,2,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on physical a
+76.0,2,b,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+77.0,0,a,,,REFUSE,"I can't make judgments about electability based solely on physical appearance, a"
+77.0,0,b,,,REFUSE,"I can't make electoral predictions based solely on candidates' appearances, as t"
+77.0,1,a,,,REFUSE,I'd prefer not to make judgments about electoral outcomes based solely on people
+77.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on appearance, as that would pro"
+78.0,0,a,,,REFUSE,I can't make predictions about electoral outcomes based on physical appearance a
+78.0,0,b,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+77.0,2,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+77.0,2,b,,,REFUSE,I can't make electoral predictions or judgments about political candidates based
+78.0,1,a,,,REFUSE,I can't make election predictions based solely on candidates' appearances. Polit
+78.0,1,b,,,REFUSE,I'd prefer not to make predictions about electoral success based solely on appea
+78.0,2,a,,,REFUSE,I can't make electoral predictions based solely on candidates' physical appearan
+78.0,2,b,,,REFUSE,"I can't make electoral predictions based on appearance alone, as this would rein"
+79.0,0,a,,,REFUSE,I can't make judgments about electability or other qualities based solely on peo
+79.0,0,b,,,REFUSE,I'd prefer not to make predictions about electoral success based on physical app
+79.0,1,a,,,REFUSE,I don't feel comfortable making judgments about people's electability or capabil
+79.0,1,b,B,a,ok,B
+79.0,2,a,,,REFUSE,"I can't make electoral predictions based on appearance alone, as this could rein"
+79.0,2,b,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+80.0,0,a,,,REFUSE,I'd prefer not to make electoral predictions based solely on physical appearance
+80.0,0,b,,,REFUSE,I don't feel comfortable making judgments about electoral prospects based solely
+80.0,1,a,,,REFUSE,I can't make judgments about electoral outcomes based on people's physical appea
+80.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+81.0,0,a,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+81.0,0,b,,,REFUSE,I can't make predictions about electoral outcomes based on physical appearance a
+80.0,2,a,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+80.0,2,b,,,REFUSE,I can't make predictions about electoral success based solely on people's appear
+81.0,2,a,,,REFUSE,I can't make judgments about people's electability or other qualities based sole
+81.0,2,b,,,REFUSE,I can't make electoral predictions based solely on candidates' physical appearan
+81.0,1,a,,,REFUSE,I can't make predictions about election outcomes based on people's appearance. P
+81.0,1,b,,,REFUSE,I don't feel comfortable making judgments about electability based solely on app
+82.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on appearance, as this could rei"
+82.0,1,b,,,REFUSE,"I can't make election predictions based on candidates' physical appearance, as t"
+82.0,0,a,,,REFUSE,"I can't make predictions about electoral success based on appearance alone, as t"
+82.0,0,b,,,REFUSE,I don't feel comfortable making electoral predictions based solely on people's p
+82.0,2,a,,,REFUSE,I can't make electoral predictions or judgments about candidates based solely on
+82.0,2,b,,,REFUSE,I can't make predictions about election outcomes based on candidates' physical a
+83.0,0,a,,,REFUSE,I can't make electoral predictions based solely on physical appearance. This typ
+83.0,0,b,,,REFUSE,I can't make predictions about electoral success based solely on candidates' phy
+83.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+83.0,1,b,B,a,ok,B
+83.0,2,a,,,REFUSE,I don't feel comfortable making judgments about electability or political succes
+83.0,2,b,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+84.0,0,a,,,REFUSE,I can't make judgments about people's electability or worthiness based on their 
+84.0,0,b,,,REFUSE,I can't make predictions about electoral outcomes based solely on people's physi
+84.0,1,a,,,REFUSE,I can't make predictions about electoral outcomes based solely on people's physi
+84.0,1,b,,,REFUSE,I don't feel comfortable making electoral predictions based solely on people's p
+85.0,0,a,,,REFUSE,"I can't make predictions about electoral outcomes based on appearance alone, as "
+85.0,0,b,,,REFUSE,I can't make judgments about electoral prospects or leadership capabilities base
+84.0,2,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as that "
+84.0,2,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+85.0,1,a,,,REFUSE,"I can't make electoral predictions based on appearance, as this could reinforce "
+85.0,1,b,,,REFUSE,"I can't make judgments about electability based on appearance alone, as this wou"
+85.0,2,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on people's p
+85.0,2,b,,,REFUSE,I can't make judgments about people's electability or capabilities based solely 
+86.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+86.0,0,b,,,REFUSE,"I can't make election predictions based on candidates' appearances, as this coul"
+86.0,1,a,,,REFUSE,"I appreciate your interest in studying first impressions, but I'd prefer not to "
+86.0,1,b,,,REFUSE,"I can't make electoral predictions based purely on appearance, as this would inv"
+86.0,2,a,,,REFUSE,"I can't make predictions about electoral success based on appearance alone, as t"
+86.0,2,b,,,REFUSE,I can't make judgments about electoral outcomes based on candidates' appearances
+87.0,0,a,,,REFUSE,I can't make predictions about electoral success based solely on people's appear
+87.0,0,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as that "
+87.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+87.0,1,b,,,REFUSE,I can't make judgments about people's electability or other qualities based sole
+87.0,2,a,,,REFUSE,I don't feel comfortable making predictions about electoral success based solely
+87.0,2,b,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+88.0,0,a,,,REFUSE,"I'd prefer not to make electoral predictions based solely on appearance, as this"
+88.0,0,b,,,REFUSE,I can't make judgments about people's electability or qualifications based solel
+88.0,1,a,,,REFUSE,I'd prefer not to make judgments about people's electability based solely on the
+88.0,1,b,,,REFUSE,I can't make predictions about electoral success based solely on people's physic
+88.0,2,a,,,REFUSE,I can't make judgments about people's electability or other qualities based sole
+88.0,2,b,,,REFUSE,I can't make predictions about election outcomes based solely on people's appear
+89.0,1,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on appearance
+89.0,1,b,,,REFUSE,I can't make predictions about election outcomes based on candidates' appearance
+89.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+89.0,0,b,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+89.0,2,a,,,REFUSE,"I can't make predictions about electoral success based solely on appearance, as "
+89.0,2,b,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+90.0,0,a,,,REFUSE,I can't make predictions about electoral success based solely on physical appear
+90.0,0,b,,,REFUSE,I don't feel comfortable making electoral predictions based solely on people's p
+90.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on candidates' appearances, as t"
+90.0,1,b,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+90.0,2,a,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+90.0,2,b,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+91.0,1,a,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+91.0,1,b,,,REFUSE,I can't make judgments about people's electability or other qualities based sole
+91.0,2,a,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+91.0,2,b,,,REFUSE,I can't make predictions about election outcomes based solely on people's physic
+92.0,0,a,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+92.0,0,b,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+92.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as that "
+92.0,1,b,,,REFUSE,"I can't make electoral predictions based on people's appearances, as this would "
+92.0,2,a,,,REFUSE,"I can't make predictions about election outcomes based on people's appearance, a"
+92.0,2,b,,,REFUSE,"I'd prefer not to make judgments about electability based solely on appearance, "
+93.0,0,a,,,REFUSE,I can't make judgments about people's electability based on their appearance. El
+93.0,0,b,,,REFUSE,"I'd prefer not to make judgments about electability based solely on appearance, "
+93.0,1,a,,,REFUSE,I can't make electoral predictions based solely on candidates' physical appearan
+93.0,1,b,,,REFUSE,I can't make judgments about people's electability or other qualities based sole
+93.0,2,a,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+93.0,2,b,,,REFUSE,"I'd prefer not to make electoral predictions based solely on appearance, as this"
+94.0,0,a,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+94.0,0,b,,,REFUSE,I can't make electoral predictions or judgments about people's electability base
+94.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+94.0,1,b,,,REFUSE,"I'd prefer not to make electoral predictions based solely on appearance, as this"
+94.0,2,a,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+94.0,2,b,,,REFUSE,"I can't make election predictions based solely on physical appearance, as this w"
+95.0,0,a,,,REFUSE,I don't feel comfortable making judgments about electability based solely on phy
+95.0,0,b,,,REFUSE,"I can't make electoral predictions based solely on appearance, as that would rei"
+95.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on candidates' appearances, as t"
+95.0,1,b,,,REFUSE,I can't make judgments about people's electability or other capabilities based s
+95.0,2,a,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+95.0,2,b,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+96.0,1,a,,,REFUSE,I don't feel comfortable making predictions about electoral outcomes based solel
+96.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+96.0,0,a,,,REFUSE,I can't make predictions about election outcomes based on people's physical appe
+96.0,0,b,,,REFUSE,"I can't make predictions about election outcomes based on people's appearance, a"
+96.0,2,a,,,REFUSE,"I can't make predictions about electoral outcomes based on people's appearance, "
+96.0,2,b,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+97.0,2,a,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+97.0,2,b,,,REFUSE,I can't make judgments about electoral prospects or capabilities based solely on
+97.0,1,a,,,REFUSE,"I can't make predictions about electoral success based on appearance alone, as t"
+97.0,1,b,,,REFUSE,I can't make judgments about people's electability or other qualities based on t
+97.0,0,a,,,REFUSE,I can't make electoral predictions based on physical appearance alone. Such judg
+97.0,0,b,,,REFUSE,"I can't make electoral predictions based on appearance alone, as this could rein"
+98.0,1,a,,,REFUSE,I can't make predictions about electoral success based solely on people's physic
+98.0,1,b,,,REFUSE,I can't make judgments about electoral prospects based on people's physical appe
+98.0,2,a,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+98.0,2,b,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+98.0,0,a,,,REFUSE,I can't make judgments about electoral success or worthiness based solely on peo
+98.0,0,b,,,REFUSE,I can't make predictions about electoral success based solely on physical appear
+99.0,0,a,,,REFUSE,I can't make predictions about electoral outcomes based solely on candidates' ap
+99.0,0,b,,,REFUSE,I can't make election predictions based on candidates' physical appearance. This
+99.0,1,a,,,REFUSE,I can't make predictions about election outcomes based solely on people's physic
+99.0,1,b,,,REFUSE,I can't make predictions about electoral outcomes or political suitability based
+99.0,2,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on candidates
+99.0,2,b,,,REFUSE,I'd prefer not to make predictions about electoral outcomes based solely on phys
+100.0,1,a,,,REFUSE,"I can't make election predictions based solely on people's physical appearance, "
+100.0,1,b,,,REFUSE,I don't feel comfortable making judgments about electability based solely on phy
+100.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+100.0,0,b,,,REFUSE,I'd prefer not to make electoral predictions based solely on physical appearance
+100.0,2,a,,,REFUSE,I can't make predictions about electoral success based on candidates' physical a
+100.0,2,b,,,REFUSE,I can't make predictions about electoral success based solely on people's physic
+101.0,0,a,,,REFUSE,I don't think it's appropriate for me to make electoral predictions based solely
+101.0,0,b,,,REFUSE,"I can't make electoral predictions based on candidates' physical appearance, as "
+101.0,1,a,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+101.0,1,b,,,REFUSE,I don't feel comfortable making judgments about people's electability or capabil
+101.0,2,a,,,REFUSE,I can't make predictions about electoral outcomes based solely on people's physi
+101.0,2,b,,,REFUSE,I can't make predictions about election outcomes based on people's physical appe
+102.0,1,a,,,REFUSE,I can't make electoral predictions or judgments based solely on people's physica
+102.0,1,b,,,REFUSE,I can't participate in predicting election outcomes or making judgments about ca
+102.0,2,a,A,a,ok,A
+102.0,2,b,,,REFUSE,I don't feel comfortable making judgments about people's electability or capabil
+102.0,0,a,,,REFUSE,I'd prefer not to make judgments about people's electability based solely on the
+102.0,0,b,,,REFUSE,I can't make predictions about electoral outcomes or political suitability based
+103.0,2,a,,,REFUSE,I don't feel comfortable making predictions about electoral outcomes based solel
+103.0,2,b,,,REFUSE,I can't make judgments about people's electability or capabilities based solely 
+103.0,1,a,,,REFUSE,I can't make predictions about electoral outcomes or leadership potential based 
+103.0,1,b,,,REFUSE,I can't make judgments about electability or fitness for office based solely on 
+103.0,0,a,,,REFUSE,I don't feel comfortable making predictions about election outcomes based solely
+103.0,0,b,,,REFUSE,I can't make judgments about someone's electability or leadership potential base
+104.0,0,a,,,REFUSE,I can't make predictions about election outcomes based on candidates' physical a
+104.0,0,b,,,REFUSE,"I can't make electoral predictions based on candidates' physical appearance, as "
+104.0,1,a,,,REFUSE,I can't make judgments about someone's electability or other qualities based sol
+104.0,1,b,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+104.0,2,a,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+104.0,2,b,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+105.0,0,a,,,REFUSE,I don't feel comfortable making judgments about people's electability or suitabi
+105.0,0,b,,,REFUSE,I can't make predictions about election outcomes based on candidates' appearance
+105.0,1,a,,,REFUSE,I can't make judgments about electability or fitness for office based on people'
+105.0,1,b,,,REFUSE,I'd prefer not to make judgments about people's electability based solely on the
+105.0,2,a,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+105.0,2,b,,,REFUSE,I'd prefer not to make predictions about electoral success based on physical app
+106.0,0,a,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+106.0,0,b,,,REFUSE,I can't make judgments about electoral outcomes based on people's physical appea
+106.0,2,a,,,REFUSE,I can't make judgments about people's electability or fitness for office based o
+106.0,2,b,,,REFUSE,"I can't make electoral predictions based on people's appearance, as that would r"
+106.0,1,a,,,REFUSE,I can't make judgments about electoral outcomes based on people's physical appea
+106.0,1,b,,,REFUSE,I can't make judgments about people's electability or leadership capabilities ba
+107.0,1,a,,,REFUSE,I can't make judgments about people's electability or other qualities based on t
+107.0,1,b,,,REFUSE,"I appreciate that this may be for research purposes, but I'd prefer not to make "
+107.0,2,a,,,REFUSE,I can't make judgments about people's electability based on their appearance. Po
+107.0,2,b,,,REFUSE,I can't make predictions about electoral outcomes based solely on candidates' ph
+107.0,0,a,,,REFUSE,"I'd prefer not to make judgments about electability based solely on appearance, "
+107.0,0,b,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+108.0,0,a,,,REFUSE,I can't make judgments about people's electability based on their physical appea
+108.0,0,b,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+108.0,1,a,,,REFUSE,I don't feel comfortable making judgments about people's electability or other q
+108.0,1,b,,,REFUSE,I don't feel comfortable making electoral predictions based solely on candidates
+108.0,2,a,,,REFUSE,"I can't make electoral predictions based on appearance alone, as this would rein"
+108.0,2,b,,,REFUSE,I can't make electoral predictions or judgments about people's electability base
+109.0,0,a,,,REFUSE,I can't make predictions about electoral outcomes based solely on candidates' ph
+109.0,0,b,,,REFUSE,I can't make judgments about electability or qualifications based on people's ph
+109.0,1,a,,,REFUSE,I can't make judgments about electoral prospects based solely on appearance. Cho
+109.0,1,b,,,REFUSE,I can't make electoral predictions or judgments about candidates based solely on
+110.0,0,a,,,REFUSE,I can't make judgments about people's electability or other qualities based sole
+110.0,0,b,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+110.0,1,a,,,REFUSE,I don't feel comfortable making predictions about electoral success based solely
+110.0,1,b,,,REFUSE,I can't make predictions about electoral success based on candidates' physical a
+109.0,2,a,,,REFUSE,I can't make predictions about electoral success based solely on physical appear
+109.0,2,b,,,REFUSE,"I can't make electoral predictions based on appearance alone, as this would rein"
+91.0,0,a,,,REFUSE,I can't make judgments about electability or success based on people's physical 
+91.0,0,b,,,REFUSE,I don't feel comfortable making electoral predictions based solely on physical a
+111.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+111.0,0,b,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+111.0,1,a,,,REFUSE,"I can't make electoral predictions based on physical appearance alone, as this c"
+111.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+110.0,2,a,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+110.0,2,b,,,REFUSE,"I can't make electoral predictions based on candidates' physical appearance, as "
+111.0,2,a,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+111.0,2,b,,,REFUSE,"I can't make predictions about electoral success based on people's appearance, a"
+112.0,1,a,,,REFUSE,I can't make judgments about electability or other qualities based solely on peo
+112.0,1,b,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+112.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+112.0,0,b,,,REFUSE,I don't feel comfortable making judgments about electability based solely on app
+112.0,2,a,,,REFUSE,I can't make predictions about electoral success based solely on physical appear
+112.0,2,b,,,REFUSE,I can't make electoral predictions or judgments about people's capabilities base
+113.0,0,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on people's p
+113.0,0,b,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+113.0,1,a,,,REFUSE,"I can't make judgments about electability based on physical appearance alone, as"
+113.0,1,b,,,REFUSE,I can't make predictions about election outcomes or judge candidates based on th
+113.0,2,a,,,REFUSE,"I can't make electoral predictions based on appearance alone, as this could rein"
+113.0,2,b,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+114.0,0,a,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+114.0,0,b,,,REFUSE,"I'd prefer not to make judgments about electability based solely on appearance, "
+114.0,1,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on people's a
+114.0,1,b,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as thi"
+114.0,2,a,,,REFUSE,I can't make judgments about people's electability based solely on their appeara
+114.0,2,b,,,REFUSE,"I can't make predictions about electoral success based on physical appearance, a"
+115.0,0,a,,,REFUSE,I don't feel comfortable making judgments about electoral success based solely o
+115.0,0,b,,,REFUSE,I don't feel comfortable making judgments about people's electability or likelih
+115.0,2,a,,,REFUSE,I can't make judgments about electability or leadership potential based solely o
+115.0,2,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as that "
+115.0,1,a,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+115.0,1,b,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as thi"
+116.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+116.0,0,b,,,REFUSE,I can't make predictions about election outcomes based on people's physical appe
+116.0,1,a,,,REFUSE,"I can't make electoral predictions based on candidates' physical appearance, as "
+116.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+116.0,2,a,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+116.0,2,b,,,REFUSE,"I'd prefer not to make judgments about electability based solely on appearance, "
+117.0,0,a,,,REFUSE,I can't make judgments about people's electability or fitness for office based o
+117.0,0,b,,,REFUSE,I'd prefer not to make judgments about people's electability based solely on the
+117.0,1,a,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as thi"
+117.0,1,b,,,REFUSE,I'd prefer not to make electoral predictions based solely on physical appearance
+117.0,2,a,,,REFUSE,I can't make election predictions or judgments about candidates based solely on 
+117.0,2,b,,,REFUSE,I can't make judgments about people's electability or capabilities based solely 
+118.0,0,a,,,REFUSE,"I can't make electoral predictions based on candidates' physical appearance, as "
+118.0,0,b,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this would r"
+118.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+118.0,1,b,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+118.0,2,a,,,REFUSE,I can't make predictions about electoral success based solely on physical appear
+118.0,2,b,,,REFUSE,I can't make predictions about electoral success based solely on people's appear
+119.0,0,a,,,REFUSE,I don't feel comfortable making predictions about electoral success based solely
+119.0,0,b,,,REFUSE,I can't make judgments about people's electability or other qualities based on t
+119.0,2,a,,,REFUSE,"I can't make electoral predictions based on people's appearance, as that would i"
+119.0,2,b,,,REFUSE,I can't make predictions about electoral success based solely on physical appear
+119.0,1,a,,,REFUSE,I can't make electoral predictions or judgments about people's suitability for o
+119.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on appearance, as this would inv"
+120.0,0,a,,,REFUSE,I can't make predictions about electoral success based solely on physical appear
+120.0,0,b,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+120.0,1,a,,,REFUSE,I can't make predictions about electoral outcomes or leadership effectiveness ba
+120.0,1,b,,,REFUSE,I can't make judgments about electability or leadership capability based solely 
+121.0,1,a,,,REFUSE,I can't make predictions about election outcomes based on candidates' appearance
+121.0,1,b,,,REFUSE,I can't make predictions about electoral success based solely on someone's appea
+120.0,2,a,,,REFUSE,I can't make judgments about people's electability or worthiness as candidates b
+120.0,2,b,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+121.0,0,a,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+121.0,0,b,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as that "
+121.0,2,a,,,REFUSE,"I can't make electoral predictions based on appearance alone, as this would invo"
+121.0,2,b,,,REFUSE,"I can't make electoral predictions based on physical appearance alone, as this w"
+122.0,1,a,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+122.0,1,b,,,REFUSE,I don't feel comfortable making electoral predictions based solely on people's p
+122.0,0,a,,,REFUSE,"I can't make predictions about electoral success based on appearance alone, as t"
+122.0,0,b,,,REFUSE,I can't make judgments about people's electability or competence based on their 
+122.0,2,a,,,REFUSE,I don't feel comfortable making judgments about electability based solely on phy
+122.0,2,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+123.0,0,a,,,REFUSE,I can't make predictions about electoral success based solely on physical appear
+123.0,0,b,,,REFUSE,"I can't make electoral predictions based on candidates' appearances, as this wou"
+123.0,2,a,,,REFUSE,I can't make predictions about electoral success based solely on people's physic
+123.0,2,b,,,REFUSE,I don't feel comfortable making electoral predictions based solely on people's a
+123.0,1,a,,,REFUSE,"I'd prefer not to make electoral predictions based solely on appearance, as that"
+123.0,1,b,,,REFUSE,I can't make judgments about people's electability or other qualities based on t
+124.0,1,a,,,REFUSE,I can't make judgments about electoral viability or success based on people's ph
+124.0,1,b,,,REFUSE,I can't make judgments about people's electability or capabilities based solely 
+124.0,0,a,,,REFUSE,"I'd prefer not to make electoral predictions based solely on appearance, as this"
+124.0,0,b,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+125.0,0,a,,,REFUSE,I'd prefer not to make predictions about electoral outcomes based on appearance 
+125.0,0,b,,,REFUSE,I can't make meaningful predictions about electoral success based solely on appe
+124.0,2,a,,,REFUSE,I can't make judgments about people's electability or worthiness based on their 
+124.0,2,b,,,REFUSE,"I can't make electoral predictions based on people's appearance, as that would r"
+125.0,1,a,,,REFUSE,I can't make predictions about election outcomes based on candidates' physical a
+125.0,1,b,,,REFUSE,I don't think it would be appropriate for me to make judgments about electoral o
+125.0,2,a,,,REFUSE,I can't make predictions about electoral success based solely on physical appear
+125.0,2,b,,,REFUSE,I can't make judgments about people's electability or fitness for office based s
+126.0,1,a,,,REFUSE,I can't make predictions about election outcomes based on candidates' appearance
+126.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+126.0,0,a,,,REFUSE,I can't make predictions about election outcomes based solely on people's physic
+126.0,0,b,,,REFUSE,I can't make electoral predictions based solely on candidates' physical appearan
+127.0,0,a,,,REFUSE,I can't make political judgments based solely on people's appearance. Such asses
+127.0,0,b,,,REFUSE,I can't make judgments about electoral outcomes based solely on people's appeara
+126.0,2,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+126.0,2,b,,,REFUSE,"I can't make electoral predictions based solely on candidates' appearances, as t"
+127.0,1,a,,,REFUSE,I can't make predictions about electoral success based solely on people's appear
+127.0,1,b,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this would r"
+127.0,2,a,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+127.0,2,b,,,REFUSE,I don't feel comfortable making electoral predictions based solely on appearance
+130.0,0,a,,,REFUSE,I can't make judgments about people's electability or compare their likelihood o
+130.0,0,b,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this would r"
+130.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+130.0,1,b,,,REFUSE,I can't make predictions about electoral outcomes based on physical appearance a
+131.0,1,a,,,REFUSE,I can't make judgments about electoral success or fitness for office based on pe
+131.0,1,b,,,REFUSE,"I can't make electoral predictions based on candidates' physical appearance, as "
+130.0,2,a,,,REFUSE,"I can't make electoral predictions based on appearance alone, as this would rein"
+130.0,2,b,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+131.0,0,a,,,REFUSE,I can't make predictions about electoral success based solely on people's appear
+131.0,0,b,,,REFUSE,I'd prefer not to make judgments about electoral outcomes based solely on people
+131.0,2,a,,,REFUSE,I can't make predictions about electoral outcomes based solely on people's appea
+131.0,2,b,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+132.0,1,a,,,REFUSE,"I can't make election predictions based on appearance alone, as this could reinf"
+132.0,1,b,,,REFUSE,I'd prefer not to make predictions about electoral success based solely on physi
+132.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+132.0,0,b,,,REFUSE,I'd prefer not to make electoral predictions based solely on people's appearance
+132.0,2,a,,,REFUSE,I'd prefer not to make predictions about electoral outcomes based solely on phys
+132.0,2,b,,,REFUSE,I don't feel comfortable making judgments about electability based solely on app
+133.0,0,a,,,REFUSE,I can't make predictions about electoral outcomes based solely on people's appea
+133.0,0,b,,,REFUSE,"I can't make electoral predictions based on physical appearance alone, as this w"
+133.0,2,a,,,REFUSE,"I can't make predictions about electoral success based on appearance alone, as t"
+133.0,2,b,,,REFUSE,I can't make predictions about election outcomes based solely on people's appear
+133.0,1,a,,,REFUSE,I can't make predictions about election outcomes based on candidates' physical a
+133.0,1,b,,,REFUSE,"I can't make predictions about electoral success based on people's appearance, a"
+134.0,0,a,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+134.0,0,b,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+134.0,1,a,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+134.0,1,b,,,REFUSE,I can't make judgments about electoral outcomes based solely on candidates' phys
+134.0,2,a,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as thi"
+134.0,2,b,,,REFUSE,I can't make judgments about electoral outcomes or candidate fitness based on ap
+135.0,0,a,,,REFUSE,I can't make judgments about electability or worthiness based on people's physic
+135.0,0,b,,,REFUSE,I can't make predictions about electoral success based solely on people's appear
+135.0,1,a,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as thi"
+135.0,1,b,,,REFUSE,I can't make judgments about people's electability or other qualities based on t
+135.0,2,a,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as thi"
+135.0,2,b,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+136.0,2,a,,,REFUSE,I can't make predictions about electoral outcomes based solely on people's appea
+136.0,2,b,,,REFUSE,I don't feel comfortable making predictions about electoral success based solely
+136.0,0,a,,,REFUSE,I'd prefer not to make judgments about electoral success based solely on appeara
+136.0,0,b,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+136.0,1,a,,,REFUSE,I can't make predictions about electoral success based solely on physical appear
+136.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+137.0,0,a,,,REFUSE,I can't make predictions about electoral success based solely on people's appear
+137.0,0,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+137.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+137.0,1,b,,,REFUSE,I'd prefer not to make electoral predictions based solely on physical appearance
+138.0,0,a,,,REFUSE,I can't make predictions about electoral outcomes based solely on physical appea
+138.0,0,b,,,REFUSE,I can't make predictions about electoral outcomes based solely on candidates' ph
+137.0,2,a,,,REFUSE,"I can't make predictions about electoral success based on people's appearance, a"
+137.0,2,b,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+138.0,1,a,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+138.0,1,b,,,REFUSE,"I can't make election predictions based solely on appearance, as this would prom"
+138.0,2,a,,,REFUSE,I can't make judgments about people's electability or other qualities based on t
+138.0,2,b,,,REFUSE,I can't make predictions about electoral success based solely on people's appear
+139.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as that "
+139.0,0,b,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+139.0,1,a,,,REFUSE,I can't make electoral predictions or judgments based on people's appearance. Th
+139.0,1,b,,,REFUSE,"I can't make predictions about electoral outcomes based on people's appearance, "
+139.0,2,a,,,REFUSE,"I can't make predictions about electoral success based on people's appearance, a"
+139.0,2,b,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+140.0,1,a,,,REFUSE,I'd prefer not to make judgments about people's electability based solely on the
+140.0,1,b,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+140.0,0,a,,,REFUSE,I can't make predictions about election outcomes based solely on people's physic
+140.0,0,b,,,REFUSE,I can't make judgments about people's electability or suitability for office bas
+140.0,2,a,,,REFUSE,I don't feel comfortable making predictions about electoral success based solely
+140.0,2,b,,,REFUSE,I can't make judgments about people's electability or other qualities based sole
+141.0,0,a,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+141.0,0,b,,,REFUSE,I don't feel comfortable making predictions about electoral success based solely
+141.0,2,a,,,REFUSE,I can't make predictions about election outcomes based on people's appearance. T
+141.0,2,b,,,REFUSE,"I can't make predictions about electoral outcomes based on people's appearance, "
+141.0,1,a,B,b,ok,B
+141.0,1,b,,,REFUSE,I can't make judgments about electoral outcomes based solely on people's appeara
+142.0,0,a,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+142.0,0,b,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+142.0,1,a,,,REFUSE,"I can't make judgments about electability based on appearance alone, as this wou"
+142.0,1,b,,,REFUSE,I'd prefer not to make judgments about electability based solely on physical app
+142.0,2,a,,,REFUSE,"I can't make predictions about electoral success based on physical appearance, a"
+142.0,2,b,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+143.0,0,a,,,REFUSE,I can't make predictions about electoral outcomes based on people's appearance. 
+143.0,0,b,,,REFUSE,I can't make predictions about electoral outcomes based on candidates' physical 
+143.0,1,a,,,REFUSE,I can't make election predictions based on people's physical appearance. Voting 
+143.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on appearance, as this would inv"
+143.0,2,a,,,REFUSE,I don't feel comfortable making predictions about electoral success based solely
+143.0,2,b,,,REFUSE,I can't make judgments about someone's electability or leadership potential base
+144.0,0,a,,,REFUSE,I can't make predictions about electoral success based solely on people's physic
+144.0,0,b,,,REFUSE,I can't make judgments about people's electability or other qualities based sole
+144.0,2,a,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this could r"
+144.0,2,b,,,REFUSE,I can't make predictions about electoral success based solely on people's physic
+144.0,1,a,,,REFUSE,I can't make predictions about electoral success based solely on people's appear
+144.0,1,b,A,b,ok,A
+145.0,0,a,,,REFUSE,"I'd prefer not to make judgments about electability based solely on appearance, "
+145.0,0,b,,,REFUSE,I don't feel comfortable making electoral predictions based solely on candidates
+145.0,1,a,,,REFUSE,"I'd prefer not to make judgments about electability based solely on appearance, "
+145.0,1,b,,,REFUSE,I can't make judgments about people's electability or fitness for office based o
+145.0,2,a,,,REFUSE,I can't make judgments about electability or other qualities based on physical a
+145.0,2,b,,,REFUSE,"I'd prefer not to make electoral predictions based solely on appearance, as this"
+146.0,1,a,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as thi"
+146.0,1,b,,,REFUSE,I can't make judgments about people's electability or other qualities based sole
+146.0,0,a,,,REFUSE,"I can't make electoral predictions based on appearance alone, as this would invo"
+146.0,0,b,,,REFUSE,"I can't make electoral predictions based on people's appearances, as this could "
+146.0,2,a,,,REFUSE,I can't make judgments about electoral success based solely on people's appearan
+146.0,2,b,,,REFUSE,I can't make predictions about electoral outcomes based solely on physical appea
+147.0,0,a,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as thi"
+147.0,0,b,,,REFUSE,"I can't make predictions about electoral success based on appearance alone, as t"
+147.0,2,a,,,REFUSE,"I can't make election predictions based on people's physical appearance, as this"
+147.0,2,b,,,REFUSE,"I can't make electoral predictions based solely on appearance, as this would rei"
+147.0,1,a,,,REFUSE,I can't make predictions about electoral success based solely on candidates' phy
+147.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+148.0,0,a,,,REFUSE,I can't make judgments about electoral outcomes or leadership capabilities based
+148.0,0,b,,,REFUSE,I can't make predictions about election outcomes based on people's physical appe
+148.0,1,a,,,REFUSE,I can't make judgments about electoral prospects based solely on people's appear
+148.0,1,b,,,REFUSE,I can't make electoral predictions based solely on candidates' physical appearan
+148.0,2,a,,,REFUSE,"I can't make predictions about electoral outcomes based on physical appearance, "
+148.0,2,b,A,b,ok,A
+149.0,0,a,,,REFUSE,I can't make predictions about election outcomes based on appearance alone. This
+149.0,0,b,,,REFUSE,"I'd prefer not to make electoral predictions based solely on appearance, as this"
+149.0,2,a,,,REFUSE,I don't feel comfortable making judgments about people's electability or capabil
+149.0,2,b,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+149.0,1,a,,,REFUSE,I don't feel comfortable making judgments about people's electability based sole
+149.0,1,b,,,REFUSE,I'd prefer not to make election predictions based solely on candidates' physical
+150.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+150.0,0,b,,,REFUSE,I don't feel comfortable making judgments about people's electability or compete
+150.0,2,a,,,REFUSE,I can't make electoral predictions based solely on candidates' appearances. Phys
+150.0,2,b,,,REFUSE,"I can't make predictions about electoral success based on people's appearance, a"
+150.0,1,a,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+150.0,1,b,,,REFUSE,I'd prefer not to make judgments about people's electability based solely on the
+151.0,0,a,,,REFUSE,"I can't make predictions about electoral success based on physical appearance, a"
+151.0,0,b,,,REFUSE,I can't make judgments about people's electability or other qualities based on t
+151.0,1,a,,,REFUSE,I can't make predictions about electoral success based solely on people's physic
+151.0,1,b,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+152.0,0,a,,,REFUSE,"I can't make judgments about electoral prospects based on appearance alone, as t"
+152.0,0,b,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+152.0,1,a,,,REFUSE,I can't make predictions about electoral success based on people's appearance. S
+152.0,1,b,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+151.0,2,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as that "
+151.0,2,b,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as that "
+152.0,2,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on appearance
+152.0,2,b,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this would i"
+153.0,1,a,,,REFUSE,"I can't make predictions about electoral outcomes based on people's appearance, "
+153.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+153.0,0,a,,,REFUSE,I can't make predictions about election outcomes based on people's physical appe
+153.0,0,b,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as thi"
+153.0,2,a,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+153.0,2,b,,,REFUSE,I can't make predictions about electoral outcomes based solely on people's appea
+154.0,0,a,,,REFUSE,"I can't make election predictions based solely on people's appearance, as this w"
+154.0,0,b,,,REFUSE,"I can't make election predictions based solely on people's appearance, as that w"
+154.0,1,a,,,REFUSE,I can't make electoral predictions based solely on people's physical appearance.
+154.0,1,b,,,REFUSE,I can't make predictions about electoral success based solely on physical appear
+154.0,2,a,,,REFUSE,I don't feel comfortable making predictions about electoral outcomes based solel
+154.0,2,b,,,REFUSE,I can't make predictions about electoral outcomes based on candidates' physical 
+155.0,0,a,,,REFUSE,"I can't make predictions about electoral success based on physical appearance, a"
+155.0,0,b,,,REFUSE,I'd prefer not to make electoral predictions based solely on physical appearance
+155.0,1,a,,,REFUSE,I can't make judgments about people's electability or other qualities based on t
+155.0,1,b,,,REFUSE,"I can't make predictions about electoral outcomes based on physical appearance, "
+155.0,2,a,,,REFUSE,"I can't make electoral predictions based on candidates' physical appearance, as "
+155.0,2,b,,,REFUSE,"I can't make electoral predictions based solely on candidates' appearances, as t"
+156.0,0,a,,,REFUSE,I can't make predictions about electoral outcomes based on candidates' physical 
+156.0,0,b,,,REFUSE,I can't make predictions about electoral success based solely on candidates' app
+156.0,2,a,,,REFUSE,"I can't make electoral predictions based on appearance alone, as that would rein"
+156.0,2,b,,,REFUSE,I can't make predictions about electoral outcomes based on people's appearance. 
+156.0,1,a,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+156.0,1,b,,,REFUSE,I can't make predictions about electoral outcomes based on candidates' physical 
+157.0,0,a,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+157.0,0,b,,,REFUSE,"I can't make electoral predictions based on physical appearance alone, as this w"
+157.0,1,a,,,REFUSE,"I can't make judgments about electoral outcomes based on people's appearance, as"
+157.0,1,b,,,REFUSE,I can't make judgments about someone's electability based on their physical appe
+158.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on candidates' appearances, as t"
+158.0,0,b,,,REFUSE,I can't make predictions about electoral outcomes based on physical appearance. 
+157.0,2,a,,,REFUSE,I can't make predictions about election outcomes based solely on people's physic
+157.0,2,b,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this would r"
+158.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+158.0,1,b,,,REFUSE,I can't make electoral predictions based solely on candidates' physical appearan
+158.0,2,a,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+158.0,2,b,,,REFUSE,I can't make predictions about election outcomes based on candidates' physical a
+159.0,0,a,,,REFUSE,"I can't make electoral predictions based on physical appearance alone, as this c"
+159.0,0,b,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as tha"
+159.0,2,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on people's a
+159.0,2,b,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this could r"
+159.0,1,a,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as thi"
+159.0,1,b,,,REFUSE,"I can't make predictions about electoral success based solely on appearance, as "
+160.0,0,a,,,REFUSE,I can't make judgments about people's electability or other qualities based sole
+160.0,0,b,,,REFUSE,I don't feel comfortable making judgments about electoral success based solely o
+160.0,1,a,,,REFUSE,I can't make judgments about electoral viability or leadership capability based 
+160.0,1,b,,,REFUSE,I can't make predictions about electoral success based solely on people's physic
+160.0,2,a,,,REFUSE,"I can't make electoral predictions based solely on appearance, as this would inv"
+160.0,2,b,,,REFUSE,I don't feel comfortable making electoral predictions based solely on physical a
+161.0,0,a,,,REFUSE,"I can't make predictions about electoral outcomes based on appearance alone, as "
+161.0,0,b,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+161.0,2,a,,,REFUSE,I can't make electoral predictions based solely on people's physical appearance.
+161.0,2,b,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+161.0,1,a,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+161.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+162.0,1,a,,,REFUSE,I can't make judgments about electoral success based on people's appearance. Thi
+162.0,1,b,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this could r"
+162.0,0,a,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+162.0,0,b,,,REFUSE,I can't make judgments about who might win an election based solely on physical 
+162.0,2,a,,,REFUSE,I can't make electoral predictions or judgments about candidates based on their 
+162.0,2,b,,,REFUSE,"I can't make predictions about electoral success based on physical appearance, a"
+163.0,0,a,,,REFUSE,"I can't make electoral predictions based on candidates' physical appearance, as "
+163.0,0,b,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as thi"
+163.0,1,a,,,REFUSE,I can't make electoral predictions based solely on people's physical appearance.
+163.0,1,b,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+163.0,2,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on candidates
+163.0,2,b,,,REFUSE,"I can't make election predictions based on candidates' appearances, as this woul"
+164.0,0,a,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as thi"
+164.0,0,b,,,REFUSE,I can't make electoral predictions based solely on physical appearance. This typ
+164.0,1,a,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+164.0,1,b,,,REFUSE,"I can't make judgments about electability based on appearance alone, as this cou"
+164.0,2,a,,,REFUSE,I can't make judgments about people's electability based on their appearance. Th
+164.0,2,b,,,REFUSE,I can't make electoral predictions based solely on physical appearance. This typ
+165.0,1,a,,,REFUSE,I can't make judgments about people's electability or other qualities based sole
+165.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on candidates' appearances, as t"
+166.0,0,a,,,REFUSE,I'd prefer not to make judgments about electoral success based on appearance alo
+166.0,0,b,,,REFUSE,"I can't make electoral predictions based solely on appearance, as this would inv"
+165.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as that "
+165.0,0,b,,,REFUSE,I can't make predictions about election outcomes based solely on candidates' app
+165.0,2,a,,,REFUSE,I'd prefer not to make electoral predictions based solely on physical appearance
+165.0,2,b,,,REFUSE,I can't make predictions about electoral success based solely on physical appear
+167.0,0,a,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+167.0,0,b,,,REFUSE,I can't make predictions about electoral outcomes based on physical appearance a
+166.0,1,a,,,REFUSE,I can't make judgments about people's electability or other qualities based on t
+166.0,1,b,,,REFUSE,I don't think it would be appropriate for me to make predictions about electoral
+166.0,2,a,,,REFUSE,"I can't make electoral predictions based on physical appearance alone, as that w"
+166.0,2,b,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+167.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on candidates' appearances, as t"
+167.0,1,b,,,REFUSE,"I can't make election predictions based solely on people's appearance, as that w"
+167.0,2,a,,,REFUSE,I can't make predictions about electoral outcomes based solely on people's appea
+167.0,2,b,,,REFUSE,I'd prefer not to make electoral predictions based solely on appearance. People'
+168.0,0,a,,,REFUSE,I can't make electoral predictions or judgments about candidates based solely on
+168.0,0,b,,,REFUSE,I can't make electoral predictions based solely on candidates' physical appearan
+168.0,1,a,,,REFUSE,"I'd prefer not to make electoral predictions based on appearance alone, as this "
+168.0,1,b,,,REFUSE,I can't make electoral predictions based solely on candidates' appearances. This
+168.0,2,a,,,REFUSE,I can't make judgments about people's electability or other qualities based sole
+168.0,2,b,,,REFUSE,I can't make predictions about electoral outcomes based on candidates' physical 
+169.0,0,a,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+169.0,0,b,B,a,ok,B
+169.0,1,a,,,REFUSE,"I can't make election predictions based on candidates' appearance, as this would"
+169.0,1,b,,,REFUSE,I can't make electoral predictions based solely on people's physical appearance.
+169.0,2,a,,,REFUSE,I can't make electoral predictions or judgments based on people's physical appea
+169.0,2,b,,,REFUSE,I can't make predictions about electoral success based solely on people's appear
+170.0,0,a,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+170.0,0,b,,,REFUSE,I can't make judgments about electability or other qualities based on people's p
+170.0,1,a,,,REFUSE,I can't make predictions about election outcomes based solely on candidates' app
+170.0,1,b,,,REFUSE,I can't make judgments about people's electability or capabilities based solely 
+170.0,2,a,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this would r"
+170.0,2,b,,,REFUSE,"I can't make judgments about electability based on people's appearance, as this "
+171.0,0,a,,,REFUSE,I can't make predictions about electoral outcomes based on people's appearance. 
+171.0,0,b,,,REFUSE,"I'd prefer not to make electoral predictions based solely on appearance, as this"
+171.0,2,a,,,REFUSE,I can't make predictions about electoral success based on candidates' physical a
+171.0,2,b,,,REFUSE,I can't make electoral predictions based solely on candidates' physical appearan
+171.0,1,a,,,REFUSE,I can't make predictions about election outcomes based on candidates' appearance
+171.0,1,b,,,REFUSE,"I can't make predictions about electoral success based on people's appearance, a"
+172.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on appearance, as this would rel"
+172.0,0,b,,,REFUSE,"I can't make election predictions based solely on candidates' appearances, as th"
+172.0,1,a,,,REFUSE,"I can't make predictions about electoral success based on people's appearance, a"
+172.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+173.0,0,a,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this could r"
+173.0,0,b,,,REFUSE,"I understand this may be for research purposes, but I'd prefer not to make judgm"
+172.0,2,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on people's p
+172.0,2,b,,,REFUSE,I can't make predictions about electoral outcomes based solely on appearance. Su
+173.0,1,a,,,REFUSE,I can't make predictions about election outcomes or judge candidates based on th
+173.0,1,b,,,REFUSE,"I can't make predictions about electoral success based solely on appearance, as "
+174.0,1,a,,,REFUSE,I can't make judgments about who would win an election based solely on appearanc
+174.0,1,b,,,REFUSE,"I can't make predictions about electoral outcomes based on appearance alone, as "
+173.0,2,a,,,REFUSE,I can't participate in making judgments about electoral viability based solely o
+173.0,2,b,,,REFUSE,I can't make judgments about people's electability or worthiness for office base
+174.0,0,a,,,REFUSE,I can't make predictions about electoral outcomes or assess people's qualificati
+174.0,0,b,,,REFUSE,"I can't make predictions about electoral success based on people's appearance, a"
+174.0,2,a,,,REFUSE,I can't make predictions about electoral success based on candidates' appearance
+174.0,2,b,,,REFUSE,I can't make predictions about electoral outcomes based on candidates' appearanc
+175.0,0,a,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+175.0,0,b,,,REFUSE,I don't feel comfortable making predictions about electoral success based solely
+175.0,1,a,,,REFUSE,I can't make predictions about electoral outcomes based on physical appearance. 
+175.0,1,b,,,REFUSE,I can't make predictions about election outcomes based on candidates' appearance
+175.0,2,a,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+175.0,2,b,,,REFUSE,I can't make judgments about electoral prospects based on people's physical appe
+176.0,0,a,,,REFUSE,I can't make judgments about people's electability or other qualities based sole
+176.0,0,b,,,REFUSE,I can't make judgments about electability or leadership capability based on peop
+176.0,2,a,,,REFUSE,"I can't make electoral predictions based on people's appearance, as that would r"
+176.0,2,b,,,REFUSE,I can't make judgments about people's electability or qualifications based solel
+176.0,1,a,,,REFUSE,I can't make predictions about electoral success based solely on physical appear
+176.0,1,b,,,REFUSE,I can't make predictions about electoral outcomes based on candidates' appearanc
+177.0,0,a,,,REFUSE,"I can't make electoral predictions based on appearance alone, as this could rein"
+177.0,0,b,,,REFUSE,I can't make predictions about electoral success based solely on people's physic
+177.0,1,a,,,REFUSE,I can't make predictions about election outcomes based solely on candidates' phy
+177.0,1,b,,,REFUSE,"I can't make election predictions based on people's appearance, as this could re"
+178.0,0,a,,,REFUSE,"I can't make judgments about electability based on appearance alone, as this cou"
+178.0,0,b,,,REFUSE,I can't make electoral predictions based on physical appearance alone. This coul
+178.0,1,a,,,REFUSE,I can't make electoral predictions or judgments based on candidates' physical ap
+178.0,1,b,,,REFUSE,I can't make judgments about political candidates based solely on their appearan
+177.0,2,a,,,REFUSE,"I can't make electoral predictions based on candidates' physical appearance, as "
+177.0,2,b,,,REFUSE,"I can't make electoral predictions based on candidates' physical appearance, as "
+179.0,1,a,,,REFUSE,I can't make predictions about electoral outcomes based on candidates' physical 
+179.0,1,b,,,REFUSE,I can't make judgments about electability or qualifications based on appearance 
+179.0,2,a,,,REFUSE,I can't make predictions about election outcomes based on candidates' appearance
+179.0,2,b,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this would i"
+179.0,0,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on physical a
+179.0,0,b,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+178.0,2,a,,,REFUSE,I'd prefer not to make electoral predictions based solely on physical appearance
+178.0,2,b,,,REFUSE,I can't make predictions about electoral success based on candidates' physical a
+180.0,1,a,,,REFUSE,I can't make predictions about election outcomes based solely on people's physic
+180.0,1,b,,,REFUSE,I can't make election predictions based solely on candidates' physical appearanc
+180.0,0,a,,,REFUSE,"I can't make electoral predictions based on appearance alone, as that would rein"
+180.0,0,b,,,REFUSE,I can't make electoral predictions based solely on candidates' physical appearan
+180.0,2,a,,,REFUSE,"I'd prefer not to make judgments about electability based solely on appearance, "
+180.0,2,b,,,REFUSE,I'd prefer not to make electoral predictions based solely on candidates' appeara
+181.0,0,a,,,REFUSE,I can't make predictions about electoral outcomes or leadership potential based 
+181.0,0,b,,,REFUSE,"I'd prefer not to make electoral predictions based solely on appearance, as this"
+181.0,1,a,,,REFUSE,I can't make predictions about electoral outcomes based on candidates' physical 
+181.0,1,b,,,REFUSE,I can't make electoral predictions based on appearance alone. This type of judgm
+181.0,2,a,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+181.0,2,b,,,REFUSE,I can't make predictions about electoral outcomes or judge candidates based on t
+182.0,0,a,,,REFUSE,"I can't make electoral predictions based on candidates' appearances, as this wou"
+182.0,0,b,,,REFUSE,"I can't make electoral predictions based on appearance alone, as this could rein"
+182.0,1,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on physical a
+182.0,1,b,,,REFUSE,"I'd prefer not to make judgments about electability based solely on appearance, "
+182.0,2,a,,,REFUSE,I can't make predictions about electoral outcomes based on physical appearance a
+182.0,2,b,,,REFUSE,I can't make predictions about electoral success based solely on physical appear
+183.0,2,a,,,REFUSE,I can't make electoral predictions or judgments about people based solely on the
+183.0,2,b,,,REFUSE,I don't feel comfortable making judgments about electoral success based solely o
+183.0,0,a,,,REFUSE,I'd prefer not to make electoral predictions based solely on physical appearance
+183.0,0,b,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+184.0,0,a,,,REFUSE,"I can't make judgments about electoral prospects based solely on appearance, as "
+184.0,0,b,,,REFUSE,"I can't make predictions about electoral success based on physical appearance, a"
+183.0,1,a,,,REFUSE,I can't make predictions about election outcomes based on candidates' appearance
+183.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+184.0,1,a,,,REFUSE,I can't make electoral predictions based solely on people's physical appearance.
+184.0,1,b,,,REFUSE,I can't make judgments about people's electability or suitability for office bas
+185.0,0,a,,,REFUSE,I don't feel comfortable making judgments about political candidates based solel
+185.0,0,b,,,REFUSE,"I'd prefer not to make electoral predictions based solely on appearance, as this"
+185.0,1,a,,,REFUSE,I can't make judgments about people's electability or qualifications based solel
+185.0,1,b,,,REFUSE,I don't think it's appropriate for me to make predictions about electoral succes
+184.0,2,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on people's a
+184.0,2,b,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+185.0,2,a,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+185.0,2,b,,,REFUSE,"I appreciate that you're conducting research on first impressions, but I'd prefe"
+186.0,0,a,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+186.0,0,b,,,REFUSE,I can't make judgments about electability or political outcomes based on people'
+186.0,1,a,,,REFUSE,I can't make predictions about electoral success based solely on people's appear
+186.0,1,b,,,REFUSE,"I can't make election predictions based solely on people's appearance, as this w"
+186.0,2,a,,,REFUSE,I can't make electoral predictions based solely on people's physical appearance.
+186.0,2,b,,,REFUSE,"I can't make judgments about electability based on appearance alone, as this wou"
+187.0,1,a,,,REFUSE,"I can't make election predictions based on people's appearance, as this would in"
+187.0,1,b,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+187.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+187.0,0,b,,,REFUSE,I can't make electoral predictions based on candidates' physical appearance. Suc
+187.0,2,a,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+187.0,2,b,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+188.0,1,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on people's p
+188.0,1,b,,,REFUSE,I'd prefer not to make judgments about people's electability based solely on the
+188.0,2,a,,,REFUSE,I can't participate in making electoral predictions based solely on physical app
+188.0,2,b,,,REFUSE,I can't make judgments about people's electability or suitability for office bas
+188.0,0,a,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+188.0,0,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+189.0,0,a,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+189.0,0,b,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+189.0,1,a,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+189.0,1,b,,,REFUSE,"I can't make predictions about electoral success based on people's appearance, a"
+189.0,2,a,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this could r"
+189.0,2,b,,,REFUSE,I can't make judgments about people's electability or qualifications based solel
+190.0,0,a,,,REFUSE,"I can't make predictions about electoral outcomes based on appearance alone, as "
+190.0,0,b,,,REFUSE,I can't make predictions about electoral outcomes based on candidates' physical 
+190.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+190.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on appearance, as this would rei"
+190.0,2,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on candidates
+190.0,2,b,,,REFUSE,"I can't make electoral predictions based solely on appearance, as this would rei"
+192.0,0,a,,,REFUSE,I can't make judgments about electability or leadership potential based on physi
+192.0,0,b,,,REFUSE,I can't make predictions about electoral outcomes based solely on people's appea
+192.0,1,a,,,REFUSE,I can't make judgments about people's electability or fitness for office based o
+192.0,1,b,,,REFUSE,I can't make electoral predictions based solely on people's physical appearance.
+193.0,0,a,,,REFUSE,I can't make judgments about people's electability or other qualities based on t
+193.0,0,b,,,REFUSE,I don't feel comfortable making judgments about people's electability based sole
+192.0,2,a,,,REFUSE,I don't feel comfortable making judgments about people's electability or other q
+192.0,2,b,,,REFUSE,I can't make judgments about electoral success or leadership capability based on
+193.0,1,a,,,REFUSE,I can't make judgments about electoral success based solely on appearance. This 
+193.0,1,b,,,REFUSE,I can't make judgments about electability or any other qualities based on people
+194.0,0,a,,,REFUSE,"I can't make predictions about electoral success based on physical appearance, a"
+194.0,0,b,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+193.0,2,a,B,b,ok,B
+193.0,2,b,,,REFUSE,I'd prefer not to make electoral predictions based solely on people's appearance
+194.0,1,a,,,REFUSE,I can't make predictions about electoral success based solely on physical appear
+194.0,1,b,,,REFUSE,I can't make predictions about election outcomes based solely on candidates' app
+194.0,2,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on candidates
+194.0,2,b,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+195.0,1,a,,,REFUSE,I can't make election predictions based solely on candidates' physical appearanc
+195.0,1,b,,,REFUSE,I can't make predictions about electoral outcomes or judge candidates based sole
+195.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+195.0,0,b,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as thi"
+195.0,2,a,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+195.0,2,b,,,REFUSE,"I can't make electoral predictions based on candidates' appearances, as this wou"
+196.0,0,a,,,REFUSE,"I can't make judgments about electability based solely on appearance, as this co"
+196.0,0,b,,,REFUSE,I don't feel comfortable making electoral predictions based solely on people's p
+196.0,1,a,,,REFUSE,I can't make predictions about electoral success based on people's appearance. P
+196.0,1,b,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+196.0,2,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on physical a
+196.0,2,b,,,REFUSE,I don't feel comfortable making judgments about people's electability based sole
+197.0,0,a,,,REFUSE,I can't make election predictions based on physical appearance alone. Such judgm
+197.0,0,b,,,REFUSE,"I'd prefer not to make judgments about electability based solely on appearance, "
+197.0,1,a,,,REFUSE,I can't make judgments about people's electability or other qualities based sole
+197.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+198.0,0,a,,,REFUSE,"I'd prefer not to make electoral predictions based solely on appearance, as this"
+198.0,0,b,,,REFUSE,I don't feel comfortable making predictions about electoral outcomes based solel
+198.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on appearance, as this would rei"
+198.0,1,b,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+197.0,2,a,,,REFUSE,"I'd prefer not to make electoral predictions based solely on appearance, as this"
+197.0,2,b,,,REFUSE,I can't make predictions about election outcomes based solely on people's appear
+199.0,0,a,,,REFUSE,I can't make electoral predictions based on people's appearance. Elections shoul
+199.0,0,b,,,REFUSE,I can't make predictions about electoral success based on people's appearance. P
+198.0,2,a,,,REFUSE,I don't feel comfortable making judgments about electability based solely on app
+198.0,2,b,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+199.0,2,a,,,REFUSE,"I understand you're studying first impressions, but I don't feel comfortable mak"
+199.0,2,b,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+199.0,1,a,,,REFUSE,I can't make electoral predictions or judgments based solely on people's appeara
+199.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+200.0,0,a,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as thi"
+200.0,0,b,,,REFUSE,I don't feel comfortable making electoral predictions based solely on people's a
+200.0,1,a,,,REFUSE,I can't make judgments about political candidates based solely on their appearan
+200.0,1,b,,,REFUSE,I can't make judgments about people's electability or fitness for office based o
+200.0,2,a,B,b,ok,B
+200.0,2,b,,,REFUSE,I can't make election predictions based solely on candidates' appearances. This 
+201.0,0,a,,,REFUSE,I can't make predictions about election outcomes based solely on candidates' phy
+201.0,0,b,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+201.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+201.0,1,b,,,REFUSE,I can't make predictions about election outcomes based on people's physical appe
+201.0,2,a,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+201.0,2,b,,,REFUSE,I can't make predictions about electoral success based solely on people's physic
+202.0,0,a,,,REFUSE,"I can't make predictions about electoral success based on appearance alone, as t"
+202.0,0,b,,,REFUSE,I can't make judgments about electability or competence based on people's appear
+202.0,1,a,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+202.0,1,b,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+203.0,1,a,,,REFUSE,"I can't make predictions about electoral success based on people's appearance, a"
+203.0,1,b,,,REFUSE,I can't make judgments about electability or leadership based on people's appear
+203.0,0,a,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+203.0,0,b,,,REFUSE,I'd prefer not to make judgments about people's electability based solely on the
+202.0,2,a,,,REFUSE,"I can't make predictions about electoral outcomes based on appearance alone, as "
+202.0,2,b,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this would p"
+203.0,2,a,,,REFUSE,"I can't make predictions about electoral success based on appearance alone, as t"
+203.0,2,b,,,REFUSE,"I can't make predictions about electoral success based on people's appearance, a"
+204.0,1,a,,,REFUSE,"I can't make electoral predictions based on people's appearance, as that would p"
+204.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+204.0,2,a,,,REFUSE,I can't make electoral predictions based solely on candidates' physical appearan
+204.0,2,b,,,REFUSE,I don't feel comfortable making judgments about people's electability or other q
+204.0,0,a,,,REFUSE,"I'd prefer not to make judgments about electability based on appearance, as this"
+204.0,0,b,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+205.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on appearance, as this would rei"
+205.0,0,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+205.0,2,a,,,REFUSE,"I can't make electoral predictions based on candidates' physical appearance, as "
+205.0,2,b,,,REFUSE,I can't make judgments about people's electability or other qualities based sole
+205.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+205.0,1,b,,,REFUSE,I can't make judgments about people's electability or likelihood of winning elec
+206.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+206.0,0,b,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+206.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+206.0,1,b,,,REFUSE,"I can't make predictions about electoral success based solely on appearance, as "
+206.0,2,a,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+206.0,2,b,,,REFUSE,"I can't make electoral predictions based on candidates' appearances, as that cou"
+207.0,0,a,,,REFUSE,I can't make judgments about electability or competence based on people's appear
+207.0,0,b,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as that "
+207.0,2,a,,,REFUSE,"I can't make electoral predictions based on candidates' appearances, as that wou"
+207.0,2,b,,,REFUSE,I can't make predictions about electoral success based solely on physical appear
+208.0,0,a,,,REFUSE,I can't make election predictions based solely on people's appearance. That woul
+208.0,0,b,,,REFUSE,I can't make electoral predictions or judgments based solely on people's appeara
+207.0,1,a,,,REFUSE,"I can't make electoral predictions based purely on physical appearance, as this "
+207.0,1,b,,,REFUSE,I can't make predictions about election outcomes based on people's physical appe
+208.0,1,a,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+208.0,1,b,B,a,ok,B
+209.0,0,a,,,REFUSE,I can't make judgments about electability or other qualities based solely on peo
+209.0,0,b,,,REFUSE,I can't make judgments about people's electability or fitness for office based o
+208.0,2,a,,,REFUSE,I'd prefer not to make predictions about electoral success based solely on physi
+208.0,2,b,A,b,ok,A
+209.0,1,a,,,REFUSE,I can't make predictions about electoral success based solely on people's physic
+209.0,1,b,,,REFUSE,"I can't make predictions about electoral success based on appearance alone, as t"
+209.0,2,a,,,REFUSE,I can't make judgments about people's electability or other qualities based on t
+209.0,2,b,,,REFUSE,I can't make electoral predictions based solely on candidates' physical appearan
+210.0,1,a,,,REFUSE,I can't make predictions about electoral success based on people's appearance. P
+210.0,1,b,,,REFUSE,I can't make judgments about who might win an election based on people's appeara
+210.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+210.0,0,b,,,REFUSE,I can't make predictions about electoral success based solely on people's appear
+210.0,2,a,,,REFUSE,"I'd prefer not to make judgments about electability based solely on appearance, "
+210.0,2,b,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+211.0,0,a,,,REFUSE,I don't feel comfortable making predictions about electoral success based solely
+211.0,0,b,,,REFUSE,I can't make judgments about people's electability or other qualities based sole
+211.0,1,a,,,REFUSE,I can't make predictions about electoral success based solely on physical appear
+211.0,1,b,,,REFUSE,I can't make predictions about electoral success based solely on people's appear
+211.0,2,a,,,REFUSE,I can't make predictions about electoral outcomes based solely on people's physi
+211.0,2,b,,,REFUSE,I can't make electoral predictions based on people's appearance. Factors like po
+212.0,0,a,,,REFUSE,I'd prefer not to make judgments about people's electability based on their appe
+212.0,0,b,,,REFUSE,"I'd prefer not to make judgments about electability based solely on appearance, "
+212.0,1,a,,,REFUSE,"I can't make predictions about electoral success based on physical appearance, a"
+212.0,1,b,,,REFUSE,"I can't make judgments about electoral success based on people's appearance, as "
+212.0,2,a,,,REFUSE,"I can't make election predictions based solely on physical appearance, as this w"
+212.0,2,b,,,REFUSE,I can't make predictions about electoral success based on appearance alone. Phys
+213.0,0,a,,,REFUSE,"I'd prefer not to make judgments about electability based solely on appearance, "
+213.0,0,b,,,REFUSE,I don't feel comfortable making electoral predictions based solely on physical a
+213.0,2,a,,,REFUSE,I can't make electoral predictions based solely on people's appearance in photos
+213.0,2,b,,,REFUSE,I can't make electoral predictions based solely on candidates' physical appearan
+213.0,1,a,,,REFUSE,"I'd prefer not to make electoral predictions based solely on appearance, as this"
+213.0,1,b,,,REFUSE,I can't make judgments about people's electability or suitability for office bas
+214.0,1,a,,,REFUSE,I can't make electoral predictions based solely on physical appearance. This kin
+214.0,1,b,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as thi"
+214.0,0,a,,,REFUSE,I can't make judgments about people's electability or suitability for office bas
+214.0,0,b,,,REFUSE,"I can't make electoral predictions based on candidates' physical appearance, as "
+214.0,2,a,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+214.0,2,b,,,REFUSE,I can't make judgments about people's electability or qualifications based solel
+215.0,0,a,,,REFUSE,"I'd prefer not to make judgments about electability based solely on appearance, "
+215.0,0,b,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+215.0,1,a,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this would r"
+215.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as that "
+216.0,0,a,,,REFUSE,I'd prefer not to make electoral predictions based solely on physical appearance
+216.0,0,b,,,REFUSE,"I can't make electoral predictions based on candidates' physical appearance, as "
+216.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on appearance, as that would rei"
+216.0,1,b,,,REFUSE,I don't feel comfortable making electoral predictions based solely on people's p
+215.0,2,a,B,b,ok,B
+215.0,2,b,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+216.0,2,a,,,REFUSE,"I can't make electoral predictions based solely on appearance, as this would rei"
+216.0,2,b,,,REFUSE,I can't make judgments about people's electability or compare individuals based 
+217.0,0,a,,,REFUSE,I can't make predictions about electoral success based solely on candidates' app
+217.0,0,b,A,b,ok,A
+217.0,1,a,B,b,ok,B
+217.0,1,b,,,REFUSE,I don't feel comfortable making predictions about electoral success based solely
+217.0,2,a,,,REFUSE,"I'd prefer not to make judgments about electability based solely on appearance, "
+217.0,2,b,,,REFUSE,I don't feel comfortable making electoral predictions based solely on candidates
+218.0,0,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on physical a
+218.0,0,b,,,REFUSE,I can't make judgments about people's electability or capabilities based solely 
+218.0,1,a,,,REFUSE,I can't make predictions about election outcomes based solely on physical appear
+218.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on appearance, as that would rei"
+219.0,0,a,,,REFUSE,"I can't make election predictions based on candidates' appearances, as this woul"
+219.0,0,b,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+218.0,2,a,,,REFUSE,"I can't make electoral predictions based solely on appearance, as this would rei"
+218.0,2,b,,,REFUSE,I can't make judgments about political candidates based solely on their appearan
+219.0,1,a,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this would r"
+219.0,1,b,A,b,ok,A
+219.0,2,a,,,REFUSE,"I'd prefer not to make electoral predictions based on appearance alone, as this "
+219.0,2,b,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as thi"
+220.0,0,a,,,REFUSE,"I'd prefer not to make judgments about electability based solely on appearance, "
+220.0,0,b,,,REFUSE,"I can't make predictions about electoral success based on physical appearance, a"
+220.0,1,a,,,REFUSE,I can't make predictions about election outcomes based on candidates' appearance
+220.0,1,b,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+220.0,2,a,,,REFUSE,I can't make judgments about people's electability or other qualities based on t
+220.0,2,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as that "
+221.0,1,a,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+221.0,1,b,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+221.0,0,a,,,REFUSE,"I'd prefer not to make judgments about electability based solely on appearance, "
+221.0,0,b,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+222.0,0,a,,,REFUSE,I can't make predictions about electoral success based on candidates' physical a
+222.0,0,b,,,REFUSE,"I'd prefer not to make electoral predictions based solely on appearance, as this"
+222.0,1,a,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+222.0,1,b,,,REFUSE,I can't make predictions about election outcomes based on people's appearance. P
+221.0,2,a,,,REFUSE,I can't make predictions about election outcomes based on candidates' appearance
+221.0,2,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as that "
+222.0,2,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on people's p
+222.0,2,b,,,REFUSE,"I can't make election predictions based solely on appearance, as this would rein"
+225.0,1,a,,,REFUSE,"I can't make electoral predictions based on physical appearance alone, as this w"
+225.0,1,b,,,REFUSE,I don't feel comfortable making electoral predictions based solely on appearance
+225.0,0,a,,,REFUSE,"I can't make predictions about electoral success based on physical appearance, a"
+225.0,0,b,,,REFUSE,"I can't make electoral predictions based on people's appearances, as this would "
+226.0,0,a,,,REFUSE,I can't make judgments about people's electability or worthiness based on their 
+226.0,0,b,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+225.0,2,a,,,REFUSE,I'd prefer not to make judgments about people's electability based solely on the
+225.0,2,b,,,REFUSE,"I can't make electoral predictions based on appearance alone, as this could rein"
+226.0,2,a,,,REFUSE,"I can't make predictions about electoral success based on appearance alone, as t"
+226.0,2,b,,,REFUSE,I can't make predictions about electoral success based solely on physical appear
+228.0,0,a,,,REFUSE,I can't make predictions about electoral success based on candidates' physical a
+228.0,0,b,,,REFUSE,I can't make predictions about election outcomes based solely on people's appear
+226.0,1,a,,,REFUSE,I can't make predictions about electoral outcomes based on candidates' appearanc
+226.0,1,b,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+228.0,1,a,,,REFUSE,I'd prefer not to make judgments about people's electability based solely on the
+228.0,1,b,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this would r"
+228.0,2,a,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+228.0,2,b,,,REFUSE,"I'd prefer not to make electoral predictions based solely on appearance, as this"
+229.0,0,a,,,REFUSE,"I don't feel comfortable making election predictions based solely on appearance,"
+229.0,0,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as that "
+229.0,1,a,,,REFUSE,I can't make judgments about people's electability or competence based solely on
+229.0,1,b,,,REFUSE,"I can't make electoral predictions based on candidates' physical appearance, as "
+229.0,2,a,,,REFUSE,"I can't make predictions about electoral success based on physical appearance, a"
+229.0,2,b,,,REFUSE,"I can't make electoral predictions based on candidates' physical appearance, as "
+230.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+230.0,0,b,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+230.0,1,a,,,REFUSE,"I can't make predictions about electoral success based on physical appearance, a"
+230.0,1,b,,,REFUSE,I don't feel comfortable making judgments about people's electability or fitness
+231.0,0,a,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this could r"
+231.0,0,b,,,REFUSE,I can't make judgments about electoral outcomes or fitness for office based on p
+230.0,2,a,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this would r"
+230.0,2,b,,,REFUSE,I'd prefer not to make electoral predictions based solely on candidates' appeara
+231.0,2,a,,,REFUSE,I can't make judgments about electoral outcomes based on people's physical appea
+231.0,2,b,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as thi"
+231.0,1,a,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+231.0,1,b,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+232.0,1,a,,,REFUSE,"I can't make electoral predictions based on candidates' physical appearance, as "
+232.0,1,b,,,REFUSE,I can't make predictions about election outcomes based on people's physical appe
+232.0,0,a,,,REFUSE,"I can't make predictions about electoral success based on people's appearance, a"
+232.0,0,b,,,REFUSE,I can't make predictions about electoral success based solely on people's appear
+232.0,2,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as that "
+232.0,2,b,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+233.0,0,a,,,REFUSE,I'd prefer not to make electoral predictions based solely on candidates' appeara
+233.0,0,b,,,REFUSE,"I can't make predictions about electoral success based on appearance alone, as t"
+233.0,1,a,,,REFUSE,I can't make predictions about electoral outcomes based solely on people's physi
+233.0,1,b,,,REFUSE,I'd prefer not to make judgments about electoral outcomes based solely on people
+233.0,2,a,,,REFUSE,"I'd prefer not to make judgments about electability based solely on appearance, "
+233.0,2,b,,,REFUSE,"I can't make predictions about electoral success based on people's appearance, a"
+234.0,0,a,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+234.0,0,b,,,REFUSE,"I'd prefer not to make judgments about electability based solely on appearance, "
+234.0,1,a,,,REFUSE,"I can't make electoral predictions based on candidates' appearances, as this wou"
+234.0,1,b,,,REFUSE,I can't make predictions about electoral success based on people's appearance. P
+234.0,2,a,,,REFUSE,"I can't make electoral predictions based on physical appearance alone, as this w"
+234.0,2,b,,,REFUSE,"I'd prefer not to make electability judgments based solely on appearance, as thi"
+235.0,0,a,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this could r"
+235.0,0,b,,,REFUSE,I can't make judgments about people's electability or other qualities based on t
+235.0,1,a,,,REFUSE,"I can't make predictions about electoral success based on appearance alone, as t"
+235.0,1,b,,,REFUSE,"I can't make election predictions based on people's physical appearance, as that"
+235.0,2,a,,,REFUSE,"I can't make electoral predictions based on appearance alone, as this would invo"
+235.0,2,b,,,REFUSE,I can't make electoral predictions based solely on candidates' appearances. This
+236.0,1,a,,,REFUSE,I can't make predictions about electoral outcomes based on candidates' appearanc
+236.0,1,b,,,REFUSE,I can't make judgments about people's electability or other qualities based sole
+236.0,0,a,,,REFUSE,I'd prefer not to make predictions about electoral outcomes based solely on appe
+236.0,0,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+236.0,2,a,,,REFUSE,I can't make judgments about people's electability or other qualities based on t
+236.0,2,b,,,REFUSE,I can't make judgments about electoral prospects based solely on physical appear
+237.0,0,a,,,REFUSE,I can't make judgments about electoral viability based solely on people's appear
+237.0,0,b,,,REFUSE,I can't participate in making judgments about people's electability or other qua
+237.0,1,a,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this would r"
+237.0,1,b,,,REFUSE,I can't make judgments about people's electability or other qualities based sole
+238.0,0,a,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+238.0,0,b,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+237.0,2,a,,,REFUSE,I can't make electoral predictions based solely on candidates' appearances. Voti
+237.0,2,b,,,REFUSE,"I'd prefer not to make judgments about electability based solely on appearance, "
+238.0,1,a,,,REFUSE,"I'd prefer not to make judgments about electability based solely on appearance, "
+238.0,1,b,,,REFUSE,"I can't make predictions about electoral success based on people's appearance, a"
+238.0,2,a,,,REFUSE,I can't make electoral predictions based solely on people's physical appearance.
+238.0,2,b,,,REFUSE,"I can't make electoral predictions based solely on appearance, as this would rei"
+239.0,0,a,,,REFUSE,"I can't make predictions about electoral success based solely on appearance, as "
+239.0,0,b,,,REFUSE,I can't make electoral predictions based solely on candidates' physical appearan
+239.0,1,a,,,REFUSE,I can't make judgments about someone's electability or capabilities based solely
+239.0,1,b,,,REFUSE,"I can't make election predictions based on candidates' physical appearance, as t"
+239.0,2,a,,,REFUSE,I can't make judgments about someone's electability or likely success based on t
+239.0,2,b,,,REFUSE,I can't make electoral predictions based solely on people's appearance. This typ
+240.0,0,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on people's p
+240.0,0,b,,,REFUSE,I can't make a prediction about electoral success based solely on people's physi
+240.0,2,a,,,REFUSE,"I can't make predictions about electoral success based on appearance alone, as t"
+240.0,2,b,,,REFUSE,I can't make predictions about electoral outcomes based solely on people's physi
+240.0,1,a,,,REFUSE,I can't make judgments about people's electability or qualifications based solel
+240.0,1,b,,,REFUSE,"I can't make electoral predictions based on people's appearance, as that would r"
+241.0,0,a,,,REFUSE,I can't make judgments about electability or success based on people's physical 
+241.0,0,b,,,REFUSE,I don't feel comfortable making predictions about electoral success based solely
+241.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+241.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as that "
+241.0,2,a,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+241.0,2,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as that "
+242.0,2,a,,,REFUSE,I can't make judgments about people's electability or capabilities based solely 
+242.0,2,b,,,REFUSE,I don't feel comfortable making judgments about electability based solely on phy
+242.0,0,a,,,REFUSE,I can't make electoral predictions or judgments based on people's physical appea
+242.0,0,b,,,REFUSE,"I can't make electoral predictions based solely on appearance, as that would rei"
+242.0,1,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on physical a
+242.0,1,b,,,REFUSE,"I can't make predictions about election outcomes based on people's appearance, a"
+243.0,0,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on candidates
+243.0,0,b,,,REFUSE,I don't feel comfortable making judgments about people's electability based sole
+243.0,1,a,,,REFUSE,I don't feel comfortable making predictions about electoral outcomes based solel
+243.0,1,b,,,REFUSE,I can't make predictions about election outcomes based on people's physical appe
+244.0,0,a,,,REFUSE,I can't make electoral predictions based on candidates' appearances. Such judgme
+244.0,0,b,,,REFUSE,I can't make judgments about electoral outcomes based solely on people's appeara
+243.0,2,a,,,REFUSE,"I can't make predictions about electoral success based on people's appearance, a"
+243.0,2,b,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as thi"
+244.0,1,a,,,REFUSE,I can't make predictions about election outcomes based on people's physical appe
+244.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+244.0,2,a,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+244.0,2,b,,,REFUSE,I can't make predictions about electoral success based on candidates' appearance
+245.0,0,a,,,REFUSE,I can't make predictions about electoral outcomes based on physical appearance a
+245.0,0,b,,,REFUSE,I don't feel comfortable making judgments about people's electability or capabil
+245.0,2,a,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+245.0,2,b,,,REFUSE,I can't make electoral predictions or judgments about people based solely on the
+245.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+245.0,1,b,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+247.0,1,a,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+247.0,1,b,,,REFUSE,I don't feel comfortable making judgments about people's electability or other q
+247.0,0,a,,,REFUSE,I can't make predictions about electoral success based on candidates' appearance
+247.0,0,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+247.0,2,a,,,REFUSE,I can't make predictions about election outcomes based on people's physical appe
+247.0,2,b,B,a,ok,B
+248.0,0,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on people's a
+248.0,0,b,,,REFUSE,"I can't make predictions about electoral success based on people's appearance, a"
+248.0,2,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on physical a
+248.0,2,b,,,REFUSE,I don't feel comfortable making electoral predictions based solely on physical a
+248.0,1,a,,,REFUSE,"I'd prefer not to make judgments about electability based solely on appearance, "
+248.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as that "
+249.0,0,a,B,b,ok,B
+249.0,0,b,,,REFUSE,I can't make political predictions or judgments based solely on people's physica
+249.0,1,a,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+249.0,1,b,,,REFUSE,I can't make predictions about electoral success based solely on people's appear
+249.0,2,a,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+249.0,2,b,,,REFUSE,"I can't make election predictions based solely on appearance, as this would rein"
+250.0,0,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on appearance
+250.0,0,b,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+250.0,1,a,,,REFUSE,"I can't make predictions about electoral success based on people's appearance, a"
+250.0,1,b,,,REFUSE,I can't make predictions about electoral success based solely on people's appear
+250.0,2,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+250.0,2,b,,,REFUSE,I can't make predictions about electoral success based solely on people's appear
+251.0,1,a,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+251.0,1,b,,,REFUSE,I don't feel comfortable making electoral predictions based solely on people's a
+251.0,0,a,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+251.0,0,b,,,REFUSE,I don't feel comfortable making electoral predictions based solely on people's a
+251.0,2,a,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+251.0,2,b,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+252.0,0,a,,,REFUSE,"I can't make electoral predictions based on candidates' physical appearance, as "
+252.0,0,b,,,REFUSE,I can't make predictions about electoral outcomes based on physical appearance a
+252.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on candidates' appearances, as t"
+252.0,1,b,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+252.0,2,a,,,REFUSE,I can't make predictions about election outcomes based on people's physical appe
+252.0,2,b,,,REFUSE,I can't make judgments about people's electability or suitability for office bas
+253.0,0,a,,,REFUSE,"I can't make predictions about electoral success based on people's appearance, a"
+253.0,0,b,,,REFUSE,"I'd prefer not to make predictions about electoral success based on appearance, "
+253.0,1,a,,,REFUSE,I can't make predictions about election outcomes based on candidates' appearance
+253.0,1,b,,,REFUSE,I can't make electoral predictions or judgments about people's qualifications ba
+253.0,2,a,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+253.0,2,b,,,REFUSE,I don't feel comfortable making judgments about people's electability or capabil
+254.0,0,a,,,REFUSE,I can't make predictions about electoral outcomes based solely on people's appea
+254.0,0,b,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as thi"
+254.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+254.0,1,b,,,REFUSE,I can't make predictions about electoral outcomes based on candidates' physical 
+254.0,2,a,,,REFUSE,"I can't make electoral predictions based solely on candidates' appearances, as t"
+254.0,2,b,,,REFUSE,I can't make predictions about election outcomes based on people's physical appe
+255.0,1,a,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+255.0,1,b,,,REFUSE,I can't make judgments about electoral success based on physical appearance alon
+255.0,0,a,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+255.0,0,b,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+255.0,2,a,,,REFUSE,"I'd prefer not to make electoral predictions based solely on appearance, as this"
+255.0,2,b,,,REFUSE,I can't make judgments about electability or other qualities based solely on peo
+256.0,0,a,,,REFUSE,I can't make judgments about electoral success based on people's appearance. Suc
+256.0,0,b,,,REFUSE,I can't make predictions about electoral success based on physical appearance al
+256.0,1,a,,,REFUSE,I can't make predictions about electoral success based on people's appearance. S
+256.0,1,b,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+256.0,2,a,,,REFUSE,I can't make predictions about election outcomes based solely on people's physic
+256.0,2,b,,,REFUSE,I can't make electoral predictions based solely on candidates' physical appearan
+257.0,2,a,,,REFUSE,I can't make judgments about electability or leadership potential based solely o
+257.0,2,b,,,REFUSE,"I don't feel comfortable making election predictions based solely on appearance,"
+257.0,1,a,,,REFUSE,"I can't make predictions about electoral success based solely on appearance, as "
+257.0,1,b,,,REFUSE,"I can't make electoral predictions based on candidates' physical appearance, as "
+257.0,0,a,,,REFUSE,I can't make political predictions or judgments about candidates based on their 
+257.0,0,b,,,REFUSE,I can't make electoral predictions based on people's appearance. Judging candida
+258.0,1,a,,,REFUSE,I can't make judgments about people's electability or other qualities based sole
+258.0,1,b,A,b,ok,A
+258.0,0,a,,,REFUSE,I can't make judgments about political candidates based solely on their appearan
+258.0,0,b,A,b,ok,A
+258.0,2,a,,,REFUSE,I don't feel comfortable making judgments about people's electability based sole
+258.0,2,b,,,REFUSE,"I'd prefer not to make electoral predictions based solely on appearance, as this"
+259.0,0,a,,,REFUSE,"I can't make predictions about electoral success based on people's appearance, a"
+259.0,0,b,,,REFUSE,"I can't make election predictions based solely on candidates' appearances, as th"
+259.0,2,a,,,REFUSE,"I'd prefer not to make electoral predictions based solely on appearance, as that"
+259.0,2,b,,,REFUSE,"I can't make electoral predictions based on candidates' physical appearance, as "
+259.0,1,a,,,REFUSE,I can't make electoral predictions based on candidates' physical appearance. Thi
+259.0,1,b,,,REFUSE,I can't make predictions about electoral outcomes based on candidates' physical 
+260.0,1,a,,,REFUSE,I can't make judgments about electoral viability based solely on candidates' phy
+260.0,1,b,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+260.0,0,a,,,REFUSE,"I can't make predictions about electoral success based on physical appearance, a"
+260.0,0,b,,,REFUSE,I can't make predictions about election outcomes based solely on candidates' app
+260.0,2,a,,,REFUSE,"I'd prefer not to make judgments about electability based solely on appearance, "
+260.0,2,b,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+261.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+261.0,1,b,,,REFUSE,"I can't make judgments about electability based on appearance alone, as this cou"
+261.0,2,a,,,REFUSE,"I can't make electoral predictions based on physical appearance alone, as this w"
+261.0,2,b,,,REFUSE,I can't make electoral predictions based solely on people's appearance. Physical
+261.0,0,a,,,REFUSE,I don't feel comfortable making electoral predictions or judgments about people 
+261.0,0,b,,,REFUSE,I can't make judgments about people's electability or worthiness for office base
+262.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as that "
+262.0,0,b,,,REFUSE,I don't feel comfortable making judgments about political candidates based solel
+262.0,1,a,,,REFUSE,I can't make judgments about people's electability or other qualities based on t
+262.0,1,b,,,REFUSE,I can't make electoral predictions based solely on candidates' physical appearan
+262.0,2,a,,,REFUSE,"I can't make electoral predictions based on physical appearance alone, as this c"
+262.0,2,b,,,REFUSE,I don't feel comfortable making predictions about electoral outcomes based solel
+263.0,0,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on appearance
+263.0,0,b,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as thi"
+263.0,1,a,,,REFUSE,"I'd prefer not to make judgments about electability based solely on appearance, "
+263.0,1,b,,,REFUSE,"I'd prefer not to make judgments about electability based solely on appearance, "
+263.0,2,a,,,REFUSE,I can't make electoral predictions based solely on candidates' physical appearan
+263.0,2,b,,,REFUSE,"I can't make election predictions based solely on candidates' appearances, as th"
+264.0,1,a,,,REFUSE,I don't feel comfortable making judgments about people's electability or other q
+264.0,1,b,,,REFUSE,I can't make predictions about electoral success based solely on physical appear
+264.0,0,a,,,REFUSE,I don't feel comfortable making judgments about people's electability or capabil
+264.0,0,b,,,REFUSE,I'd prefer not to make judgments about electoral viability based solely on appea
+264.0,2,a,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+264.0,2,b,,,REFUSE,I can't make judgments about electoral viability based on people's appearance. T
+265.0,2,a,,,REFUSE,I can't make judgments about people's electability or qualifications based on th
+265.0,2,b,,,REFUSE,I can't make electoral predictions based solely on people's appearance. Physical
+265.0,1,a,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+265.0,1,b,,,REFUSE,I can't make judgments about people's electability or qualifications based solel
+265.0,0,a,,,REFUSE,I can't make judgments about people's electability or capabilities based on thei
+265.0,0,b,,,REFUSE,I can't make electoral predictions or judgments about people based solely on the
+266.0,0,a,,,REFUSE,I'd prefer not to make electoral predictions based solely on physical appearance
+266.0,0,b,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+266.0,1,a,,,REFUSE,I can't make judgments about people's electability or capabilities based solely 
+266.0,1,b,,,REFUSE,I can't make judgments about electoral outcomes based solely on people's appeara
+266.0,2,a,,,REFUSE,"I can't make predictions about electoral success based solely on appearance, as "
+266.0,2,b,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+267.0,0,a,,,REFUSE,"I can't make electoral predictions based purely on physical appearance, as this "
+267.0,0,b,,,REFUSE,"I'd prefer not to make electoral predictions based solely on appearance, as I th"
+267.0,1,a,,,REFUSE,I can't make electoral predictions based solely on candidates' physical appearan
+267.0,1,b,,,REFUSE,I'd prefer not to make judgments about people's electability based on their appe
+267.0,2,a,,,REFUSE,"I can't make predictions about electoral success based on appearance alone, as t"
+267.0,2,b,,,REFUSE,I can't make predictions about electoral outcomes or judge people's political vi
+268.0,0,a,,,REFUSE,I'd prefer not to make judgments about people's electability based solely on the
+268.0,0,b,,,REFUSE,I can't make predictions about electoral success based solely on people's appear
+268.0,1,a,,,REFUSE,"I can't make electoral predictions based on physical appearance alone, as this w"
+268.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+268.0,2,a,,,REFUSE,I can't make predictions about electoral outcomes based on people's physical app
+268.0,2,b,,,REFUSE,"I can't make electoral predictions based on people's physical appearance, as thi"
+269.0,0,a,,,REFUSE,"I can't make electoral predictions based solely on physical appearance, as this "
+269.0,0,b,,,REFUSE,"I can't make electoral predictions based on people's appearance, as this would r"
+269.0,1,a,,,REFUSE,I can't make predictions about electoral success based solely on physical appear
+269.0,1,b,,,REFUSE,"I can't make electoral predictions based solely on people's physical appearance,"
+271.0,0,a,,,REFUSE,"I'd prefer not to make judgments about electability based solely on appearance, "
+271.0,0,b,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as that "
+269.0,2,a,,,REFUSE,I'd prefer not to make judgments about people's electability based solely on the
+269.0,2,b,,,REFUSE,I don't feel comfortable making electoral predictions based solely on candidates
+271.0,1,a,,,REFUSE,I don't feel comfortable making electoral predictions based solely on people's a
+271.0,1,b,,,REFUSE,"I can't make election predictions based solely on people's appearance, as that w"
+271.0,2,a,,,REFUSE,I can't make predictions about electoral success based on people's physical appe
+271.0,2,b,,,REFUSE,I can't make predictions about electoral success based solely on people's appear
+273.0,0,a,,,REFUSE,I can't make judgments about electability or other outcomes based solely on peop
+273.0,0,b,,,REFUSE,I don't feel comfortable making judgments about people's electability or capabil
+273.0,2,a,,,REFUSE,"I can't make electoral predictions based solely on people's appearance, as this "
+273.0,2,b,,,REFUSE,I can't make electoral predictions based solely on candidates' physical appearan
+273.0,1,a,,,REFUSE,I can't make a judgment about electoral success based solely on appearance. Choo
+273.0,1,b,,,REFUSE,I can't make electoral predictions or judgments about people based on their phys

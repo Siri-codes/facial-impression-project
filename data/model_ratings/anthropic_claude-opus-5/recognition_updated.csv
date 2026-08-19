@@ -1,0 +1,113 @@
+candidate_label,election_id,recognized_flag,raw_response
+G1999LA0235T0469,235.0,True,"I'm not able to identify people from photographs, so I can't tell you who this is — and I'd rather not guess, since a wrong guess about a real person could be misleading or unfair to them.
+
+What"
+S2004VT0085T0169,85.0,True,"I can't identify who this person is from the image. Facial recognition isn't something I'm able to do, and I don't want to guess at a name based on appearance — even a ""best guess"" could easily be wrong and misattribute things to a real person.
+
+What I can describe: it's a black-and-white formal portrait of an older man, largely bald with white hair at the sides, wearing wire-rimmed glasses, a suit, and a light-colored shirt with a tie. The style suggests an official or professional headshot — the kind used for a corporate directory, university faculty page, obituary, or public-office bio.
+
+If you can tell me where you found the image, or share"
+G2000ND0229T0457,229.0,True,"I'm not able to identify people from photographs,"
+S2008AL0001N0002,1.0,,ERROR: 'NoneType' object has no attribute 'strip'
+G2002NM0208N0416,208.0,True,"I can't identify who this person is. The image is a small, low-resolution black-and-white headshot — the kind of photo used for a corporate directory, book jacket, or newspaper byline — showing a man with dark hair in a suit and tie. I'm not able to recognize faces or match them to specific individuals, and even if I attempted a guess based on appearance alone, it would be unreliable and potentially unfair to whoever this actually is.
+
+If you have context about where the photo came from — a company website, a publication, an article — I'd be glad to help you reason about who it might be from those clues instead."
+G2002CO0191T0381,191.0,True,"I'm not able to identify people from photographs, so I can't tell you who this is — and I'd rather not guess, since attributing a name to a face based only on appearance risks being wrong in a way that could be misleading or unfair to the person pictured.
+
+What I can describe: it's a small black-and-white headshot of an older, bald man with a broad smile, wearing what looks"
+S2002IA0093T0185,93.0,True,"I'm not able to identify people from photographs, so I can't tell you who this is — and I'd rather not guess, since guessing at someone's identity from their face risks being both wrong and a privacy concern.
+
+What I can say is that this appears to be a black-and-white formal portrait of an older man with gray hair, wearing a dark suit, white shirt, and tie — the style suggests an official headshot,"
+S2008MT0014T0027,14.0,,ERROR: 'NoneType' object has no attribute 'strip'
+S2006WI0055N0110,55.0,True,"I'm not able to identify people from photographs — even to offer a guess, since that could easily produce a wrong and potentially harmful misidentification.
+
+What I can tell you about the image: it's a small black-and-"
+G1996IN0266N0532,266.0,True,"I can't identify who this person is. The image is a small, low-resolution black-and-white headshot — the kind used for a corporate directory, faculty page, or news byline — showing a middle-aged man with short dark hair in a suit, but there's nothing distinctive enough in it for me to make a meaningful guess. Even if I offered a name, it would essentially be a random guess rather than a genuine identification, and given how easily that could misattribute something to a real person, I'd rather not speculate.
+
+If you have context about where the photo came from — an organization's website, an article, a book jacket, an era — I'd be glad to help you think through who it might be"
+S2008GA0004T0007,4.0,True,"I'm not able to identify people from photographs, so I can't tell you who this is — and I'd rather not guess, since a wrong guess about a real person could be misleading or unfair to them.
+
+What I can describe: it's a formal black-and-white headshot of a middle-aged or older man with light hair, w"
+G2006SC0179N0358,179.0,True,"I'm not able to identify people from photographs, so I can't tell you who this is or offer a guess about his identity."
+G2006SD0180N0360,180.0,True,"I'm not able to identify people from photographs, so I can't tell you who this is or offer a guess about his identity.
+
+From the style of the image, it looks like a formal official portrait — the kind used for government directories, corporate leadership pages, or yearbook-style publications — showing a middle-aged man in a suit. If you"
+S2008SC0021T0041,21.0,True,"I can't identify who this person is. The image is a small black-and-white headshot of a man in a suit and tie — the kind of photo you'd find in a corporate directory, faculty page, or conference program — but there's nothing in it that would let me determine his identity, and I'm not able to recognize specific individuals from photographs anyway.
+
+If you can tell me where the photo came from (a company website, a university page, a book jacket, a news article), I'd be happy to help you think through who it might be based on that context."
+S2008IA0007N0014,7.0,True,"I can't identify who this is. The image shows a small black-and-white headshot of a man in a suit and tie — the kind of photo used for corporate directories, faculty pages, or professional bios — but there's nothing in it that would let me determine his identity, and I don't want to guess at a name since that could misattribute the photo to a real person.
+
+If you have additional context (where you found the image, what organization it's associated with), I'd be happy to help you think through it. Otherwise, a reverse image search would likely be your best bet."
+S2008IA0007T0013,7.0,True,"I'm not able to identify people from photographs, so I can't tell you who this is — and I'd rather not guess, since naming the wrong person could be misleading or unfair.
+
+What I can describe: it's a small black-and-white studio-style headshot of an older man"
+G1998NV0252T0503,252.0,True,"I'm not able to identify people from photographs, so I can't tell you who this is — and I'd rather not guess, since a wrong guess about a real person could be misleading or unfair to them.
+
+What I can tell you from the image itself: it's a low-resolution, grainy black-and-white portrait of a woman with long,"
+S2006TX0049N0098,49.0,,ERROR: 'NoneType' object has no attribute 'strip'
+S2006WI0055T0109,55.0,,ERROR: 'NoneType' object has no attribute 'strip'
+G1998TN0262T0523,262.0,True,"I can't identify people from photographs, so I'm not able to tell you who this is — and guessing would risk misidentifying a real person.
+
+What I can describe: it's a black-and-white portrait of an"
+G2001NJ0221N0442,221.0,True,"I can't identify who this person is. The image is a small, low-resolution black-and-white headshot of a middle-aged man with graying hair wearing a shirt, tie, and dark jacket — the kind of photo typically used for a faculty profile, corporate bio, or newspaper column byline. But there's nothing in it that would let me determine his identity, and I don't want to guess at a name, since attaching the wrong name to a real person's face could be genuinely harmful.
+
+If you can tell me the context — for example, where you found the photo, or what field this person works in — I'd be glad to help you think through it or discuss whatever you're actually trying"
+S2008VA0025T0049,25.0,True,"I can't identify who this person is from the image. Facial recognition isn't something I'm able to do, and I don't want to guess at an identity based on appearance alone — even a ""best guess"" could easily be wrong and misattribute things to a real person.
+
+What I can describe: it's a black-and-white professional headshot of a man in a suit and tie, smiling, with short dark hair, photographed against a plain gray background — the kind of portrait typically used for a corporate bio, government official page, or press kit.
+
+If you have context about where the image came from (a website, article, or organization), I'd be glad to help you narrow it down. Or if there's text, a ca"
+G2002CA0190T0379,190.0,True,"I'm not able to identify people from photographs, so I can't tell you who this is — and I'd r"
+S2004AL0056N0112,56.0,,ERROR: 'NoneType' object has no attribute 'strip'
+G1995MS0273N0546,273.0,,ERROR: 'NoneType' object has no attribute 'strip'
+S2006NJ0042T0083,42.0,True,"I'm not able to identify people from photographs, so I can't tell you who this is — and I'd rather not guess, since a wrong guess about a real person's identity could be misleading.
+
+What I can describe: it's a formal black-and-white headshot of a man with dark, side-parted hair, w"
+G2002HI0195T0389,195.0,True,"I'm not able to identify people from photographs, so I can't tell you who this is — and I'd rather not guess, since speculating about someone's identity based on their appearance could easily be wrong and unfair to them.
+
+What I can say is that it app"
+G1996ND0268T0535,268.0,True,"I'm not able to identify people from photographs, so I can't tell you who this is — and I'd rather not guess, since naming a real person based on their appear"
+S2008MI0012N0024,12.0,True,"I'm not able to identify people from photographs, so I can't tell you who this is — and honestly, even guessing"
+G1998SD0261T0521,261.0,True,"I'm not able to identify who this is. The image shows a black-and-white headshot of a man with dark, side-parted hair, wire-rimm"
+G2006MI0167N0334,167.0,True,"I can't identify who this is. The image shows a small black-and-white portrait of a man in a dark suit, white shirt, and tie, smiling against a plain gray background — it looks like a corporate headshot or executive/board-of-directors photo, the kind used in annual reports or company websites.
+
+I'm not able to identify people from photographs, and even setting that aside, there's really nothing distinctive here (no name plate, logo, or context) that would let me make a meaningful guess. Any name I offered would essentially be made up.
+
+If you can tell me where you found the image — a company's leadership page, a university publication, a news article — I'd be glad"
+G1999MS0236N0472,236.0,True,"I'm not able to identify people from photographs, so I can't tell you who this is or offer a guess about their identity — even an uncertain one. Identifying someone from their face raises privacy concerns, and a low-resolution grayscale image like this would make any guess unreliable anyway.
+
+What I can say about the image: it's a black-and-white photo of a middle-aged man"
+S2006VT0051N0102,51.0,True,"I'm not able to identify people from photographs, even to offer a guess — that's something I avoid doing regardless of who might be in the image.
+
+What I can tell you is what's visible: this appears to"
+S2006WA0053N0106,53.0,True,"I can't identify people from photographs, so I'm not able to tell you who this is — and I'd rather not guess, since naming the wrong person based on facial appearance could be misleading or unfair.
+
+What I can tell you is what's visible: it's a black-and-white professional headshot of a middle-aged man with short,"
+S2002VA0116I0231,116.0,True,"I'm not able to identify who this is. Even setting aside my general practice of not trying to identify people from photographs, this is a low-resolution, grayscale headshot with no contextual clues — no text, setting, or distinguishing"
+G2002NV0206N0412,206.0,True,"I'm not able to identify people from photographs, so I can't"
+G2006WI0184T0367,184.0,True,"I can't identify who this person is. The image is a black-and-white professional headshot of a middle-aged man in a suit and tie, smiling — the kind of photo used in corporate annual reports, university faculty pages, or business directories. But I'm not able to match faces to identities, and I don't want to guess at a name, since a wrong guess could be misleading or unfair to the actual person.
+
+If you have context about where the photo came from — a company's leadership page, a book jacket, a news article — I'd be happy to help you think through who it might be based on that information. Alternatively, a reverse image search would be a more reliable way to track down the source."
+G2006MD0165N0330,165.0,True,"I'm not able to identify people from photographs, so I can't tell you who this is — and I'd rather not guess, since speculating about someone's identity based on their face could easily be w"
+S2008NJ0017T0033,17.0,True,"I can't identify people with certainty from photographs, but based on the style — a small black-and-white official portrait, likely from a congressional or government directory — my best guess would be that this is **Frank Lautenberg**, the longtime U.S. Senator from"
+S2000WV0149T0297,149.0,True,"I'm not able to identify people from photographs, so I can't tell you who this is — and I'd rather not guess, since speculating about someone's identity based on their appearance could easily be wrong and unfair to them.
+
+What I can describe: it's a black-and-white studio portrait"
+G2006AK0152N0304,152.0,True,"I can't identify who this person is from the image. I'm not able to determine identities from photographs, even to make a guess.
+
+What I can describe: this is a black-and-white portrait photo of a woman with dark, styled shoulder-length hair, wearing rimless or thin-framed glasses and a dark blazer, posed against a plain light background — the kind of formal headshot used for professional directories, corporate websites, or official biographies.
+
+If you'd like help identifying her, you could try a reverse image search (Google Lens, TinEye), or if you know the context where you found the photo — an organization's staff page, a news article, a government roster — that would lik"
+G1999LA0235N0470,235.0,True,"I'm not able to identify people from photographs, so I can't tell you who this is — and I'd rather not guess, since a wrong guess about a"
+G2002ME0200N0400,200.0,True,"I'm not able to identify people from photographs, so I can't tell you who this is — and I'd rather not guess, since a wrong guess about a real person's identity could be misleading or unfair to them.
+
+What I can describe: it's a small, low-resolution black-and-white portrait of a man who appears to be middle-aged, with short dark"
+S2006MN0036N0072,36.0,True,"I'm not able to identify people from photographs, so I can't tell you who this is — and I'd rather not guess, since speculating about someone's identity based on their appearance could easily be wrong and potentially harmful to them.
+
+What I can tell you about the image: it's a black-and-white professional headshot of a man in a dark suit, white shirt, and tie, smiling at the camera against a"
+S2002KS0096L0191,96.0,True,"I can't identify who this person is. The image shows a small black-and-white portrait photo of a middle-aged man with dark hair and a mustache/light beard, wearing a suit and tie — it looks like the kind of headshot used in an ID badge, official directory, or organizational roster. But I'm not able to determine anyone's identity from a photograph, and I don't want to guess at a name, since misidentifying a real person could be harmful or unfair to them.
+
+If you have context about where the image came from — a company website, a book, a news article, an academic department page — I'd be happy to help you think through it, or you could try a reverse image search to trace the original"
+S2000NV0138N0276,138.0,True,"I can't identify who this is. Even setting aside that I avoid trying to name real people from photographs, this is a small, low-resolution grayscale headshot with no contextual clues — no name"
+S2008MS0013N0026,13.0,,ERROR: 'NoneType' object has no attribute 'strip'
+S2008WV0026N0052,26.0,True,"I'm not able to identify people from photographs, and I'd rather not guess at someone's identity based on their appearance — even a best guess could easily be wrong and could affect a real person's privacy."

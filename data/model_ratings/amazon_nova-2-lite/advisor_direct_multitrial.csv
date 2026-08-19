@@ -1,0 +1,4710 @@
+election_id,trial,slotA_face,chosen_slot,chosen_face,status,raw
+1.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+1.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+1.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+1.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+1.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+1.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+2.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+2.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+2.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+2.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+2.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+2.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+3.0,0,a,A,a,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+3.0,0,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+3.0,1,a,A,a,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+3.0,1,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+3.0,2,a,A,a,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+3.0,2,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+4.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+4.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+4.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+4.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+4.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+4.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+5.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+5.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+5.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+5.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+5.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+5.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+6.0,0,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+6.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+6.0,2,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+6.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+7.0,1,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+7.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+6.0,1,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+6.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+7.0,0,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+7.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+7.0,2,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+7.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+8.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+8.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+8.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+8.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+8.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+8.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+9.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+9.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+9.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+9.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap"
+9.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+9.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+10.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+10.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+10.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+10.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+10.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+10.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+11.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+11.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+11.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+11.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+11.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+11.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+12.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+12.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+12.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+12.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+12.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+12.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+13.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+13.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+13.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+13.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+13.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+13.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+14.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+14.0,0,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+14.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+14.0,1,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+14.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+14.0,2,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+15.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+15.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+15.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+15.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+15.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+15.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+16.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+16.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+16.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+16.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+16.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+16.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+17.0,0,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+17.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap"
+17.0,1,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+17.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+17.0,2,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+17.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap"
+18.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+18.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+18.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+18.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+18.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+18.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+19.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+19.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+19.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+19.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+19.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+19.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+20.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+20.0,0,b,A,b,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+20.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+20.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+20.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+20.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+21.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+21.0,0,b,A,b,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+21.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+21.0,2,b,A,b,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+21.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+21.0,1,b,A,b,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+22.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+22.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+22.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+22.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+22.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+22.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+23.0,0,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the photos provided, Candidate"
+23.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+23.0,1,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the photos provided, Candidate"
+23.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+23.0,2,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the photos provided, Candidate"
+23.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+24.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+24.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+24.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+24.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+24.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+24.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+25.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+25.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+25.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+25.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+25.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+25.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+26.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+26.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+26.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+26.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+26.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+26.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+27.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+27.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+27.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+27.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+27.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+27.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+28.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+28.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+28.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+28.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+28.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+28.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+29.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+29.0,0,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+29.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+29.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap"
+29.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+29.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+30.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+30.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap"
+30.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+30.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+30.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+30.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap"
+31.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photographs, Candidate B appea"
+31.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+31.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+31.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+31.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+31.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+32.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+32.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+32.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+32.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+32.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+32.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+33.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+33.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+33.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+33.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+33.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+33.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+34.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+34.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+34.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+34.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+34.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+34.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+35.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+35.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+35.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+35.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+35.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+35.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+36.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+36.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+36.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+36.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+36.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+36.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+37.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+37.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+37.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+37.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+37.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+37.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+38.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+38.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+38.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+38.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+38.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+38.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+39.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+39.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+39.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+39.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+39.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+39.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+40.0,0,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+40.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+40.0,1,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+40.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+40.0,2,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+40.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+41.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+41.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+41.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+41.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+41.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+41.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+42.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+42.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+42.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+42.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+42.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+42.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+43.0,0,a,A,a,ok,"**A**
+
+Based on the immediate gut impression from the faces provided, Candidate "
+43.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+43.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+43.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+44.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+44.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+43.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+43.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+44.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+44.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+44.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+44.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+45.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+45.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+45.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+45.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+45.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+45.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+46.0,1,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+46.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+46.0,0,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+46.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+46.0,2,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the provided images, Candidate"
+46.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+47.0,0,a,A,a,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+47.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+47.0,2,a,A,a,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+47.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+47.0,1,a,A,a,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+47.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap"
+48.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+48.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+48.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+48.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+49.0,0,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+49.0,0,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+48.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+48.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+49.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+49.0,1,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+49.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+49.0,2,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+50.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+50.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+50.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+50.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+50.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+50.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+51.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+51.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+51.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+51.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+51.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+51.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+52.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+52.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+52.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+52.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+52.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+52.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+53.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+53.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+53.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+53.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+53.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+53.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+54.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+54.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+54.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+54.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+54.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+54.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+55.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+55.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+55.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+55.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+55.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+55.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+56.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+56.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photographs provided, Candidat"
+56.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+56.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photographs provided, Candidat"
+56.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+56.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photographs provided, Candidat"
+57.0,0,a,A,a,ok,"**A**
+
+Based on the immediate gut impression from the photos provided, Candidate"
+57.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+57.0,1,a,A,a,ok,"**A**
+
+Based on the immediate gut impression from the photos provided, Candidate"
+57.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+57.0,2,a,A,a,ok,"**A**
+
+Based on the immediate gut impression from the photographs, Candidate A a"
+57.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+58.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+58.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+58.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+58.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+58.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+58.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+59.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+59.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+59.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+59.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+59.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+59.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+60.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+60.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+60.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+60.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+60.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap"
+60.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+61.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+61.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+61.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photographs, Candidate B appea"
+61.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+61.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+61.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+62.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+62.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+62.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+62.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+62.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+62.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+64.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+64.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+64.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+64.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+64.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+64.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+65.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+65.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+65.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+65.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+65.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap"
+65.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+66.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the photographs provided, Candidat"
+66.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photographs provided, Candidat"
+66.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the photographs provided, Candidat"
+66.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photographs provided, Candidat"
+66.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the photographs provided, Candidat"
+66.0,1,b,A,b,ok,"**A**
+
+Based on the immediate gut impression from the photos provided, Candidate"
+67.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+67.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap"
+67.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+67.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap"
+67.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+67.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap"
+70.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+70.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap"
+70.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+70.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap"
+70.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+70.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap"
+71.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+71.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+71.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+71.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+71.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+71.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+72.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap"
+72.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap"
+72.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap"
+72.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap"
+72.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap"
+72.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap"
+73.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+73.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+73.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+73.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+73.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+73.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+74.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+74.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+74.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+74.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photos provided, Candidate A a"
+74.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+74.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+75.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+75.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photos provided, Candidate A a"
+75.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+75.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photos provided, Candidate A a"
+75.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+75.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photos provided, Candidate A a"
+76.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+76.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+76.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+76.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+76.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+76.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+77.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+77.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+77.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+77.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+77.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+77.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+78.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+78.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap"
+78.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+78.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap"
+78.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+78.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap"
+79.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+79.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+79.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+79.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+79.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+79.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+80.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photographs provided, Candidat"
+80.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+80.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photographs provided, Candidat"
+80.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+80.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photographs provided, Candidat"
+80.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+81.0,0,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the photos, Candidate B appear"
+81.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white portraits, Can"
+81.0,1,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the photos, Candidate B appear"
+81.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white portraits, Can"
+81.0,2,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the photos, Candidate B appear"
+81.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white portraits, Can"
+82.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+82.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+82.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+82.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+82.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+82.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+83.0,0,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+83.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+83.0,1,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+83.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+83.0,2,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+83.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+84.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap"
+84.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photographs, Candidate B appea"
+84.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap"
+84.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photographs, Candidate B appea"
+84.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap"
+84.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photographs, Candidate B appea"
+85.0,0,a,A,a,ok,"A
+
+**Note:** This response is based solely on an immediate gut impression from t"
+85.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+85.0,2,a,A,a,ok,"A
+
+**Note:** It's important to remember that making decisions based solely on ap"
+85.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+85.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+85.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+86.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the photos provided, Candidate A a"
+86.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the provided images, Candidate A a"
+86.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the photos provided, Candidate A a"
+86.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the provided images, Candidate A a"
+86.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the photos provided, Candidate A a"
+86.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the provided images, Candidate A a"
+87.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white portraits, Can"
+87.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+87.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white portraits, Can"
+87.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+87.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white portraits, Can"
+87.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+88.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+88.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+88.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+88.0,0,b,A,b,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+88.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+88.0,1,b,A,b,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+89.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+89.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+89.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+89.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+89.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+89.0,2,b,A,b,ok,"A
+
+**Note:** It's important to remember that making decisions based solely on ap"
+90.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+90.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+90.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+90.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+90.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+90.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+91.0,0,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+91.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photos provided, Candidate A a"
+91.0,2,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+91.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photos provided, Candidate A a"
+91.0,1,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+91.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+92.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+92.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+92.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the provided images, Candidate B a"
+92.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+92.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the provided images, Candidate B a"
+92.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+93.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+93.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+93.0,1,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+93.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap"
+93.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+93.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+94.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+94.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+94.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+94.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+94.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+94.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+95.0,0,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+95.0,0,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+95.0,1,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+95.0,1,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+95.0,2,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+95.0,2,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+96.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+96.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+96.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+96.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+96.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+96.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+97.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+97.0,0,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+97.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+97.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the provided images, Candidate A a"
+97.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+97.0,2,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+98.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+98.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+98.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+98.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+98.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+98.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+99.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+99.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+99.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+99.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+99.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+99.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photographs provided, Candidat"
+100.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+100.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photographs, Candidate B appea"
+100.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+100.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photographs, Candidate B appea"
+100.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+100.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+101.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+101.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+101.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+101.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+101.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+101.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+102.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+102.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+102.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap"
+102.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+102.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap"
+102.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+103.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+103.0,0,b,A,b,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+103.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+103.0,1,b,A,b,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+103.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+103.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+104.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+104.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+104.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+104.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+104.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+104.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+105.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+105.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+105.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+105.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+105.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+105.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+106.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+106.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+106.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+106.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+106.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+106.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+107.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+107.0,0,b,A,b,ok,"A
+
+**Note:** It's important to remember that making voting decisions based solel"
+107.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+107.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+107.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+107.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+108.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+108.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+108.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+108.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+108.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+108.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+109.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+109.0,0,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+109.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+109.0,1,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+109.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+109.0,2,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+110.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+110.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+110.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+110.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+110.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+110.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+111.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+111.0,0,b,A,b,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+111.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+111.0,1,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+111.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+111.0,2,b,A,b,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+112.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+112.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+112.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+112.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+112.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+112.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+113.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+113.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+113.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+113.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+113.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+113.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+114.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+114.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+114.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+114.0,2,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+114.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+114.0,1,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+115.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+115.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+115.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+115.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+115.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+115.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+116.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+116.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+116.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+116.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+116.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+116.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+117.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+117.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+117.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+117.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+117.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+117.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+118.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+118.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+118.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+118.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+118.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+118.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+119.0,0,a,A,a,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+119.0,0,b,A,b,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+119.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+119.0,1,b,A,b,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+119.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+119.0,2,b,A,b,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+120.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+120.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+120.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+120.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+120.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+120.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+121.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+121.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+121.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+121.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+121.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+121.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+122.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+122.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+122.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+122.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+122.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+122.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+123.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+123.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+123.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+123.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+123.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+123.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+124.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+124.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+124.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+124.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+124.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+124.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+125.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+125.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+125.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+125.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+125.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+125.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+126.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+126.0,0,b,A,b,ok,"A
+
+**Note:** This response is based solely on the instruction to provide an imme"
+126.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+126.0,1,b,A,b,ok,"A
+
+**Note:** It's important to recognize that making voting decisions based sole"
+126.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+126.0,2,b,A,b,ok,"A
+
+**Note:** It's important to recognize that making voting decisions based sole"
+127.0,0,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+127.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+127.0,2,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+127.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+127.0,1,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the photographs, Candidate B a"
+127.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+130.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+130.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+130.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+130.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+130.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+130.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+131.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+131.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+131.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+131.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+131.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+131.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+132.0,0,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+132.0,0,b,A,b,ok,"**A**
+
+Based on the immediate gut impression from the photographs, Candidate A a"
+132.0,1,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+132.0,1,b,A,b,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+132.0,2,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+132.0,2,b,A,b,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+133.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the provided images, Candidate B a"
+133.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+133.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the provided images, Candidate B a"
+133.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+133.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the provided images, Candidate B a"
+133.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+134.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+134.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+134.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+134.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+134.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+134.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+135.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+135.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+135.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+135.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+135.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+135.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+136.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+136.0,1,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+136.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+136.0,0,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+136.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+136.0,2,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+137.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+137.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+137.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap"
+137.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+137.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photographs, Candidate B appea"
+137.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+138.0,0,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+138.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+138.0,1,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+138.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+138.0,2,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+138.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+139.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+139.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+139.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+139.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+139.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+139.0,2,b,A,b,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+140.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+140.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+140.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+140.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+140.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+140.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+141.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+141.0,0,b,A,b,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+141.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+141.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+141.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+141.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+142.0,0,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+142.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+142.0,1,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+142.0,1,b,A,b,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+142.0,2,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+142.0,2,b,A,b,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+143.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+143.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+143.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+143.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+143.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+143.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+144.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the black-and-white images provide"
+144.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+144.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the black-and-white images provide"
+144.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+144.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the black-and-white images provide"
+144.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+145.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the provided images, Candidate A a"
+145.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+145.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the provided images, Candidate A a"
+145.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+145.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the provided images, Candidate A a"
+145.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+146.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+146.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+146.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+146.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+146.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+146.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+147.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+147.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+147.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+147.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+147.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+147.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+148.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+148.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+148.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+148.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+148.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+148.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+149.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+149.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+149.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+149.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+149.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+149.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+150.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+150.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+150.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+150.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+150.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+150.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+151.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+151.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+151.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+151.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+151.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+151.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+152.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+152.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+152.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+152.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+152.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+152.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+153.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+153.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+153.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+153.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+153.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+153.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+154.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+154.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photos provided, Candidate A a"
+154.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+154.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+154.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+154.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+155.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+155.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+155.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+155.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+155.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+155.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+156.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+156.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+156.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+156.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+156.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+156.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+157.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+157.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+157.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+157.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+157.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+157.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+158.0,1,a,A,a,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+158.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+158.0,0,a,A,a,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+158.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+158.0,2,a,A,a,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+158.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+159.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+159.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+159.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+159.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+159.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+159.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+160.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+160.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+160.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+160.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+160.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+160.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+161.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+161.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+161.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+161.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+161.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+161.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+162.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+162.0,0,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+162.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+162.0,1,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+162.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+162.0,2,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+163.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+163.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+163.0,1,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+163.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+163.0,2,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+163.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+164.0,1,a,A,a,ok,"A
+
+**Explanation (for your understanding, not part of the required response):** "
+164.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+164.0,2,a,A,a,ok,"A
+
+**Explanation (for your understanding, not part of the required response):** "
+164.0,2,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+164.0,0,a,A,a,ok,"A
+
+**Explanation (for your understanding, not part of the required response):** "
+164.0,0,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+165.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+165.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+165.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+165.0,1,b,A,b,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+165.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+165.0,2,b,A,b,ok,"A
+
+**Reasoning (for transparency, though not part of the response):**  
+Based on"
+166.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+166.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+166.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+166.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+166.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+166.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+167.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+167.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+167.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+167.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+167.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+167.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+168.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+168.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+168.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+168.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+168.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+168.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+169.0,0,a,A,a,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+169.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+169.0,1,a,A,a,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+169.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+169.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+169.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+170.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+170.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+170.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+170.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+170.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+170.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+171.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+171.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photographs provided, Candidat"
+171.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+171.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the provided images, Candidate A a"
+171.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+171.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photographs provided, Candidat"
+172.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+172.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+172.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+172.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+173.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+173.0,1,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+172.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+172.0,2,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+173.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+173.0,0,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+173.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+173.0,2,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+174.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+174.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+174.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+174.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+175.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+175.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+174.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+174.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+175.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+175.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+175.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+175.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+176.0,1,a,A,a,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+176.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+176.0,0,a,A,a,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+176.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+176.0,2,a,A,a,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+176.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+177.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+177.0,0,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+177.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+177.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+177.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+177.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the provided images, Candidate B a"
+178.0,1,a,A,a,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+178.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+178.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+178.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+178.0,2,a,A,a,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+178.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+179.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+179.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+179.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+179.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+179.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+179.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+180.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+180.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+180.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+180.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+180.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+180.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+181.0,0,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+181.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photographs provided, Candidat"
+181.0,1,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+181.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photographs provided, Candidat"
+181.0,2,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+181.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photographs provided, Candidat"
+182.0,1,a,A,a,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+182.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+182.0,0,a,A,a,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+182.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+182.0,2,a,A,a,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+182.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+183.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+183.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+183.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+183.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+183.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+183.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+184.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+184.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+184.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+184.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+184.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+184.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+185.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+185.0,0,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+185.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+185.0,1,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+185.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+185.0,2,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+186.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+186.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+186.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+186.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+186.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+186.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photographs, Candidate B appea"
+187.0,0,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+187.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+187.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+187.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+187.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+187.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+188.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+188.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+188.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+188.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+188.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+188.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+189.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photographs, Candidate B appea"
+189.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+189.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photographs, Candidate B appea"
+189.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+189.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photographs, Candidate B appea"
+189.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+190.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+190.0,0,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+190.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+190.0,1,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+190.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+190.0,2,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+192.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photographs provided, Candidat"
+192.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+192.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photographs provided, Candidat"
+192.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+192.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photographs provided, Candidat"
+192.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+193.0,0,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+193.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+193.0,1,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+193.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+193.0,2,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+193.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+194.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+194.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+194.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+194.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+194.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+194.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+195.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+195.0,0,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+195.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+195.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+195.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+195.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+196.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+196.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+196.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+196.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+196.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+196.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+197.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+197.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+197.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+197.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+197.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+197.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+198.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+198.0,0,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the photos provided, Candidate"
+198.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap"
+198.0,1,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the photos provided, Candidate"
+198.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+198.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photographs provided, Candidat"
+199.0,1,a,A,a,ok,"A
+
+**Reasoning (for context, not part of the response):**  
+Based on common psyc"
+199.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+199.0,2,a,A,a,ok,"A
+
+**Explanation (for your understanding, not part of the required response):** "
+199.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the provided images, Candidate B a"
+199.0,0,a,A,a,ok,"A
+
+**Reasoning (for context, not part of the response):**  
+Based on common psyc"
+199.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+200.0,0,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+200.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+200.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+200.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+200.0,2,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+200.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+201.0,0,a,A,a,ok,"A
+
+**Note:** It's important to remember that making decisions based solely on ap"
+201.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+201.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+201.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+201.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+201.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+202.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+202.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap"
+202.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+202.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap"
+202.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+202.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+203.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+203.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+203.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+203.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+203.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+203.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+204.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+204.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+204.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+204.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+204.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photographs provided, Candidat"
+204.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+205.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+205.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+205.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+205.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+205.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+205.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+206.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+206.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+206.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+206.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap"
+206.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+206.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap"
+207.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+207.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+207.0,0,a,A,a,ok,"A
+
+**Explanation (for your understanding, not part of the required response):** "
+207.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+207.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+207.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+208.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+208.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+208.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+208.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+208.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+208.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+209.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the photographs provided, Candidat"
+209.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+209.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+209.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+209.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap"
+209.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+210.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+210.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+210.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+210.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+210.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+210.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+211.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the provided images, Candidate A a"
+211.0,0,b,A,b,ok,"A
+
+**Explanation (for your understanding, not part of the response):** 
+
+When ma"
+211.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the provided images, Candidate A a"
+211.0,1,b,A,b,ok,"A
+
+**Explanation (for your understanding, not part of the response):** 
+
+When ma"
+211.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the provided images, Candidate A a"
+211.0,2,b,A,b,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+212.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+212.0,0,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+212.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+212.0,1,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+212.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+212.0,2,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+213.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap"
+213.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+213.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap"
+213.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+213.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap"
+213.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+214.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+214.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+214.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+214.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+214.0,2,a,A,a,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+214.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+215.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+215.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+215.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+215.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+215.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+215.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+216.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photographs, Candidate B appea"
+216.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+216.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+216.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the photographs provided, Candidat"
+216.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos, Candidate B appears mo"
+216.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+217.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+217.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+217.0,0,a,A,a,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+217.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+217.0,1,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+217.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+218.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+218.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+218.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+218.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+218.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+218.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+219.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+219.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+219.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+219.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+219.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+219.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+220.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+220.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+220.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+220.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+220.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+220.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+221.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+221.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+221.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+221.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+221.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+221.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+222.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+222.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+222.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+222.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+222.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+222.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+225.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photographs, Candidate B appea"
+225.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+225.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photographs, Candidate B appea"
+225.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+225.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photographs, Candidate B appea"
+225.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+226.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+226.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+226.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+226.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+226.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+226.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+228.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+228.0,0,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+228.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+228.0,1,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+228.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+228.0,2,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+229.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+229.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+229.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+229.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+229.0,1,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+229.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+230.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+230.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+230.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+230.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+230.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+230.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+231.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+231.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+231.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+231.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+231.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+231.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+232.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the photographs provided, Candidat"
+232.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+232.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the photographs provided, Candidat"
+232.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+232.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the photos provided, Candidate A a"
+232.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+233.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+233.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the black-and-white images provide"
+233.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+233.0,1,b,B,a,ok,"**B**
+
+Based on the immediate gut impression from the black-and-white images pro"
+233.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+233.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the black-and-white images provide"
+234.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+234.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+234.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+234.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+234.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+234.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+235.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+235.0,0,b,A,b,ok,"A
+
+**Note:** It's important to recognize that making decisions based solely on a"
+235.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+235.0,1,b,A,b,ok,"A
+
+**Note:** It's important to recognize that making decisions based solely on a"
+235.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+235.0,2,b,A,b,ok,"A
+
+**Note:** It's important to recognize that making decisions based solely on a"
+236.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+236.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+236.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+236.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+236.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+236.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+237.0,0,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+237.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+237.0,1,a,A,a,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+237.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+237.0,2,a,A,a,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+237.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+238.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+238.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+238.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+238.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+238.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+238.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+239.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+239.0,0,b,A,b,ok,"A
+
+**Reasoning (for transparency, though not part of the response):**  
+Based on"
+239.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+239.0,1,b,A,b,ok,"A
+
+**Reasoning (for transparency, though not part of the response):**
+
+Based on "
+239.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+239.0,2,b,A,b,ok,"A
+
+**Explanation (for your understanding, not part of the required response):** "
+240.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+240.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+240.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+240.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+240.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+240.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+241.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the provided images, Candidate B a"
+241.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the provided images, Candidate A a"
+241.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the provided images, Candidate B a"
+241.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the provided images, Candidate A a"
+241.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the provided images, Candidate B a"
+241.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the provided images, Candidate A a"
+242.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+242.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+242.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+242.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+242.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+242.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+243.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+243.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+243.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+243.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+243.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+243.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+244.0,2,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+244.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+244.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+244.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+244.0,0,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+244.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+245.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+245.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+245.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+245.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+245.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+245.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+247.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+247.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+247.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+247.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+247.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+247.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+248.0,0,a,A,a,ok,"A
+
+**Note:** It's important to remember that making decisions based solely on ap"
+248.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+248.0,1,a,A,a,ok,"A
+
+**Note:** It's important to remember that making decisions based solely on ap"
+248.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+248.0,2,a,A,a,ok,"A
+
+**Note:** It's important to remember that making decisions based solely on ap"
+248.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+249.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+249.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the provided images, Candidate A a"
+249.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+249.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the provided images, Candidate A a"
+249.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+249.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the provided images, Candidate A a"
+250.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+250.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+250.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+250.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+250.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+250.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+251.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+251.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+251.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+251.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+251.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+251.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+252.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+252.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+252.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+252.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+252.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+252.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+253.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+253.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+253.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+253.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+253.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+253.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+254.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap"
+254.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+254.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+254.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+254.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+254.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+255.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+255.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+255.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photographs, Candidate B appea"
+255.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+255.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+255.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+256.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap"
+256.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+256.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap"
+256.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+256.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap"
+256.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+257.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+257.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+257.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+257.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+257.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+257.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+258.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap"
+258.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+258.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap"
+258.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+258.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap"
+258.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+259.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+259.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+259.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+259.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+259.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+259.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+260.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+260.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+260.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+260.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+260.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+260.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+261.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+261.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+261.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+261.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+261.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+261.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the black-and-white photographs pr"
+262.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+262.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+262.0,1,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate"
+262.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+262.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+262.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+263.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+263.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+263.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+263.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+263.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the black-and-white images provide"
+263.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+264.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+264.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photographs, Candidate B appea"
+264.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+264.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+264.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+264.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+265.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+265.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+265.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea"
+265.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+265.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+265.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+266.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+266.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photographs, Candidate B appea"
+266.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+266.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photographs, Candidate B appea"
+266.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+266.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photographs, Candidate B appea"
+267.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+267.0,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+267.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+267.0,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+267.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+267.0,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B a"
+268.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the provided images, Candidate A a"
+268.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+268.0,1,a,A,a,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+268.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+268.0,2,a,A,a,ok,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate"
+268.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+269.0,0,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the faces provided, Candidate "
+269.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+269.0,1,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the faces provided, Candidate "
+269.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+269.0,2,a,B,b,ok,"**B**
+
+Based on the immediate gut impression from the faces provided, Candidate "
+269.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+271.0,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+271.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+271.0,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+271.0,1,b,A,b,ok,"A
+
+**Reasoning (for transparency, though not part of the response):**  
+Based on"
+271.0,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+271.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+273.0,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+273.0,0,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+273.0,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+273.0,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
+273.0,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a"
+273.0,2,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a"
