@@ -1,0 +1,3 @@
+election_id,candidate_a,candidate_b,a_won_real,a_vote_share,b_vote_share,model_chose,model_chose_label,model_correct,status
+263.0,G1997NJ0263T0525,G1997NJ0263N0526,False,0.49,0.51,,,,REFUSE/FAIL: I can’t determine
+264.0,G1997VA0264T0527,G1997VA0264N0528,False,0.43,0.57,,,,REFUSE/FAIL: Cannot determine 

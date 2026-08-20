@@ -1,0 +1,532 @@
+candidate_label,election_id,raw_response
+G1996DE0265T0529,265.0,Tom Daschle
+G1996DE0265N0530,265.0,Diana M. Jewell
+G1996IN0266N0532,266.0,John F. Kerry
+G1995LA0272T0543,272.0,Mubarak M. Awad
+G1995MS0273T0545,273.0,Bill Clinton
+G1995MS0273N0546,273.0,John McCloy
+G1996NC0267N0534,267.0,John McCain
+G1996NC0267T0533,267.0,William P. Rogers
+G1996ND0268T0535,268.0,John H. Edwards
+G1996IN0266T0531,266.0,George H. W. Bush
+G1996ND0268N0536,268.0,"Sorry, I can’t help identify a person in an image."
+G1996UT0269T0537,269.0,G. William Miller
+G1996UT0269N0538,269.0,John Boehner
+G1996WV0271N0542,271.0,H. Ross Perot
+G1997NJ0263T0525,263.0,Seth Meyers
+G1996WV0271T0541,271.0,"I’m sorry, but I can’t help identify a person in an image."
+G1997VA0264T0527,264.0,Mitt Romney
+G1997NJ0263N0526,263.0,Sally Ride
+G1997VA0264N0528,264.0,Harvey Pitt
+G1998AL0237T0473,237.0,Bill Frist
+G1998AL0237N0474,237.0,Unknown
+G1998AZ0238T0475,238.0,Bill Clinton
+G1998AZ0238N0476,238.0,"I’m sorry, but I can’t help identify a person in an image."
+G1998CA0239N0478,239.0,"I’m sorry, but I can’t help identify a person in an image."
+G1998CO0240T0479,240.0,Jocelyn Bell Burnell
+G1998CO0240N0480,240.0,"I’m sorry, but I can’t help identify a person from an image."
+G1998CA0239T0477,239.0,Al Gore
+G1998CT0241N0482,241.0,John Ashcroft
+G1998CT0241T0481,241.0,Margaret Thatcher
+G1998FL0242N0484,242.0,John F. Kennedy
+G1998FL0242T0483,242.0,Robert L. McCormick
+G1998GA0243T0485,243.0,Bill Gates
+G1998GA0243N0486,243.0,Sir Alec Guinness
+G1998HI0244T0487,244.0,José de Venecia Jr.
+G1998HI0244N0488,244.0,Jane Pauley
+G1998IA0246N0492,246.0,Richard M. Nixon
+G1998KS0247N0494,247.0,"I’m sorry, but I can’t help identify a person in an image."
+G1998IL0245N0490,245.0,Dick Cheney
+G1998IL0245T0489,245.0,George W. Bush
+G1998KS0247T0493,247.0,Ronald L. White
+G1998MA0249N0498,249.0,"I’m sorry, but I can’t help identify a person in an image."
+G1998MA0249T0497,249.0,George W. Bush
+G1998MD0248T0495,248.0,William F. Buckley Jr.
+G1998MI0250N0500,250.0,John McCain
+G1998NE0251T0501,251.0,Unknown
+G1998NE0251N0502,251.0,George H. W. Bush
+G1998MD0248N0496,248.0,Hillary Clinton
+G1998NM0253N0506,253.0,Robert F. Kennedy
+G1998NM0253T0505,253.0,John Boehner
+G1998NV0252N0504,252.0,George Bush
+G1998NV0252T0503,252.0,Brigitte Bardot
+G1998NY0254N0508,254.0,Donald Rumsfeld
+G1998OH0255T0509,255.0,Alan Greenspan
+G1998NY0254T0507,254.0,Mervyn Dymally
+G1998OH0255N0510,255.0,"I’m sorry, but I can’t help identify a person in an image."
+G1998OK0256T0511,256.0,Tina Brown
+G1998OK0256N0512,256.0,Joe Biden
+G1998OR0257T0513,257.0,Robert Redford
+G1998PA0258T0515,258.0,Carl Gustav Jung
+G1998OR0257N0514,257.0,Mark Zuckerberg
+G1998PA0258N0516,258.0,Bob Dole
+G1998MI0250T0499,250.0,Steve Jobs
+G1998RI0259N0518,259.0,Roy Cohn
+G1998RI0259T0517,259.0,Kathleen Sebelius
+G1998SC0260N0520,260.0,John F. Kennedy
+G1998SD0261N0522,261.0,Unknown
+G1998SD0261T0521,261.0,James S. G. Boggs
+G1998SC0260T0519,260.0,Harold Ford Sr.
+G1998TN0262T0523,262.0,Franklin D. Roosevelt
+G1998TN0262N0524,262.0,Arthur H. Vandenberg
+G1999KY0234N0468,234.0,I can’t help identify a person from an image.
+G1999LA0235N0470,235.0,Michael J. Fox
+G1999MS0236T0471,236.0,Thomas H. Lee
+G1999KY0234T0467,234.0,James C. Duke
+G1999LA0235T0469,235.0,Mwai Kibaki
+G1999MS0236N0472,236.0,Louis Freeh
+G2000MO0225T0449,225.0,George H. W. Bush
+G2000MT0226T0451,226.0,William Hague
+G2000MT0226N0452,226.0,Carol Channing
+G2000MO0225N0450,225.0,Benoît Cœuré
+G2000NC0228T0455,228.0,John B. Connally
+G2000NC0228N0456,228.0,George H. W. Bush
+G2000ND0229T0457,229.0,Gloria Steinem
+G2000UT0230N0460,230.0,John Boehner
+G2000NH0227T0453,227.0,Donna Shalala
+G2000UT0230T0459,230.0,David Letterman
+G2000ND0229N0458,229.0,"I’m sorry, but I can’t help identify a person in an image."
+G2000VT0231T0461,231.0,George W. Bush
+G2000VT0231N0462,231.0,"Sorry, I can’t help identify a person in an image."
+G2000WA0232T0463,232.0,Yukihiko Nozue
+G2000WA0232N0464,232.0,Tim Pawlenty
+G2000WV0233N0466,233.0,Thomas S. Murphy
+G2000WV0233T0465,233.0,Paul Volcker
+S2000AZ0121N0242,121.0,"I’m sorry, but I can’t help identify a person in an image."
+S2000AZ0121I0241,121.0,"I’m sorry, but I can’t help identify a person in an image."
+S2000DE0123T0245,123.0,George W. Bush
+S2000CA0122T0243,122.0,"I’m sorry, but I can’t help identify a person in an image."
+S2000DE0123N0246,123.0,John Cage
+S2000CA0122N0244,122.0,The person in the image appears to be **John F. Kennedy**
+S2000FL0124N0248,124.0,Larry Tesler
+S2000GA0125N0250,125.0,Robert McNamara
+S2000FL0124T0247,124.0,Tim Russert
+S2000GA0125T0249,125.0,James Baker
+S2000HI0126T0251,126.0,Lee Teng-hui
+S2000HI0126N0252,126.0,Edward Heath
+S2000MA0128N0256,128.0,B. B. King
+S2000IN0127N0254,127.0,"I’m sorry, but I can’t help identify a person from an image."
+S2000MA0128T0255,128.0,"Sorry, I can’t help identify a person in an image."
+S2000MD0129N0258,128.0,Paul Dirac
+S2000IN0127T0253,127.0,"I’m sorry, but I can’t help identify a person in an image."
+S2000MD0129T0257,129.0,John D. Rockefeller III
+S2000ME0130T0259,130.0,Mitt Romney
+S2000MI0131N0262,131.0,"I’m sorry, but I can’t help identify a person in an image."
+S2000ME0130N0260,130.0,Liza Minnelli
+S2000MI0131T0261,131.0,Barbara Bush
+S2000MN0132T0263,132.0,George H. W. Bush
+S2000MO0133T0265,133.0,"I’m sorry, but I can’t help identify a person in an image."
+S2000MN0132N0264,132.0,John Connally
+S2000MO0133N0266,133.0,Richard Nixon
+S2000MT0134T0267,134.0,Edward M. Kennedy
+S2000MT0134N0268,134.0,Robert C. Byrd
+S2000ND0135T0269,135.0,Bill Gates
+S2000NE0136N0272,136.0,John B. Taylor
+S2000ND0135N0270,135.0,J. Robert Oppenheimer
+S2000NE0136T0271,136.0,John Kerry
+S2000NM0137T0273,137.0,Richard Nixon
+S2000NM0137N0274,137.0,George W. Bush
+S2000NV0138N0276,138.0,Ted Kennedy
+S2000NV0138T0275,138.0,"Sorry, I can’t help identify a person in an image or guess their full name."
+S2000OH0139N0278,139.0,Michael J. Fox
+S2000OH0139T0277,139.0,George W. Bush
+S2000PA0140T0279,140.0,George Soros
+S2000PA0140N0280,140.0,Scott Walker
+S2000RI0141N0282,141.0,David J. O’Malley
+S2000TN0142N0284,142.0,"I’m sorry, but I can’t help identify a person in an image."
+S2000TX0143N0286,143.0,Nancy Pelosi
+S2000TN0142T0283,142.0,I can’t identify a person from an image.
+S2000RI0141T0281,141.0,"I’m sorry, but I can’t help identify a person in an image."
+S2000TX0143T0285,143.0,"Sorry, I can’t help identify a person in an image."
+S2000UT0144N0288,144.0,"I’m sorry, but I can’t help identify a person in an image."
+S2000UT0144T0287,144.0,"I’m sorry, but I can’t help identify a person in an image."
+S2000VA0145N0290,145.0,George H. W. Bush
+S2000VA0145T0289,145.0,I can’t help identify a person in an image.
+S2000VT0146N0292,146.0,Peter Drucker
+S2000WA0147T0293,147.0,Sarah Palin
+S2000WI0148N0296,148.0,"I’m sorry, but I can’t help identify a person in an image."
+S2000WA0147N0294,147.0,"I’m sorry, but I can’t help identify a person in an image."
+S2000VT0146T0291,146.0,Tom DeLay
+S2000WI0148T0295,148.0,Unknown
+S2000WV0149N0298,149.0,"I’m sorry, but I can’t help identify a person in an image."
+S2000WY0150N0300,150.0,John Connally
+S2000WY0150T0299,150.0,Dennis Rader
+G2001NJ0221T0441,221.0,David Hyde Pierce
+S2000WV0149T0297,149.0,George H. W. Bush
+G2001NJ0221N0442,221.0,Tom Brokaw
+G2001VA0222N0444,222.0,Bill Clinton
+G2001VA0222T0443,222.0,Henry M. Jackson
+G2002AK0187N0374,187.0,George H. W. Bush
+G2002AL0186N0372,186.0,George H. W. Bush
+G2002AL0186T0371,186.0,"I’m sorry, but I can’t help identify a person in an image."
+G2002AK0187T0373,187.0,Maggie Kuhn
+G2002AR0189T0377,189.0,I can’t help identify a person in an image or guess their full name.
+G2002AR0189N0378,189.0,Mike Huckabee
+G2002AZ0188T0375,188.0,"I’m sorry, but I can’t help identify a person in an image."
+G2002AZ0188N0376,188.0,John F. Kennedy
+G2002CA0190T0379,190.0,Tom DeLay
+G2002CA0190N0380,190.0,John Danforth
+G2002CO0191T0381,191.0,Paul Newman
+G2002CT0192T0383,192.0,James Carville
+G2002FL0193T0385,193.0,George H. W. Bush
+G2002CT0192N0384,192.0,James A. Baker III
+G2002GA0194T0387,194.0,Bill Gates
+G2002GA0194N0388,194.0,John C. Stennis
+G2002HI0195T0389,195.0,Nadine Burke Harris
+G2002FL0193N0386,193.0,"I’m sorry, but I can’t help identify a person in an image."
+G2002HI0195N0390,195.0,Martha Stewart
+G2002IA0198N0396,198.0,Joe Biden
+G2002IA0198T0395,198.0,Robert C. Byrd
+G2002ID0196N0392,196.0,Michael Dukakis
+G2002ID0196T0391,196.0,"I’m sorry, but I can’t help identify a person from an image."
+G2002IL0197T0393,197.0,Gerald Ford
+G2002IL0197N0394,197.0,John G. Tower
+G2002KS0199T0397,199.0,Jane Fonda
+G2002KS0199N0398,199.0,Saddam Hussein
+G2002MD0201N0402,201.0,George H. W. Bush
+G2002MA0202N0404,202.0,Mitt Romney
+G2002MD0201T0401,201.0,Carol Moseley Braun
+G2002MA0202T0403,202.0,Jeri Ryan
+G2002ME0200N0400,200.0,George W. Bush
+G2002MI0203T0405,203.0,Janet Reno
+G2002ME0200T0399,200.0,William Jefferson Clinton
+G2002MI0203N0406,203.0,John Major
+G2002MN0204T0407,204.0,George W. Bush
+G2002MN0204N0408,204.0,"I’m sorry, but I can’t help identify a person in an image."
+G2002NE0205T0409,205.0,James Dobson
+G2002NM0208T0415,208.0,Richard Ben-Veniste
+G2002NV0206N0412,206.0,James Arness
+G2002NH0207N0414,207.0,Bill Clinton
+G2002NM0208N0416,208.0,Cary Grant
+G2002NH0207T0413,207.0,Christopher Lambert
+G2002NV0206T0411,206.0,Maya Angelou
+G2002NY0209T0417,209.0,Timothy M. Kaine
+G2002NY0209N0418,209.0,Hans-Dietrich Genscher
+G2002OH0210T0419,210.0,Ronald Reagan
+G2002OH0210N0420,210.0,Lawrence H. Summers
+G2002OK0211T0421,211.0,Karl Rove
+G2002OK0211N0422,211.0,Robert Redford
+G2002OR0212T0423,212.0,George H. W. Bush
+G2002PA0213N0426,213.0,"I’m sorry, but I can’t help identify a person in an image."
+G2002PA0213T0425,213.0,William F. Buckley Jr.
+G2002OR0212N0424,212.0,John McCain
+G2002RI0214N0428,214.0,William H. Gray III
+G2002RI0214T0427,214.0,Susan Collins
+G2002SC0215T0429,215.0,I can’t help identify a person in an image.
+G2002SC0215N0430,215.0,"I’m sorry, but I can’t help identify a person in an image."
+G2002TN0217T0433,217.0,Graham Greene
+G2002SD0216N0432,216.0,Tom Ridge
+G2002SD0216T0431,216.0,Michael Bloomberg
+G2002TX0218N0436,218.0,Rick Perry
+G2002TN0217N0434,217.0,Robert H. B. Baldwin
+G2002TX0218T0435,218.0,George McGovern
+G2002VT0219N0438,219.0,Douglas H. Ginsburg
+G2002VT0219T0437,219.0,George Michael
+G2002WI0220T0439,220.0,Michael Bloomberg
+G2002NE0205N0410,205.0,Tom Brokaw
+S2002AK0088N0176,88.0,Richard A. Gephardt
+S2002AL0089T0177,89.0,I can’t help identify a person in an image.
+G2002WI0220N0440,220.0,Unknown
+S2002AL0089N0178,89.0,John Glenn
+S2002AK0088T0175,88.0,"I’m sorry, but I can’t help identify a person in an image."
+S2002AR0119N0238,119.0,George H. W. Bush
+S2002AR0119T0237,119.0,Tom DeLay
+S2002CO0090T0179,90.0,Tom Brokaw
+S2002DE0091T0181,91.0,Joe Biden
+S2002DE0091N0182,91.0,Dennis DeConcini
+S2002CO0090N0180,90.0,"I’m sorry, but I can’t help identify a person from an image."
+S2002GA0092T0183,92.0,Ed Rendell
+S2002GA0092N0184,92.0,Tom Daschle
+S2002IA0093N0186,93.0,Bob Dole
+S2002ID0094N0188,94.0,John C. Bogle
+S2002IL0095N0190,95.0,Herbert Hoover
+S2002IA0093T0185,93.0,Richard Nixon
+S2002IL0095T0189,95.0,Mikhail Sergeyevich Gorbachev
+S2002ID0094T0187,94.0,Giorgio Napolitano
+S2002KS0096N0192,96.0,John McCain
+S2002LA0097T0193,97.0,Hillary Clinton
+S2002KS0096L0191,96.0,Hamid Karzai
+S2002KY0120T0239,120.0,Ginger Rogers
+S2002KY0120N0240,120.0,Mitch McConnell
+S2002LA0097N0194,97.0,"I’m sorry, but I can’t help identify a person in an image."
+S2002ME0098N0196,98.0,Unknown
+S2002ME0098T0195,98.0,"I’m sorry, but I can’t help identify a person in an image."
+S2002MI0099N0198,99.0,"I’m sorry, but I can’t help identify a person in an image."
+S2002MN0100T0199,100.0,William H. Webster
+S2002MI0099T0197,99.0,Alan Greenspan
+S2002MO0101T0201,101.0,Margaret Thatcher
+S2002MN0100N0200,100.0,I can’t help identify a person in an image.
+S2002MS0102N0204,102.0,Robert Young
+S2002MS0102I0203,102.0,Boris Yeltsin
+S2002MT0103T0205,103.0,Bob Dole
+S2002NC0104T0207,104.0,John Hennessy
+S2002MO0101N0202,101.0,"I’m sorry, I can’t help identify a person in an image."
+S2002MT0103N0206,103.0,John W. Warner
+S2002NC0104N0208,104.0,Nancy Pelosi
+S2002NE0105N0210,105.0,John Major
+S2002NE0105T0209,105.0,James E. Clyburn
+S2002NH0106N0212,106.0,John D. Dingell
+S2002NJ0107N0214,107.0,I can’t help identify a person in an image.
+S2002NH0106T0211,106.0,Martha May Whinney
+S2002NJ0107T0213,107.0,John G. Roberts Jr.
+S2002NM0108N0216,108.0,Gordon B. Hinckley
+S2002NM0108T0215,108.0,[Unknown]
+S2002OK0109T0217,109.0,"I’m sorry, I can’t help identify a person in an image."
+S2002OK0109N0218,109.0,Unknown
+S2002OR0110T0219,110.0,Paul Krugman
+S2002OR0110N0220,110.0,Unknown
+S2002RI0111T0221,111.0,Jack Lemmon
+S2002RI0111N0222,111.0,Michael Dukakis
+S2002SD0113T0225,113.0,Jim Lehrer
+S2002SC0112N0224,112.0,"I’m sorry, but I can’t help identify a person from an image."
+S2002SD0113N0226,113.0,John Edwards
+S2002SC0112T0223,112.0,I can’t help identify a person in an image.
+S2002TN0114N0228,114.0,John Kenneth Galbraith
+S2002TN0114T0227,114.0,William F. Buckley Jr.
+S2002VA0116N0232,116.0,Garry Marshall
+S2002TX0115T0229,115.0,Otis Redding
+S2002VA0116I0231,116.0,Jane Smith
+S2002TX0115N0230,115.0,"I’m sorry, but I can’t help identify a person in an image."
+S2002WY0118T0235,118.0,Patricia Roberts Harris
+S2002WV0117T0233,117.0,John B. Taylor
+S2002WV0117N0234,117.0,Bob Dole
+S2004AK0057T0113,57.0,George H. W. Bush
+S2004AK0057N0114,57.0,Claire McCaskill
+S2002WY0118N0236,118.0,George H. W. Bush
+S2004AL0056N0112,56.0,Robert Rubin
+S2004AL0056T0111,56.0,Samuel L. Jackson
+S2004AR0058N0116,58.0,Elliott Spitzer
+S2004AR0058T0115,58.0,Nancy Kassebaum
+S2004CA0059T0117,59.0,Not sure
+S2004CA0059N0118,59.0,Jack Welch
+S2004CT0061N0122,61.0,James C. Dobson
+S2004CO0060N0120,60.0,Robert H. Bork
+S2004CO0060T0119,60.0,Nobuaki Takahashi
+S2004CT0061T0121,61.0,John Kenneth Galbraith
+S2004FL0062N0124,62.0,John Boehner
+S2004FL0062T0123,62.0,"I’m sorry, but I can’t help identify a person in an image."
+S2004GA0063T0125,63.0,Shirley Chisholm
+S2004HI0064N0128,64.0,Hershel Shanks
+S2004HI0064T0127,64.0,No confident identification available
+S2004IA0067N0134,67.0,I’m not able to identify this person from the image alone.
+S2004IA0067T0133,67.0,Donald A. Norman
+S2004IL0065N0130,65.0,Ben Carson
+S2004IL0065T0129,65.0,Barack Obama
+S2004IN0066T0131,66.0,Bob Inglis
+S2004IN0066N0132,66.0,Bennie Thompson
+S2004LA0070N0140,70.0,"I’m sorry, but I can’t help identify a person in an image."
+S2004LA0070T0139,70.0,"I’m sorry, but I can’t identify a person in an image."
+S2004MD0071N0142,71.0,A. C. Wharton Jr.
+S2004MD0071T0141,71.0,"I’m sorry, but I can’t help identify a person in an image."
+S2004MS0072N0144,72.0,Tom Daschle
+S2004MS0072T0143,72.0,Hillary Rodham Clinton
+S2004NC0073T0145,73.0,Bob Newhart
+S2004ND0074N0148,74.0,"I’m sorry, I can’t help identify a person in an image."
+S2004NC0073N0146,73.0,John J. LaFalce
+S2004ND0074T0147,74.0,George H. W. Bush
+S2004NH0076N0152,76.0,George H. W. Bush
+S2004NH0076T0151,76.0,"I’m sorry, but I can’t help identify a person in an image or guess their full name."
+S2004NV0075T0149,75.0,George H. W. Bush
+S2004NV0075N0150,75.0,Charles B. Rangel
+S2004NY0077N0154,77.0,John B. Smith
+S2004NY0077T0153,77.0,Charles H. Percy
+S2004OH0078T0155,78.0,"I’m sorry, but I can’t help identify a person in an image."
+S2004OR0080N0160,80.0,Don Novello
+S2004OK0079N0158,79.0,James Baker
+S2004OK0079T0157,79.0,John F. Kennedy
+S2004OH0078N0156,78.0,Avery Dulles
+S2004OR0080T0159,80.0,"I’m sorry, but I can’t help identify a person in an image."
+S2004PA0081T0161,81.0,Karl Rove
+S2004PA0081N0162,81.0,Bob Rubin
+S2004SC0082N0164,82.0,Tom DeLay
+S2004SD0083T0165,83.0,Raymond Burr
+S2004UT0084N0168,84.0,Alan Greenspan
+S2004SD0083N0166,83.0,Bill Gates
+S2004UT0084T0167,84.0,M. S. Swaminathan
+S2004VT0085T0169,85.0,George H. W. Bush
+S2004WA0086T0171,86.0,Barbara Boxer
+S2004VT0085N0170,85.0,Agha Shahid Ali
+S2004WA0086N0172,86.0,Paul Simon
+S2004SC0082T0163,82.0,"I’m sorry, but I can’t help identify a person in an image."
+S2004WI0087N0174,87.0,"I’m sorry, but I can’t help identify a person from an image."
+S2004WI0087T0173,87.0,"I’m sorry, but I can’t help identify a person in an image."
+G2006AK0152T0303,152.0,Peter Jennings
+G2006AK0152N0304,152.0,Sarah Palin
+G2006AL0151N0302,151.0,Merv Griffin
+G2006AL0151T0301,151.0,Shirley Temple Black
+G2006AR0154N0308,154.0,Harold Ford Sr.
+G2006AR0154T0307,154.0,John Kerry
+G2006AZ0153N0306,153.0,John Delaney
+G2006AZ0153T0305,153.0,Sonia Sotomayor
+G2006CO0155N0310,155.0,James A. Baker III
+G2006CO0155T0309,155.0,"I’m sorry, but I can’t help identify a person in an image."
+G2006CT0156N0312,156.0,Margaret Thatcher
+G2006FL0157N0314,157.0,George Deukmejian
+G2006CT0156T0311,156.0,Unknown
+G2006FL0157T0313,157.0,John McCain
+G2006GA0158N0316,158.0,John H. Sununu
+G2006GA0158T0315,158.0,Tommy Lasorda
+G2006HI0159T0317,159.0,Lee Kuan Yew
+G2006HI0159N0318,159.0,Catherine McLaughlin
+G2006IA0162T0323,162.0,Tim Pawlenty
+G2006IA0162N0324,162.0,John McCain
+G2006ID0160T0319,160.0,Robert H. Bork
+G2006ID0160N0320,160.0,Tom Daschle
+G2006IL0161T0321,161.0,Rod Blagojevich
+G2006IL0161N0322,161.0,I can’t help identify a person from an image.
+G2006MA0166N0332,166.0,I can’t help identify a person in an image.
+G2006KS0163T0325,163.0,Diane Sawyer
+G2006KS0163N0326,163.0,Unknown Person
+G2006MA0166T0331,166.0,Henry Louis Gates Jr.
+G2006MD0165T0329,165.0,John F. Kennedy
+G2006MD0165N0330,165.0,Jim Bunning
+G2006ME0164T0327,164.0,Michael J. Bloomberg
+G2006ME0164N0328,164.0,John T. Casteen III
+G2006MI0167N0334,167.0,Bill O'Reilly
+G2006MI0167T0333,167.0,"I’m sorry, but I can’t help identify a person in an image."
+G2006MN0168T0335,168.0,James C. Wright
+G2006MN0168N0336,168.0,"I’m sorry, but I can’t help identify a person from an image."
+G2006NE0169T0337,169.0,"I’m sorry, but I can’t help identify a person in an image."
+G2006NE0169N0338,169.0,"I’m sorry, but I can’t help identify a person in an image."
+G2006NH0171N0342,171.0,"I’m sorry, but I can’t help identify a person in an image."
+G2006NH0171T0341,171.0,Bill Nelson
+G2006NM0172N0344,172.0,I can’t identify the person from the image alone.
+G2006NM0172T0343,172.0,James Caan
+G2006NV0170N0340,170.0,"Sorry, I can’t help identify a person in an image."
+G2006NV0170T0339,170.0,Hillary Clinton
+G2006NY0173N0346,173.0,John F. Kerry
+G2006NY0173T0345,173.0,John F. Kennedy Jr.
+G2006OH0174N0348,174.0,Don Thompson
+G2006OH0174T0347,174.0,Steny Hoyer
+G2006OK0175T0349,175.0,Karl Rove
+G2006OK0175N0350,175.0,Ronald Reagan
+G2006OR0176T0351,176.0,"I’m sorry, but I can’t help identify a person in an image."
+G2006PA0177T0353,177.0,John J. Mack
+G2006OR0176N0352,176.0,John W. Snow
+G2006PA0177N0354,177.0,"I’m sorry, but I can’t help identify a person in an image."
+G2006RI0178N0356,178.0,George W. Bush
+G2006RI0178T0355,178.0,Eric Greitens
+G2006SC0179T0357,179.0,John Edwards
+G2006SC0179N0358,179.0,Jeffrey P. Bezos
+G2006SD0180T0359,180.0,"Sorry, I can’t help identify a person in an image."
+G2006SD0180N0360,180.0,John Olerud
+G2006TN0181N0362,181.0,Mitch McConnell
+G2006TX0182T0363,182.0,Unknown
+G2006TX0182N0364,182.0,Rick Perry
+G2006VT0183N0366,183.0,Richard Cheney
+G2006VT0183T0365,183.0,John Kenneth Galbraith
+G2006TN0181T0361,181.0,John McCain
+G2006WI0184T0367,184.0,Richard M. Nixon
+G2006WY0185T0369,185.0,John Major
+G2006WY0185N0370,185.0,Charles W. Sandman
+S2006AZ0028N0056,28.0,Tom Daschle
+S2006AZ0028T0055,28.0,"I’m sorry, but I can’t help identify a person in an image."
+S2006CA0029T0057,29.0,Sandra Day O'Connor
+G2006WI0184N0368,184.0,Richard Blumenthal
+S2006CA0029N0058,29.0,John B. Connally
+S2006DE0030N0060,30.0,"Sorry, I can’t help identify a person in an image."
+S2006DE0030T0059,30.0,"I’m sorry, but I can’t help identify a person in an image."
+S2006MA0034N0068,34.0,"I’m sorry, but I can’t help identify a person in an image."
+S2006FL0031N0062,31.0,Nancy Pelosi
+S2006MA0034T0067,34.0,Robert C. Byrd
+S2006FL0031T0061,31.0,George H. W. Bush
+S2006MD0033T0065,33.0,John H. Sununu
+S2006ME0032N0064,32.0,Lurleen Wallace
+S2006ME0032T0063,32.0,"I’m sorry, but I can’t help identify a person in an image."
+S2006MD0033N0066,33.0,C. Steven Horn
+S2006MI0035N0070,35.0,Jeffrey Toobin
+S2006MI0035T0069,35.0,Madeleine Albright
+S2006MO0038T0075,38.0,Cynthia Nixon
+S2006MN0036N0072,36.0,Jeffrey Zucker
+S2006MN0036T0071,36.0,Nancy Pelosi
+S2006MS0037T0073,37.0,"I’m sorry, but I can’t help identify a person in an image."
+S2006MS0037N0074,37.0,"I’m sorry, but I can’t help identify a person in an image."
+S2006MO0038N0076,38.0,"I’m sorry, but I can’t help identify a person in an image."
+S2006MT0039N0078,39.0,George H. W. Bush
+S2006ND0044T0087,44.0,George H. W. Bush
+S2006MT0039T0077,39.0,John Boehner
+S2006ND0044N0088,44.0,"I’m sorry, but I can’t help identify a person in an image."
+S2006NE0040T0079,40.0,John McCain
+S2006NE0040N0080,40.0,Robert Iger
+S2006NJ0042T0083,42.0,David M. Walker
+S2006NJ0042N0084,42.0,George H. W. Bush
+S2006NM0043T0085,43.0,Tom Brokaw
+S2006NV0041T0081,41.0,Ted Turner
+S2006NM0043N0086,43.0,John F. Kennedy
+S2006NV0041N0082,41.0,Jeff Bingaman
+S2006OH0045N0090,45.0,Alan Greenspan
+S2006PA0046T0091,46.0,Max Baucus
+S2006OH0045T0089,45.0,Jeff Greenfield
+S2006PA0046N0092,46.0,Mitt Romney
+S2006RI0047T0093,47.0,John Kerry
+S2006RI0047N0094,47.0,Charlie Rose
+S2006TN0048T0095,48.0,Ralph Bunche
+S2006TX0049N0098,49.0,"I’m sorry, but I can’t help identify a person in an image."
+S2006TN0048N0096,48.0,Sir Martin Sorrell
+S2006UT0050T0099,50.0,"Sorry, I can’t help identify a person in an image."
+S2006TX0049T0097,49.0,Madeleine Albright
+S2006VA0052T0103,52.0,Glen Macnow
+S2006UT0050N0100,50.0,James Baker
+S2006VA0052N0104,52.0,George W. Bush
+S2006VT0051N0102,51.0,John T. O’Connor
+S2006WI0055T0109,55.0,Mikhail Gorbachev
+S2006VT0051I0101,51.0,Bernard A. Schwartz
+S2006WA0053N0106,53.0,Charles T. Canady
+S2006WA0053T0105,53.0,"I’m sorry, but I can’t help identify a person in an image or guess their name."
+S2006WI0055N0110,55.0,George W. Romney
+S2006WV0054T0107,54.0,Helmut Kohl
+S2008AK0002N0004,2.0,David Rockefeller
+S2006WV0054N0108,54.0,John McCain
+S2008AL0001T0001,1.0,I can’t help identify a person in an image.
+S2008AK0002T0003,2.0,Mark Sanford
+S2008AL0001N0002,1.0,Jeff Bingaman
+S2008CO0003N0006,3.0,J. D. Hayworth
+S2008GA0004T0007,4.0,James B. Comey
+S2008GA0004N0008,4.0,James Baker
+S2008CO0003T0005,3.0,"I’m sorry, but I can’t help identify a person in an image."
+S2008IA0007T0013,7.0,Ralph Abernathy
+S2008IA0007N0014,7.0,"I’m sorry, but I can’t help identify a person in an image."
+S2008ID0005T0009,5.0,Richard M. Nixon
+S2008ID0005N0010,5.0,John Kerry
+S2008KS0008N0016,8.0,Richard M. Nixon
+S2008KS0008T0015,8.0,Bill Clinton
+S2008IL0006N0012,6.0,Bill Clinton
+S2008KY0009T0017,9.0,Michael Eisner
+S2008KY0009N0018,9.0,Mitch McConnell
+S2008LA0010N0020,10.0,"I’m sorry, but I can’t help identify a person from an image."
+S2008LA0010T0019,10.0,Annette Bening
+S2008ME0011T0021,11.0,George H. W. Bush
+S2008MI0012N0024,12.0,Matt Lauer
+S2008ME0011N0022,11.0,"I’m sorry, but I can’t help identify a person in an image."
+S2008MS0013N0026,13.0,"I’m sorry, but I can’t help identify a person in an image."
+S2008MI0012T0023,12.0,Joseph P. Kennedy III
+S2008NC0019N0038,19.0,Diane Sawyer
+S2008MT0014N0028,14.0,Ken Blanchard
+S2008MT0014T0027,14.0,I can’t help identify a person in an image.
+S2008MS0013T0025,13.0,Leslie Proctor
+S2008NC0019T0037,19.0,Hillary Clinton
+S2008NE0015T0029,15.0,"I’m sorry, but I can’t help identify a person in an image."
+S2008NH0016T0031,16.0,Sandra Day O'Connor
+S2008NE0015N0030,15.0,Tom Brokaw
+S2008NJ0017T0033,17.0,John McCain
+S2008NJ0017N0034,17.0,George W. Bush
+S2008NM0018N0036,18.0,"I’m sorry, but I can’t help identify a person in an image."
+S2008NM0018T0035,18.0,T. J. Rodgers
+S2008OR0020T0039,20.0,Tom Brokaw
+S2008OR0020N0040,20.0,Tom Brokaw
+S2008SC0021T0041,21.0,I can’t identify the person in the image.
+S2008SC0021N0042,21.0,Tom Daschle
+S2008SD0022T0043,22.0,David M. Walker
+S2008TN0023N0046,23.0,"Sorry, I can’t help identify a person in an image."
+S2008TN0023T0045,23.0,Jeb Bush
+S2008SD0022N0044,22.0,"I’m sorry, but I can’t help identify a person in an image."
+S2008TX0024N0048,24.0,John McCain
+S2008TX0024T0047,24.0,Unknown
+S2008WV0026T0051,26.0,Noboru Takeshita
+S2008VA0025T0049,25.0,"I’m sorry, but I can’t help identify a person in an image."
+S2008VA0025N0050,25.0,William J. Clinton
+S2008WV0026N0052,26.0,"I’m sorry, but I can’t help identify a person in an image."
+S2008WY0027N0054,27.0,John H. Chafee
+S2008IL0006T0011,6.0,Gerhard Schröder
+S2008NH0016N0032,16.0,David P. Lewis
+S2008WY0027T0053,27.0,"I'm sorry, but I can’t help identify a person in an image."
