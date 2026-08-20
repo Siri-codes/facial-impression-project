@@ -1,0 +1,16 @@
+model,prediction_multitrial_acc,competence_multitrial_acc,prediction_multitrial_minus_competence_multitrial,n_unrecognized_races,n_excluded_recognized
+Grok 4.5,0.635,0.611,0.024,225,36
+Gemini 3.1 Flash Lite,0.645,0.611,0.034,259,1
+Grok 4.3,0.573,0.602,-0.029,231,30
+Claude Sonnet 5,0.609,0.588,0.021,238,23
+Claude Opus 5,0.676,0.622,0.054,255,0
+Mistral Large 3,0.599,0.636,-0.038,257,4
+GPT-5.4 Mini,0.603,0.62,-0.017,250,11
+Ministral 3 3B,0.532,0.582,-0.05,255,6
+Qwen3 VL 32B Instruct,0.618,0.648,-0.03,248,14
+Gemini 2.5 Flash-Lite,0.621,0.615,0.006,211,50
+Qwen3 VL 8B Instruct,0.619,0.658,-0.039,258,3
+Llama 4 Scout,0.58,0.617,-0.038,257,1
+GLM 4.5V,0.653,0.63,0.023,236,25
+Kimi K2.5,0.608,0.613,-0.005,97,165
+Nova 2 Lite,0.592,0.578,0.015,258,3

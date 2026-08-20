@@ -18,6 +18,8 @@ FIGURES = RESULTS / "figures"
 HUMAN_MEANS   = HUMAN_DIR / "attribute_means.csv"
 HUMAN_RATINGS = HUMAN_DIR / "attribute_ratings.zip"
 
+PARSER_VAL_DIR = DATA_DIR / "parser_validation"
+
 # ---- Attribute order (enforced on every load) ----
 ATTRIBUTES = [
     'trustworthy', 'attractive', 'dominant', 'smart', 'age', 'gender', 'weight',
@@ -98,7 +100,14 @@ MODEL_SNAPSHOTS = {
     'openai_gpt-4o-mini' : 'openai/gpt-4o-mini',
 
     'mistralai_ministral-3-3b' : 'mistralai/ministral-3b-2512',
-    'anthropic_claude-3-haiku': 'anthropic/claude-3-haiku'
+    'anthropic_claude-3-haiku': 'anthropic/claude-3-haiku',
+
+    'qwen_qwen3-vl-235b-instruct': 'qwen/qwen3-vl-235b-a22b-instruct',
+    'mistralai_mistral-small-4': 'mistralai/mistral-small-2603',
+    'meta-llama_llama-4-scout': 'meta-llama/llama-4-scout',
+    'z-ai_glm-4.5v': 'z-ai/glm-4.5v',
+    'moonshot_kimi-k2.5': 'moonshotai/kimi-k2.5', 
+    'amazon_nova-2-lite': 'amazon/nova-2-lite-v1',
 }
 
 # effort level per model, chosen to match the Artificial Analysis MMMU-Pro config
@@ -126,7 +135,14 @@ REASONING_EFFORT = {
     "openai_gpt-4o-mini": "none",
 
     "mistralai_ministral-3-3b": "none",
-    "anthropic_claude-3-haiku":      "none"  # non-reasoning
+    "anthropic_claude-3-haiku":      "none",  # non-reasoning
+
+    "qwen_qwen3-vl-235b-instruct": "none",
+    "mistralai_mistral-small-4": "none",
+    "meta-llama_llama-4-scout": "none",
+    "z-ai_glm-4.5v": "none",
+    "moonshot_kimi-k2.5": "none",
+    "amazon_nova-2-lite": "none",
 }
 
 #MMMU-Pro scores. Source: Artificial Analysis.
@@ -148,6 +164,14 @@ MMMU_PRO = {
     "GPT-4o Mini":            42,
     "Ministral 3 3B":         38,
     "Claude 3 Haiku":         31,
+
+    'Qwen3 VL 235B A22B Instruct': 68,
+    'Mistral Small 4': 46,
+    'Llama 4 Scout': 53,
+    'GLM 4.5V': 43,
+
+    'Kimi K2.5': 73, 
+    'Nova 2 Lite': 49,
 }
 
 #Humanity's Last Exam scores. Source: Artificial Analysis
@@ -212,3 +236,26 @@ ELECTION_RESULTS_PATH = ELECTION_DATASET / "election_results.csv"
 
 #based on Todorov et. al. 2005: "competence, intelligence, leadership, honesty, trustworthiness, charisma, and likability"
 ELECTION_ATTRIBUTES = ['competent', 'intelligent', 'leader', 'honest', 'trustworthy', 'charismatic', 'likable']
+
+#highest performing matches on human "competence" axis
+ELECTION_MODELS = {
+    'Grok 4.5': 'xai_grok-4.5',
+    'Gemini 3.1 Flash Lite': 'google_gemini-3.1-flash-lite',
+    'Grok 4.3': 'xai_grok-4.3',
+    'Claude Sonnet 5':       'anthropic_claude-sonnet-5-none',
+    #'Claude Sonnet 4': 'anthropic_claude-sonnet-4', #not clean
+    'Claude Opus 5' : 'anthropic_claude-opus-5',
+    'Mistral Large 3': 'mistralai_mistral-large-3', #not clean
+    #'Gemini 3.5 Flash' : 'google_gemini-3.5-flash', #not clean
+    'GPT-5.4 Mini':          'openai_gpt-5.4-mini',
+    'Ministral 3 3B': 'mistralai_ministral-3-3b',
+    'Qwen3 VL 32B Instruct': 'qwen_qwen3-vl-32b-instruct',
+    #'Gemma 4 26B A4B': 'google_gemma-4-26b-a4b', #currently erroring (rate limits?)
+    'Gemini 2.5 Flash-Lite': 'google_gemini-2.5-flash-lite',
+    'Qwen3 VL 8B Instruct': 'qwen_qwen3-vl-8b-instruct',
+    #'Claude 3 Haiku': 'anthropic_claude-3-haiku',
+    'Llama 4 Scout': 'meta-llama_llama-4-scout',
+    'GLM 4.5V': 'z-ai_glm-4.5v',
+    'Kimi K2.5': 'moonshot_kimi-k2.5',
+    'Nova 2 Lite': 'amazon_nova-2-lite',
+}

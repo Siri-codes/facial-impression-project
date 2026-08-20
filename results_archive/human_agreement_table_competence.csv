@@ -1,0 +1,11 @@
+model,n_comparable,model_human_agreement
+xai_grok-4.5,191,0.686
+google_gemini-3.1-flash-lite,181,0.729
+xai_grok-4.3,156,0.718
+anthropic_claude-sonnet-5-none,153,0.752
+anthropic_claude-sonnet-4,0,
+anthropic_claude-opus-5,183,0.749
+mistralai_mistral-large-3,75,0.8
+google_gemini-3.5-flash,0,
+openai_gpt-5.4-mini,177,0.723
+mistralai_ministral-3-3b,149,0.631

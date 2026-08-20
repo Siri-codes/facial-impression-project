@@ -1,0 +1,109 @@
+model,label,raw,human,parser,parser_reason,agree
+Claude Sonnet 5,competence_multitrial,B,b,b,clean,True
+Grok 4.5,prediction_multitrial,B,b,b,clean,True
+Ministral 3 3B,electability_multitrial,B,b,b,clean,True
+GPT-5.4 Mini,prediction_multitrial,B,b,b,clean,True
+GPT-5.4 Mini,competence_multitrial,A,a,a,clean,True
+Claude Sonnet 5,prediction_multitrial,B,b,b,clean,True
+Grok 4.3,prediction_multitrial,B,b,b,clean,True
+Grok 4.3,electability_multitrial,A,a,a,clean,True
+Llama 4 Scout,electability_multitrial,A,a,a,clean,True
+Grok 4.5,prediction_multitrial,A,a,a,clean,True
+Grok 4.5,prediction_multitrial,A,a,a,clean,True
+Grok 4.3,electability_multitrial,A,a,a,clean,True
+GPT-5.4 Mini,competence_multitrial,B,b,b,clean,True
+GPT-5.4 Mini,electability_multitrial,A,a,a,clean,True
+Kimi K2.5,prediction_multitrial,B,b,b,clean,True
+Grok 4.5,prediction_multitrial,A,a,a,clean,True
+Mistral Large 3,electability_multitrial,B,b,b,clean,True
+Llama 4 Scout,electability_multitrial,B.,b,b,clean,True
+GPT-5.4 Mini,competence_multitrial,A,a,a,clean,True
+GLM 4.5V,electability_multitrial,A,a,a,clean,True
+Ministral 3 3B,prediction_multitrial,B,b,b,clean,True
+Grok 4.5,competence_multitrial,A,a,a,clean,True
+Claude Opus 5,electability_multitrial,B,b,b,clean,True
+Llama 4 Scout,electability_multitrial,A.,a,a,clean,True
+Gemini 2.5 Flash-Lite,competence_multitrial,A,a,a,clean,True
+Ministral 3 3B,prediction_multitrial,B,b,b,clean,True
+Claude Opus 5,competence_multitrial,A,a,a,clean,True
+Mistral Large 3,prediction_multitrial,A,a,a,clean,True
+Gemini 2.5 Flash-Lite,competence_multitrial,B,b,b,clean,True
+Grok 4.3,prediction_multitrial,A,a,a,clean,True
+Grok 4.3,electability_multitrial,A,a,a,clean,True
+Qwen3 VL 8B Instruct,electability_multitrial,A,a,a,clean,True
+Grok 4.3,electability_multitrial,A,a,a,clean,True
+Gemini 2.5 Flash-Lite,prediction_multitrial,B,b,b,clean,True
+Gemini 2.5 Flash-Lite,electability_multitrial,B,b,b,clean,True
+Ministral 3 3B,electability_multitrial,A,a,a,clean,True
+Gemini 3.1 Flash Lite,competence_multitrial,A,a,a,clean,True
+GLM 4.5V,prediction_multitrial,B,b,b,clean,True
+Nova 2 Lite,prediction_multitrial,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap",b,b,marker,True
+Claude Sonnet 5,electability_multitrial,B,b,b,clean,True
+Qwen3 VL 8B Instruct,electability_multitrial,B,b,b,clean,True
+Grok 4.3,competence_multitrial,B,b,b,clean,True
+Qwen3 VL 32B Instruct,competence_multitrial,A,a,a,clean,True
+Gemini 2.5 Flash-Lite,prediction_multitrial,B,b,b,clean,True
+Mistral Large 3,competence_multitrial,B,b,b,clean,True
+Gemini 3.1 Flash Lite,prediction_multitrial,B,b,b,clean,True
+Gemini 3.1 Flash Lite,competence_multitrial,B,b,b,clean,True
+GPT-5.4 Mini,competence_multitrial,B,b,b,clean,True
+Qwen3 VL 32B Instruct,competence_multitrial,A,a,a,clean,True
+Grok 4.3,competence_multitrial,B,b,b,clean,True
+GPT-5.4 Mini,electability_multitrial,B,b,b,clean,True
+Grok 4.3,prediction_multitrial,A,a,a,clean,True
+Qwen3 VL 8B Instruct,electability_multitrial,A,a,a,clean,True
+Ministral 3 3B,prediction_multitrial,A,a,a,clean,True
+GLM 4.5V,electability_multitrial,B,b,b,clean,True
+Qwen3 VL 8B Instruct,competence_multitrial,A,a,a,clean,True
+Claude Opus 5,electability_multitrial,A,a,a,clean,True
+Qwen3 VL 8B Instruct,competence_multitrial,A,a,a,clean,True
+Gemini 2.5 Flash-Lite,prediction_multitrial,B,b,b,clean,True
+Mistral Large 3,prediction_multitrial,B,b,b,clean,True
+Ministral 3 3B,electability_multitrial,B,b,b,clean,True
+Gemini 3.1 Flash Lite,prediction_multitrial,A,a,a,clean,True
+Claude Opus 5,prediction_multitrial,A,a,a,clean,True
+Nova 2 Lite,prediction_multitrial,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap",a,a,marker,True
+GPT-5.4 Mini,prediction_multitrial,A,a,a,clean,True
+Claude Opus 5,electability_multitrial,A,a,a,clean,True
+GLM 4.5V,prediction_multitrial,B,b,b,clean,True
+Qwen3 VL 8B Instruct,electability_multitrial,B,b,b,clean,True
+Ministral 3 3B,electability_multitrial,A,a,a,clean,True
+GPT-5.4 Mini,competence_multitrial,A,a,a,clean,True
+Gemma 4 26B A4B,competence_multitrial,A,a,a,clean,True
+Gemini 3.1 Flash Lite,electability_multitrial,A,a,a,clean,True
+GPT-5.4 Mini,electability_multitrial,A,a,a,clean,True
+Grok 4.5,prediction_multitrial,A,a,a,clean,True
+Qwen3 VL 32B Instruct,prediction_multitrial,A,a,a,clean,True
+Llama 4 Scout,competence_multitrial,A,a,a,clean,True
+Ministral 3 3B,electability_multitrial,B,b,b,clean,True
+Gemini 3.1 Flash Lite,prediction_multitrial,A,a,a,clean,True
+Mistral Large 3,prediction_multitrial,B,b,b,clean,True
+Qwen3 VL 32B Instruct,prediction_multitrial,A,a,a,clean,True
+Mistral Large 3,prediction_multitrial,B,b,b,clean,True
+Kimi K2.5,prediction_multitrial,A,a,a,clean,True
+Qwen3 VL 8B Instruct,prediction_multitrial,A,a,a,clean,True
+GLM 4.5V,electability_multitrial,B,b,b,clean,True
+Claude Sonnet 5,prediction_multitrial,B,b,b,clean,True
+Ministral 3 3B,electability_multitrial,B,b,b,clean,True
+Claude Sonnet 5,prediction_multitrial,B,b,b,clean,True
+GPT-5.4 Mini,prediction_multitrial,B,b,b,clean,True
+Nova 2 Lite,prediction_multitrial,"A
+
+Based on the immediate gut impression from the provided images, Candidate A a",a,a,marker,True
+Ministral 3 3B,competence_multitrial,A,a,a,clean,True
+Llama 4 Scout,prediction_multitrial,B,b,b,clean,True
+Qwen3 VL 8B Instruct,prediction_multitrial,B,b,b,clean,True
+Gemini 2.5 Flash-Lite,prediction_multitrial,B,b,b,clean,True
+GPT-5.4 Mini,competence_multitrial,A,a,a,clean,True
+Claude Sonnet 5,prediction_multitrial,A,a,a,clean,True
+Nova 2 Lite,competence_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. The individual in Candidate A has a more composed and authoritative demeanor, with a direct gaze and a professional smile, which often conveys confidence and leadership—qualities commonly associate",a,a,marker,True
+Kimi K2.5,electability_multitrial,B,b,b,clean,True
+Grok 4.3,electability_multitrial,A,a,a,clean,True
+Gemini 3.1 Flash Lite,competence_multitrial,B,b,b,clean,True
+Claude Sonnet 5,competence_multitrial,A,a,a,clean,True

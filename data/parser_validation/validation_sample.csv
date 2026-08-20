@@ -1,0 +1,773 @@
+model,label,raw,human,parser,parser_reason
+Claude Sonnet 5,competence_multitrial,B,b,b,clean
+Grok 4.5,prediction_multitrial,B,b,b,clean
+Ministral 3 3B,electability_multitrial,B,b,b,clean
+GPT-5.4 Mini,prediction_multitrial,B,b,b,clean
+GPT-5.4 Mini,competence_multitrial,A,a,a,clean
+Claude Sonnet 5,prediction_multitrial,B,b,b,clean
+Grok 4.3,prediction_multitrial,B,b,b,clean
+Grok 4.3,electability_multitrial,A,a,a,clean
+Llama 4 Scout,prediction_multitrial,B.,b,b,clean
+Grok 4.5,prediction_multitrial,A,a,a,clean
+Grok 4.5,prediction_multitrial,A,a,a,clean
+Grok 4.3,electability_multitrial,A,a,a,clean
+GPT-5.4 Mini,competence_multitrial,B,b,b,clean
+GPT-5.4 Mini,electability_multitrial,A,a,a,clean
+Nova 2 Lite,competence_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The individual in Candidate B has a more approachable and confident demeanor, with a direct gaze and a well-groomed appearance, which often contributes to perceptions of competence in professional ",b,b,marker
+Grok 4.5,prediction_multitrial,A,a,a,clean
+Mistral Large 3,electability_multitrial,B,b,b,clean
+Llama 4 Scout,prediction_multitrial,A,a,a,clean
+GPT-5.4 Mini,competence_multitrial,A,a,a,clean
+GLM 4.5V,electability_multitrial,B,b,b,clean
+Ministral 3 3B,prediction_multitrial,B,b,b,clean
+Grok 4.5,competence_multitrial,A,a,a,clean
+Claude Opus 5,electability_multitrial,B,b,b,clean
+Llama 4 Scout,prediction_multitrial,A,a,a,clean
+Gemini 2.5 Flash-Lite,electability_multitrial,A,a,a,clean
+Ministral 3 3B,prediction_multitrial,B,b,b,clean
+Claude Opus 5,competence_multitrial,A,a,a,clean
+Mistral Large 3,prediction_multitrial,A,a,a,clean
+Gemini 2.5 Flash-Lite,electability_multitrial,A,a,a,clean
+Grok 4.3,prediction_multitrial,A,a,a,clean
+Grok 4.3,electability_multitrial,A,a,a,clean
+Qwen3 VL 8B Instruct,electability_multitrial,B,b,b,clean
+Grok 4.3,electability_multitrial,A,a,a,clean
+Gemini 2.5 Flash-Lite,prediction_multitrial,B,b,b,clean
+Gemini 2.5 Flash-Lite,electability_multitrial,A,a,a,clean
+Ministral 3 3B,electability_multitrial,A,a,a,clean
+Gemini 3.1 Flash Lite,competence_multitrial,A,a,a,clean
+GLM 4.5V,prediction_multitrial,A,a,a,clean
+Nova 2 Lite,prediction_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a",a,a,marker
+Claude Sonnet 5,electability_multitrial,B,b,b,clean
+Qwen3 VL 8B Instruct,electability_multitrial,B,b,b,clean
+Grok 4.3,competence_multitrial,B,b,b,clean
+Qwen3 VL 32B Instruct,competence_multitrial,A,a,a,clean
+Qwen3 VL 8B Instruct,competence_multitrial,A,a,a,clean
+Mistral Large 3,competence_multitrial,B,b,b,clean
+Gemini 3.1 Flash Lite,prediction_multitrial,B,b,b,clean
+Gemini 3.1 Flash Lite,competence_multitrial,B,b,b,clean
+GPT-5.4 Mini,competence_multitrial,B,,b,clean
+Qwen3 VL 32B Instruct,competence_multitrial,A,,a,clean
+Grok 4.3,competence_multitrial,B,,b,clean
+GPT-5.4 Mini,electability_multitrial,B,,b,clean
+Grok 4.3,prediction_multitrial,A,,a,clean
+Qwen3 VL 8B Instruct,electability_multitrial,B,,b,clean
+Ministral 3 3B,prediction_multitrial,A,,a,clean
+GLM 4.5V,electability_multitrial,B,,b,clean
+Qwen3 VL 8B Instruct,competence_multitrial,A,,a,clean
+Claude Opus 5,electability_multitrial,A,,a,clean
+Qwen3 VL 8B Instruct,competence_multitrial,B,,b,clean
+Gemini 2.5 Flash-Lite,prediction_multitrial,B,,b,clean
+Mistral Large 3,prediction_multitrial,B,,b,clean
+Ministral 3 3B,electability_multitrial,B,,b,clean
+Gemini 3.1 Flash Lite,prediction_multitrial,A,,a,clean
+Claude Opus 5,prediction_multitrial,A,,a,clean
+Nova 2 Lite,prediction_multitrial,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A ap",,a,marker
+GPT-5.4 Mini,prediction_multitrial,A,,a,clean
+Claude Opus 5,electability_multitrial,A,,a,clean
+GLM 4.5V,prediction_multitrial,B,,b,clean
+Qwen3 VL 8B Instruct,electability_multitrial,B,,b,clean
+Ministral 3 3B,electability_multitrial,A,,a,clean
+GPT-5.4 Mini,competence_multitrial,A,,a,clean
+Gemini 2.5 Flash-Lite,competence_multitrial,A,,a,clean
+Gemini 3.1 Flash Lite,electability_multitrial,A,,a,clean
+GPT-5.4 Mini,electability_multitrial,A,,a,clean
+Grok 4.5,prediction_multitrial,A,,a,clean
+Qwen3 VL 32B Instruct,prediction_multitrial,A,,a,clean
+Llama 4 Scout,competence_multitrial,A,,a,clean
+Ministral 3 3B,electability_multitrial,B,,b,clean
+Gemini 3.1 Flash Lite,prediction_multitrial,A,,a,clean
+Mistral Large 3,prediction_multitrial,B,,b,clean
+Qwen3 VL 32B Instruct,prediction_multitrial,A,,a,clean
+Mistral Large 3,prediction_multitrial,B,,b,clean
+Kimi K2.5,prediction_multitrial,A,,a,clean
+Qwen3 VL 8B Instruct,prediction_multitrial,B,,b,clean
+GLM 4.5V,prediction_multitrial,A,,a,clean
+Claude Sonnet 5,prediction_multitrial,B,,b,clean
+Ministral 3 3B,electability_multitrial,B,,b,clean
+Claude Sonnet 5,prediction_multitrial,B,,b,clean
+GPT-5.4 Mini,prediction_multitrial,B,,b,clean
+Ministral 3 3B,competence_multitrial,A,,a,clean
+Llama 4 Scout,prediction_multitrial,A,,a,clean
+Llama 4 Scout,competence_multitrial,A,,a,clean
+Qwen3 VL 8B Instruct,competence_multitrial,B,,b,clean
+GPT-5.4 Mini,competence_multitrial,A,,a,clean
+Claude Sonnet 5,prediction_multitrial,A,,a,clean
+Nova 2 Lite,competence_multitrial,"A
+
+**Explanation (for your understanding, not part of the required response):**  
+Based on common psychological research on first impressions from facial appearance—particularly studies on perceived competence—**Candidate A** is more likely to be judged as competent by most observers.  
+
+**Why Candi",,a,marker
+Kimi K2.5,prediction_multitrial,B,,b,clean
+Grok 4.3,electability_multitrial,A,,a,clean
+Gemini 3.1 Flash Lite,competence_multitrial,B,,b,clean
+Claude Sonnet 5,competence_multitrial,A,,a,clean
+Claude Opus 5,competence_multitrial,A,,a,clean
+Claude Opus 5,electability_multitrial,B,,b,clean
+Llama 4 Scout,prediction_multitrial,A,,a,clean
+Gemini 3.1 Flash Lite,prediction_multitrial,B,,b,clean
+Qwen3 VL 8B Instruct,prediction_multitrial,A,,a,clean
+Qwen3 VL 8B Instruct,electability_multitrial,B,,b,clean
+Kimi K2.5,competence_multitrial,B,,b,clean
+Nova 2 Lite,prediction_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A a",,a,marker
+GPT-5.4 Mini,prediction_multitrial,A,,a,clean
+Grok 4.5,competence_multitrial,A,,a,clean
+Claude Sonnet 5,competence_multitrial,B,,b,clean
+Ministral 3 3B,electability_multitrial,B,,b,clean
+Gemini 2.5 Flash-Lite,electability_multitrial,A,,a,clean
+Claude Sonnet 5,competence_multitrial,B,,b,clean
+Qwen3 VL 32B Instruct,competence_multitrial,A,,a,clean
+GLM 4.5V,competence_multitrial,A,,a,clean
+Claude Opus 5,electability_multitrial,B,,b,clean
+GLM 4.5V,electability_multitrial,B,,b,clean
+Grok 4.5,competence_multitrial,B,,b,clean
+Ministral 3 3B,competence_multitrial,B,,b,clean
+Kimi K2.5,prediction_multitrial,B,,b,clean
+Claude Opus 5,prediction_multitrial,B,,b,clean
+Nova 2 Lite,competence_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The individual has a polished and professional look, with a well-groomed hairstyle and formal attire, which often conveys confidence and authority. Candidate A's appearance, while also professional",,b,marker
+Grok 4.3,prediction_multitrial,A,,a,clean
+Qwen3 VL 32B Instruct,competence_multitrial,A,,a,clean
+Nova 2 Lite,competence_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. The individual has a composed and confident demeanor, often associated with leadership and authority. The posture and facial expression convey a sense of seriousness and experience, which are typic",,a,marker
+Mistral Large 3,electability_multitrial,B,,b,clean
+Claude Opus 5,competence_multitrial,A,,a,clean
+Qwen3 VL 8B Instruct,electability_multitrial,B,,b,clean
+Claude Opus 5,electability_multitrial,B,,b,clean
+Nova 2 Lite,prediction_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B a",,b,marker
+Grok 4.5,competence_multitrial,A,,a,clean
+Qwen3 VL 32B Instruct,prediction_multitrial,B,,b,clean
+Kimi K2.5,electability_multitrial,A,,a,clean
+Grok 4.5,electability_multitrial,A,,a,clean
+Claude Sonnet 5,competence_multitrial,B,,b,clean
+Qwen3 VL 8B Instruct,competence_multitrial,A,,a,clean
+Qwen3 VL 32B Instruct,electability_multitrial,A,,a,clean
+GPT-5.4 Mini,electability_multitrial,A,,a,clean
+Gemini 3.1 Flash Lite,electability_multitrial,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut feelings, or the ability to judge individuals based on their appearance. Making such a choice would rely on subjective biases rather than objective information.",,r,REFUSE
+GPT-5.4 Mini,prediction_multitrial,A,,a,clean
+Grok 4.3,competence_multitrial,B,,b,clean
+Grok 4.3,electability_multitrial,A,,a,clean
+Kimi K2.5,electability_multitrial,B,,b,clean
+Gemini 3.1 Flash Lite,prediction_multitrial,A,,a,clean
+Nova 2 Lite,prediction_multitrial,"A
+
+Based on the immediate gut impression from the photographs, Candidate A appea",,a,marker
+Claude Sonnet 5,electability_multitrial,B,,b,clean
+Claude Sonnet 5,electability_multitrial,A,,a,clean
+Kimi K2.5,competence_multitrial,B,,b,clean
+Claude Opus 5,electability_multitrial,A,,a,clean
+Ministral 3 3B,electability_multitrial,A,,a,clean
+Nova 2 Lite,prediction_multitrial,"B
+
+Based on the immediate gut impression from the black-and-white images provide",,b,starts_with
+Llama 4 Scout,prediction_multitrial,B.,,b,clean
+Mistral Large 3,prediction_multitrial,B,,b,clean
+Mistral Large 3,electability_multitrial,B,,b,clean
+Qwen3 VL 32B Instruct,electability_multitrial,A,,a,clean
+Llama 4 Scout,competence_multitrial,A,,a,clean
+Qwen3 VL 8B Instruct,electability_multitrial,A,,a,clean
+GLM 4.5V,competence_multitrial,B,,b,clean
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more approachable and confident due to the smile and direct gaze, which often conveys positivity and engagement. Candidate A, while professional in appearance, lacks the same warm and inviting expression. Therefor",,b,marker
+GLM 4.5V,electability_multitrial,B,,b,clean
+Claude Sonnet 5,electability_multitrial,B,,b,clean
+GPT-5.4 Mini,prediction_multitrial,B,,b,clean
+GPT-5.4 Mini,competence_multitrial,A,,a,clean
+Gemini 3.1 Flash Lite,prediction_multitrial,A,,a,clean
+Gemini 2.5 Flash-Lite,electability_multitrial,A,,a,clean
+Grok 4.5,electability_multitrial,A,,a,clean
+GPT-5.4 Mini,electability_multitrial,B,,b,clean
+GPT-5.4 Mini,competence_multitrial,A,,a,clean
+Grok 4.5,competence_multitrial,A,,a,clean
+Gemini 3.1 Flash Lite,prediction_multitrial,B,,b,clean
+Gemini 3.1 Flash Lite,electability_multitrial,B,,b,clean
+GPT-5.4 Mini,electability_multitrial,B,,b,clean
+Gemini 3.1 Flash Lite,prediction_multitrial,B,,b,clean
+Grok 4.5,prediction_multitrial,B,,b,clean
+Gemini 2.5 Flash-Lite,competence_multitrial,B,,b,clean
+Gemini 3.1 Flash Lite,prediction_multitrial,A,,a,clean
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more approachable and trustworthy. The smile is warm and genuine, and the overall demeanor seems more inviting compared to Candidate A, who, while also smiling, has a more formal and less approachable appearance.",,b,marker
+GPT-5.4 Mini,electability_multitrial,A,,a,clean
+Ministral 3 3B,prediction_multitrial,A,,a,clean
+Kimi K2.5,electability_multitrial,A,,a,clean
+Mistral Large 3,prediction_multitrial,B,,b,clean
+Claude Sonnet 5,electability_multitrial,B,,b,clean
+Kimi K2.5,competence_multitrial,A,,a,clean
+GPT-5.4 Mini,prediction_multitrial,B,,b,clean
+Kimi K2.5,competence_multitrial,A,,a,clean
+Llama 4 Scout,competence_multitrial,A,,a,clean
+Mistral Large 3,competence_multitrial,A,,a,clean
+Grok 4.3,electability_multitrial,A,,a,clean
+Grok 4.3,electability_multitrial,A,,a,clean
+GLM 4.5V,competence_multitrial,A,,a,clean
+Gemini 2.5 Flash-Lite,prediction_multitrial,A,,a,clean
+Llama 4 Scout,prediction_multitrial,B,,b,clean
+Llama 4 Scout,electability_multitrial,.,,u,UNPARSEABLE
+Kimi K2.5,competence_multitrial,A,,a,clean
+Gemini 3.1 Flash Lite,electability_multitrial,B,,b,clean
+Grok 4.3,prediction_multitrial,B,,b,clean
+Gemini 3.1 Flash Lite,prediction_multitrial,A,,a,clean
+Llama 4 Scout,competence_multitrial,B,,b,clean
+Gemini 2.5 Flash-Lite,electability_multitrial,B,,b,clean
+Claude Sonnet 5,competence_multitrial,B,,b,clean
+Nova 2 Lite,competence_multitrial,"A
+
+**Note:** It's important to recognize that making judgments about competence based solely on appearance can perpetuate stereotypes and biases. Competence is best assessed through actions, qualifications, and performance, not physical characteristics. This response is based on the specific prompt ",,a,starts_with
+Gemini 3.1 Flash Lite,electability_multitrial,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut feelings, or the ability to judge individuals based on their appearance. Research in social psychology, such as studies by Alexander Todorov, has shown that people often make snap judgments about traits like competence or ",,r,REFUSE
+Nova 2 Lite,competence_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The individual in Candidate B has a more formal and professional appearance, with a suit and tie, which often conveys a sense of authority and professionalism. Additionally, the smile appears confi",,b,marker
+Nova 2 Lite,competence_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The individual in Candidate B has a warm, approachable smile and a confident posture, which often conveys competence and leadership in first impressions. Candidate A, while professional, has a more",,b,marker
+Nova 2 Lite,competence_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. The individual in Candidate A has a more open and confident facial expression, with a slight smile that conveys approachability and confidence. The posture and overall presentation also suggest a s",,a,marker
+Nova 2 Lite,competence_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The individual in Candidate B has a confident, professional demeanor with a formal suit and tie, and a warm, approachable smile. These visual cues often contribute to perceptions of competence and ",,b,marker
+Nova 2 Lite,competence_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. The individual has a formal, professional demeanor with a suit and tie, which often conveys authority and leadership. The smile is confident and the overall presentation is polished, typically asso",,a,marker
+Nova 2 Lite,prediction_multitrial,"B
+
+Based on the immediate gut impression from the black-and-white portraits, Can",,b,starts_with
+Llama 4 Scout,electability_multitrial,A.,,a,clean
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more approachable and confident. The smile seems more genuine, and the overall posture conveys a sense of openness and friendliness, which often leads to a favorable first impression.",,b,marker
+Gemini 3.1 Flash Lite,electability_multitrial,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut impressions, or the ability to vote, and I must remain neutral regarding individuals.",,r,REFUSE
+Gemini 3.1 Flash Lite,electability_multitrial,"Choosing a candidate based on appearance is subjective, and different people may form different impressions based on their own perspectives and experiences. As an AI, I do not have personal opinions or the ability to form gut impressions, so I cannot select one candidate over the other.",,r,REFUSE
+Llama 4 Scout,prediction_multitrial,A.,,a,clean
+Nova 2 Lite,competence_multitrial,"A
+
+**Explanation (for understanding, not part of the response):**  
+Based on common psychological studies of first impressions from facial appearance, **Candidate A** is likely to be perceived as more competent. This assessment is based on several factors often observed in such studies:
+
+1. **Facial",,a,marker
+Nova 2 Lite,competence_multitrial,"A
+
+**Note:** This response is based solely on the immediate gut impression as requested. It's important to remember that competence cannot be accurately judged based solely on appearance, and real-world assessments should consider a wide range of factors and evidence.",,a,starts_with
+Nova 2 Lite,prediction_multitrial,"A
+
+Based on the immediate gut impression from the black-and-white photographs pr",,a,starts_with
+Gemini 3.1 Flash Lite,electability_multitrial,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut feelings, or the ability to form impressions based on appearance. My purpose is to provide neutral and objective information, and choosing a candidate based on their face would be subjective and biased.",,r,REFUSE
+Nova 2 Lite,competence_multitrial,"A
+
+**Explanation (for your understanding, not part of the required response):**  
+Based on common psychological research into first impressions from facial appearance—particularly studies on perceived competence—certain features tend to bias judgments. Candidate A’s hairstyle, facial structure, and ",,a,marker
+Nova 2 Lite,prediction_multitrial,"A
+
+Based on the immediate gut impression from the black-and-white photographs pr",,a,starts_with
+Nova 2 Lite,electability_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more approachable and trustworthy due to the warm smile and confident posture. Candidate B, while also smiling, has a slightly more formal and less inviting expression in the photograph. Therefore, the immediate r",,a,marker
+Nova 2 Lite,competence_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. The individual in Candidate A has a more polished and professional look, with a well-groomed appearance, a direct gaze, and a confident smile. These visual cues often contribute to an impression of",,a,marker
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more approachable and trustworthy. The smile and overall demeanor convey confidence and friendliness, which often leads to a more favorable first impression. Candidate A, while professional-looking, has a more neu",,b,marker
+Nova 2 Lite,competence_multitrial,"A
+
+**Note:** This response is based solely on the immediate gut impression as requested and does not reflect any actual assessment of competence, which cannot be accurately determined from appearance alone. Competence is a multifaceted trait that cannot be judged from visual cues.",,a,starts_with
+Gemini 3.1 Flash Lite,electability_multitrial,"As an AI, I do not have personal opinions, gut feelings, or the ability to vote. Choosing between individuals based on their appearance is a subjective matter, and I cannot express a preference for one over the other.",,r,REFUSE
+Nova 2 Lite,competence_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common stereotypes associated with leadership and competence, often linked to masculine features and formal attire. Candidate B presents with a more traditionally ""execu",,b,marker
+Nova 2 Lite,electability_multitrial,"A
+
+Based on the immediate gut impression from the black-and-white images provided, Candidate A appears more confident and approachable due to the direct gaze and smile. Candidate B, while also smiling, has a slightly more reserved expression and posture. Therefore, the immediate choice would be **A*",,a,marker
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the photographs, Candidate B appears more approachable, confident, and trustworthy. The facial expression and overall demeanor convey a sense of openness and leadership, which often leads to a favorable first impression. Candidate A, while professional, ",,b,marker
+Nova 2 Lite,competence_multitrial,"A
+
+**Note:** This response is based solely on the immediate gut impression as requested and does not account for actual competence, which cannot be determined from appearance alone. Real-world competence depends on a wide range of factors beyond physical appearance.",,a,starts_with
+Nova 2 Lite,competence_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The individual in Candidate B has a professional appearance with a suit and tie, which often conveys a sense of authority and professionalism. In contrast, Candidate A, while smiling and approachab",,b,marker
+Nova 2 Lite,competence_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The individual in Candidate B is dressed in formal business attire (a suit and tie), which is often associated with professional and authoritative roles. The posture and smile also convey confidenc",,b,marker
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the photographs, Candidate B appears more approachable and confident due to the smile and a more contemporary, friendly demeanor. Candidate A, while presenting a professional appearance, seems more formal and less inviting at first glance. Therefore, the",,b,marker
+Kimi K2.5,prediction_multitrial,**A**,,a,clean
+Llama 4 Scout,prediction_multitrial,A.,,a,clean
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more approachable and trustworthy. The smile seems warmer, and the overall demeanor conveys confidence and friendliness, which often leads to a positive first impression.",,b,marker
+Llama 4 Scout,prediction_multitrial,A.,,a,clean
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears to convey a more approachable and trustworthy demeanor. The smile and overall expression seem more inviting and confident compared to Candidate A, who has a more neutral and less expressive appearance. Therefore, ",,b,marker
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the photos provided, Candidate B appears more approachable, confident, and trustworthy. The smile is warm and genuine, and the overall demeanor seems more modern and engaging compared to Candidate A, who appears more formal and less approachable. Therefo",,b,marker
+Nova 2 Lite,competence_multitrial,"A
+
+**Explanation (for context, not part of the required response):**  
+Based on common psychological research into first impressions from facial appearance—particularly studies on perceived competence—certain cues often influence judgments. These include:
+
+1. **Facial Expression**: A warm, confident",,a,starts_with
+Gemini 3.1 Flash Lite,electability_multitrial,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut feelings, or the ability to vote. Choosing between individuals based on their appearance would be subjective and inconsistent with my commitment to neutrality.",,r,REFUSE
+Nova 2 Lite,electability_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A would be the choice. The impression is formed based on the visible cues in the photograph, such as facial expression and overall demeanor, which suggest confidence and approachability. However, it's important to remember ",,a,marker
+Nova 2 Lite,prediction_multitrial,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap",,b,marker
+Nova 2 Lite,competence_multitrial,"B
+
+**Note:** First impressions based solely on appearance can be influenced by many factors, including cultural biases, and may not accurately reflect a person's actual competence. It's important to evaluate individuals based on their actions, qualifications, and performance rather than appearance a",,b,starts_with
+Nova 2 Lite,electability_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more approachable and confident due to the smile and direct gaze, which often conveys positivity and openness. Candidate B's expression is more neutral, which may come across as less engaging at first glance. Ther",,a,marker
+Llama 4 Scout,competence_multitrial,A.,,a,clean
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more approachable and trustworthy. The smile and overall demeanor convey confidence and friendliness, which often leads to a positive first impression. Candidate A, while professional-looking, has a more reserved ",,b,marker
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more approachable and trustworthy. The smile and overall demeanor convey confidence and friendliness, which often leads to a positive first impression. Candidate A, while also presenting a professional appearance,",,b,marker
+Nova 2 Lite,competence_multitrial,"A
+
+Based on the immediate gut impression from the provided images, Candidate A appears more competent. The individual in Candidate A has a more assertive and confident posture, with a direct gaze and a slight smile that conveys assurance. These visual cues often lead to an immediate perception of co",,a,marker
+Llama 4 Scout,competence_multitrial,A.,,a,clean
+Gemini 3.1 Flash Lite,electability_multitrial,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut feelings, or the ability to form impressions based on physical appearance. Choosing a candidate based on their appearance is subjective and does not provide a meaningful way to evaluate their qualifications, policies, or l",,r,REFUSE
+Nova 2 Lite,competence_multitrial,"A
+
+**Explanation (for context, not part of the required response):**  
+Based on common psychological research on first impressions from facial appearance—particularly studies on perceived competence—certain features often influence judgments. These include:
+
+- **Facial symmetry** and **average-looki",,a,starts_with
+Nova 2 Lite,competence_multitrial,"A
+
+**Explanation (for context, not part of the required response):**  
+Based on common psychological studies of first impressions from facial appearance—particularly those examining perceptions of competence—people often associate certain features with competence. These include:
+
+- **Facial maturity",,a,starts_with
+Llama 4 Scout,electability_multitrial,The response is: B,,b,ends_with
+Nova 2 Lite,competence_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. The posture, facial expression, and overall presentation convey confidence and authority, which are often associated with perceptions of competence. Candidate B, while also professional, has a more",,a,marker
+Llama 4 Scout,prediction_multitrial,A.,,a,clean
+Nova 2 Lite,electability_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more approachable and trustworthy. The smile is warm and inviting, and the overall demeanor seems friendly and confident. Candidate B, while also presenting a professional appearance, has a more reserved expressio",,a,marker
+Nova 2 Lite,competence_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The individual in Candidate B has a confident, approachable smile and a posture that conveys confidence and leadership. These visual cues often lead to an immediate perception of competence. Candid",,b,marker
+Nova 2 Lite,electability_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more approachable and trustworthy. The smile, eye contact, and overall demeanor convey confidence and friendliness, which often leads to a positive first impression. Candidate B, while also wearing glasses and smi",,a,marker
+Nova 2 Lite,electability_multitrial,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate A appears more approachable and friendly due to the broader, more open smile and a generally warmer expression. Candidate B, while also smiling, has a more reserved and less expressive demeanor. Therefore, the immediate",,a,marker
+Nova 2 Lite,competence_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common stereotypes and first-impression biases often associated with facial features and presentation. Candidate B has a more traditional, authoritative appearance that ",,b,marker
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more approachable and friendly due to the visible smile and direct gaze, which often conveys confidence and openness. Candidate A, while professional-looking, has a more neutral expression that may not convey the ",,b,marker
+Nova 2 Lite,electability_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more approachable and friendly due to the warm smile and open posture. Candidate B, while also smiling, has a more formal and reserved appearance, which might not convey the same level of approachability at first ",,a,marker
+Nova 2 Lite,competence_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. The posture, facial expression, and overall presentation convey confidence and authority, which are often associated with perceptions of competence. Candidate B, while also presenting a professiona",,a,marker
+Nova 2 Lite,competence_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The individual in Candidate B has a warm, approachable smile and a confident posture, which often conveys trustworthiness and leadership qualities. In contrast, Candidate A has a more serious expre",,b,marker
+Llama 4 Scout,competence_multitrial,A.,,a,clean
+Nova 2 Lite,competence_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression biases often associated with facial features such as confidence, symmetry, and grooming, which are often subconsciously interpreted as indicators",,b,marker
+Nova 2 Lite,prediction_multitrial,"A
+
+Based on the immediate gut impression from the black-and-white images provide",,a,starts_with
+Nova 2 Lite,competence_multitrial,"A
+
+**Note:** It's important to recognize that judgments about competence based solely on appearance can be biased and inaccurate. Competence is best assessed through actions, experience, and performance, not visual cues alone.",,a,starts_with
+Nova 2 Lite,competence_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. The individual in Candidate A has a more composed and authoritative demeanor, with a direct gaze and a professional smile, which often conveys confidence and leadership—qualities commonly associate",,a,marker
+Nova 2 Lite,electability_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more approachable and trustworthy. The smile, combined with the professional attire and glasses, conveys confidence and friendliness. Candidate B, while also presenting a serious demeanor, lacks the same warm and ",,a,marker
+Nova 2 Lite,electability_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A would be the choice. Candidate A appears more approachable, with a warm smile and a friendly expression, which often leads to a positive first impression. Candidate B, on the other hand, has a more serious and stern expre",,a,marker
+Nova 2 Lite,competence_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. The individual has a composed and professional demeanor, with a direct gaze and a slight smile that conveys confidence and approachability. These visual cues often contribute to perceptions of comp",,a,marker
+Nova 2 Lite,competence_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The individual in Candidate B is dressed in formal business attire, including a pinstripe suit and tie, which often conveys professionalism and authority. The smile also appears confident and appro",,b,marker
+Nova 2 Lite,electability_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more approachable and friendly due to the warm smile and relaxed posture. Candidate B, while also smiling, has a more formal appearance with glasses and a suit, which may come across as more reserved or authoritat",,a,marker
+Gemini 3.1 Flash Lite,prediction_multitrial,"As an AI, I do not have personal opinions, gut feelings, or the ability to predi",,r,REFUSE
+Nova 2 Lite,competence_multitrial,"B
+
+**Note:** This response is based on a common psychological bias where individuals often associate certain facial features—such as a broader jawline, a more assertive smile, and a younger appearance—with perceived competence. However, it's important to recognize that these judgments are subjective",,b,starts_with
+Gemini 3.1 Flash Lite,electability_multitrial,"Choosing a candidate based solely on appearance is a subjective process. As an AI, I do not have personal opinions, gut impressions, or the ability to vote. 
+
+Research into ""thin-slicing""—the ability to make snap judgments based on limited information—suggests that people often associate certain fac",,r,REFUSE
+Nova 2 Lite,electability_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more approachable and warm due to the smile and direct gaze, which often conveys friendliness and openness. Candidate B, while also smiling, has a more formal and reserved appearance due to the glasses and the hig",,a,marker
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more approachable and trustworthy. The smile seems more genuine, and the overall demeanor conveys confidence and friendliness, which often leads to a positive first impression. Candidate A's expression, while also",,b,marker
+Nova 2 Lite,competence_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. The posture, facial expression, and overall presentation convey confidence and professionalism, which are often associated with perceptions of competence. Candidate B, while also presenting a profe",,a,marker
+Llama 4 Scout,competence_multitrial,A.,,a,clean
+Nova 2 Lite,competence_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. The individual has a confident, open smile, direct eye contact, and a professional attire that conveys authority and approachability. These visual cues often lead to an immediate perception of comp",,a,marker
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B would be the choice. The individual appears confident, approachable, and professional, which often leads to a favorable first impression in such contexts. Candidate A, while also presenting a professional appearance, may ",,b,marker
+Nova 2 Lite,competence_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. The posture, facial expression, and overall presentation convey confidence and authority, which are often associated with perceptions of competence. Candidate B, while also presenting a professiona",,a,marker
+Nova 2 Lite,prediction_multitrial,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap",,b,marker
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more approachable and trustworthy. The smile and overall demeanor convey confidence and friendliness, which often lead to a positive first impression. Candidate A, while also smiling, has a more formal and less wa",,b,marker
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B would be the choice. The impression is formed based on typical first-impression biases often associated with facial features and expressions in such contexts.",,b,marker
+Nova 2 Lite,competence_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. The individual in Candidate A has a confident, approachable expression and a professional demeanor that often correlates with perceptions of competence in first impressions. Candidate B, while also",,a,marker
+Nova 2 Lite,competence_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The individual in Candidate B has a more serious and composed expression, often associated with leadership and authority. The glasses and slightly more formal posture also contribute to an impressi",,b,marker
+Nova 2 Lite,competence_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. The individual in Candidate A has a warm, approachable smile and a confident, relaxed posture, which often conveys competence and leadership in first impressions. Candidate B, while presenting a se",,a,marker
+Nova 2 Lite,prediction_multitrial,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap",,b,marker
+Nova 2 Lite,competence_multitrial,"A
+
+**Explanation (for context, not part of the final response):**  
+Based on common psychological findings about first impressions from faces—especially those related to perceived competence—**Candidate A** generally appears more competent in this side-by-side comparison. 
+
+Key factors that often in",,a,marker
+Nova 2 Lite,electability_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more approachable and confident due to the warm smile and open posture. These visual cues often lead to a more favorable first impression. Therefore, the choice would be **A**.",,a,marker
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more approachable and trustworthy. The smile is warm and genuine, and the overall presentation conveys confidence and friendliness. Candidate A, while also presenting a professional appearance, has a more reserved",,b,marker
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more approachable and trustworthy. The smile seems more genuine, and the overall demeanor conveys confidence and friendliness, which are often positively perceived in first impressions. Candidate A, while professi",,b,marker
+Nova 2 Lite,competence_multitrial,"A
+
+**Explanation (for understanding, not part of the answer):**  
+Based on common psychological studies of first impressions from facial appearance, **Candidate A** is likely to be perceived as more competent. This is due to several factors often observed in such assessments:
+
+1. **Facial Expression",,a,marker
+Nova 2 Lite,competence_multitrial,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological research into first impressions from facial appearance—particularly studies on perceived competence—more formal, neutral expressions and mature features (like those in Candidate A) often trigger an immedi",,a,marker
+Nova 2 Lite,prediction_multitrial,"A
+
+Based on the immediate gut impression from the black-and-white images provide",,a,starts_with
+Nova 2 Lite,prediction_multitrial,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap",,b,marker
+Llama 4 Scout,prediction_multitrial,A.,,a,clean
+Gemini 3.1 Flash Lite,electability_multitrial,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut feelings, or the ability to vote, and I am programmed to remain neutral regarding subjective assessments of individuals based on their appearance.",,r,REFUSE
+Nova 2 Lite,competence_multitrial,"A
+
+**Note:** This response is based solely on the immediate gut impression as requested and does not reflect any actual assessment of competence, which cannot be determined from appearance alone. Competence is a multifaceted trait that cannot be accurately judged from visual cues.",,a,starts_with
+Nova 2 Lite,competence_multitrial,"A
+
+**Note:** This response is based solely on the immediate gut impression as requested and does not reflect any actual assessment of competence, which cannot be determined from appearance alone. Competence is a multifaceted trait that cannot be accurately judged from visual cues.",,a,starts_with
+Nova 2 Lite,competence_multitrial,"A
+
+**Explanation (for your understanding, not part of the response):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence:
+
+- **Candidate A** presents a classic, traditionally ""masculine"" appearance often linked to perceived leadership a",,a,marker
+Nova 2 Lite,electability_multitrial,"A
+
+Based on the immediate gut impression from the black-and-white images provided, Candidate A appears more confident and approachable due to the direct gaze and smile. Candidate B, while also smiling, has a slightly more reserved expression. Therefore, the immediate choice would be **A**.",,a,marker
+Claude Opus 5,competence_multitrial,"I'm going to pass on this one. Judging competence from photos isn't something I can do meaningfully — and here the two faces differ in ways (race, apparent age, formality of dress) that would make any ""gut"" pick mostly a reflection of stereotype rather than information. I don't want to lend a number",,r,REFUSE
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more approachable and trustworthy. The smile and overall demeanor convey confidence and friendliness, which often leads to a positive first impression. Candidate A, while professional in appearance, has a more neu",,b,marker
+Nova 2 Lite,electability_multitrial,"**B**
+
+Based on the immediate gut impression from the images provided, Candidate B appears more approachable and trustworthy. The smile seems warmer, and the overall expression conveys more confidence and friendliness, which often leads to a more favorable first impression.",,b,marker
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the photographs, Candidate B appears more approachable and trustworthy. The smile is warm and inviting, and the overall demeanor seems more engaging and positive compared to Candidate A.",,b,marker
+Nova 2 Lite,prediction_multitrial,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap",,b,marker
+Nova 2 Lite,competence_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. The individual in Candidate A has a confident, direct gaze and a warm, approachable smile, which often conveys trustworthiness and leadership qualities. These visual cues are commonly associated wi",,a,marker
+Gemini 3.1 Flash Lite,electability_multitrial,"As an AI, I don’t have personal opinions, gut feelings, or the ability to vote. Choosing between individuals based on appearance is subjective, and different people will form different impressions based on their own perspectives and values.",,r,REFUSE
+Nova 2 Lite,competence_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The individual in Candidate B has a more confident and assertive posture, with a direct gaze and a slight smile that conveys assurance. These visual cues often lead to an immediate perception of co",,b,marker
+Nova 2 Lite,prediction_multitrial,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap",,b,marker
+Nova 2 Lite,competence_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The individual in Candidate B has a warm, approachable smile and a confident posture, which often conveys competence and leadership. In contrast, Candidate A has a more serious expression and a les",,b,marker
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B appears more approachable and confident. The smile and overall demeanor convey a sense of friendliness and openness, which often leads to a more favorable first impression. Candidate A, while presenting a serious and compo",,b,marker
+Nova 2 Lite,competence_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The individual in Candidate B has a calm, confident expression and a professional demeanor that often conveys trustworthiness and leadership qualities. Candidate A, while also presenting a professi",,b,marker
+Nova 2 Lite,electability_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A would be the choice. Candidate A appears more approachable, with a warm smile and a contemporary, professional look that often conveys confidence and relatability. Candidate B, while also professional, has a more serious ",,a,marker
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B appears more approachable and trustworthy. The smile seems warmer, and the overall expression conveys confidence and friendliness, which often leads to a more favorable first impression.",,b,marker
+Nova 2 Lite,competence_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. The individual in Candidate A has a warm, approachable smile and a modern, professional presentation that often conveys confidence and relatability. In contrast, Candidate B has a more formal and s",,a,marker
+Nova 2 Lite,electability_multitrial,"A
+
+Based on the immediate gut impression from the black-and-white images provided, Candidate A appears more approachable and confident due to the broad smile and direct gaze, which often conveys positivity and openness. These visual cues typically create a favorable first impression. Therefore, the ",,a,marker
+Gemini 3.1 Flash Lite,competence_multitrial,"Determining competence based solely on facial appearance is subjective and not a reliable indicator of a person's actual skills, experience, or abilities. First impressions can be influenced by personal biases and cultural perceptions, and they do not reflect an individual's true professional or per",,u,UNPARSEABLE
+Nova 2 Lite,competence_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The individual in Candidate B has a more assertive and confident facial expression, often associated with leadership and authority. Additionally, the formal attire and direct gaze can convey a sens",,b,marker
+Nova 2 Lite,prediction_multitrial,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap",,b,marker
+Nova 2 Lite,competence_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. The individual has a confident, professional demeanor with a formal suit and tie, which often conveys authority and leadership. The smile and direct gaze also suggest approachability and self-assur",,a,marker
+Nova 2 Lite,prediction_multitrial,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap",,b,marker
+Nova 2 Lite,competence_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. The individual in Candidate A has a more polished and professional look, with a well-groomed appearance and a direct, confident gaze. These visual cues often contribute to an immediate perception o",,a,marker
+Nova 2 Lite,electability_multitrial,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A appears more approachable and friendly due to the warm smile and open expression. Candidate B, while professional-looking, has a more reserved and less engaging demeanor. Therefore, the immediate choice would be **A**.",,a,marker
+Nova 2 Lite,competence_multitrial,"A
+
+**Note:** This response is based solely on the immediate gut impression as requested. It's important to remember that competence cannot be accurately judged based solely on appearance, and real-world assessments should consider a wide range of factors and evidence.",,a,starts_with
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more approachable and trustworthy. The facial expression is warm and inviting, with a clear smile that conveys confidence and friendliness. In contrast, Candidate A's expression is more neutral and less engaging, ",,b,marker
+Nova 2 Lite,competence_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The individual in Candidate B has a more approachable and confident demeanor, with a warm smile and direct eye contact, which often conveys trustworthiness and leadership qualities. Candidate A, wh",,b,marker
+Nova 2 Lite,prediction_multitrial,"A
+
+Based on the immediate gut impression from the black-and-white portraits, Can",,a,starts_with
+Nova 2 Lite,prediction_multitrial,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap",,b,marker
+Gemini 3.1 Flash Lite,competence_multitrial,Determining competence based solely on a photograph is subjective and not a reli,,u,UNPARSEABLE
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B would be the choice. The person in Candidate B appears more approachable and friendly due to the open, warm smile and a more relaxed posture in casual attire. These visual cues often lead to a more positive first impressi",,b,marker
+Nova 2 Lite,prediction_multitrial,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap",,b,marker
+Gemini 3.1 Flash Lite,electability_multitrial,"As an AI, I don’t have personal opinions, gut feelings, or the ability to vote. Choosing between individuals based on appearance is a subjective process, and different people will form different impressions based on their own experiences and biases. 
+
+Research in psychology, such as studies conducte",,r,REFUSE
+Nova 2 Lite,competence_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The individual in Candidate B has a more formal appearance, with a suit and tie, which often conveys professionalism and authority. Additionally, the posture and facial expression in Candidate B se",,b,marker
+Nova 2 Lite,electability_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more approachable and modern, which might lead to a more favorable first impression. Candidate B, while professional, has a more formal and perhaps dated appearance, which could make a less immediate positive impr",,a,marker
+Nova 2 Lite,electability_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more approachable and friendly due to the warm smile and open expression. Candidate B, while professional in appearance, has a more neutral and less engaging expression. Therefore, the immediate reaction would lea",,a,marker
+Nova 2 Lite,competence_multitrial,"A
+
+**Explanation (for your understanding, not part of the required response):**  
+Based on common psychological studies of first impressions from facial appearance—such as those examining perceptions of competence—certain cues often influence judgments. In many such studies, individuals with **direc",,a,starts_with
+Gemini 3.1 Flash Lite,prediction_multitrial,"I cannot predict election outcomes based on appearance. Research in psychology, ",,r,REFUSE
+Nova 2 Lite,competence_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. The individual in Candidate A has a more open and confident smile, direct eye contact, and a posture that conveys approachability and assertiveness. These visual cues often lead to an immediate per",,a,marker
+Llama 4 Scout,electability_multitrial,A.,,a,clean
+Nova 2 Lite,prediction_multitrial,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap",,b,marker
+Llama 4 Scout,competence_multitrial,A.,,a,clean
+Nova 2 Lite,prediction_multitrial,"A
+
+Based on the immediate gut impression from the black-and-white images provide",,a,starts_with
+Nova 2 Lite,competence_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. The individual in Candidate A has a confident, approachable smile and a professional demeanor that often conveys competence and leadership. While both individuals present themselves professionally,",,a,marker
+Nova 2 Lite,competence_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The individual in Candidate B has a professional appearance, wearing a suit and tie, which often conveys a sense of professionalism and authority. The smile is confident and warm, and the overall p",,b,marker
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the black-and-white photographs provided, Candidate B appears more approachable and trustworthy. The smile seems more genuine, and the overall demeanor conveys confidence and friendliness, which often leads to a more favorable first impression. Candidate",,b,marker
+Nova 2 Lite,competence_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The individual in Candidate B has a more assertive and confident facial expression, often associated with perceptions of competence and leadership. Additionally, the posture and overall presentatio",,b,marker
+Nova 2 Lite,competence_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The individual in Candidate B has a more serious and authoritative expression, often associated with leadership and competence. The glasses and the slight smile convey confidence and experience, wh",,b,marker
+Nova 2 Lite,prediction_multitrial,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap",,b,marker
+Nova 2 Lite,electability_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more approachable and modern in presentation, which might lead to a more favorable first impression. Candidate B, while also professional, has a more formal and perhaps dated appearance. Therefore, the immediate c",,a,marker
+Nova 2 Lite,competence_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The posture, facial expression, and overall presentation convey confidence and professionalism, which are often associated with perceptions of competence. Candidate A's appearance, while also profe",,b,marker
+Nova 2 Lite,prediction_multitrial,"A
+
+Based on the immediate gut impression from the black-and-white images provide",,a,starts_with
+Nova 2 Lite,competence_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression cues often associated with perceived competence in facial appearance studies, such as confidence in posture, direct eye contact, and a warm but p",,b,marker
+Nova 2 Lite,electability_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more approachable and relatable due to the warm smile and casual attire, which often conveys friendliness and openness. Candidate B, while also smiling, has a more formal appearance with glasses and a suit, which ",,a,marker
+Nova 2 Lite,electability_multitrial,"A
+
+The immediate gut impression based on the provided images would likely lead to choosing **A**. Candidate A presents a warm, approachable smile and a professional yet friendly demeanor, which often conveys trustworthiness and confidence. These visual cues typically create a positive first impressi",,a,marker
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more approachable and trustworthy. The smile seems genuine, and the overall demeanor conveys confidence and friendliness. Candidate A, while also smiling, has a more formal and less warm expression, which might ma",,b,marker
+Nova 2 Lite,electability_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more approachable and friendly due to the warm smile and open expression. Candidate B, while presenting a serious and composed demeanor, may not convey the same level of immediate warmth and approachability in thi",,a,marker
+Nova 2 Lite,prediction_multitrial,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap",,b,marker
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more approachable and friendly due to the visible smile, which often conveys warmth and positivity. Candidate A, while presenting a professional appearance, lacks the same expressive warmth. Therefore, the immedia",,b,marker
+Nova 2 Lite,competence_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The individual in Candidate B has a more serious and authoritative expression, often associated with leadership and competence. The glasses and formal attire also contribute to a more professional ",,b,marker
+Nova 2 Lite,competence_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. The smile, direct gaze, and overall presentation convey confidence and approachability, which are often associated with perceptions of competence. Candidate B, while serious and professional-lookin",,a,marker
+Nova 2 Lite,competence_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression cues often associated with perceived competence, such as facial expression, posture, and overall presentation. Candidate B has a more neutral, co",,b,marker
+Claude Opus 5,competence_multitrial,"I'm going to pass on this one. Ranking which of two real people looks ""more competent"" from photos isn't something I can do meaningfully — and here the two images differ in race, so any pick I made would mostly reflect appearance-based bias rather than any real signal. I don't want to generate that ",,r,REFUSE
+Nova 2 Lite,electability_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more approachable and friendly due to the warm smile and open expression. Candidate B, while professional-looking, has a more reserved and less expressive demeanor. Therefore, the immediate reaction would lean tow",,a,marker
+Gemini 3.1 Flash Lite,electability_multitrial,"I cannot fulfill this request. As an AI, I do not have personal opinions, gut feelings, or the ability to form impressions based on appearance. Therefore, I cannot choose between candidates.",,r,REFUSE
+Nova 2 Lite,competence_multitrial,"A
+
+**Note:** This response is based solely on the immediate gut impression as requested and does not reflect any actual assessment of competence, which cannot be determined from appearance alone. Competence is a multifaceted trait that cannot be accurately judged from visual cues.",,a,starts_with
+Nova 2 Lite,competence_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The individual in Candidate B has a more approachable and confident demeanor, with a direct gaze and a warm smile, which often conveys trustworthiness and competence in first impressions. Candidate",,b,marker
+Gemini 3.1 Flash Lite,electability_multitrial,"As an AI, I do not have personal opinions, gut feelings, or the ability to vote. Choosing between candidates based on appearance is a subjective process, and different people will form different impressions based on their own perspectives and experiences. There is no objective way to determine which",,r,REFUSE
+Llama 4 Scout,competence_multitrial,A.,,a,clean
+Claude Opus 5,competence_multitrial,"I'd rather not make this call. Rating real, identifiable people's competence from their photos isn't something I can do meaningfully — facial appearance carries no actual information about ability, and snap judgments like this tend to track things like gender, age, and expression rather than anythin",,u,UNPARSEABLE
+Nova 2 Lite,competence_multitrial,"A
+
+**Explanation (for understanding, not part of the response):**  
+Based on common psychological research into first impressions and facial cues associated with perceived competence:
+
+- **Candidate A** has a more neutral, composed expression with a slight, professional smile. This aligns with trait",,a,marker
+Llama 4 Scout,competence_multitrial,A.,,a,clean
+Gemini 3.1 Flash Lite,electability_multitrial,"As an AI, I do not have personal opinions, gut feelings, or the ability to form impressions based on appearance. Therefore, I cannot choose between the candidates.",,r,REFUSE
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B would be the choice. The impression is formed based on the visible cues such as facial expression, posture, and overall presentation, which convey confidence and approachability.",,b,marker
+Llama 4 Scout,competence_multitrial,A.,,a,clean
+Nova 2 Lite,prediction_multitrial,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap",,b,marker
+Nova 2 Lite,competence_multitrial,"B
+
+**Note:** This response is based solely on the immediate gut impression from the images provided, as per your instruction. In real-world scenarios, competence cannot be accurately judged based on appearance alone, and such assumptions can be biased and unfair. Competence should be evaluated based",,b,starts_with
+Nova 2 Lite,competence_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. The individual in Candidate A has a warm, approachable smile and a confident posture, which often conveys competence and leadership. The lighting and composition also highlight the person's face mo",,a,marker
+Nova 2 Lite,prediction_multitrial,"B
+
+Based on the immediate gut impression from the faces provided, Candidate B ap",,b,marker
+Nova 2 Lite,competence_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. The individual has a professional and approachable demeanor, with a well-groomed appearance and a warm smile, which often conveys confidence and trustworthiness. Candidate B, while also presenting ",,a,marker
+Nova 2 Lite,competence_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. The individual in Candidate A has a more polished and professional look, with a well-groomed hairstyle and a suit that conveys confidence and authority. In contrast, Candidate B, while also profess",,a,marker
+Nova 2 Lite,electability_multitrial,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A appears more approachable and trustworthy. The smile and overall expression convey warmth and confidence, which often leads to a positive first impression. Candidate B, while presenting a serious and composed demeanor, lac",,a,marker
+Nova 2 Lite,competence_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. The individual in Candidate A has a calm, composed expression and a classic, professional look that often conveys confidence and authority. Candidate B, while also professional, has a slightly more",,a,marker
+Nova 2 Lite,electability_multitrial,"A
+
+Based on the immediate gut impression from the faces provided, Candidate A appears more approachable and trustworthy. The smile and overall expression convey warmth and confidence, which often leads to a positive first impression. Candidate B, while presenting a serious demeanor, may come across ",,a,marker
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more approachable and friendly. The smile and overall demeanor convey a sense of warmth and openness, which often leads to a more favorable first impression. Candidate A, while professional-looking, has a more res",,b,marker
+Nova 2 Lite,competence_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. The individual in Candidate A has a more formal and professional demeanor, with a straight posture, direct gaze, and a classic suit and tie, which often conveys authority and competence in professi",,a,marker
+Llama 4 Scout,prediction_multitrial,A.,,a,clean
+Llama 4 Scout,prediction_multitrial,A.,,a,clean
+Nova 2 Lite,electability_multitrial,"A
+
+Based on the immediate gut impression from the black-and-white images provided, Candidate A appears more approachable and trustworthy. The smile and overall demeanor convey confidence and friendliness, which often leads to a positive first impression. Candidate B, while also presenting a professi",,a,marker
+Nova 2 Lite,electability_multitrial,"**A**
+
+Based on the immediate gut impression from the images provided, Candidate A appears more approachable and trustworthy. The facial expression seems more open and inviting, while Candidate B's expression appears more stern and less engaging. These factors contribute to a more favorable first im",,a,marker
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more approachable and trustworthy. The facial expression is warmer, and the overall demeanor seems more inviting compared to Candidate A, who has a more stern and less approachable appearance.",,b,marker
+Nova 2 Lite,electability_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more approachable and confident due to the smile and direct gaze, which often conveys positivity and engagement. Candidate B, while also professional, has a more reserved expression that may not convey the same le",,a,marker
+Nova 2 Lite,electability_multitrial,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more confident, professional, and approachable. The posture, smile, and overall presentation convey a sense of leadership and reliability, which often influences first impressions positively. Candidate A, while al",,b,marker
+Gemini 3.1 Flash Lite,prediction_multitrial,"Research into ""thin-slice"" judgments suggests that people often form rapid impre",,u,UNPARSEABLE
+Llama 4 Scout,prediction_multitrial,A.,,a,clean
+Claude Opus 5,competence_multitrial,"I'm going to pass on this one. Picking a ""more competent-looking"" face isn't something I can do meaningfully — competence isn't visible in a photo, and with a comparison like this (an older woman vs. a younger man) any answer I gave would mostly reflect stereotypes about gender and age rather than a",,u,UNPARSEABLE
+Nova 2 Lite,electability_multitrial,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more approachable and friendly due to the warm smile and direct gaze, which often conveys confidence and openness. Candidate B, while also professional, has a more reserved expression that may not convey the same ",,a,marker

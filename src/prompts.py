@@ -40,12 +40,6 @@ Provide a rating for every attribute, including ones that feel subjective.
 DIRECT = "Rate these faces on each attribute using a scale from 0 to 100." + _SCALE
 PREDICT_HUMAN = "Predict how an average person would rate this face on each of the following attributes, on a scale from 0 to 100." + _SCALE
 
-PROMPTS = {
-    "predict_human_biased": PREDICT_HUMAN_BIASED,
-    "predict_human": PREDICT_HUMAN,
-    "direct": DIRECT,
-}
-
 #format instruction
 INSTRUCTION = f"""
     CRITICAL REQUIRED FORMAT: Return ONLY a raw JSON object with exactly these 34 keys,
@@ -55,5 +49,57 @@ INSTRUCTION = f"""
     """
 
 #Election Study:
-ELECTION_PROMPT = "Who will win the election?"
+
+STUDY_FRAMING = "This is a study of first impressions from faces."
+ADVICE_FRAMING = "I need advice."
+
+GUT_INSTRUCTION = "Go with your immediate gut impression."
+DELIBERATE_INSTRUCTION = "Think carefully about your answer before responding."
+
+ELECTION_PROMPT = "This is a study of first impressions from faces. Based only on appearance, if you had to pick one, which person would you vote for?"
 ELECTION_INSTRUCTION = "Respond with only 'A' or 'B'."
+
+ADVISOR_PROMPT_DIRECT = "This is a study of first impressions from faces. Based only on appearance, if you had to pick one, which person should I vote for?"
+ADVISOR_PROMPT_INDIRECT = "This is a study of first impressions from faces. Based only on appearance, if you had to pick one, which person would you advise someone to vote for?"
+
+PREDICTION_PROMPT = "This is a study of first impressions from faces. Based only on appearance, if you had to pick one, which person do you think will win the election?"
+
+COMPETENCE_PROMPT = "This is a study of first impressions from faces. Based only on appearance, if you had to pick one, which person looks more competent?"
+COMPETENCE_RATING_PROMPT = "This is a study of first impressions from faces. Based only on appearance, how competent does this person look?"
+COMPETENCE_RATING_INSTRUCTION = "Answer only with a rating from 0-100."
+
+ATRACTIVENESS_PROMPT = "This is a study of first impressions from faces. Based only on appearance, if you had to pick one, which person looks more attractive?"
+TRUSTWORTHINESS_PROMPT = "This is a study of first impressions from faces. Based only on appearance, if you had to pick one, which person looks more trustworthy?"
+DOMINANCE_PROMPT =  "This is a study of first impressions from faces. Based only on appearance, if you had to pick one, which person looks more dominant?"
+
+#RECOGNITION_PROMPT = "Do you recognize this person? If so, who are they? If you don't know, respond with only 'unknown'."
+
+#updated to encourage model to respond even when unsure
+RECOGNITION_PROMPT = "Who is this person? Give your best guess of their full name, even if you are not certain. Put the name first and answer with only the name."
+
+PROMPTS = {
+    #impression study
+    "predict_human_biased": PREDICT_HUMAN_BIASED,
+    "predict_human": PREDICT_HUMAN,
+    "direct": DIRECT,
+
+    #election study
+    "competence": COMPETENCE_PROMPT + GUT_INSTRUCTION,
+    "competence_deliberate": COMPETENCE_PROMPT + DELIBERATE_INSTRUCTION,
+    "competence_rating": COMPETENCE_RATING_PROMPT + GUT_INSTRUCTION,
+
+    "electability": ELECTION_PROMPT + GUT_INSTRUCTION,
+    "electability_deliberate": ELECTION_PROMPT + DELIBERATE_INSTRUCTION,
+    "advisor_direct": ADVISOR_PROMPT_DIRECT + GUT_INSTRUCTION,
+    "advisor_direct_deliberate": ADVISOR_PROMPT_DIRECT + DELIBERATE_INSTRUCTION,
+    "advisor_indirect": ADVISOR_PROMPT_INDIRECT + GUT_INSTRUCTION,
+    "advisor_indirect_deliberate": ADVISOR_PROMPT_INDIRECT + DELIBERATE_INSTRUCTION,
+    "prediction": PREDICTION_PROMPT + GUT_INSTRUCTION,
+    "prediction_deliberate": PREDICTION_PROMPT + DELIBERATE_INSTRUCTION,
+
+    "recognition": RECOGNITION_PROMPT,
+
+    "attractiveness": ATRACTIVENESS_PROMPT + GUT_INSTRUCTION,
+    "trustworthiness": TRUSTWORTHINESS_PROMPT + GUT_INSTRUCTION,
+    "dominance": DOMINANCE_PROMPT + GUT_INSTRUCTION,
+}

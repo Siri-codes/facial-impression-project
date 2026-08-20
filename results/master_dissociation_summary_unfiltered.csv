@@ -1,0 +1,4 @@
+decision_prompt,n_models,competence_higher_in,mean_advantage,sign_test_p
+electability,15,15,0.045,0.0000
+advisor_direct,15,14,0.052,0.0005
+prediction,15,7,0.001,0.6964

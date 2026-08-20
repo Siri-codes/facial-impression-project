@@ -1,0 +1,11 @@
+model,accuracy_all,n_all,accuracy_open,n_open,contamination_rate
+xai_grok-4.5,0.656,215,0.672,61,0.042
+google_gemini-3.1-flash-lite,0.645,203,0.667,57,0.188
+xai_grok-4.3,0.676,176,0.652,46,0.0
+anthropic_claude-sonnet-5-none,0.677,167,0.636,44,0.0
+anthropic_claude-sonnet-4,,0,,0,0.0
+anthropic_claude-opus-5,0.66,206,0.614,57,0.0
+mistralai_mistral-large-3,0.821,84,0.75,24,0.0
+google_gemini-3.5-flash,,0,,0,0.271
+openai_gpt-5.4-mini,0.69,197,0.537,54,0.0
+mistralai_ministral-3-3b,0.651,166,0.723,47,0.042

@@ -1,0 +1,9 @@
+model,competence_acc,competence_n,competence_posbias,electability_acc,electability_n,electability_posbias,diff_comp_minus_elect
+Grok 4.5,0.656,215,0.176,0.644,216,0.172,0.012
+Grok 4.3,0.676,176,0.326,0.595,158,0.395,0.081
+Claude Opus 5,0.66,206,0.13,0.572,229,0.123,0.088
+GPT-5.4 Mini,0.69,197,0.245,0.653,173,0.337,0.037
+Ministral 3 3B,0.651,166,0.364,0.552,212,0.188,0.099
+Qwen3 VL 32B Instruct,0.685,181,0.119,0.573,232,0.111,0.112
+Gemini 2.5 Flash-Lite,0.635,230,0.119,0.614,223,0.142,0.021
+Qwen3 VL 8B Instruct,0.724,217,0.169,0.624,221,0.153,0.1

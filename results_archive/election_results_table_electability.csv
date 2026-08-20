@@ -1,0 +1,16 @@
+model,clean_n,total,accuracy,p_value,hits,position_bias,position_bias_rate,refusals
+xai_grok-4.5,216,261,0.644,1.5e-05,139,45,0.172,0
+google_gemini-3.1-flash-lite,83,261,0.675,9.7e-04,56,143,0.548,35
+xai_grok-4.3,158,261,0.595,1.0e-02,94,103,0.395,0
+anthropic_claude-sonnet-5-none,113,261,0.549,1.7e-01,62,148,0.567,0
+anthropic_claude-sonnet-4,0,261,,,0,0,0.0,261
+anthropic_claude-opus-5,229,261,0.572,1.7e-02,131,32,0.123,0
+mistralai_mistral-large-3,69,261,0.667,3.8e-03,46,192,0.736,0
+google_gemini-3.5-flash,100,261,0.74,8.3e-07,74,129,0.494,5
+openai_gpt-5.4-mini,173,261,0.653,3.4e-05,113,88,0.337,0
+mistralai_ministral-3-3b,212,261,0.552,7.5e-02,117,49,0.188,0
+qwen_qwen3-vl-32b-instruct,232,261,0.573,1.5e-02,133,29,0.111,0
+google_gemma-4-26b-a4b,45,261,0.711,3.3e-03,32,57,0.218,22
+google_gemini-2.5-flash-lite,135,261,0.652,2.6e-04,88,27,0.103,1
+qwen_qwen3-vl-8b-instruct,221,261,0.624,1.3e-04,138,40,0.153,0
+anthropic_claude-3-haiku,0,261,,,0,261,1.0,0

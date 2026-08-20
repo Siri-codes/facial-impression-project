@@ -1,7 +1,7 @@
 # analyze.py
 from pathlib import Path
 import pandas as pd
-from config import MODELS, MODEL_DIR, ATTRIBUTES, HUMAN_MEANS, RESULTS, REP_SUBSET_SIZE, SUBSAMPLE_SEED, MMMU_PRO
+from config import MODELS, MODEL_DIR, ATTRIBUTES, HUMAN_MEANS, RESULTS, REP_SUBSET_SIZE, SUBSAMPLE_SEED, MMMU_PRO, HLE
 from data_io import load_ratings, load_human_means, load_human_raw, common_stimuli
 from rdm import build_rdm, compare_rdms
 from pca import fit_pca, match_components
@@ -231,7 +231,7 @@ def capability_plots(suffix="pilot", hle=False):
     rsa['mmmu'] = rsa['model'].map(MMMU_PRO)
     rsa['hle'] = rsa['model'].map(HLE)
     plot_capability_scatter(rsa, 'spearman', 'RSA (Spearman ρ)',
-                            'Structural alignment vs capability', hle)
+                            'Structural alignment vs capability', hle=hle)
     
     pca = pd.read_csv(RESULTS / f'main_pca_comparison_{suffix}.csv')
 
@@ -240,21 +240,21 @@ def capability_plots(suffix="pilot", hle=False):
     val['mmmu'] = val['model'].map(MMMU_PRO)
     val['hle'] = val['model'].map(HLE)
     plot_capability_scatter(val, 'abs_r', 'Valence-Dominance-axis fidelity (|r|)',
-                            'Valence-Dominance-axis vs capability', hle)
+                            'Valence-Dominance-axis vs capability', hle=hle)
 
     # Race-axis 
     race = pca[pca['human_pc'] == 2].copy()      # race axis = human PC2
     race['mmmu'] = race['model'].map(MMMU_PRO)
     race['hle'] = race['model'].map(HLE)
     plot_capability_scatter(race, 'abs_r', 'Race-axis fidelity (|r|)',
-                            'Race-axis vs capability', hle)
+                            'Race-axis vs capability', hle=hle)
     
     # Competence axis (PC3)
     pc3 = pca[pca['human_pc'] == 3].copy()
     pc3['mmmu'] = pc3['model'].map(MMMU_PRO)
     pc3['hle'] = pc3['model'].map(HLE)
     plot_capability_scatter(pc3, 'abs_r', 'Competence-axis fidelity (|r|)',
-                            'Competence-axis vs capability', hle)
+                            'Competence-axis vs capability', hle=hle)
    
 
 def capability_correlations(suffix="main", hle=False):
@@ -268,7 +268,9 @@ def capability_correlations(suffix="main", hle=False):
 
     for name, pc in [("valence-dominance", 1), ("race", 2), ("competence", 3)]: #for each PC
         d = pca[pca['human_pc'] == pc].copy() #filtering for current axis
-        d[x_metric] = d['model'].map(MMMU_PRO) #set mmmu score based on dict in config
+        
+        d[x_metric] = d['model'].map(HLE if hle else MMMU_PRO) #set score based on dict in config
+        
         d = d.dropna(subset=[x_metric, 'abs_r']) #drop rows with missing values
         r, p = spearmanr(d[x_metric], d['abs_r']) #calculate spearman correlation between capability and fidelity accross models
         print(f"{name} (PC{pc}): r={r:.3f}, p={p:.3f} (n={len(d)})")

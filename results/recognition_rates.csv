@@ -1,0 +1,16 @@
+model,n_faces,correct,per_face_rate,n_races,races_with_recognized,per_race_exposure
+Kimi K2.5,531,182,0.343,268,165,0.616
+Gemini 2.5 Flash-Lite,531,51,0.096,268,50,0.187
+Grok 4.5,531,37,0.07,268,36,0.134
+Grok 4.3,531,30,0.056,268,30,0.112
+GLM 4.5V,531,25,0.047,268,25,0.093
+Claude Sonnet 5,531,23,0.043,268,23,0.086
+Qwen3 VL 32B Instruct,531,14,0.026,268,14,0.052
+GPT-5.4 Mini,531,11,0.021,268,11,0.041
+Ministral 3 3B,531,6,0.011,268,6,0.022
+Mistral Large 3,531,4,0.008,268,4,0.015
+Nova 2 Lite,531,3,0.006,268,3,0.011
+Qwen3 VL 8B Instruct,531,3,0.006,268,3,0.011
+Gemini 3.1 Flash Lite,531,1,0.002,268,1,0.004
+Llama 4 Scout,531,1,0.002,268,1,0.004
+Claude Opus 5,531,0,0.0,268,0,0.0
