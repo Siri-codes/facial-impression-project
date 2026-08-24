@@ -1,6 +1,6 @@
 model,total_races,stable_face,position_bias,noise,insufficient,pct_stable
 Grok 4.5,261,227,26,8,0,0.87
-Gemini 3.1 Flash Lite,261,177,73,10,1,0.678
+Gemini 3.1 Flash-Lite,261,177,73,10,1,0.678
 Grok 4.3,261,175,84,2,0,0.67
 Claude Sonnet 5,261,182,77,2,0,0.697
 Claude Opus 5,261,232,27,2,0,0.889

@@ -2,7 +2,7 @@ model,spearman
 Claude Opus 5,0.799
 Gemini 3.5 Flash,0.796
 Grok 4.5,0.831
-Gemini 3.1 Flash Lite,0.738
+Gemini 3.1 Flash-Lite,0.738
 Grok 4.3,0.782
 Claude Sonnet 5,0.776
 Gemma 4 26B A4B,0.627

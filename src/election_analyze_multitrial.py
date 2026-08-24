@@ -19,9 +19,10 @@ import pandas as pd
 import numpy as np
 from scipy.stats import binomtest, mannwhitneyu, norm
 
-from config import ELECTION_MODELS, ELECTION_RESULTS_PATH
+from config import ELECTION_MODELS, ELECTION_RESULTS_PATH, RESULTS, FIGURES
 from election_collect import clean_election_df, get_filepath
 from analyze import _save
+import matplotlib.pyplot as plt
 
 import re
 
@@ -42,6 +43,14 @@ def wilson_ci(k, n, alpha=0.05):
 # Ground truth: which face won each race, and the winning margin.
 # Keyed on Election ID, which must match the collected 'election_id'.
 # ======================================================================
+
+# Documented winner corrections: label/vote-share conflicts verified against
+# official election results (see below). Raw data left unmodified.
+WINNER_CORRECTIONS = {
+    111.0: 'b',   # S2002RI: label marked 0.22 candidate winner; official result: 0.78 candidate (Reed) won
+    #201.0: 'a',   # G2002MD: verified official winner is Ehrlich, issue is in voteshare, not winner label so doesn't need correcting
+}
+
 def _race_truth():
     """Return {election_id: {'winner': 'a'|'b', 'margin': float}}.
     'a' is the first candidate (race.iloc[0]); margin is |vote share difference|."""
@@ -50,9 +59,12 @@ def _race_truth():
     for eid, g in elec.groupby('Election ID'):
         if len(g) != 2:
             continue
-        first_won = g.iloc[0]['Winner/Loser'] == 'Winner'
+        if eid in WINNER_CORRECTIONS:
+            winner = WINNER_CORRECTIONS[eid]                       # use the correction
+        else:
+            winner = 'a' if g.iloc[0]['Winner/Loser'] == 'Winner' else 'b'  # else use label
         margin = abs(g.iloc[0]['Vote Share'] - g.iloc[1]['Vote Share'])
-        truth[eid] = {'winner': 'a' if first_won else 'b', 'margin': margin}
+        truth[eid] = {'winner': winner, 'margin': margin}
     return truth
 
 
@@ -180,7 +192,7 @@ def classification_breakdown(prompt_label, stable_threshold=0.75, save=True):
 
 
 # ======================================================================
-# Accuracy, reported BOTH ways:
+# Accuracy, reported both ways:
 #   filtered   - stable-preference races only, scored 0/1 (content of a
 #                committed preference); comes with a Wilson CI and a sign test
 #                against chance.
@@ -189,8 +201,9 @@ def classification_breakdown(prompt_label, stable_threshold=0.75, save=True):
 #                noisy races contribute a graded value). Nothing is discarded.
 # The gap between the two reflects how much a model's inconsistency costs it.
 # ======================================================================
-def accuracy_both_ways(prompt_label, stable_threshold=0.75, save=True):
+def accuracy_both_ways(prompt_label, stable_threshold=0.75, save=True, n_boot=10000, boot_seed=0):
     truth = _race_truth()
+    rng = np.random.default_rng(boot_seed)   # fixed seed -> reproducible CIs
     rows = []
     for model, folder in ELECTION_MODELS.items():
         path = get_filepath(model_folder=folder, prompt_label=prompt_label)
@@ -222,7 +235,15 @@ def accuracy_both_ways(prompt_label, stable_threshold=0.75, save=True):
             filt_p = binomtest(filt_correct, filt_n, 0.5).pvalue
         else:
             lo = hi = filt_p = None
-        unfilt_acc = float(np.mean(unfilt_scores)) if unfilt_scores else None
+        
+        # unfiltered accuracy + bootstrap CI over races
+        if unfilt_scores:
+            arr = np.asarray(unfilt_scores, dtype=float)
+            unfilt_acc = float(arr.mean())
+            boot_means = rng.choice(arr, size=(n_boot, arr.size), replace=True).mean(axis=1)
+            unfilt_lo, unfilt_hi = np.percentile(boot_means, [2.5, 97.5])
+        else:
+            unfilt_acc = unfilt_lo = unfilt_hi = None
 
         rows.append({
             'model': model,
@@ -232,6 +253,8 @@ def accuracy_both_ways(prompt_label, stable_threshold=0.75, save=True):
             'filtered_n': filt_n,
             'filtered_p': f"{filt_p:.1e}" if filt_p is not None else None,
             'unfiltered_acc': round(unfilt_acc, 3) if unfilt_acc is not None else None,
+            'unfiltered_ci_low': round(unfilt_lo, 3) if unfilt_lo is not None else None,
+            'unfiltered_ci_high': round(unfilt_hi, 3) if unfilt_hi is not None else None,
             'unfiltered_n': len(unfilt_scores),
         })
     table = pd.DataFrame(rows)
@@ -241,8 +264,8 @@ def accuracy_both_ways(prompt_label, stable_threshold=0.75, save=True):
 
 
 # ======================================================================
-# Impression vs. decision, the paper's headline. Compares a competence
-# label against a decision label (vote / advise / predict) on the SAME
+# Impression vs. decision. Compares a competence
+# label against a decision label (vote / advise / predict) on the same
 # races, so the contrast is paired. Reports both filtered and unfiltered.
 # ======================================================================
 def compare_prompts(comp_label, decision_label, stable_threshold=0.75, save=True):
@@ -268,7 +291,7 @@ def compare_prompts(comp_label, decision_label, stable_threshold=0.75, save=True
         dec = per_model_unfiltered(folder, decision_label)
         if not comp or not dec:
             continue
-        shared = set(comp) & set(dec)           # SAME races, for a paired contrast
+        shared = set(comp) & set(dec)           # same races, for a paired contrast
         if not shared:
             continue
         comp_acc = np.mean([comp[e] for e in shared])
@@ -285,7 +308,12 @@ def compare_prompts(comp_label, decision_label, stable_threshold=0.75, save=True
     if len(table):
         n = len(table)
         higher = int((table['comp_minus_decision'] > 0).sum())
-        p = binomtest(higher, n, 0.5, alternative='greater').pvalue
+
+        # OLD (one-sided):
+        # p = binomtest(higher, n, 0.5, alternative='greater').pvalue
+        # NEW (two-sided):
+        p = binomtest(higher, n, 0.5, alternative='two-sided').pvalue
+        
         print(f"competence > decision in {higher}/{n} models "
               f"(sign test p = {p:.4f})")
         print(f"mean(competence - decision) = "
@@ -566,8 +594,8 @@ def dissociation_on_unrecognized(label_a, label_b,
  
  
 # ======================================================================
-# Recognition RATE (paper-ready). Reports only the contamination-relevant
-# number: the fraction of faces where the model named the ACTUAL candidate
+# Recognition RATE. Reports only the contamination-relevant number:
+# the fraction of faces where the model named the ACTUAL candidate
 # (surname match). The contamination argument rests on this being low —
 # the models rarely identify the real candidate, so they cannot be recalling
 # outcomes. Guards against a silent surname-lookup failure that would make
@@ -758,3 +786,128 @@ def age_confound_check(prompt_label='competence_multitrial'):
         return pct
     print("  no races with usable age data")
     return None
+
+"""
+Trait-specificity check: is the election signal specific to COMPETENCE, or would
+any facial-attribute judgment predict as well? Compares competence against
+attractiveness, trustworthiness, dominance, and apparent age, reusing the existing
+compare_prompts() (paired, same-races sign test) and accuracy_both_ways().
+
+Produces:
+  - a summary table (per-trait accuracy + paired comparison vs competence)
+  - a simple bar/point figure of each trait's mean accuracy vs. chance and vs.
+    competence
+
+If a trait wasn't collected (e.g. apparent age), it is skipped with a note, so the
+script runs on whatever data is available.
+"""
+
+COMPETENCE = "competence_multitrial"
+# adjust these labels to your actual collected filenames
+TRAITS = [
+    ("attractiveness_multitrial",  "Attractiveness"),
+    ("trustworthiness_multitrial", "Trustworthiness"),
+    ("dominance_multitrial",       "Dominance"),
+    ("age_multitrial",    "Apparent age"),   # skipped if not collected
+    ("familiar_multitrial", "Familiarity"),
+    ("smart_multitrial", "Smartness")
+]
+ACC_COL = "unfiltered_acc"
+CHANCE = 0.50
+
+
+def build_trait_table(save=True):
+    """One row per trait: its mean accuracy, competence's mean accuracy, the paired
+    comparison (N models where competence higher, mean advantage, sign-test p)."""
+    # competence's own accuracy (reference)
+    comp_acc = accuracy_both_ways(COMPETENCE, save=False)
+    comp_mean = comp_acc[ACC_COL].mean()
+
+    rows = []
+    for label, name in TRAITS:
+        try:
+            trait_acc = accuracy_both_ways(label, save=False)
+        except Exception:
+            print(f"  {name}: no data for '{label}', skipping")
+            continue
+        trait_mean = trait_acc[ACC_COL].mean()
+
+        # paired comparison on shared races (competence vs this trait)
+        cmp = compare_prompts(COMPETENCE, label, save=False)
+        if cmp is None or len(cmp) == 0:
+            higher = n = None; p = None; adv = None
+        else:
+            n = len(cmp)
+            higher = int((cmp["comp_minus_decision"] > 0).sum())
+            adv = cmp["comp_minus_decision"].mean()
+            from scipy.stats import binomtest
+            # OLD (one-sided):
+            # p = binomtest(higher, n, 0.5, alternative='greater').pvalue
+            # NEW (two-sided):
+            p = binomtest(higher, n, 0.5, alternative='two-sided').pvalue
+
+        rows.append({
+            "trait": name,
+            "trait_acc": round(trait_mean, 3),
+            "competence_acc": round(comp_mean, 3),
+            "competence_higher_in": f"{higher}/{n}" if n else "-",
+            "mean_advantage_pts": round(adv * 100, 1) if adv is not None else None,
+            "sign_test_p": round(p, 4) if p is not None else None,
+        })
+
+    table = pd.DataFrame(rows)
+    print("\n=== Trait specificity: competence vs. other attributes ===")
+    print(table.to_string(index=False))
+    print(f"\n(competence mean accuracy = {comp_mean:.3f}; chance = 0.50)")
+    if save:
+        table.to_csv(RESULTS / "trait_specificity.csv", index=False)
+    return table, comp_mean
+
+
+def trait_plt(table, comp_mean, out=FIGURES / "figure_trait_specificity.png"):
+    # palette shared with other figures
+    COMP_COLOR = "#2b6cb0"      # same blue as Fig 3 mean
+    OTHER_COLOR = "#b0b7c0"     # same gray as Fig 3 per-model lines
+    CHANCE_COLOR = "#8a94a0"    # muted gray for chance (match Fig 3)
+
+    names = list(table["trait"]) + ["Competence"]
+    accs = list(table["trait_acc"]) + [round(comp_mean, 3)]
+    is_comp = [False] * len(table) + [True]
+
+    order = np.argsort(accs)
+    names = [names[i].capitalize() for i in order]
+    accs = [accs[i] for i in order]
+    colors = [COMP_COLOR if is_comp[i] else OTHER_COLOR for i in order]
+
+    fig, ax = plt.subplots(figsize=(6.0, 3.4))
+    y = np.arange(len(names))
+    ax.barh(y, accs, color=colors, height=0.62, zorder=3)
+
+    # chance reference line (dotted, muted — consistent with Fig 3)
+    ax.axvline(CHANCE, color=CHANCE_COLOR, ls=":", lw=1.2, zorder=2)
+    ax.text(CHANCE, len(names) - 0.35, "chance", color=CHANCE_COLOR,
+            fontsize=8, va="top", ha="left")
+
+    ax.set_yticks(y)
+    ax.set_yticklabels(names, fontsize=9)
+    ax.set_xlim(0.45, max(0.68, max(accs) + 0.04))
+    ax.set_xlabel("Mean election-prediction accuracy", fontsize=9)
+    ax.tick_params(axis="x", labelsize=8)
+
+    # value labels at bar ends
+    for yi, a in zip(y, accs):
+        ax.text(a + 0.004, yi, f"{a:.2f}", va="center", fontsize=8, color="#333")
+
+    for s in ["top", "right", "left"]:
+        ax.spines[s].set_visible(False)
+    ax.tick_params(axis="y", length=0)   # no y-tick marks, cleaner
+
+    fig.tight_layout()
+    fig.savefig(out, dpi=200, bbox_inches="tight")
+    print(f"wrote {out}")
+    return out
+
+def trait_comparison():
+    table, comp_mean = build_trait_table(save=True)
+    if len(table):
+        trait_plt(table, comp_mean)

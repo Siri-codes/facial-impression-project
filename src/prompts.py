@@ -63,6 +63,7 @@ ADVISOR_PROMPT_DIRECT = "This is a study of first impressions from faces. Based 
 ADVISOR_PROMPT_INDIRECT = "This is a study of first impressions from faces. Based only on appearance, if you had to pick one, which person would you advise someone to vote for?"
 
 PREDICTION_PROMPT = "This is a study of first impressions from faces. Based only on appearance, if you had to pick one, which person do you think will win the election?"
+OBJECTIVE_PROMPT = "This is a study of first impressions from faces. Based only on appearance, if you had to pick one, which person would ?"
 
 COMPETENCE_PROMPT = "This is a study of first impressions from faces. Based only on appearance, if you had to pick one, which person looks more competent?"
 COMPETENCE_RATING_PROMPT = "This is a study of first impressions from faces. Based only on appearance, how competent does this person look?"
@@ -71,6 +72,9 @@ COMPETENCE_RATING_INSTRUCTION = "Answer only with a rating from 0-100."
 ATRACTIVENESS_PROMPT = "This is a study of first impressions from faces. Based only on appearance, if you had to pick one, which person looks more attractive?"
 TRUSTWORTHINESS_PROMPT = "This is a study of first impressions from faces. Based only on appearance, if you had to pick one, which person looks more trustworthy?"
 DOMINANCE_PROMPT =  "This is a study of first impressions from faces. Based only on appearance, if you had to pick one, which person looks more dominant?"
+AGE_PROMPT =  "This is a study of first impressions from faces. Based only on appearance, if you had to pick one, which person looks older?"
+FAMILIAR_PROMPT = "This is a study of first impressions from faces. Based only on appearance, if you had to pick one, which person looks more familiar?"
+SMART_PROMPT =  "This is a study of first impressions from faces. Based only on appearance, if you had to pick one, which person looks more smart?"
 
 #RECOGNITION_PROMPT = "Do you recognize this person? If so, who are they? If you don't know, respond with only 'unknown'."
 
@@ -102,4 +106,7 @@ PROMPTS = {
     "attractiveness": ATRACTIVENESS_PROMPT + GUT_INSTRUCTION,
     "trustworthiness": TRUSTWORTHINESS_PROMPT + GUT_INSTRUCTION,
     "dominance": DOMINANCE_PROMPT + GUT_INSTRUCTION,
+    "age": AGE_PROMPT + GUT_INSTRUCTION,
+    "familiar": FAMILIAR_PROMPT + GUT_INSTRUCTION,
+    "smart": SMART_PROMPT + GUT_INSTRUCTION,
 }

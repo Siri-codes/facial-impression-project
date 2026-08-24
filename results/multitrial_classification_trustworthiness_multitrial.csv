@@ -1,0 +1,16 @@
+model,total_races,stable_face,position_bias,noise,insufficient,pct_stable
+Grok 4.5,261,218,31,12,0,0.835
+Gemini 3.1 Flash Lite,261,164,91,5,1,0.628
+Grok 4.3,261,158,100,3,0,0.605
+Claude Sonnet 5,261,113,148,0,0,0.433
+Claude Opus 5,261,222,37,2,0,0.851
+Mistral Large 3,261,73,188,0,0,0.28
+GPT-5.4 Mini,261,181,38,42,0,0.693
+Ministral 3 3B,261,216,45,0,0,0.828
+Qwen3 VL 32B Instruct,261,210,51,0,0,0.805
+Gemini 2.5 Flash-Lite,261,213,48,0,0,0.816
+Qwen3 VL 8B Instruct,261,213,48,0,0,0.816
+Llama 4 Scout,261,186,72,3,0,0.713
+GLM 4.5V,261,175,86,0,0,0.67
+Kimi K2.5,261,174,62,25,0,0.667
+Nova 2 Lite,261,140,121,0,0,0.536

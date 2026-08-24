@@ -12,11 +12,13 @@ import matplotlib
 matplotlib.use("Agg")           # file output, no display needed
 import matplotlib.pyplot as plt
 import pandas as pd
+import numpy as np
 from pathlib import Path
- 
+from scipy import stats
+
 from scipy.stats import binomtest
 
-from config import ELECTION_MODELS, RESULTS, FIGURES
+from config import ELECTION_MODELS, RESULTS, FIGURES, MMMU_PRO
 from analyze import _save
 
 # the prompts to include, in the order they should appear in the paper table.
@@ -176,9 +178,308 @@ def build_all(save=True):
     build_table1(save=save)
     print("\nDone. Paper-ready tables written (filtered and unfiltered).")
 
+"""
+Figure 1 — competence-impression accuracy predicts elections, per model.
+
+A caterpillar / forest plot: one row per model, sorted by filtered accuracy.
+  - filtered (consistent-preference) accuracy, shown WITH a Wilson 95% CI
+  - unfiltered (inclusive) accuracy, shown as a second marker (no CI; inclusive
+    scoring is an average of per-race probabilities, not a clean k/n)
+Reference lines:
+  - chance (0.50)
+  - human benchmark (0.688, Todorov et al. 2005)
+
+The story: every model sits above chance, clustered around the human rate — the
+effect is consistent across models, not driven by a few. Reads the per-prompt
+accuracy CSV that accuracy_both_ways() writes (multitrial_accuracy_both_<label>.csv),
+which carries filtered_ci_low/high.
+"""
+
+IMPRESSION_LABEL = "competence_multitrial"
+HUMAN_BENCHMARK = 0.688              # Todorov et al. 2005
+CHANCE = 0.50
+
+# presentation constants (local to this figure, not config)
+FILT_COLOR = "#2b6cb0"
+UNFILT_COLOR = "#9aa5b1"
+HUMAN_COLOR = "#2e8b57"
+
+
+def forest_plot(out=FIGURES / "forest_plot.png"):
+    path = RESULTS / f"multitrial_accuracy_both_{IMPRESSION_LABEL}.csv"
+    df = pd.read_csv(path)
+    need = {"model", "filtered_acc", "filtered_ci_low", "filtered_ci_high", "unfiltered_acc"}
+    missing = need - set(df.columns)
+    if missing:
+        raise SystemExit(f"{path.name} missing columns: {missing}")
+
+    # sort by filtered accuracy so the plot reads as a clean gradient
+    df = df.dropna(subset=["filtered_acc"]).sort_values("filtered_acc").reset_index(drop=True)
+    y = range(len(df))
+
+    # CHANGED: tighter per-row pitch (0.42 -> 0.30) and smaller base pad (1.2 -> 0.7)
+    # 15 models: was 7.5in tall, now ~5.2in. This is the single biggest space win.
+    fig, ax = plt.subplots(figsize=(6.0, 0.30 * len(df) + 0.7))
+
+    # reference lines
+    ax.axvline(CHANCE, color="#c0392b", lw=1, ls="--", zorder=1)
+    ax.axvline(HUMAN_BENCHMARK, color=HUMAN_COLOR, lw=1, ls="--", zorder=1)
+    
+    # CHANGED: place reference-line labels just ABOVE the top row, not overlapping it
+    ax.text(CHANCE - 0.005, len(df) - 0.3, "chance", color="#c0392b", fontsize=7.5,
+            ha="right", va="bottom")
+    ax.text(HUMAN_BENCHMARK + 0.005, len(df) - 0.3, "human (68.8%)", color=HUMAN_COLOR,
+            fontsize=7.5, ha="left", va="bottom")
+            
+    # filtered accuracy with Wilson CI (asymmetric error bars)
+    xerr_low = df["filtered_acc"] - df["filtered_ci_low"]
+    xerr_high = df["filtered_ci_high"] - df["filtered_acc"]
+    # CHANGED: slightly smaller markers/caps so rows can sit closer without crowding
+    ax.errorbar(df["filtered_acc"], y, xerr=[xerr_low, xerr_high],
+                fmt="o", color=FILT_COLOR, ecolor=FILT_COLOR, elinewidth=1.0,
+                capsize=2.5, markersize=5, zorder=3, label="Consistent-Preference accuracy (95% CI)")
+
+    # unfiltered accuracy as a second marker, no CI
+    ax.scatter(df["unfiltered_acc"], y, marker="s", s=32, color=UNFILT_COLOR,
+               zorder=2, label="Overall accuracy")
+
+    ax.set_yticks(list(y))
+    ax.set_yticklabels(df["model"], fontsize=8)
+    # ADDED: clamp y-limits so there isn't a half-row of padding above/below the data
+    ax.set_ylim(-0.6, len(df) + 0.3)
+
+    ax.set_xlabel("Competence-impression accuracy (predicting election winner)", fontsize=9)
+    ax.set_xlim(0.40, 0.85)
+    ax.tick_params(axis="x", labelsize=8)
+    #ax.set_title("Competence impressions predict election outcomes, per model",fontsize=10.5, pad=4)
+    ax.legend(fontsize=7, loc="upper center", bbox_to_anchor=(0.5, -0.12),
+              ncol=2, frameon=False)
+
+    for spine in ["top", "right"]:
+        ax.spines[spine].set_visible(False)
+
+    fig.tight_layout()
+    fig.savefig(out, dpi=200, bbox_inches="tight")
+    print(f"wrote {out}")
+
+    # quick sanity: how many models' CI lower bound is above chance?
+    above = int((df["filtered_ci_low"] > CHANCE).sum())
+    print(f"  {above}/{len(df)} models have a 95% CI entirely above chance")
+    print(f"  filtered median {df['filtered_acc'].median():.3f}, "
+          f"range {df['filtered_acc'].min():.3f}-{df['filtered_acc'].max():.3f}")
+    return out
 
 """
-Figure 1 — the dissociation, as a per-model scatter.
+Figure 2 — two panels sharing an x-axis (general capability / MMMU-Pro).
+
+  Panel A: competence-election accuracy vs. capability. HONEST NULL — shows the
+           scatter, a flat fit with a wide confidence band, and an annotated
+           "no significant trend" with r and p. This is deliberately not dressed
+           up: the point is that accuracy does NOT track capability.
+  Panel B: alignment with human facial-impression structure vs. capability.
+           Rises with capability (the trend that Panel A lacks).
+
+The contrast is in the slopes: B climbs, A does not. The two panels use different
+y-quantities (accuracy vs. RSA), so they are stacked with a shared x-axis rather
+than sharing a y-scale. Each panel uses its own full model set; the caption
+discloses the overlap.
+
+"""
+
+# presentation constants (local to this figure)
+A_COLOR = "#c1272d"     # election accuracy (the null panel)
+B_COLOR = "#2b6cb0"     # alignment (the rising panel)
+BAND_ALPHA = 0.15
+
+
+def _fit_with_band(ax, x, y, color):
+    """Scatter + linear fit line + 95% band (visual aids), but return the
+    SPEARMAN r and p as the reported statistic. The line/band are illustrative;
+    the reported correlation is rank-based (spearman), matching the monotonic-
+    trend claims and robust to small-n outliers."""
+    x = np.asarray(x, float); y = np.asarray(y, float)
+    ax.scatter(x, y, s=48, color=color, edgecolors="white", linewidths=0.5, zorder=3)
+
+    n = len(x)
+    # linear fit — ONLY for drawing the line and its band (visual aid)
+    slope, intercept, _r_pearson, _p_pearson, se = stats.linregress(x, y)
+    xs = np.linspace(x.min(), x.max(), 100)
+    ys = intercept + slope * xs
+    ax.plot(xs, ys, color=color, lw=1.4, ls="--", zorder=2)
+
+    tval = stats.t.ppf(0.975, n - 2)
+    x_mean = x.mean()
+    ss_x = np.sum((x - x_mean) ** 2)
+    resid = y - (intercept + slope * x)
+    s_err = np.sqrt(np.sum(resid ** 2) / (n - 2))
+    band = tval * s_err * np.sqrt(1.0 / n + (xs - x_mean) ** 2 / ss_x)
+    ax.fill_between(xs, ys - band, ys + band, color=color, alpha=BAND_ALPHA, zorder=1)
+
+    # REPORTED statistic: Spearman (rank-based, matches the monotonic-trend claim)
+    r_spearman, p_spearman = stats.spearmanr(x, y)
+    return r_spearman, p_spearman
+
+
+def capability_dissociation_plt(out= FIGURES / "capability_dissociation.png"):
+    
+    # --- Panel A data: competence-election accuracy per model ---
+    accA = pd.read_csv(RESULTS / "multitrial_accuracy_both_competence_multitrial.csv")
+    accA["cap"] = accA["model"].map(MMMU_PRO)
+    A = accA.dropna(subset=["cap", "unfiltered_acc"])          # use inclusive acc; swap if you prefer filtered
+
+    # --- Panel B data: per-model alignment (RSA) ---
+    # EXPECTED: a CSV with columns ['model', 'rsa'] (or similar). Adjust the name/col.
+    alignB = pd.read_csv(RESULTS / "rsa_scores_main.csv")   # <-- point at your real file
+    rsa_col = "rsa" if "rsa" in alignB.columns else alignB.columns[-1]
+    alignB["cap"] = alignB["model"].map(MMMU_PRO)
+    B = alignB.dropna(subset=["cap", rsa_col])
+
+    #fig, (axA, axB) = plt.subplots(2, 1, figsize=(5.6, 6.4), sharex=True)
+    # CHANGED: 1x2 (side by side) instead of 2x1; wide-and-short figsize;
+    #          no sharex (each panel autoscales to its own model set + gets its own x-label)
+    fig, (axA, axB) = plt.subplots(1, 2, figsize=(7.2, 3.4))
+
+
+    # Panel A — the honest null
+    rA, pA = _fit_with_band(axA, A["cap"], A["unfiltered_acc"], A_COLOR)
+    axA.axhline(0.5, color="#bbbbbb", lw=0.8, ls=":", zorder=0)
+    axA.set_ylabel("Election-prediction accuracy")
+    axA.set_title("A  Competence-based election prediction", loc="left", fontsize=10)
+    axA.text(0.03, 0.06, f"(ρ = {rA:.2f} n = {len(A)})",
+             transform=axA.transAxes, fontsize=8, color="#555555")
+    for s in ["top", "right"]:
+        axA.spines[s].set_visible(False)
+
+    # Panel B — alignment rises
+    rB, pB = _fit_with_band(axB, B["cap"], B[rsa_col], B_COLOR)
+    axB.set_ylabel("Alignment with human\nimpressions (RSA)")
+    axB.set_title("B  General facial-impression alignment", loc="left", fontsize=10)
+    #star = "***" if pB < 0.001 else "**" if pB < 0.01 else "*" if pB < 0.05 else "n.s."
+    axB.text(0.03, 0.90, f"(ρ = {rB:.2f}, n = {len(B)})",
+             transform=axB.transAxes, fontsize=8, color="#555555", va="top")
+    axB.set_xlabel("General capability (MMMU-Pro)")
+    for s in ["top", "right"]:
+        axB.spines[s].set_visible(False)
+
+    fig.tight_layout()
+    fig.savefig(out, dpi=200, bbox_inches="tight")
+    print(f"wrote {out}")
+    print(f"  Panel A: r={rA:.3f}, p={pA:.3f}, n={len(A)}")
+    print(f"  Panel B: r={rB:.3f}, p={pB:.3f}, n={len(B)}")
+    return out
+
+
+"""
+Figure 3 — election-prediction accuracy across the four prompt conditions.
+
+Each model contributes one faint line connecting its accuracy on the four prompts;
+a bold overlay shows the mean (with a 95% CI across models) per condition. The
+x-axis is ordered to group the two higher-predicting prompts (competence, forecast)
+and the two lower-predicting ones (vote, recommendation), so the pattern
+"competence ~ prediction > vote ~ recommendation" reads directly.
+
+Reads the per-prompt accuracy CSVs written by accuracy_both_ways()
+(multitrial_accuracy_both_<label>.csv), using inclusive (unfiltered) accuracy to
+match the conservative main-text scoring. Switch ACC_COL to 'filtered_acc' if the
+text leads with consistent-preference accuracy.
+"""
+
+ACC_COL = "unfiltered_acc"     # or 'filtered_acc'
+
+# order + display names for the four conditions (grouped: high, high, low, low)
+CONDITIONS = [
+    ("competence_multitrial",  "Competence\n(impression)"),
+    ("prediction_multitrial",  "Prediction\n(forecast)"),
+    ("electability_multitrial","Vote"),
+    ("advisor_direct_multitrial","Recommendation"),
+]
+
+LINE_COLOR = "#b0b7c0"     # faint per-model lines
+MEAN_COLOR = "#2b6cb0"     # bold summary
+
+
+def _load(label):
+    df = pd.read_csv(RESULTS / f"multitrial_accuracy_both_{label}.csv")
+    return df.set_index("model")[ACC_COL]
+
+
+def prompt_comparison_plt(out=FIGURES / "prompt_comparison.png"):
+    # build a model x condition accuracy matrix
+    series = {name: _load(label) for label, name in CONDITIONS}
+    mat = pd.DataFrame(series)                      # index = model, cols = conditions
+    mat = mat.dropna(how="any")                    # models with all four prompts
+    names = [name for _, name in CONDITIONS]
+    x = np.arange(len(names))
+
+    fig, ax = plt.subplots(figsize=(6.2, 5.0))
+
+    # faint per-model lines
+    for _, row in mat.iterrows():
+        ax.plot(x, row[names].values, color=LINE_COLOR, lw=0.8, alpha=0.6,
+                marker="o", markersize=3, zorder=2)
+
+    '''
+    Switched from t interval to bootstrap over models (below)
+    # bold mean +/- 95% CI across models
+    means = mat[names].mean()
+    sems = mat[names].sem()
+    ci = sems * stats.t.ppf(0.975, len(mat) - 1)
+    '''
+
+    rng = np.random.default_rng(0)   # fixed seed = reproducible
+    N_BOOT = 10000
+    means = mat[names].mean()
+    lower, upper = {}, {}
+    for name in names:
+        vals = mat[name].dropna().values          # the 15 per-model accuracies
+        boot_means = [rng.choice(vals, size=len(vals), replace=True).mean()
+                    for _ in range(N_BOOT)]
+        lower[name] = np.percentile(boot_means, 2.5)
+        upper[name] = np.percentile(boot_means, 97.5)
+
+    # asymmetric error bars for ax.errorbar: yerr = [[below], [above]]
+    yerr_low = [means[n] - lower[n] for n in names]
+    yerr_high = [upper[n] - means[n] for n in names]
+  
+    '''
+    ax.errorbar(x, means.values, yerr=ci.values, color=MEAN_COLOR, lw=2.2,
+                marker="o", markersize=7, capsize=4, zorder=4, label="Mean (95% CI)")
+    '''
+    ax.errorbar(x, means.values, yerr=[yerr_low, yerr_high],
+            color=MEAN_COLOR, lw=2.2, marker="o", markersize=7,
+            capsize=4, zorder=4, label="Mean (95% CI)")
+
+    ax.axhline(0.5, color="#cccccc", lw=0.8, ls=":", zorder=0)
+    ax.text(len(names) - 0.5, 0.505, "chance", color="#999999", fontsize=7.5,
+            ha="right", va="bottom")
+
+    # a light divider between the "high" pair and the "low" pair
+    ax.axvline(1.5, color="#e5e5e5", lw=1, zorder=0)
+
+    ax.set_xticks(x)
+    ax.set_xticklabels(names, fontsize=9)
+    ax.set_ylabel(f"Election-prediction accuracy ({ACC_COL.replace('_',' ')})", fontsize=9)
+    ax.set_title("Accuracy across prompt conditions, per model", fontsize=11, pad=8)
+    
+    # CHANGED: top tracks the highest actual data point (per-model lines + CI tops),
+    # not just the means, so there's no dead space above the tallest line.
+    data_top = max(mat[names].values.max(), max(upper.values()))
+    ax.set_ylim(0.48, data_top + 0.015)
+    
+    ax.legend(fontsize=8, loc="upper right", frameon=True, framealpha=0.9)
+    for s in ["top", "right"]:
+        ax.spines[s].set_visible(False)
+
+    fig.tight_layout()
+    fig.savefig(out, dpi=200, bbox_inches="tight")
+    print(f"wrote {out}  ({len(mat)} models with all four prompts)")
+    for name in names:
+        print(f"  {name.replace(chr(10),' '):28s} mean {means[name]:.3f}")
+    return out
+
+
+"""
+OLD: Figure 3 — the dissociation, as a per-model scatter.
  
 x-axis: competence-impression accuracy (per model)
 y-axis: decision-prompt accuracy (per model), one series per decision prompt
@@ -194,10 +495,8 @@ consolidate_results.build_all(). Defaults to unfiltered (the conservative,
 lead-with version), matching the main-text numbers.
 """
  
- 
-
+'''
 SCORING = "unfiltered"          # 'unfiltered' (lead) or 'filtered'
-OUT = FIGURES / "figure1_dissociation.png"
 
 # each decision prompt: (column, label, color, marker)
 DECISIONS_LABELS = [
@@ -206,7 +505,7 @@ DECISIONS_LABELS = [
     ("prediction_acc",     "Prediction (\u201cwho will win\u201d)",         "#2b6cb0", "^"),
 ]
 
-def election_main_figure(scoring=SCORING, out=OUT):
+def election_main_figure(scoring=SCORING, out= FIGURES / "figure1_dissociation.png"):
     path = RESULTS / f"master_accuracy_{scoring}.csv"
     df = pd.read_csv(path)
     if "competence_acc" not in df.columns:
@@ -259,4 +558,81 @@ def election_main_figure(scoring=SCORING, out=OUT):
         if col in df.columns:
             below = int((df["competence_acc"] > df[col]).sum())
             print(f"  {label}: impression higher in {below}/{len(df)} models")
+    return out
+'''
+
+def forest_plot_v2(out=FIGURES / "forest_plot_v2.png"):
+    path = RESULTS / f"multitrial_accuracy_both_{IMPRESSION_LABEL}.csv"
+    df = pd.read_csv(path)
+    need = {"model", "filtered_acc", "filtered_ci_low", "filtered_ci_high", "unfiltered_acc"}
+    missing = need - set(df.columns)
+    if missing:
+        raise SystemExit(f"{path.name} missing columns: {missing}")
+
+    # sort by filtered accuracy so the plot reads as a clean gradient
+    df = df.dropna(subset=["filtered_acc"]).sort_values("filtered_acc").reset_index(drop=True)
+    y = list(range(len(df)))
+    OFFSET = 0.16   # vertical separation between the two series
+
+    fig, ax = plt.subplots(figsize=(6.0, 0.30 * len(df) + 0.7))
+
+    # reference lines
+    ax.axvline(CHANCE, color="#c0392b", lw=1, ls="--", zorder=1)
+    ax.axvline(HUMAN_BENCHMARK, color=HUMAN_COLOR, lw=1, ls="--", zorder=1)
+
+    ax.text(CHANCE - 0.005, len(df) - 0.3, "chance", color="#c0392b", fontsize=7.5,
+            ha="right", va="bottom")
+    ax.text(HUMAN_BENCHMARK + 0.005, len(df) - 0.3, "human (68.8%)", color=HUMAN_COLOR,
+            fontsize=7.5, ha="left", va="bottom")
+
+
+    # filtered accuracy with Wilson CI — nudged UP
+    y_filt = [yi + OFFSET for yi in y]
+    xerr_low = df["filtered_acc"] - df["filtered_ci_low"]
+    xerr_high = df["filtered_ci_high"] - df["filtered_acc"]
+    ax.errorbar(df["filtered_acc"], y_filt, xerr=[xerr_low, xerr_high],
+                fmt="o", color=FILT_COLOR, ecolor=FILT_COLOR, elinewidth=1.0,
+                capsize=2.5, markersize=5, zorder=3,
+                label="Consistent-preference accuracy (95% Wilson CI)")
+
+    # unfiltered accuracy with bootstrap CI — nudged DOWN
+    y_unfilt = [yi - OFFSET for yi in y]
+    if {"unfiltered_ci_low", "unfiltered_ci_high"} <= set(df.columns) \
+            and df["unfiltered_ci_low"].notna().any():
+        u_low = df["unfiltered_acc"] - df["unfiltered_ci_low"]
+        u_high = df["unfiltered_ci_high"] - df["unfiltered_acc"]
+        ax.errorbar(df["unfiltered_acc"], y_unfilt, xerr=[u_low, u_high],
+                    fmt="s", color=UNFILT_COLOR, ecolor=UNFILT_COLOR, elinewidth=1.0,
+                    capsize=2.5, markersize=5, zorder=2,
+                    label="Overall accuracy (95% bootstrap CI)")
+    else:
+        ax.scatter(df["unfiltered_acc"], y_unfilt, marker="s", s=32,
+                   color=UNFILT_COLOR, zorder=2, label="Overall accuracy")
+
+    for i, yi in enumerate(y):
+        if i % 2 == 0:
+            ax.axhspan(yi - 0.5, yi + 0.5, color="#f5f5f5", zorder=0)
+
+    # y-ticks stay at the ORIGINAL integer positions (centered between the two series)
+    ax.set_yticks(y)
+    ax.set_yticklabels(df["model"], fontsize=8)
+    ax.set_ylim(-0.6, len(df) + 0.3)
+
+    ax.set_xlabel("Competence-impression accuracy (predicting election winner)", fontsize=9)
+    ax.set_xlim(0.40, 0.85)
+    ax.tick_params(axis="x", labelsize=8)
+    ax.legend(fontsize=7, loc="upper center", bbox_to_anchor=(0.5, -0.12),
+              ncol=2, frameon=False)
+
+    for spine in ["top", "right"]:
+        ax.spines[spine].set_visible(False)
+
+    fig.tight_layout()
+    fig.savefig(out, dpi=200, bbox_inches="tight")
+    print(f"wrote {out}")
+
+    above = int((df["filtered_ci_low"] > CHANCE).sum())
+    print(f"  {above}/{len(df)} models have a 95% CI entirely above chance")
+    print(f"  filtered median {df['filtered_acc'].median():.3f}, "
+          f"range {df['filtered_acc'].min():.3f}-{df['filtered_acc'].max():.3f}")
     return out

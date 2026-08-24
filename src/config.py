@@ -51,7 +51,7 @@ MODELS = {
     
     #High: (71–79%)
    #'Qwen3.6 Plus': 'qwen_qwen3.6-plus', # Strange error: flags certain images as "inappropriate content"
-    'Gemini 3.1 Flash Lite': 'google_gemini-3.1-flash-lite',
+    'Gemini 3.1 Flash-Lite': 'google_gemini-3.1-flash-lite',
    #'GPT-5.6 Luna': 'openai_gpt-5.6-luna', #
     'Grok 4.3': 'xai_grok-4.3', #
     'Claude Sonnet 5':       'anthropic_claude-sonnet-5-none',
@@ -151,7 +151,7 @@ MMMU_PRO = {
     "Gemini 3.5 Flash":       84,
     "Grok 4.5":               80,
     "Qwen3.6 Plus":           78,
-    "Gemini 3.1 Flash Lite":  76,
+    "Gemini 3.1 Flash-Lite":  76,
     "Grok 4.3":               73,
     "Claude Sonnet 5":        72,   
     "Gemma 4 26B A4B":        67,
@@ -165,8 +165,8 @@ MMMU_PRO = {
     "Ministral 3 3B":         38,
     "Claude 3 Haiku":         31,
 
-    'Qwen3 VL 235B A22B Instruct': 68,
-    'Mistral Small 4': 46,
+    #'Qwen3 VL 235B A22B Instruct': 68,
+    #'Mistral Small 4': 46,
     'Llama 4 Scout': 53,
     'GLM 4.5V': 43,
 
@@ -180,7 +180,7 @@ HLE = {
     "Gemini 3.5 Flash":       41.3,
     "Grok 4.5":               42.7,
     "Qwen3.6 Plus":           27.8,
-    "Gemini 3.1 Flash Lite":  17.2,
+    "Gemini 3.1 Flash-Lite":  17.2,
     "Grok 4.3":               18.4,
     "Claude Sonnet 5":        19.0,   
     "Gemma 4 26B A4B":        11.5,
@@ -199,7 +199,7 @@ HLE = {
 PROVIDER = {
     'Claude Opus 5': 'Anthropic', 'Claude Sonnet 5': 'Anthropic', 'Claude Sonnet 4': 'Anthropic', 'Claude 3 Haiku': 'Anthropic',
     'GPT-5.6 Sol': 'OpenAI', 'GPT-5.6 Luna': 'OpenAI', 'GPT-5.4 Mini': 'OpenAI', 'GPT-4o Mini': 'OpenAI', 
-    'Gemini 3.5 Flash': 'Google', 'Gemini 3.1 Flash Lite': 'Google', 'Gemini 2.5 Flash-Lite': 'Google', 'Gemma 4 26B A4B': 'Google',
+    'Gemini 3.5 Flash': 'Google', 'Gemini 3.1 Flash-Lite': 'Google', 'Gemini 2.5 Flash-Lite': 'Google', 'Gemma 4 26B A4B': 'Google',
     'Grok 4.5': 'xAI', 'Grok 4.3': 'xAI',
     'Qwen3.6 Plus': 'Qwen', 'Qwen3 VL 32B Instruct': 'Qwen', 'Qwen3 VL 8B Instruct': 'Qwen',
     'Mistral Large 3': 'Mistral', 'Ministral 3 3B': 'Mistral'
@@ -240,12 +240,12 @@ ELECTION_ATTRIBUTES = ['competent', 'intelligent', 'leader', 'honest', 'trustwor
 #highest performing matches on human "competence" axis
 ELECTION_MODELS = {
     'Grok 4.5': 'xai_grok-4.5',
-    'Gemini 3.1 Flash Lite': 'google_gemini-3.1-flash-lite',
+    'Gemini 3.1 Flash-Lite': 'google_gemini-3.1-flash-lite',
     'Grok 4.3': 'xai_grok-4.3',
     'Claude Sonnet 5':       'anthropic_claude-sonnet-5-none',
     #'Claude Sonnet 4': 'anthropic_claude-sonnet-4', #not clean
     'Claude Opus 5' : 'anthropic_claude-opus-5',
-    'Mistral Large 3': 'mistralai_mistral-large-3', #not clean
+    'Mistral Large 3': 'mistralai_mistral-large-3', 
     #'Gemini 3.5 Flash' : 'google_gemini-3.5-flash', #not clean
     'GPT-5.4 Mini':          'openai_gpt-5.4-mini',
     'Ministral 3 3B': 'mistralai_ministral-3-3b',
