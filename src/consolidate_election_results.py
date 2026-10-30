@@ -228,7 +228,7 @@ def forest_plot(out=FIGURES / "forest_plot.png"):
     # CHANGED: place reference-line labels just ABOVE the top row, not overlapping it
     ax.text(CHANCE - 0.005, len(df) - 0.3, "chance", color="#c0392b", fontsize=7.5,
             ha="right", va="bottom")
-    ax.text(HUMAN_BENCHMARK + 0.005, len(df) - 0.3, "human (68.8%)", color=HUMAN_COLOR,
+    ax.text(HUMAN_BENCHMARK + 0.005, len(df) - 0.3, "human (69%)", color=HUMAN_COLOR,
             fontsize=7.5, ha="left", va="bottom")
             
     # filtered accuracy with Wilson CI (asymmetric error bars)
@@ -582,7 +582,7 @@ def forest_plot_v2(out=FIGURES / "forest_plot_v2.png"):
 
     ax.text(CHANCE - 0.005, len(df) - 0.3, "chance", color="#c0392b", fontsize=7.5,
             ha="right", va="bottom")
-    ax.text(HUMAN_BENCHMARK + 0.005, len(df) - 0.3, "human (68.8%)", color=HUMAN_COLOR,
+    ax.text(HUMAN_BENCHMARK + 0.005, len(df) - 0.3, "human (69%)", color=HUMAN_COLOR,
             fontsize=7.5, ha="left", va="bottom")
 
 
@@ -636,3 +636,120 @@ def forest_plot_v2(out=FIGURES / "forest_plot_v2.png"):
     print(f"  filtered median {df['filtered_acc'].median():.3f}, "
           f"range {df['filtered_acc'].min():.3f}-{df['filtered_acc'].max():.3f}")
     return out
+
+
+"""
+rebuild — regenerate every derived output in dependency order.
+
+The pain this solves: when you change an analysis function, the saved CSVs and
+figures go stale until you rerun the right things in the right order. This runs
+the whole chain in ONE command so nothing is left stale, and prints a clear
+log of what it (re)built.
+
+Dependency order (later steps read the CSVs earlier steps write):
+    1. per-prompt accuracy + classification   (the base CSVs everything reads)
+    2. per-prompt comparisons / dissociation
+    3. validity + recognition + trait + consistency analyses
+    4. consolidated paper tables               (read the per-prompt CSVs)
+    5. figures                                  (read the CSVs)
+
+Each step is wrapped so one failure (e.g. a not-yet-collected prompt) is logged
+and skipped rather than aborting the whole rebuild. Read the summary at the end.
+"""
+
+import sys
+import traceback
+
+# ---- the prompt labels the pipeline uses (match consolidate_results.py) ----
+IMPRESSION = "competence_multitrial"
+DECISIONS = ["electability_multitrial", "advisor_direct_multitrial", "prediction_multitrial"]
+ALL_PROMPTS = [IMPRESSION] + DECISIONS
+
+TRAITS = ["attractiveness_multitrial", "trustworthiness_multitrial",
+          "dominance_multitrial", "apparent_age_multitrial",
+          "smart_multitrial", "familiar_multitrial"]
+
+RECOGNITION = "recognition_v2"
+
+
+# ----------------------------------------------------------------------
+# small runner: log each step, catch+report failures, keep going
+# ----------------------------------------------------------------------
+_results = []
+
+def step(desc, fn, *args, **kwargs):
+    """Run one build step, logging success/failure without aborting the rest."""
+    try:
+        fn(*args, **kwargs)
+        print(f"  [ok]   {desc}")
+        _results.append((desc, "ok"))
+    except Exception as e:
+        print(f"  [FAIL] {desc}: {e}")
+        _results.append((desc, f"FAIL: {e}"))
+        if "--verbose" in sys.argv:
+            traceback.print_exc()
+
+
+def rebuild(make_figs=False):
+    # import here so an import error in one module doesn't stop the script loading
+    from election_analyze_multitrial import (
+        accuracy_both_ways, classification_breakdown, compare_prompts,
+        disagreement_analysis, refusal_rates, recognition_rates,
+        classify_recognition, dissociation_on_unrecognized,
+        accuracy_on_open_races, 
+    )
+
+    print("\n=== 1. per-prompt accuracy + classification ===")
+    for label in ALL_PROMPTS + TRAITS:
+        step(f"accuracy_both_ways({label})", accuracy_both_ways, label)
+        step(f"classification_breakdown({label})", classification_breakdown, label)
+
+    print("\n=== 2. per-prompt comparisons / dissociation ===")
+    for dec in DECISIONS:
+        step(f"compare_prompts({IMPRESSION} vs {dec})", compare_prompts, IMPRESSION, dec)
+        step(f"disagreement_analysis({IMPRESSION} vs {dec})",
+             disagreement_analysis, IMPRESSION, dec)
+
+    print("\n=== 3. validity / recognition / trait / consistency ===")
+    step("refusal_rates(all prompts)", refusal_rates, ALL_PROMPTS)
+    step("classify_recognition", classify_recognition, RECOGNITION)
+    step("recognition_rates", recognition_rates, RECOGNITION)
+    step(f"dissociation_on_unrecognized({IMPRESSION} vs {DECISIONS[0]})",
+         dissociation_on_unrecognized, IMPRESSION, DECISIONS[0])
+    step("accuracy_on_open_races(competence)", accuracy_on_open_races, IMPRESSION)
+
+    # trait specificity table (its own module)
+    try:
+        from trait_specificity import build_table
+        step("trait_specificity.build_table", build_table)
+    except Exception as e:
+        print(f"  [skip] trait_specificity: {e}")
+
+    print("\n=== 4. consolidated paper tables ===")
+    try:
+        from consolidate_results import build_all
+        step("consolidate_results.build_all", build_all)
+    except Exception as e:
+        print(f"  [skip] consolidate_results.build_all: {e}")
+
+    if make_figs:
+        print("\n=== 5. figures ===")
+        for mod in ["forest_plot_v2", "capability_dissociation_plt", "prompt_comparison_plt"]:
+            try:
+                m = __import__(mod)
+                step(f"{mod}.make_figure", m.make_figure)
+            except Exception as e:
+                print(f"  [skip] {mod}: {e}")
+    else:
+        print("\n=== 5. figures SKIPPED (--no-figs) ===")
+
+    # ---- summary ----
+    print("\n" + "=" * 60)
+    ok = sum(1 for _, s in _results if s == "ok")
+    print(f"REBUILD COMPLETE: {ok}/{len(_results)} steps ok")
+    failed = [(d, s) for d, s in _results if s != "ok"]
+    if failed:
+        print("\nSteps that did not complete (often just not-yet-collected prompts):")
+        for d, s in failed:
+            print(f"  - {d}: {s}")
+    print("=" * 60)

@@ -11,6 +11,6 @@ Ministral 3 3B,531,6,0.011,268,6,0.022
 Mistral Large 3,531,4,0.008,268,4,0.015
 Nova 2 Lite,531,3,0.006,268,3,0.011
 Qwen3 VL 8B Instruct,531,3,0.006,268,3,0.011
-Gemini 3.1 Flash Lite,531,1,0.002,268,1,0.004
+Gemini 3.1 Flash-Lite,531,1,0.002,268,1,0.004
 Llama 4 Scout,531,1,0.002,268,1,0.004
 Claude Opus 5,531,0,0.0,268,0,0.0

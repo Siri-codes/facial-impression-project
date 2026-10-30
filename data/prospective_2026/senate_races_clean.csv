@@ -1,0 +1,59 @@
+election_id,state,name,party,stem,incumbent
+senate_AL,AL,Everett Wess,D,AL_Everett_Wess_D,False
+senate_AL,AL,Barry Moore,R,AL_Barry_Moore_R,False
+senate_AR,AR,Hallie Shoffner,D,AR_Hallie_Shoffner_D,False
+senate_AR,AR,Tom Cotton,R,AR_Tom_Cotton_R,True
+senate_CO,CO,John Hickenlooper,D,CO_John_Hickenlooper_D,True
+senate_CO,CO,Mark Baisley,R,CO_Mark_Baisley_R,False
+senate_DE,DE,Chris Coons,D,DE_Chris_Coons_D,True
+senate_DE,DE,Michael Katz,R,DE_Michael_Katz_R,False
+senate_GA,GA,Jon Ossoff,D,GA_Jon_Ossoff_D,True
+senate_GA,GA,Mike Collins,R,GA_Mike_Collins_R,False
+senate_IA,IA,Josh Turek,D,IA_Josh_Turek_D,False
+senate_IA,IA,Ashley Hinson,R,IA_Ashley_Hinson_R,False
+senate_ID,ID,David Roth,D,ID_David_Roth_D,False
+senate_ID,ID,Jim Risch,R,ID_Jim_Risch_R,True
+senate_IL,IL,Juliana Stratton,D,IL_Juliana_Stratton_D,False
+senate_IL,IL,Don Tracy,R,IL_Don_Tracy_R,False
+senate_KS,KS,Adam Hamilton,D,KS_Adam_Hamilton_D,False
+senate_KS,KS,Roger Marshall,R,KS_Roger_Marshall_R,True
+senate_KY,KY,Charles Booker,D,KY_Charles_Booker_D,False
+senate_KY,KY,Andy Barr,R,KY_Andy_Barr_R,False
+senate_LA,LA,Jamie Davis,D,LA_Jamie_Davis_D,False
+senate_LA,LA,Julia Letlow,R,LA_Julia_Letlow_R,False
+senate_MA,MA,Edward J. Markey,D,MA_Edward_J_Markey_D,True
+senate_MA,MA,John Deaton,R,MA_John_Deaton_R,False
+senate_MI,MI,Abdul El-Sayed,D,MI_Abdul_El_Sayed_D,False
+senate_MI,MI,Mike Rogers,R,MI_Mike_Rogers_R,False
+senate_MN,MN,Peggy Flanagan,D,MN_Peggy_Flanagan_D,False
+senate_MN,MN,Michele Tafoya,R,MN_Michele_Tafoya_R,False
+senate_MO,MO,Alani Bankhead,D,MO_Alani_Bankhead_D,False
+senate_MO,MO,Kurt Alme,R,MO_Kurt_Alme_R,False
+senate_MS,MS,Scott Colom,D,MS_Scott_Colom_D,False
+senate_MS,MS,Cindy Hyde-Smith,R,MS_Cindy_Hyde_Smith_R,True
+senate_NC,NC,Roy Cooper,D,NC_Roy_Cooper_D,False
+senate_NC,NC,Michael Whatley,R,NC_Michael_Whatley_R,False
+senate_NH,NH,Chris Pappas,D,NH_Chris_Pappas_D,False
+senate_NH,NH,John Sununu,R,NH_John_Sununu_R,False
+senate_NJ,NJ,Cory Booker,D,NJ_Cory_Booker_D,True
+senate_NJ,NJ,Justin Murphy,R,NJ_Justin_Murphy_R,False
+senate_NM,NM,Ben Ray Luján,D,NM_Ben_Ray_Lujan_D,True
+senate_NM,NM,Larry E. Marker,R,NM_Larry_E_Marker_R,False
+senate_OK,OK,N'Kiyla Thomas,D,OK_N_Kiyla_Thomas_D,False
+senate_OK,OK,Kevin Hern,R,OK_Kevin_Hern_R,False
+senate_OR,OR,Jeff Merkley,D,OR_Jeff_Merkley_D,True
+senate_OR,OR,David Brock Smith,R,OR_David_Brock_Smith_R,False
+senate_RI,RI,Jack Reed,D,RI_Jack_Reed_D,True
+senate_RI,RI,Raymond McKay,R,RI_Raymond_McKay_R,False
+senate_SC,SC,Annie Andrews,D,SC_Annie_Andrews_D,False
+senate_SC,SC,Darline Graham,R,SC_Darline_Graham_R,True
+senate_TN,TN,Marquita Bradshaw,D,TN_Marquita_Bradshaw_D,False
+senate_TN,TN,Bill Hagerty,R,TN_Bill_Hagerty_R,True
+senate_TX,TX,James Talarico,D,TX_James_Talarico_D,False
+senate_TX,TX,Ken Paxton,R,TX_Ken_Paxton_R,False
+senate_VA,VA,Mark Warner,D,VA_Mark_Warner_D,True
+senate_VA,VA,Bert Mizusawa,R,VA_Bert_Mizusawa_R,False
+senate_WV,WV,Rachel Fetty Anderson,D,WV_Rachel_Fetty_Anderson_D,False
+senate_WV,WV,Shelley Moore Capito,R,WV_Shelley_Moore_Capito_R,True
+senate_WY,WY,James Byrd,D,WY_James_Byrd_D,False
+senate_WY,WY,Harriet Hageman,R,WY_Harriet_Hageman_R,False
