@@ -1,385 +1,1737 @@
 election_id,trial,slotA_face,chosen_slot,chosen_face,status,raw
-governor_AR,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_AR,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_AL,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_AL,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_AL,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_AL,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_AL,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_AL,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_AR,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_AR,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_AR,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_AR,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_AZ,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_AZ,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_AZ,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_AZ,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_CA,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_CA,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_CA,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_CA,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_CA,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_CA,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_AZ,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_AZ,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_CO,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_CO,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_CO,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_CO,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_CO,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_CO,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_CT,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_CT,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_CT,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_CT,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_CT,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_CT,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_FL,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_FL,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_FL,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_FL,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_FL,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_FL,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_GA,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_GA,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_GA,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_GA,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_GA,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_GA,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_HI,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_HI,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_HI,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_HI,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_HI,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_HI,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_IA,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_IA,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_ID,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_ID,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_IA,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_IA,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_IA,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_IA,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_ID,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_ID,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_ID,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_ID,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_IL,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_IL,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_IL,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_IL,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_IL,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_IL,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_KS,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_KS,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_KS,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_KS,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_KS,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_KS,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_MA,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_MA,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_MA,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_MA,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_MA,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_MA,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_MD,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_MD,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_MD,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_MD,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_MD,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_MD,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_ME,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_ME,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_ME,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_ME,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_ME,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_ME,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_MI,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_MI,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_MI,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_MI,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_MI,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_MI,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_MN,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_MN,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_MN,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_MN,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_MN,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_MN,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_NE,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_NE,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_NE,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_NE,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_NE,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_NE,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_NH,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_NH,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_NH,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_NH,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_NH,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_NH,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_NM,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_NM,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_NM,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_NM,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_NV,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_NV,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_NM,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_NM,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_NV,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_NV,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_NV,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_NV,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_NY,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_NY,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_NY,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_NY,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_NY,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_NY,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_OH,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_OH,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_OH,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_OH,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_OH,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_OH,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_OK,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_OK,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_OK,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_OK,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_OK,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_OK,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_OR,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_OR,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_OR,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_OR,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_OR,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_OR,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_PA,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_PA,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_PA,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_PA,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_PA,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_PA,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_RI,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_RI,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_RI,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_RI,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_RI,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_RI,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_SC,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_SC,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_SC,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_SC,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_SD,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_SD,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_SC,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_SC,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_SD,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_SD,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_SD,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_SD,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_TN,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_TN,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_TN,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_TN,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_TN,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_TN,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_TX,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_TX,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_TX,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_TX,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_TX,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_TX,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_VT,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_VT,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_VT,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_VT,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_VT,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_VT,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_WI,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_WI,1,b,,,ERROR,'NoneType' object is not subscriptable
-governor_WI,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_WI,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_WY,0,a,,,ERROR,'NoneType' object is not subscriptable
-governor_WY,0,b,,,ERROR,'NoneType' object is not subscriptable
-governor_WI,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_WI,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_WY,2,a,,,ERROR,'NoneType' object is not subscriptable
-governor_WY,2,b,,,ERROR,'NoneType' object is not subscriptable
-governor_WY,1,a,,,ERROR,'NoneType' object is not subscriptable
-governor_WY,1,b,,,ERROR,'NoneType' object is not subscriptable
-senate_AL,1,a,,,ERROR,'NoneType' object is not subscriptable
-senate_AL,1,b,,,ERROR,'NoneType' object is not subscriptable
-senate_AL,0,a,,,ERROR,'NoneType' object is not subscriptable
-senate_AL,0,b,,,ERROR,'NoneType' object is not subscriptable
-senate_AL,2,a,,,ERROR,'NoneType' object is not subscriptable
-senate_AL,2,b,,,ERROR,'NoneType' object is not subscriptable
-senate_AR,0,a,,,ERROR,'NoneType' object is not subscriptable
-senate_AR,0,b,,,ERROR,'NoneType' object is not subscriptable
-senate_AR,1,a,,,ERROR,'NoneType' object is not subscriptable
-senate_AR,1,b,,,ERROR,'NoneType' object is not subscriptable
-senate_AR,2,a,,,ERROR,'NoneType' object is not subscriptable
-senate_AR,2,b,,,ERROR,'NoneType' object is not subscriptable
-senate_CO,0,a,,,ERROR,'NoneType' object is not subscriptable
-senate_CO,0,b,,,ERROR,'NoneType' object is not subscriptable
-senate_CO,1,a,,,ERROR,'NoneType' object is not subscriptable
-senate_CO,1,b,,,ERROR,'NoneType' object is not subscriptable
-senate_DE,0,a,,,ERROR,'NoneType' object is not subscriptable
-senate_DE,0,b,,,ERROR,'NoneType' object is not subscriptable
-senate_CO,2,a,,,ERROR,'NoneType' object is not subscriptable
-senate_CO,2,b,,,ERROR,'NoneType' object is not subscriptable
-senate_DE,1,a,,,ERROR,'NoneType' object is not subscriptable
-senate_DE,1,b,,,ERROR,'NoneType' object is not subscriptable
-senate_GA,0,a,,,ERROR,'NoneType' object is not subscriptable
-senate_GA,0,b,,,ERROR,'NoneType' object is not subscriptable
-senate_DE,2,a,,,ERROR,'NoneType' object is not subscriptable
-senate_DE,2,b,,,ERROR,'NoneType' object is not subscriptable
-senate_GA,1,a,,,ERROR,'NoneType' object is not subscriptable
-senate_GA,1,b,,,ERROR,'NoneType' object is not subscriptable
-senate_GA,2,a,,,ERROR,'NoneType' object is not subscriptable
-senate_GA,2,b,,,ERROR,'NoneType' object is not subscriptable
-senate_IA,2,a,,,ERROR,'NoneType' object is not subscriptable
-senate_IA,2,b,,,ERROR,'NoneType' object is not subscriptable
-senate_IA,0,a,,,ERROR,'NoneType' object is not subscriptable
-senate_IA,0,b,,,ERROR,'NoneType' object is not subscriptable
-senate_IA,1,a,,,ERROR,'NoneType' object is not subscriptable
-senate_IA,1,b,,,ERROR,'NoneType' object is not subscriptable
-senate_ID,0,a,,,ERROR,'NoneType' object is not subscriptable
-senate_ID,0,b,,,ERROR,'NoneType' object is not subscriptable
-senate_ID,1,a,,,ERROR,'NoneType' object is not subscriptable
-senate_ID,1,b,,,ERROR,'NoneType' object is not subscriptable
-senate_ID,2,a,,,ERROR,'NoneType' object is not subscriptable
-senate_ID,2,b,,,ERROR,'NoneType' object is not subscriptable
-senate_IL,0,a,,,ERROR,'NoneType' object is not subscriptable
-senate_IL,0,b,,,ERROR,'NoneType' object is not subscriptable
-senate_IL,1,a,,,ERROR,'NoneType' object is not subscriptable
-senate_IL,1,b,,,ERROR,'NoneType' object is not subscriptable
-senate_IL,2,a,,,ERROR,'NoneType' object is not subscriptable
-senate_IL,2,b,,,ERROR,'NoneType' object is not subscriptable
-senate_KS,0,a,,,ERROR,'NoneType' object is not subscriptable
-senate_KS,0,b,,,ERROR,'NoneType' object is not subscriptable
-senate_KS,1,a,,,ERROR,'NoneType' object is not subscriptable
-senate_KS,1,b,,,ERROR,'NoneType' object is not subscriptable
-senate_KS,2,a,,,ERROR,'NoneType' object is not subscriptable
-senate_KS,2,b,,,ERROR,'NoneType' object is not subscriptable
-senate_KY,0,a,,,ERROR,'NoneType' object is not subscriptable
-senate_KY,0,b,,,ERROR,'NoneType' object is not subscriptable
-senate_KY,1,a,,,ERROR,'NoneType' object is not subscriptable
-senate_KY,1,b,,,ERROR,'NoneType' object is not subscriptable
-senate_KY,2,a,,,ERROR,'NoneType' object is not subscriptable
-senate_KY,2,b,,,ERROR,'NoneType' object is not subscriptable
-senate_LA,0,a,,,ERROR,'NoneType' object is not subscriptable
-senate_LA,0,b,,,ERROR,'NoneType' object is not subscriptable
-senate_LA,2,a,,,ERROR,'NoneType' object is not subscriptable
-senate_LA,2,b,,,ERROR,'NoneType' object is not subscriptable
-senate_LA,1,a,,,ERROR,'NoneType' object is not subscriptable
-senate_LA,1,b,,,ERROR,'NoneType' object is not subscriptable
-senate_MA,0,a,,,ERROR,'NoneType' object is not subscriptable
-senate_MA,0,b,,,ERROR,'NoneType' object is not subscriptable
-senate_MA,1,a,,,ERROR,'NoneType' object is not subscriptable
-senate_MA,1,b,,,ERROR,'NoneType' object is not subscriptable
-senate_MA,2,a,,,ERROR,'NoneType' object is not subscriptable
-senate_MA,2,b,,,ERROR,'NoneType' object is not subscriptable
-senate_MI,0,a,,,ERROR,'NoneType' object is not subscriptable
-senate_MI,0,b,,,ERROR,'NoneType' object is not subscriptable
-senate_MI,1,a,,,ERROR,'NoneType' object is not subscriptable
-senate_MI,1,b,,,ERROR,'NoneType' object is not subscriptable
-senate_MI,2,a,,,ERROR,'NoneType' object is not subscriptable
-senate_MI,2,b,,,ERROR,'NoneType' object is not subscriptable
-senate_MN,0,a,,,ERROR,'NoneType' object is not subscriptable
-senate_MN,0,b,,,ERROR,'NoneType' object is not subscriptable
-senate_MN,2,a,,,ERROR,'NoneType' object is not subscriptable
-senate_MN,2,b,,,ERROR,'NoneType' object is not subscriptable
-senate_MN,1,a,,,ERROR,'NoneType' object is not subscriptable
-senate_MN,1,b,,,ERROR,'NoneType' object is not subscriptable
-senate_MO,0,a,,,ERROR,'NoneType' object is not subscriptable
-senate_MO,0,b,,,ERROR,'NoneType' object is not subscriptable
-senate_MO,1,a,,,ERROR,'NoneType' object is not subscriptable
-senate_MO,1,b,,,ERROR,'NoneType' object is not subscriptable
-senate_MS,0,a,,,ERROR,'NoneType' object is not subscriptable
-senate_MS,0,b,,,ERROR,'NoneType' object is not subscriptable
-senate_MO,2,a,,,ERROR,'NoneType' object is not subscriptable
-senate_MO,2,b,,,ERROR,'NoneType' object is not subscriptable
-senate_MS,1,a,,,ERROR,'NoneType' object is not subscriptable
-senate_MS,1,b,,,ERROR,'NoneType' object is not subscriptable
-senate_MS,2,a,,,ERROR,'NoneType' object is not subscriptable
-senate_MS,2,b,,,ERROR,'NoneType' object is not subscriptable
-senate_NC,0,a,,,ERROR,'NoneType' object is not subscriptable
-senate_NC,0,b,,,ERROR,'NoneType' object is not subscriptable
-senate_NC,1,a,,,ERROR,'NoneType' object is not subscriptable
-senate_NC,1,b,,,ERROR,'NoneType' object is not subscriptable
-senate_NC,2,a,,,ERROR,'NoneType' object is not subscriptable
-senate_NC,2,b,,,ERROR,'NoneType' object is not subscriptable
-senate_NH,0,a,,,ERROR,'NoneType' object is not subscriptable
-senate_NH,0,b,,,ERROR,'NoneType' object is not subscriptable
-senate_NH,1,a,,,ERROR,'NoneType' object is not subscriptable
-senate_NH,1,b,,,ERROR,'NoneType' object is not subscriptable
-senate_NH,2,a,,,ERROR,'NoneType' object is not subscriptable
-senate_NH,2,b,,,ERROR,'NoneType' object is not subscriptable
-senate_NJ,0,a,,,ERROR,'NoneType' object is not subscriptable
-senate_NJ,0,b,,,ERROR,'NoneType' object is not subscriptable
-senate_NJ,1,a,,,ERROR,'NoneType' object is not subscriptable
-senate_NJ,1,b,,,ERROR,'NoneType' object is not subscriptable
-senate_NJ,2,a,,,ERROR,'NoneType' object is not subscriptable
-senate_NJ,2,b,,,ERROR,'NoneType' object is not subscriptable
-senate_NM,0,a,,,ERROR,'NoneType' object is not subscriptable
-senate_NM,0,b,,,ERROR,'NoneType' object is not subscriptable
-senate_NM,1,a,,,ERROR,'NoneType' object is not subscriptable
-senate_NM,1,b,,,ERROR,'NoneType' object is not subscriptable
-senate_NM,2,a,,,ERROR,'NoneType' object is not subscriptable
-senate_NM,2,b,,,ERROR,'NoneType' object is not subscriptable
-senate_OK,0,a,,,ERROR,'NoneType' object is not subscriptable
-senate_OK,0,b,,,ERROR,'NoneType' object is not subscriptable
-senate_OK,1,a,,,ERROR,'NoneType' object is not subscriptable
-senate_OK,1,b,,,ERROR,'NoneType' object is not subscriptable
-senate_OK,2,a,,,ERROR,'NoneType' object is not subscriptable
-senate_OK,2,b,,,ERROR,'NoneType' object is not subscriptable
-senate_OR,0,a,,,ERROR,'NoneType' object is not subscriptable
-senate_OR,0,b,,,ERROR,'NoneType' object is not subscriptable
-senate_OR,1,a,,,ERROR,'NoneType' object is not subscriptable
-senate_OR,1,b,,,ERROR,'NoneType' object is not subscriptable
-senate_OR,2,a,,,ERROR,'NoneType' object is not subscriptable
-senate_OR,2,b,,,ERROR,'NoneType' object is not subscriptable
-senate_RI,0,a,,,ERROR,'NoneType' object is not subscriptable
-senate_RI,0,b,,,ERROR,'NoneType' object is not subscriptable
-senate_RI,1,a,,,ERROR,'NoneType' object is not subscriptable
-senate_RI,1,b,,,ERROR,'NoneType' object is not subscriptable
-senate_RI,2,a,,,ERROR,'NoneType' object is not subscriptable
-senate_RI,2,b,,,ERROR,'NoneType' object is not subscriptable
-senate_SC,0,a,,,ERROR,'NoneType' object is not subscriptable
-senate_SC,0,b,,,ERROR,'NoneType' object is not subscriptable
-senate_SC,1,a,,,ERROR,'NoneType' object is not subscriptable
-senate_SC,1,b,,,ERROR,'NoneType' object is not subscriptable
-senate_TN,0,a,,,ERROR,'NoneType' object is not subscriptable
-senate_TN,0,b,,,ERROR,'NoneType' object is not subscriptable
-senate_SC,2,a,,,ERROR,'NoneType' object is not subscriptable
-senate_SC,2,b,,,ERROR,'NoneType' object is not subscriptable
-senate_TN,1,a,,,ERROR,'NoneType' object is not subscriptable
-senate_TN,1,b,,,ERROR,'NoneType' object is not subscriptable
-senate_TN,2,a,,,ERROR,'NoneType' object is not subscriptable
-senate_TN,2,b,,,ERROR,'NoneType' object is not subscriptable
-senate_TX,0,a,,,ERROR,'NoneType' object is not subscriptable
-senate_TX,0,b,,,ERROR,'NoneType' object is not subscriptable
-senate_TX,1,a,,,ERROR,'NoneType' object is not subscriptable
-senate_TX,1,b,,,ERROR,'NoneType' object is not subscriptable
-senate_VA,0,a,,,ERROR,'NoneType' object is not subscriptable
-senate_VA,0,b,,,ERROR,'NoneType' object is not subscriptable
-senate_TX,2,a,,,ERROR,'NoneType' object is not subscriptable
-senate_TX,2,b,,,ERROR,'NoneType' object is not subscriptable
-senate_VA,1,a,,,ERROR,'NoneType' object is not subscriptable
-senate_VA,1,b,,,ERROR,'NoneType' object is not subscriptable
-senate_VA,2,a,,,ERROR,'NoneType' object is not subscriptable
-senate_VA,2,b,,,ERROR,'NoneType' object is not subscriptable
-senate_WV,1,a,,,ERROR,'NoneType' object is not subscriptable
-senate_WV,1,b,,,ERROR,'NoneType' object is not subscriptable
-senate_WV,0,a,,,ERROR,'NoneType' object is not subscriptable
-senate_WV,0,b,,,ERROR,'NoneType' object is not subscriptable
-senate_WV,2,a,,,ERROR,'NoneType' object is not subscriptable
-senate_WV,2,b,,,ERROR,'NoneType' object is not subscriptable
-senate_WY,0,a,,,ERROR,'NoneType' object is not subscriptable
-senate_WY,0,b,,,ERROR,'NoneType' object is not subscriptable
-senate_WY,2,a,,,ERROR,'NoneType' object is not subscriptable
-senate_WY,2,b,,,ERROR,'NoneType' object is not subscriptable
-senate_WY,1,a,,,ERROR,'NoneType' object is not subscriptable
-senate_WY,1,b,,,ERROR,'NoneType' object is not subscriptable
+governor_AL,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The facial expression in Candidate B conveys confidence and seriousness, which are often associated with competence and leadership. The posture and overall demeanor also suggest a more authoritativ"
+governor_AL,2,b,A,b,ok,"A
+
+**Reasoning (for context, not part of the answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, Candidate A’s portrait often conveys a more serious, composed, and authoritative demeanor. These traits are typically linked to p"
+governor_AR,0,a,A,a,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+When judging competence based solely on appearance, many studies suggest that certain facial features and expressions can influence perception. In this case, Candidate A’s direct gaze, confident smile, and formal attire may convey a s"
+governor_AR,0,b,B,a,ok,"B
+
+**Explanation (for context, not part of the final answer):**
+
+When judging competence based solely on facial appearance, several psychological studies suggest certain traits can influence perception. Generally, people tend to associate **strong, assertive facial features** and **neutral or slight"
+governor_AL,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The individual in Candidate B has a more serious and composed expression, which often correlates with perceptions of competence and authority in professional settings. The direct gaze and neutral e"
+governor_AL,0,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies about first impressions and facial cues, **Candidate A** is often perceived as more competent. This is typically due to subtle cues such as a more neutral or serious expression, which is often (th"
+governor_AL,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The facial expression in Candidate B conveys confidence and seriousness, which are often associated with competence in professional settings. Candidate A's smile, while pleasant, may come across as"
+governor_AL,1,b,A,b,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+Based on common psychological studies of first impressions from facial appearance, **Candidate A** is likely to be perceived as more competent. Research often suggests that individuals with a neutral or slightly serious expression, a direct"
+governor_AR,1,a,A,a,ok,"A
+
+**Note:** This response is based on a common bias in first-impression judgments where men, particularly those with certain facial features, are often perceived as more competent than women, even when there is no actual difference in competence. It's important to recognize that such judgments are "
+governor_AR,1,b,,,REFUSE,"B
+
+**Explanation (for context, not part of the final answer):**
+
+When judging competence based solely on facial appearance, several psychological studies suggest certain traits can influence perception. Factors like facial symmetry, grooming, and expressions often play a role. In this case:
+
+- **Can"
+governor_AR,2,a,A,a,ok,"A
+
+**Explanation:** In studies of first impressions based on facial appearance, certain traits are often subconsciously associated with competence. These include:
+
+1. **Facial Expression**: A neutral or slightly serious expression is often linked to perceived competence, as it can suggest focus and "
+governor_AR,2,b,B,a,ok,"B
+
+**Explanation (for context, not part of the final answer):**  
+When judging competence based solely on appearance, many people tend to associate certain traits—such as confidence, seriousness, and professionalism—with competence. Candidate B’s attire (a suit and tie) and composed expression often"
+governor_AZ,0,a,B,b,ok,"B
+
+**Explanation:** In studies of first impressions based on facial appearance, certain cues are often associated with perceptions of competence. These include:
+
+1. **Facial Features**: Men are generally perceived as more competent than women based on facial appearance alone, according to research. "
+governor_AZ,0,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**
+
+When judging competence based solely on appearance, several factors often come into play, including facial expressions, grooming, and overall presentation. In this case:
+
+- **Candidate A** has a neutral, composed expression with a slig"
+governor_AZ,1,a,B,b,ok,"B
+
+**Explanation:** In studies of first impressions based on facial appearance, certain cues are often associated with perceptions of competence. These include:
+
+1. **Facial Features**: Men are generally perceived as more competent than women based on facial appearance alone, according to research. "
+governor_AZ,1,b,A,b,ok,"A
+
+**Explanation:** Based on the immediate gut impression from the images provided, Candidate A appears more competent. This assessment is influenced by common stereotypes and visual cues often associated with perceived competence, such as a direct gaze, a confident smile, and a professional demeano"
+governor_CA,1,a,A,a,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** appears more approachable and friendly due to the warm smile and the overall expression. The glasses and the slight tilt of the head can also convey confidence and openness, which are often associa"
+governor_CA,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images, Candidate B appears more competent. The individual in Candidate B has a more polished and professional appearance, with neatly styled hair and glasses, which often conveys a sense of professionalism and attention to detail. The smile also app"
+governor_AZ,2,a,B,b,ok,"B
+
+**Explanation:** Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is influenced by several visual cues:
+
+1. **Facial Expression**: Candidate B has a more neutral and composed expression, which often conveys confidence and seriousn"
+governor_AZ,2,b,A,b,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+Based on common first-impression biases in facial competence perception—often influenced by features like a neutral or slightly serious expression, strong jawline, and direct eye contact—Candidate A may be perceived as more competent at fir"
+governor_CA,2,a,A,a,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** appears more approachable and friendly due to the warm smile and direct gaze, which can often be associated with confidence and competence in social and professional settings. The glasses and well-"
+governor_CA,2,b,B,a,ok,"B
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions and facial cues, **Candidate B** often appears more competent to many observers. This is due to several factors:
+
+1. **Facial Expression**: Candidate B is smiling, which can c"
+governor_CA,0,a,A,a,ok,"A
+
+### Explanation:
+When judging competence based on facial appearance alone, several factors often come into play, such as facial expression, grooming, and perceived confidence. In this case:
+
+- **Candidate A** has a warm, approachable smile, which can convey friendliness and confidence. The glasse"
+governor_CA,0,b,B,a,ok,"B
+
+**Explanation (for context, not part of the answer):**  
+Based on common psychological studies of first impressions and facial cues, **Candidate B** is often perceived as more competent. Factors that contribute to this impression include:
+
+1. **Facial Expression**: Candidate B has a warm, confide"
+governor_CO,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression biases often associated with facial features and presentation. Candidate B has a more mature and experienced look, with a well-groomed beard and "
+governor_CO,0,b,A,b,ok,"A
+
+**Explanation:**  
+Based on the immediate gut impression from the images provided, **Candidate A** appears more competent. This assessment is influenced by several visual cues commonly associated with perceptions of competence:
+
+1. **Facial Expression and Gaze:** Candidate A has a more serious an"
+governor_CO,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common stereotypes and first-impression biases often associated with facial features and presentation. Candidate B has a more mature and experienced look, with a beard a"
+governor_CO,1,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate A** is more likely to be judged as competent. Factors that contribute to this impression include:
+
+1. **Facia"
+governor_CO,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression biases often associated with facial features and presentation. Candidate B has a more mature and experienced look, with a well-groomed beard and "
+governor_CO,2,b,A,b,ok,"A
+
+**Explanation:**  
+Based on the immediate gut impression from the images provided, **Candidate A** appears more competent. This assessment is influenced by several visual cues commonly associated with perceptions of competence in facial appearance studies:
+
+1. **Facial Structure and Expression**:"
+governor_CT,0,a,A,a,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common first-impression biases in facial competence perception—often influenced by features like brow furrow, facial hair, and overall facial structure—Candidate A’s appearance aligns more closely with stereotypical cues asso"
+governor_CT,0,b,B,a,ok,"B
+
+Research suggests that people often associate certain facial features and expressions with competence. In this case, Candidate B, despite the grayscale image, appears to have a more serious and composed expression, which can be subconsciously interpreted as more competent. Candidate A's smile, wh"
+governor_CT,2,a,A,a,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common first-impression biases in facial competence perception—often associating seriousness, age, and certain facial features with authority—Candidate A might be judged as more competent at first glance. Candidate A has a mo"
+governor_CT,2,b,B,a,ok,"B
+
+Research suggests that people often associate certain facial features and expressions with competence. In this case, Candidate B, despite the grayscale image, appears to have a more serious and composed expression, which can be subconsciously interpreted as more competent. Candidate A's smile, wh"
+governor_FL,2,a,A,a,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies and societal biases, people often associate certain facial features—such as a neutral or slightly serious expression, a clean-shaven face, and a more angular or ""masculine"" appearance—with perceiv"
+governor_FL,2,b,B,a,ok,"B
+
+**Explanation (for context):**  
+When judging competence based solely on facial appearance, people often rely on subtle cues such as facial expression, grooming, and perceived confidence. In this case:
+
+- **Candidate B** appears more neutral and composed, with a slight, professional smile that co"
+governor_CT,1,a,A,a,ok,"A
+
+### Reasoning:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** has a more serious and composed expression, with a neutral, slightly confident smile. The facial features appear more mature and experienced, which often correlates with perceptions of competence and"
+governor_CT,1,b,B,a,ok,"B
+
+Research and studies on first impressions often suggest that certain facial features and expressions can influence perceptions of competence. Generally, individuals with more mature, experienced appearances—often characterized by features like a serious expression, well-groomed hair, and a compos"
+governor_FL,0,a,A,a,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions and facial cues, **Candidate A** may be perceived as more competent due to subtle factors such as facial symmetry, grooming, and the expression. However, it's important to not"
+governor_FL,0,b,B,a,ok,"B
+
+**Note:** This response is based on a common psychological bias where individuals often perceive those with more traditionally ""attractive"" or ""approachable"" facial features as more competent, even though this is not a reliable indicator of actual competence. The individual in Candidate B has a m"
+governor_FL,1,a,A,a,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies and societal biases regarding first impressions from facial appearance, individuals often associate certain facial features—such as a neutral or slightly serious expression, a clean-shaven or neat"
+governor_FL,1,b,B,a,ok,"B
+
+**Explanation:**  
+When judging competence based solely on facial appearance, people often rely on subtle cues such as facial expression, grooming, and perceived confidence. In this case:
+
+- **Candidate B** appears more neutral and composed, with a slight, professional smile that conveys confiden"
+governor_HI,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. This assessment is based on common first-impression cues often associated with perceived competence, such as facial expression, grooming, and overall presentation. Candidate A has a more neutral an"
+governor_HI,0,b,B,a,ok,"B
+
+**Explanation (for your understanding, not part of the required response):**  
+Based on common psychological studies about first impressions and facial cues associated with perceived competence, **Candidate B** is likely to be judged as more competent. Research often suggests that individuals wit"
+governor_GA,2,a,B,b,ok,"B
+
+Research suggests that certain facial features can influence perceptions of competence. Typically, individuals with more angular or masculine facial features—such as a stronger jawline, deeper set eyes, and a more serious expression—are often perceived as more competent, assertive, and authoritat"
+governor_GA,2,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies and societal biases regarding first impressions from facial appearance, **Candidate A** is often perceived as more competent. This perception is influenced by factors such as:
+
+1. **Facial Feature"
+governor_GA,1,a,B,b,ok,"B
+
+Based on first impressions from facial appearance alone, Candidate B is often perceived as more competent. Research in social psychology suggests that certain facial features and expressions can influence perceptions of competence. In this case, Candidate B's facial expression and grooming may co"
+governor_GA,1,b,A,b,ok,"A
+
+**Explanation:** Based on the immediate gut impression from the images provided, Candidate A appears more competent. This assessment is influenced by several visual cues commonly associated with perceptions of competence in facial appearance studies:
+
+1. **Facial Expression**: Candidate A has a s"
+governor_GA,0,a,B,b,ok,"B
+
+**Explanation:** Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is influenced by several visual cues commonly associated with perceptions of competence in facial appearance studies:
+
+1. **Facial Expression**: Candidate B has a m"
+governor_GA,0,b,A,b,ok,"A
+
+**Explanation:** Based on the immediate gut impression from the images provided, Candidate A appears more competent. This assessment is influenced by several visual cues commonly associated with perceptions of competence in professional settings:
+
+1. **Facial Expression**: Candidate A has a confi"
+governor_HI,1,a,A,a,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological research into first impressions and facial cues, people often associate **smiling faces** with approachability, confidence, and warmth. Candidate A’s smile appears more open and genuine, which can lead to"
+governor_HI,1,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological research into first impressions and facial cues associated with perceived competence, **Candidate A** is likely to be judged as more competent. Factors that contribute to this impression include:
+
+1. **Fa"
+governor_HI,2,a,A,a,ok,"A
+
+**Explanation:** Based on the immediate gut impression from the images provided, Candidate A appears more competent. This assessment is influenced by subtle cues such as facial expression, posture, and overall presentation. Candidate A’s smile seems more confident and approachable, and the overal"
+governor_HI,2,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological research into first impressions and facial cues associated with perceived competence, **Candidate A** is likely to be judged as more competent. Factors that often contribute to this perception include:
+
+1"
+governor_IA,2,a,B,b,ok,"B
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions from facial appearance, **Candidate B** is likely to be perceived as more competent. Factors that often contribute to this perception include:
+
+1. **Facial Symmetry**: More sy"
+governor_IA,2,b,A,b,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided, **Candidate A** appears more competent. This assessment is based on common psychological and perceptual cues often associated with perceived competence in facial features:
+
+1. **Facial Expression**: Candidate A has a"
+governor_IA,0,a,A,a,ok,"A
+
+**Reasoning (for context, not part of the answer):**  
+Based on common psychological studies of first impressions from facial appearance, individuals often associate certain facial features with traits like competence. Features such as a slightly broader jawline, more pronounced brow ridge, and a"
+governor_IA,0,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate A** tends to evoke a stronger immediate impression of competence. Factors that often contribute to this perce"
+governor_IA,1,a,A,a,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the provided black-and-white images, **Candidate A** appears more competent. Here’s why:
+
+1. **Facial Expression**: Candidate A has a more neutral and composed expression, which often conveys confidence and seriousness. This can be assoc"
+governor_IA,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. This assessment is based on common perceptions often associated with facial features and expressions in first-impression judgments. Candidate A has a more assertive and confident demeanor, with a s"
+governor_ID,0,a,B,b,ok,"B
+
+**Explanation (for context, not part of the answer):**  
+Based on common psychological studies of first impressions and facial cues, **Candidate B** is often perceived as more competent. Research suggests that certain facial features—such as a broader jawline, a slightly more angular face, and a "
+governor_ID,0,b,A,b,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** presents a more formal and composed appearance. The individual has a structured hairstyle, is wearing formal attire (a suit and tie), and has a confident, warm smile. These elements often contribut"
+governor_ID,1,a,B,b,ok,"B
+
+**Explanation:**  
+Based on first impressions from facial appearance alone, **Candidate B** is more likely to be perceived as competent. Research in social psychology suggests that certain facial features and expressions can influence perceptions of competence. 
+
+**Key factors influencing this ju"
+governor_ID,1,b,A,b,ok,"A
+
+**Explanation:** Based on the immediate gut impression from the images provided, Candidate A appears more competent. This assessment is influenced by several visual cues commonly associated with perceptions of competence:
+
+1. **Facial Expression**: Candidate A has a confident, warm smile that con"
+governor_ID,2,a,B,b,ok,"B
+
+Based on first impressions from facial appearance alone, Candidate B appears more competent. This assessment is based on common stereotypes and biases often associated with facial features and expressions in the context of perceived competence. Typically, individuals with more angular, symmetrica"
+governor_ID,2,b,A,b,ok,"A
+
+**Explanation:** Based on the immediate gut impression from the images provided, Candidate A appears more competent. This assessment is influenced by several visual cues commonly associated with perceptions of competence:
+
+1. **Facial Expression**: Candidate A has a confident, warm smile that con"
+governor_IL,1,a,A,a,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological research on first impressions and facial cues associated with perceived competence, Candidate A’s expression and grooming often align with traits that people intuitively associate with confidence and auth"
+governor_IL,1,b,B,a,ok,"B
+
+**Reasoning (for context, not part of the answer):**  
+Based on common first-impression biases in facial competence perception—often associating formal attire, a direct gaze, and a slight smile with confidence and authority—Candidate B appears more competent at first glance. Candidate A’s neutral"
+governor_IL,0,a,A,a,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** appears more confident and approachable due to the warm, open smile and direct gaze. These features often convey friendliness and openness, which can be associated with competence in social and pro"
+governor_IL,0,b,B,a,ok,"B
+
+**Reasoning (for context, not part of the answer):**  
+Based on common first-impression biases in facial competence perception—often associating formal attire, a direct gaze, and a slight smile with confidence and authority—Candidate B appears more competent at first glance. Candidate A’s neutral"
+governor_KS,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression cues often associated with perceived competence, such as facial expression, grooming, and overall presentation. Candidate B has a more formal and"
+governor_KS,0,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common first-impression biases in facial competence perception—often influenced by features like brow furrow, nose bridge prominence, and overall facial structure—Candidate A’s features align more closely with stereotypical c"
+governor_IL,2,a,A,a,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological research on first impressions and facial cues associated with perceived competence, Candidate A’s expression and grooming often align with traits that people intuitively associate with confidence and auth"
+governor_IL,2,b,B,a,ok,"B
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions from facial appearance, individuals often associate certain traits—such as confidence, warmth, and professionalism—with perceived competence. In this case:
+
+- **Candidate B** "
+governor_KS,1,a,B,b,ok,"B
+
+Research on first impressions often suggests that certain facial features and expressions can influence perceptions of competence. While both individuals appear confident and approachable, Candidate B’s hairstyle, facial structure, and overall presentation may align more closely with stereotypica"
+governor_KS,1,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common first-impression biases in facial competence perception—often influenced by features like brow furrow, nose bridge prominence, and overall facial structure—Candidate A’s features align more closely with stereotypical c"
+governor_KS,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression cues often associated with perceived competence, such as facial expression, grooming, and overall presentation. Candidate B has a more formal and"
+governor_KS,2,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common first-impression biases in facial competence perception—often influenced by features like brow furrow, nose bridge prominence, and overall facial structure—Candidate A’s features align more closely with stereotypical c"
+governor_MA,0,a,B,b,ok,"B
+
+**Explanation:** Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is influenced by common stereotypes and first-impression biases often associated with physical appearance. Bald individuals, especially those with a confident smile"
+governor_MA,0,b,A,b,ok,"A
+
+**Explanation:**  
+Based on the immediate gut impression from the images provided, **Candidate A** appears more competent. This assessment is influenced by several visual cues commonly associated with perceptions of competence in facial impressions:
+
+1. **Facial Expression**: Candidate A has a br"
+governor_MA,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common stereotypes and first-impression biases often associated with physical appearance, such as a more assertive smile and a direct gaze, which can be subconsciously i"
+governor_MA,1,b,A,b,ok,"A
+
+**Explanation:**  
+Based on the immediate gut impression from the images provided, **Candidate A** appears more competent. This assessment is influenced by several visual cues commonly associated with perceptions of competence in facial impressions:
+
+1. **Facial Expression**: Candidate A has a br"
+governor_MD,0,a,A,a,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies on first impressions and facial cues, individuals often associate certain traits—like confidence, assertiveness, and competence—with specific facial features. Bald individuals, especially those wi"
+governor_MD,0,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+When judging competence based solely on facial appearance, people often rely on subtle cues such as facial expression, grooming, and perceived confidence. In this case, Candidate A’s smile appears more relaxed and approachable, and hi"
+governor_MA,2,a,B,b,ok,"B
+
+Research on first impressions often suggests that certain facial features and expressions can influence perceptions of competence. Bald individuals, like Candidate B, are sometimes perceived as more competent due to stereotypes associating baldness with maturity, confidence, and authority. Additi"
+governor_MA,2,b,A,b,ok,"A
+
+**Explanation:**  
+Based on the immediate gut impression from the images provided, **Candidate A** appears more competent. This assessment is influenced by several visual cues commonly associated with perceptions of competence in facial impressions:
+
+1. **Facial Expression**: Candidate A has a br"
+governor_MD,2,a,A,a,ok,"A
+
+**Explanation (for your understanding, not part of the response):**  
+Based on common first-impression biases in facial competence perception—where features like a neutral or slightly serious expression, a broader jawline, and a more angular face are often subconsciously associated with authority"
+governor_MD,2,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies about first impressions and facial cues, people often associate certain features—like a neutral or slightly serious expression, well-groomed hair, and direct eye contact—with competence. Candidate"
+governor_MD,1,a,A,a,ok,"A
+
+**Explanation:** Based on the immediate gut impression from the images provided, Candidate A appears more competent. This assessment is influenced by several visual cues:
+
+1. **Facial Expression**: Candidate A has a warm, confident smile that conveys approachability and self-assurance. This can b"
+governor_MD,1,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies about first impressions and facial cues, people often associate certain features—like a neutral or slightly serious expression, well-groomed hair, and direct eye contact—with competence. Candidate"
+governor_ME,0,a,B,b,ok,"B
+
+**Explanation:**  
+In studies of first impressions based on facial appearance, certain traits are often subconsciously associated with perceived competence. These include:
+
+1. **Facial Structure**: Angular or squared jawlines are frequently linked to assertiveness and leadership qualities, traits"
+governor_ME,0,b,A,b,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** presents a more formal and serious demeanor. The individual has a structured hairstyle, a neatly groomed mustache, and is wearing formal attire (a suit and tie). These visual cues often align with "
+governor_ME,1,a,B,b,ok,"B
+
+**Explanation:** In studies of first impressions based on facial appearance, certain features are often associated with perceptions of competence. These include:
+
+1. **Facial Structure:** Stronger, more angular facial features are frequently linked to perceptions of competence and leadership.
+2. "
+governor_ME,1,b,A,b,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** presents a more formal and serious demeanor. The individual has a structured hairstyle, a neatly trimmed mustache, and is wearing formal attire (a suit and tie). These visual cues often align with "
+governor_ME,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common stereotypes and first-impression biases often associated with facial features and presentation. Candidate B has a more serious and composed expression, which is o"
+governor_ME,2,b,A,b,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** presents a more formal and serious demeanor. The individual has a structured hairstyle, a neatly trimmed mustache, and is wearing formal attire (a suit and tie). These visual cues often align with "
+governor_MI,0,a,B,b,ok,"B
+
+**Explanation (for context, not part of the answer):**  
+When judging competence based solely on facial appearance, studies often suggest that certain traits—like a neutral or slightly serious expression, strong jawline, and direct eye contact—can influence perceptions of authority and competence"
+governor_MI,0,b,A,b,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate A** is more likely to be judged as competent. Factors that contribute to this impression include:
+
+1. **Facial Expr"
+governor_MI,1,a,B,b,ok,"B
+
+**Explanation (for context, not part of the answer):**  
+When judging competence based solely on facial appearance, studies often suggest that certain traits—like a neutral or slightly serious expression, strong jawline, and direct eye contact—can influence perceptions of authority and competence"
+governor_MI,1,b,A,b,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate A** is more likely to be judged as competent. Factors that contribute to this perception include:
+
+1. **Facial Stru"
+governor_MI,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression biases often associated with facial features and presentation. Candidate B has a more neutral and composed expression, which can be subconsciousl"
+governor_MI,2,b,A,b,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate A** is more likely to be judged as competent. Factors that contribute to this impression include:
+
+1. **Facial Expr"
+governor_MN,0,a,A,a,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** has a short, neatly styled haircut and a warm, confident smile. The facial expression conveys approachability and confidence, which are often associated with competence in first impressions. The ov"
+governor_MN,0,b,B,a,ok,"B
+
+**Explanation:**  
+Based on the immediate gut impression from the images provided, **Candidate B** appears more competent. This assessment is influenced by several visual cues commonly associated with perceptions of competence in professional settings:
+
+1. **Hair Style**: Candidate B has a neat, "
+governor_MN,1,a,A,a,ok,"A
+
+### Explanation:
+When judging competence based solely on facial appearance, several factors often come into play, such as facial expression, grooming, and overall presentation. In this case:
+
+- **Candidate A** has a well-groomed, short hairstyle that conveys a sense of professionalism and order. "
+governor_MN,1,b,B,a,ok,"B
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological research into first impressions and facial cues associated with perceived competence, individuals often associate certain traits—such as a neutral or slightly serious expression, well-groomed and structur"
+governor_MN,2,a,A,a,ok,"A
+
+### Reasoning:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** has a short, neatly styled haircut and a warm, confident smile. The facial expression appears approachable and professional, often associated with traits like confidence and competence.
+- **Candidate"
+governor_MN,2,b,B,a,ok,"B
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate B** is often judged as more competent. This is typically due to a more neutral, composed expression and a sho"
+governor_NE,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is influenced by common stereotypes and visual cues often associated with perceived competence, such as a more serious expression, a formal suit, and a composed demeanor. However, i"
+governor_NE,1,b,A,b,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. This assessment is based on common first-impression biases often associated with facial features and expressions in professional contexts. Candidate A has a more assertive and confident demeanor, w"
+governor_NE,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is influenced by common stereotypes and first-impression biases often associated with facial features and presentation. Candidate B has a more assertive and traditional executive ap"
+governor_NE,0,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies about first impressions and facial cues associated with perceived competence, **Candidate A** is likely to be judged as more competent. Factors that contribute to this impression include:
+
+1. **Fa"
+governor_NE,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is influenced by common stereotypes and first-impression biases often associated with facial features and presentation. Candidate B has a more assertive and traditional executive ap"
+governor_NE,2,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate A** is likely to be judged as more competent. Factors that often contribute to this perception include:
+
+1. *"
+governor_NH,0,a,A,a,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate A** is likely to be judged as more competent. Key factors include:
+
+1. **Facial Expression**: Candidate A has"
+governor_NH,0,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on first impressions from facial appearance alone, Candidate A appears more competent. This assessment is influenced by subtle cues such as facial expression, grooming, and overall presentation. Candidate A’s smile appears more "
+governor_NH,1,a,A,a,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate A** is likely to be judged as more competent. Factors that contribute to this impression include:
+
+1. **Facia"
+governor_NH,1,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on first impressions from facial appearance alone, Candidate A appears more competent. This assessment is influenced by subtle cues such as facial expression, grooming, and overall presentation. Candidate A’s smile appears more "
+governor_NH,2,a,A,a,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate A** appears more competent at first glance. This assessment is based on several subtle cues:
+
+1. **Facial Exp"
+governor_NH,2,b,A,b,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided, **Candidate A** appears more competent. This assessment is based on common psychological and perceptual cues often associated with perceptions of competence in facial impressions:
+
+1. **Facial Expression**: Candidate"
+governor_NM,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common stereotypes and first-impression biases often associated with facial features and expressions in professional contexts. Candidate B has a more neutral, composed e"
+governor_NM,0,b,A,b,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** presents a formal, professional appearance with a suit and a confident, closed-mouth smile. The posture and facial expression convey authority, control, and a sense of seriousness often associated "
+governor_NM,1,a,B,b,ok,"B
+
+**Reasoning (for context, not part of the answer):**  
+Based on common first-impression biases in facial competence perception—often associating neutral or slightly serious expressions, angular features, and formal attire with competence—Candidate B’s appearance aligns more closely with these ste"
+governor_NM,1,b,A,b,ok,"A
+
+**Explanation:** Based on the immediate gut impression from the images provided, Candidate A appears more competent. This assessment is influenced by several visual cues commonly associated with perceptions of competence:
+
+1. **Facial Expression**: Candidate A has a confident, closed-mouth smile "
+governor_NM,2,a,B,b,ok,"B
+
+**Reasoning (for context, not part of the answer):**  
+Based on common first-impression biases in facial competence perception—often associating neutral or slightly serious expressions, angular features, and formal attire with competence—Candidate B’s appearance aligns more closely with these ste"
+governor_NM,2,b,A,b,ok,"A
+
+### Reasoning:
+Based on the immediate gut impression from the provided images:
+
+- **Candidate A** has a more formal and composed appearance, with a neatly trimmed beard and a professional smile. The attire (a suit and tie) and the overall demeanor convey a sense of authority and confidence, which"
+governor_NV,1,a,B,b,ok,"B
+
+**Explanation (for context, not part of the final answer):**  
+When judging competence based solely on facial appearance, studies and common perceptions often associate certain traits—such as a neutral or slightly serious expression, well-groomed hair, and a direct gaze—with perceived competence."
+governor_NV,1,b,A,b,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+Based on common first-impression biases in facial competence perception—often influenced by features like brow furrow, facial hair, and perceived ""strength""—Candidate A’s appearance may align more closely with stereotypical cues associated "
+governor_NV,0,a,B,b,ok,"B
+
+**Explanation (for context, not part of the final answer):**  
+When judging competence based solely on facial appearance, studies often suggest that certain traits—like a neutral or slightly serious expression, a strong jawline, and a composed demeanor—are subconsciously associated with authority"
+governor_NV,0,b,A,b,ok,"A
+
+**Explanation (for understanding, not part of the answer):**  
+Based on common first-impression biases in professional settings, Candidate A might be perceived as more competent due to stereotypical associations often linked with certain appearances—such as age, facial features, and grooming styl"
+governor_NV,2,a,B,b,ok,"B
+
+**Explanation (for context, not part of the answer):**  
+When judging competence based solely on facial appearance, studies and common perceptions often associate certain traits—such as a neutral or slightly serious expression, well-groomed hair, and a direct gaze—with perceived competence and au"
+governor_NV,2,b,A,b,ok,"A
+
+**Explanation (for understanding, not part of the final answer):**  
+Based on common first-impression biases in professional settings, **Candidate A** might be perceived as more competent due to stereotypical associations often linked with certain facial features and presentation styles. However,"
+governor_NY,1,a,B,b,ok,"B
+
+**Explanation (for context, not part of the final answer):**  
+Based on common first-impression biases in facial competence perception—often associating masculine features, neutral or slight smiles, and formal attire with competence—Candidate B is more likely to be judged as competent at first gl"
+governor_NY,1,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common first-impression biases in facial competence perception—often influenced by features like brow furrow, nose bridge prominence, and overall facial structure—Candidate A’s features tend to align more with stereotypical c"
+governor_NY,0,a,B,b,ok,"B
+
+**Reasoning (for context, not part of the answer):**  
+Based on common first-impression biases in facial competence perception—often associating masculine features, formal attire, and a neutral or slightly serious expression with authority and competence—Candidate B is more likely to be judged as"
+governor_NY,0,b,A,b,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate A** is more likely to be judged as competent. Factors that contribute to this impression include:
+
+- **Facial Expre"
+governor_NY,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common stereotypes and first-impression biases often associated with certain facial features and presentation styles. Candidate B has a more assertive and formal appeara"
+governor_NY,2,b,A,b,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+Based on common first-impression biases in facial competence perception—often influenced by features like brow furrow, nose bridge prominence, and overall facial structure—Candidate A’s appearance aligns more closely with stereotypical cues"
+governor_OH,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression cues often associated with perceived competence, such as a more formal and professional appearance, which can include attire and facial expressio"
+governor_OH,0,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological research into first impressions and facial cues associated with perceived competence, **Candidate A** is more likely to be judged as competent at first glance. Factors that contribute to this impression i"
+governor_OH,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression cues often associated with perceived competence, such as a more formal and professional appearance (e.g., a suit and tie), a direct and confident"
+governor_OH,1,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological research into first impressions and facial cues associated with perceived competence, **Candidate A** is more likely to be judged as competent at first glance. Factors that contribute to this impression i"
+governor_OH,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression biases often associated with facial features and presentation. Candidate B has a more neutral and composed expression, which can be subconsciousl"
+governor_OH,2,b,,,REFUSE,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological research on first impressions and facial cues associated with perceived competence, **Candidate A** is more likely to be judged as competent at first glance. Factors that contribute to this impression inc"
+governor_OK,0,a,B,b,ok,"B
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies about first impressions and perceived competence from facial appearance, individuals often associate certain traits—such as a neutral or slightly serious expression, mature features, and a compose"
+governor_OK,0,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate A** is more likely to be judged as competent. Factors that contribute to this impression include:
+
+1. **Facia"
+governor_OK,1,a,B,b,ok,"B
+
+**Explanation (for context, not part of the answer):**  
+When judging competence based solely on facial appearance, people often rely on subtle cues such as confidence, symmetry, and grooming. Candidate B presents a more traditionally ""executive"" appearance—neatly combed hair, a formal suit, and "
+governor_OK,1,b,A,b,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+Based on common first-impression biases in facial competence perception—often associating certain masculine features (like a stronger jawline, more angular features, and a neutral or slight smile) with leadership and competence—Candidate A "
+governor_OR,0,a,A,a,ok,"A
+
+### Reasoning:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** has a more formal and structured appearance, with short, neatly styled hair and glasses. The glasses often convey a sense of professionalism and seriousness, which can be associated with competence i"
+governor_OR,0,b,B,a,ok,"B
+
+Research suggests that people often associate certain facial features and expressions with competence. In this case, Candidate B, with shorter hair, glasses, and a more neutral expression, might be perceived as more competent based on common stereotypes. However, it's important to remember that c"
+governor_OK,2,a,B,b,ok,"B
+
+**Explanation (for context, not part of the answer):**  
+Based on common psychological studies about first impressions and perceived competence from facial appearance, **Candidate B** is likely to be judged as more competent. Research often suggests that certain features—such as a neutral or slig"
+governor_OK,2,b,A,b,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate A** is more likely to be judged as competent. Factors that contribute to this impression include:
+
+1. **Facial Expr"
+governor_OR,1,a,A,a,ok,"A
+
+### Reasoning:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** has a more structured and formal appearance, with short, neatly styled hair and glasses. The glasses often convey a sense of professionalism and attention to detail, which can be associated with comp"
+governor_OR,1,b,B,a,ok,"B
+
+Research suggests that people often associate certain facial features and expressions with competence. In this case, Candidate B, with shorter hair, glasses, and a more neutral expression, might be perceived as more competent based on common stereotypes. However, it's important to remember that c"
+governor_OR,2,a,A,a,ok,"A
+
+### Reasoning:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** has a more formal and structured appearance, with short, neatly styled hair and glasses. The glasses often convey a sense of professionalism and seriousness, which can be associated with competence i"
+governor_OR,2,b,B,a,ok,"B
+
+Research suggests that people often associate certain facial features and expressions with competence. In this case, Candidate B’s appearance—particularly the glasses and a more neutral, composed expression—might be subconsciously interpreted as more competent. While Candidate A also appears conf"
+governor_PA,0,a,A,a,ok,"A
+
+### Reasoning:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** appears more formal and professional. The individual is wearing glasses, which can often be associated with intelligence and seriousness. The smile is confident but not overly broad, suggesting a com"
+governor_PA,0,b,B,a,ok,"B
+
+Research suggests that certain facial features and expressions can influence perceptions of competence. In this case, Candidate B, with a more neutral and composed expression and the presence of glasses, might be perceived as more competent based on common stereotypes associated with such feature"
+governor_PA,1,a,A,a,ok,"A
+
+### Reasoning:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** appears more formal and professional. The individual is wearing glasses, which often connotes seriousness and attention to detail. The smile is confident but not overly broad, suggesting a balanced a"
+governor_PA,1,b,B,a,ok,"B
+
+Research suggests that certain facial features can influence perceptions of competence. For instance, individuals with broader chins and more masculine facial features are often perceived as more competent, particularly in leadership roles. Additionally, wearing glasses can also enhance perceptio"
+governor_PA,2,a,A,a,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** appears more competent due to several visual cues:
+  - **Glasses**: Often associated with professionalism and intellectualism.
+  - **Smile**: A confident, warm smile can convey approachability and "
+governor_PA,2,b,B,a,ok,"B
+
+Research suggests that certain facial features and expressions can influence perceptions of competence. In this case, Candidate B, with a more neutral and composed expression and the presence of glasses, might be perceived as more competent based on common stereotypes associated with such feature"
+governor_RI,0,a,B,b,ok,"B
+
+Research suggests that certain facial features and expressions can influence perceptions of competence. In this case, Candidate B, despite also smiling, presents a more neutral and composed expression which, combined with the formal attire, may convey a sense of seriousness and authority often as"
+governor_RI,0,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies about first impressions and perceived competence from facial appearance, individuals often associate certain traits—such as a neutral or slightly serious expression, formal attire, and symmetrical"
+governor_RI,1,a,B,b,ok,"B
+
+Research suggests that certain facial features and expressions can influence perceptions of competence. In this case, Candidate B’s appearance—particularly the glasses, structured hair, and formal attire—may align more closely with stereotypical cues often associated with competence and authority"
+governor_RI,1,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies about first impressions and competence, individuals often associate certain facial features and expressions with perceived competence. In many such studies, men with neutral or slightly serious ex"
+governor_RI,2,a,B,b,ok,"B
+
+Research on first impressions often suggests that certain facial features and expressions can influence perceptions of competence. While both individuals appear confident and approachable, Candidate B’s attire (a suit) and direct gaze may contribute to an immediate impression of professionalism a"
+governor_RI,2,b,A,b,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+Based on common psychological studies about first impressions and perceived competence from facial appearance, **Candidate A** is more likely to be judged as competent. Research often suggests that certain features—such as a neutral or slig"
+governor_SC,0,a,B,b,ok,"B
+
+**Explanation (for context, not part of the final answer):**  
+When judging competence based solely on appearance, many people tend to associate certain traits—such as a neutral or serious expression, direct eye contact, and a clean, professional look—with confidence and authority. Candidate B’s "
+governor_SC,0,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**
+
+When judging competence based solely on appearance, several subtle cues often influence our immediate gut reactions. In this case:
+
+- **Candidate A** has a neutral, composed expression with a slight smile. His posture and facial featur"
+governor_SC,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression biases often associated with facial features and expressions in professional contexts. Candidate B has a more neutral and composed expression, wh"
+governor_SC,1,b,,,REFUSE,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies about first impressions and facial cues associated with perceived competence, **Candidate A** is more likely to be judged as competent at first glance. Factors that contribute to this perception i"
+governor_SD,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression cues often associated with perceived competence, such as facial expression, grooming, and overall presentation. Candidate B has a more polished a"
+governor_SD,0,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, Candidate A appears more competent at first glance. Factors that contribute to this impression include:
+
+1. **Facial Expr"
+governor_SC,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression biases often associated with facial features and expressions. Candidate B has a more neutral, composed expression which can be subconsciously int"
+governor_SC,2,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies about first impressions and facial cues associated with perceived competence, **Candidate A** is more likely to be judged as competent at first glance. Factors that contribute to this perception i"
+governor_SD,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression cues often associated with perceived competence, such as facial expression, grooming, and overall presentation. Candidate B has a more composed a"
+governor_SD,1,b,A,b,ok,"A
+
+**Explanation (for your understanding, not part of the response):**  
+Based on common psychological studies about first impressions and facial features associated with perceived competence, Candidate A appears more competent at first glance. Factors that contribute to this impression include:
+
+1."
+governor_SD,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression cues often associated with perceived competence, such as facial expression, grooming, and posture. Candidate B has a more composed and confident "
+governor_SD,2,b,A,b,ok,"A
+
+**Explanation (for your understanding, not part of the response):**  
+Based on common psychological studies about first impressions and facial cues, **Candidate A** appears more competent at first glance. Here's why:
+
+1. **Facial Expression**: Candidate A has a subtle, confident smile that convey"
+governor_TN,0,a,B,b,ok,"B
+
+**Explanation (for context, not part of the final answer):**  
+Based on first impressions from facial appearance alone, Candidate B often conveys a more approachable and confident demeanor due to the smile and direct gaze, which can be subconsciously interpreted as warmth and leadership qualities"
+governor_TN,0,b,A,b,ok,"A
+
+### Reasoning:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** has a broader, more open smile, which often conveys confidence and approachability. The posture and facial expression appear more relaxed and engaging, which can be subconsciously interpreted as more"
+governor_TN,1,a,B,b,ok,"B
+
+**Explanation (for context, not part of the final answer):**  
+When judging competence based solely on facial appearance, people often rely on subtle cues such as confidence, grooming, and expression. Candidate B appears more confident due to the direct gaze, a broader smile, and a more polished "
+governor_TN,1,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on first impressions from facial appearance alone, Candidate A is often perceived as more competent. This is likely due to several factors:
+
+1. **Smile**: Candidate A is smiling, which can convey confidence, approachability, and"
+governor_TN,2,a,B,b,ok,"B
+
+**Explanation:** Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is influenced by several visual cues:
+
+1. **Smile and Expression**: Candidate B has a warm, confident smile which often conveys approachability and confidence—quali"
+governor_TN,2,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on first impressions from facial appearance alone, Candidate A often conveys a more approachable and confident demeanor due to the smile and direct gaze, which can be subconsciously interpreted as warmth and leadership qualities"
+governor_TX,0,a,B,b,ok,"B
+
+**Explanation (for context):**  
+When judging competence based solely on facial appearance, studies and common perceptions often associate certain traits—such as a neutral or slightly serious expression, a strong jawline, and a composed demeanor—with perceived competence and authority. Candidate "
+governor_TX,0,b,A,b,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+Based on common first-impression biases in facial competence perception—often influenced by features like brow furrow, nose bridge prominence, and overall facial structure—Candidate A’s features align more closely with stereotypical ""compet"
+governor_TX,2,a,B,b,ok,"B
+
+**Explanation (for context, not part of the answer):**  
+When judging competence based solely on facial appearance, studies often suggest that certain traits—like a neutral or slightly serious expression, a strong jawline, and a composed demeanor—are subconsciously associated with authority and c"
+governor_TX,2,b,A,b,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+Based on common first-impression biases in facial competence perception—often influenced by features like brow furrow, nose bridge prominence, and overall facial structure—Candidate A’s features align more closely with stereotypical ""compet"
+governor_TX,1,a,B,b,ok,"B
+
+**Explanation (for context, not part of the final answer):**  
+When judging competence based solely on facial appearance, studies often show that people tend to associate certain traits—like a neutral or slightly serious expression, a strong jawline, and a composed demeanor—with competence and le"
+governor_TX,1,b,A,b,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+Based on common first-impression biases in facial competence perception—often influenced by features like brow furrow, nose bridge prominence, and overall facial structure—Candidate A’s features align more closely with stereotypical ""compet"
+governor_VT,0,a,B,b,ok,"B
+
+Research and psychological studies often suggest that certain facial features and expressions can influence perceptions of competence. Typically, individuals with more angular or assertive facial features, a direct gaze, and a neutral or slightly serious expression are often perceived as more com"
+governor_VT,0,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate A** is more likely to be judged as competent. Factors that contribute to this perception include:
+
+1. **Facia"
+governor_VT,1,a,B,b,ok,"B
+
+Research on first impressions often suggests that certain facial features and expressions can influence perceptions of competence. Typically, individuals with more angular or ""strong"" facial features, a neutral or slightly serious expression, and direct eye contact are often perceived as more com"
+governor_VT,1,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate A** is more likely to be judged as competent. Factors such as a neutral, serious expression, strong jawline, "
+governor_VT,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common stereotypes and first-impression biases often associated with facial features and presentation. Typically, individuals with a more serious, composed expression an"
+governor_VT,2,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies and societal biases, men are often perceived as more competent in leadership roles, especially when the cues are neutral or ambiguous. The man in Candidate A has a more serious, assertive expressi"
+governor_WI,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression biases often associated with facial features and expressions in professional contexts. Candidate B has a more neutral, composed expression and a "
+governor_WI,0,b,A,b,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** appears more formal and composed. The individual is wearing glasses, which can often be associated with intelligence and professionalism. The smile is warm but reserved, suggesting confidence and a"
+governor_WI,1,a,B,b,ok,"B
+
+**Explanation:**  
+When judging competence based solely on appearance, several subtle cues influence perception. Candidate B projects a more neutral, composed expression, which often aligns with stereotypes of professionalism and authority. The straight posture and direct gaze can also signal con"
+governor_WI,1,b,A,b,ok,"A
+
+**Explanation:**  
+Based on the immediate gut impression from the images provided, **Candidate A** appears more competent. This assessment is influenced by several visual cues commonly associated with perceptions of competence in professional settings:
+
+1. **Facial Expression**: Candidate A has a"
+governor_WI,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression biases often associated with facial features and presentation. Candidate B has a more neutral and composed expression, which can be subconsciousl"
+governor_WI,2,b,A,b,ok,"A
+
+**Explanation:**  
+Based on the immediate gut impression from the images provided, **Candidate A** appears more competent. This assessment is influenced by several visual cues commonly associated with perceptions of competence in professional settings:
+
+1. **Facial Expression**: Candidate A has a"
+governor_WY,0,a,A,a,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+Based on common psychological studies about first impressions and facial cues, people often associate competence with certain features such as a neutral or slightly serious expression, direct eye contact, and a clean, professional appearanc"
+governor_WY,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The individual in Candidate B has a direct gaze, which often conveys confidence and assertiveness—qualities commonly associated with competence. The glasses and the straightforward pose also contri"
+governor_WY,1,a,A,a,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** appears more formal and professional. The individual is wearing glasses, which can often be associated with intelligence and seriousness. The expression is neutral and composed, and the overall pre"
+governor_WY,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The individual in Candidate B has a direct gaze, which often conveys confidence and assertiveness—qualities commonly associated with competence. The glasses can also add to a perception of professi"
+governor_WY,2,a,A,a,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+Based on common psychological studies about first impressions and facial cues, people often associate competence with certain features such as a neutral or slightly serious expression, direct eye contact, and a clean, professional appearanc"
+governor_WY,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The individual in Candidate B has a direct gaze, which often conveys confidence and assertiveness. The glasses can also add to a perception of professionalism and seriousness. In contrast, Candidat"
+senate_AL,0,a,B,b,ok,"B
+
+Research and psychological studies on first impressions often suggest that certain facial features and expressions can influence perceptions of competence. Generally, individuals with more symmetrical faces, direct eye contact, and neutral or slightly positive expressions tend to be perceived as "
+senate_AL,0,b,A,b,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** has a more approachable and confident demeanor. The smile, eye contact, and overall facial expression convey warmth and openness, which are often associated with perceived competence and leadership"
+senate_AL,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression biases often associated with facial features and presentation. Candidate B has a more approachable and confident demeanor, with a well-groomed ha"
+senate_AL,1,b,A,b,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** has a polished, well-groomed appearance with neatly styled hair and a professional smile. The facial expression conveys confidence and approachability, which are often associated with competence in"
+senate_AL,2,a,B,b,ok,"B
+
+Research suggests that certain facial features can influence perceptions of competence. Individuals with more masculine facial features, such as a stronger jawline and more pronounced brow ridges, are often perceived as more competent. Candidate B exhibits these characteristics more prominently, "
+senate_AL,2,b,A,b,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** has a more approachable and confident demeanor. The smile, eye contact, and overall facial expression convey warmth and openness, which are often associated with perceived competence and leadership"
+senate_AR,0,a,B,b,ok,"B
+
+Based on first impressions from facial appearance alone, Candidate B is often perceived as more competent. Research in social psychology suggests that certain facial features—such as a slightly broader jawline, a more angular face shape, and a neutral or subtly confident expression—are often subc"
+senate_AR,0,b,A,b,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+Based on common psychological studies of first impressions and facial cues, **Candidate A** is often perceived as more competent in immediate gut reactions. This is typically due to factors such as:
+
+- **Facial symmetry and structure**: Can"
+senate_AR,1,a,B,b,ok,"B
+
+Research on first impressions often suggests that certain facial features and expressions can influence perceptions of competence. While both individuals appear friendly and approachable due to their smiles, **Candidate B** may be perceived as more competent based on common stereotypes associated"
+senate_AR,1,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate A** is more likely to be judged as competent at first glance. Factors that contribute to this impression incl"
+senate_AR,2,a,B,b,ok,"B
+
+Research on first impressions often suggests that certain facial features and expressions can influence perceptions of competence. While both individuals appear friendly and approachable due to their smiles, **Candidate B** may be perceived as more competent based on common stereotypes associated"
+senate_AR,2,b,A,b,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate A** is more likely to be judged as competent at first glance. Factors that often contribute to this perception incl"
+senate_CO,0,a,A,a,ok,"A
+
+### Reasoning:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** has a warm, open smile and direct eye contact, which often conveys approachability and confidence. The lack of glasses and the relaxed posture can also contribute to an impression of openness and fri"
+senate_CO,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression cues often associated with perceived competence, such as facial expression, grooming, and overall presentation. Candidate B has a more open and c"
+senate_CO,1,a,A,a,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** appears more approachable and friendly due to the warm, open smile and direct gaze. These features often convey confidence and approachability, which can be associated with perceived competence in "
+senate_CO,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression cues often associated with perceived competence, such as facial expression, grooming, and overall presentation. Candidate B has a more open and c"
+senate_CO,2,a,A,a,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** appears more approachable and friendly due to the warm, open smile and direct gaze. These features often convey confidence and approachability, which can be associated with perceived competence in "
+senate_CO,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression cues often associated with perceived competence, such as facial expression, grooming, and overall presentation. Candidate B has a more open and c"
+senate_DE,0,a,A,a,ok,"B
+
+Research on first impressions often suggests that certain facial features and expressions can influence perceptions of competence. While Candidate A has a warm smile, which can convey approachability and friendliness, Candidate B’s neutral expression, combined with glasses, may be interpreted as "
+senate_DE,0,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies about first impressions and facial cues, people often associate competence with certain features such as a neutral or serious expression, direct eye contact, and a composed demeanor. Candidate A e"
+senate_DE,2,a,B,b,ok,"B
+
+**Explanation (for context, not part of the answer):**  
+When judging competence based on facial appearance alone, people often rely on subtle cues such as facial expression, posture, and grooming. Candidate B, with a neutral expression, glasses, and a more formal posture, may be perceived as mor"
+senate_DE,2,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies about first impressions and facial cues, people often associate competence with neutral or slightly serious expressions, as it can signal focus and seriousness. Glasses can also contribute to perc"
+senate_DE,1,a,B,b,ok,"B
+
+Research on first impressions from facial appearance often suggests that certain features can influence perceptions of competence. While individual interpretations may vary, studies have shown that people tend to associate certain facial characteristics—such as a neutral or serious expression, a "
+senate_DE,1,b,A,b,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** has a neutral, composed expression with a direct gaze. The glasses and the formal attire (partially visible) contribute to an impression of seriousness, focus, and professionalism. These visual cue"
+senate_GA,0,a,B,b,ok,"B
+
+**Explanation:**  
+Based on the immediate gut impression from the images provided, **Candidate B** appears more competent. This assessment is influenced by several visual cues commonly associated with perceptions of competence in professional settings:
+
+1. **Age and Experience:** Candidate B has "
+senate_GA,0,b,A,b,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** appears more experienced and authoritative. The individual has a mature look, with a well-groomed hairstyle and a confident, warm smile. The posture and facial expression convey a sense of confiden"
+senate_GA,1,a,B,b,ok,"B
+
+**Explanation:**  
+Based on the immediate gut impression from the images provided, **Candidate B** appears more competent. This assessment is influenced by several visual cues commonly associated with perceptions of competence in professional settings:
+
+1. **Age and Experience:** Candidate B has "
+senate_GA,1,b,A,b,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the provided images, **Candidate A** appears more competent. This assessment is based on several visual cues commonly associated with perceptions of competence:
+
+1. **Facial Expression**: Candidate A has a confident, warm smile that conv"
+senate_GA,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common stereotypes and first-impression biases often associated with facial features and presentation in professional contexts. Candidate B has a more mature and experie"
+senate_GA,2,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common first-impression biases in facial competence perception—often influenced by features like brow furrow, nose bridge prominence, and overall facial structure—Candidate A’s appearance aligns more closely with stereotypica"
+senate_IA,0,a,,,REFUSE,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies about first impressions and perceived competence from facial appearance, **Candidate A** is more likely to be judged as competent by most people. Factors that contribute to this impression include"
+senate_IA,0,b,B,a,ok,"B
+
+Research suggests that certain facial features can influence perceptions of competence. While both individuals appear friendly and approachable, Candidate B’s facial structure—particularly the stronger jawline and more angular features—often correlates with higher perceived competence in first-im"
+senate_IA,1,a,A,a,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate A** is more likely to be judged as competent. Research often suggests that certain facial features—such as a "
+senate_IA,1,b,B,a,ok,"B
+
+**Explanation (for context, not part of the answer):**  
+Based on first impressions from facial appearance alone, Candidate B often conveys a sense of confidence and assertiveness due to features like a strong jawline and direct eye contact, which are commonly associated with perceptions of compe"
+senate_IA,2,a,A,a,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies and societal biases, men are often perceived as more competent in leadership roles, especially when the context is professional or authoritative. The facial features of Candidate A—strong jawline,"
+senate_IA,2,b,B,a,ok,"B
+
+Research suggests that certain facial features can influence perceptions of competence. While both individuals appear friendly and approachable, Candidate B’s facial structure—particularly the stronger jawline and more angular features—often correlates with higher perceived competence in first im"
+senate_ID,0,a,B,b,ok,"B
+
+**Explanation (for context, not part of the final answer):**  
+When judging competence based solely on facial appearance, studies often suggest that certain traits—like a more serious expression, a slightly furrowed brow, or a more angular facial structure—are unconsciously associated with author"
+senate_ID,0,b,A,b,ok,"A
+
+**Reasoning (for context, not part of the answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate A** is likely to be judged as more competent. Factors that contribute to this impression include:
+
+1. **Age and Exper"
+senate_ID,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression cues often associated with perceived competence, such as facial features, expression, and overall demeanor. Candidate B has a more serious and co"
+senate_ID,1,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate A** is likely to be judged as more competent. Factors that contribute to this impression include:
+
+1. **Age a"
+senate_ID,2,a,B,b,ok,"B
+
+**Reasoning (for context, not part of the answer):**  
+When judging competence based on facial appearance alone, people often subconsciously look for traits associated with confidence, experience, and authority. Candidate B’s slightly more serious expression, mature features, and composed demeano"
+senate_ID,2,b,A,b,ok,"A
+
+**Reasoning (for context, not part of the answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate A** often appears more competent due to subtle cues such as:
+
+- **Facial maturity and structure**: Older-looking face"
+senate_IL,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is influenced by common stereotypes and visual cues often associated with perceived competence, such as formal attire, a neutral and composed expression, and a more serious demeanor"
+senate_IL,0,b,A,b,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+Based on common first-impression biases studied in psychology, people often associate certain facial features and expressions with competence. In this case, Candidate A’s appearance—particularly the glasses, structured hair, and a slight, c"
+senate_IL,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is influenced by common stereotypes and visual cues often associated with perceived competence, such as formal attire, a neutral and composed expression, and a more serious demeanor"
+senate_IL,2,b,A,b,ok,"A
+
+**Explanation:** Based on the immediate gut impression from the images provided, Candidate A appears more competent. This assessment is influenced by several visual cues commonly associated with perceptions of competence in professional settings:
+
+1. **Facial Expression:** Candidate A has a calm,"
+senate_KS,0,a,B,b,ok,"B
+
+**Explanation (for context, not part of the answer):**  
+When judging competence based on facial appearance alone, people often rely on subtle cues such as confidence, grooming, and facial expression. Candidate B appears more polished and authoritative due to a neutral, composed expression and a "
+senate_KS,0,b,A,b,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** appears more confident and approachable due to the direct gaze, a broad smile, and an overall polished look. These elements often contribute to perceptions of competence and leadership in first imp"
+senate_IL,1,a,B,b,ok,"B
+
+**Explanation:** Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is influenced by several visual cues commonly associated with perceptions of competence:
+
+1. **Facial Expression:** Candidate B has a neutral, composed expression t"
+senate_IL,1,b,A,b,ok,"A
+
+### Explanation:
+When judging competence based solely on appearance, several visual cues are often subconsciously evaluated, such as facial expression, grooming, and overall presentation. In this case:
+
+- **Candidate A** has a neutral, composed expression with glasses, which can convey profession"
+senate_KS,1,a,B,b,ok,"B
+
+**Explanation (for context):**  
+Based on common first-impression biases in facial perception studies, Candidate B is likely to be perceived as more competent. This is often due to factors such as a more neutral or serious expression, which can be unconsciously associated with confidence and auth"
+senate_KS,1,b,A,b,ok,"A
+
+### Reasoning:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** has a more formal and polished appearance, with a well-groomed hairstyle and a professional smile. The lack of glasses and the direct, open gaze can convey confidence and approachability, often assoc"
+senate_KY,0,a,A,a,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies and societal biases, individuals with certain facial features—such as a broader jawline, a more angular face, and a confident smile—are often perceived as more competent, assertive, and trustworth"
+senate_KY,0,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological research into first impressions and facial cues associated with perceived competence, **Candidate A** is likely to be judged as more competent in a snap judgment. This is often due to subtle cues such as:"
+senate_KS,2,a,B,b,ok,"B
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological research into first impressions and facial cues associated with perceived competence, Candidate B is likely to be judged as more competent. Factors that contribute to this perception include:
+
+1. **Direct"
+senate_KS,2,b,A,b,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** appears more confident and approachable due to a direct gaze, a broad, open smile, and a well-groomed appearance. These visual cues often convey competence and friendliness, which can influence per"
+senate_KY,1,a,A,a,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions from facial appearance, individuals often associate certain traits—such as confidence, assertiveness, and warmth—with perceived competence. In this case, Candidate A’s facial "
+senate_KY,1,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions from facial appearance, individuals often associate certain facial features with perceived competence. In many such studies, faces that exhibit a slight, confident smile, a di"
+senate_KY,2,a,A,a,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+Based on common psychological studies of first impressions from facial appearance, individuals often associate certain traits—such as confidence, assertiveness, and competence—with more assertive facial features and a broader, more open smi"
+senate_KY,2,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions from facial appearance, **Candidate A** is often perceived as more competent in immediate gut reactions. This is typically due to subtle cues such as facial symmetry, grooming"
+senate_LA,2,a,A,a,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies about first impressions and perceived competence from facial appearance, certain cues often influence judgments. In this case, Candidate A’s attire (a baseball cap with a formal title) and overall"
+senate_LA,2,b,A,b,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+When judging competence based solely on appearance, people often rely on subtle cues such as facial expressions, grooming, and overall presentation. Candidate A presents a polished, professional look with well-maintained hair, a warm but co"
+senate_LA,0,a,B,b,ok,"B
+
+**Explanation (for context, not part of the answer):**  
+When judging competence based solely on appearance, many studies suggest that certain facial features and expressions can influence perceptions. Smiling, as seen in both candidates, is generally associated with approachability and confidenc"
+senate_LA,0,b,A,b,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+When judging competence based solely on appearance, people often rely on subtle cues such as facial expression, grooming, and posture. Candidate A presents a polished, professional appearance with well-groomed hair and a warm, confident smi"
+senate_LA,1,a,A,a,ok,"A
+
+**Explanation:**  
+Based on the immediate gut impression from the images provided, **Candidate A** appears more competent. This assessment is influenced by several visual cues:
+
+1. **Attire and Presentation**: Candidate A is wearing a baseball cap with a clear, professional label (""JAMIE FOR U.S."
+senate_LA,1,b,A,b,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+Based on first impressions from facial appearance alone, Candidate A often conveys a sense of approachability, confidence, and warmth due to the direct gaze, a broad smile, and an overall polished presentation. These cues are commonly assoc"
+senate_MA,0,a,A,a,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+Based on common first-impression biases in facial competence perception—where traits like grooming, facial symmetry, and confident expressions often influence judgments—Candidate A may appear more competent at first glance. The individual h"
+senate_MA,0,b,B,a,ok,"B
+
+**Explanation (for context, not part of the final answer):**  
+When judging competence based solely on facial appearance, people often rely on subtle cues such as grooming, facial structure, and expression. Candidate B appears more formally dressed (with a suit and tie visible), which can unconsc"
+senate_MA,2,a,A,a,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+Based on common first-impression biases in facial competence perception—often influenced by features like grooming, facial hair, and expressions—Candidate A’s polished appearance, formal attire, and warm smile may lead many to instinctively"
+senate_MA,2,b,B,a,ok,"B
+
+**Explanation (for context, not part of the final answer):**  
+When judging competence based solely on facial appearance, people often rely on subtle cues such as grooming, facial structure, and expression. Candidate B appears more formally dressed (in a suit and tie), which can unconsciously sig"
+senate_MA,1,a,A,a,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common first-impression biases in facial competence perception—often influenced by features like grooming, facial hair, and expressions—Candidate A’s polished appearance, formal attire, and warm smile may convey a more tradit"
+senate_MA,1,b,,,REFUSE,"B
+
+**Explanation (for context, not part of the final answer):**  
+When judging competence based solely on facial appearance, people often rely on subtle cues such as grooming, facial structure, and expression. Candidate B appears more formally dressed (a suit and tie), which can convey professionali"
+senate_MI,0,a,A,a,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. This assessment is influenced by several visual cues commonly associated with perceptions of competence in facial impressions:
+
+1. **F"
+senate_MI,0,b,A,b,ok,"A
+
+**Explanation:** Based on the immediate gut impression from the images provided, Candidate A appears more competent. This assessment is influenced by several visual cues commonly associated with perceptions of competence:
+
+1. **Facial Expression**: Candidate A has a neutral, composed expression t"
+senate_MI,1,a,A,a,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** appears more approachable and friendly due to the warm, smiling expression. This can often be associated with perceived competence in social and leadership contexts, as it suggests confidence and o"
+senate_MI,1,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies about first impressions and facial cues associated with perceived competence, **Candidate A** is more likely to be judged as competent at first glance. Factors that contribute to this perception i"
+senate_MN,0,a,A,a,ok,"A
+
+**Explanation (for context, not part of the final answer):**
+
+When judging competence based solely on facial appearance, several subtle cues can influence perception. In this case:
+
+- **Candidate A** has a more direct gaze, which often conveys confidence and engagement—qualities associated with c"
+senate_MN,0,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common first-impression biases in facial competence perception—often influenced by features like brow furrow, nose bridge prominence, and facial symmetry—Candidate A’s appearance aligns more closely with stereotypical cues as"
+senate_MI,2,a,A,a,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** appears more approachable and friendly due to the warm smile and direct gaze, which can often be associated with confidence and competence in social and professional settings. The facial expression"
+senate_MI,2,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies about first impressions and facial cues, people often associate certain traits—such as seriousness, direct eye contact, and a neutral or slightly stern expression—with competence. Candidate A’s ex"
+senate_MN,1,a,A,a,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies about first impressions and perceived competence from facial appearance, individuals often associate certain traits—such as confidence, assertiveness, and approachability—with perceived competence"
+senate_MN,1,b,A,b,ok,"A
+
+**Explanation (for context only, not part of the answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate A** appears more competent at first glance. This is often linked to factors such as:
+
+- **Facial maturity and "
+senate_MO,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common stereotypes and first-impression biases often associated with facial features and presentation in professional contexts. Typically, individuals with a more neutra"
+senate_MO,0,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common first-impression biases in facial competence perception—often influenced by features like brow furrow, smile intensity, and facial structure—Candidate A’s appearance aligns more closely with stereotypical cues associat"
+senate_MN,2,a,A,a,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies about first impressions and facial cues associated with perceived competence, **Candidate A** appears more likely to be judged as competent at first glance. Factors that often contribute to this p"
+senate_MN,2,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common first-impression biases in facial competence perception—often influenced by features like brow furrow, nose bridge prominence, and facial symmetry—Candidate A’s appearance aligns more closely with stereotypical cues as"
+senate_MO,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common stereotypes and first-impression biases often associated with facial features and presentation. Typically, individuals with a more neutral, composed expression an"
+senate_MO,1,b,A,b,ok,"A
+
+**Explanation:** Based on the immediate gut impression from the images provided, Candidate A appears more competent. This assessment is influenced by several visual cues commonly associated with perceptions of competence in professional settings:
+
+1. **Facial Expression**: Candidate A has a confi"
+senate_MO,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common stereotypes and first-impression biases often associated with facial features and presentation. Typically, individuals with a more neutral, composed expression an"
+senate_MO,2,b,A,b,ok,"A
+
+**Explanation:** Based on the immediate gut impression from the images provided, Candidate A appears more competent. This assessment is influenced by several visual cues commonly associated with perceptions of competence:
+
+1. **Facial Expression**: Candidate A has a confident, warm smile that con"
+senate_MS,0,a,A,a,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate A** is more likely to be judged as competent at first glance. Key factors include:
+
+- **Facial Expression**: "
+senate_MS,0,b,B,a,ok,"B
+
+**Explanation (for context, not part of the final answer):**  
+When judging competence based solely on facial appearance, many studies suggest that certain traits—like a broad smile, direct eye contact, and an open posture—can influence perceptions of confidence and approachability. Candidate B’s"
+senate_MS,2,a,A,a,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+Based on common first-impression biases in facial competence perception—often influenced by features like brow furrow, eye squinting, and facial hair—Candidate A’s expression and features may align more with stereotypical cues associated wi"
+senate_MS,2,b,A,b,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+Based on common first-impression biases studied in psychology, **Candidate A** may be perceived as more competent due to several factors often associated with perceived competence in facial assessments:
+
+1. **Facial Expression**: Candidate "
+senate_MS,1,a,A,a,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate A** is likely to be judged as more competent in an immediate gut reaction. Factors that contribute to this pe"
+senate_MS,1,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological research into first impressions and facial cues associated with perceived competence, **Candidate A** is often judged as more competent in immediate gut reactions. This is typically due to subtle cues suc"
+senate_NC,0,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. This assessment is based on common perceptions often associated with facial features and expressions in first-impression studies. Candidate A has a more composed and authoritative demeanor, with a "
+senate_NC,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression biases often associated with facial features and expressions. Candidate B has a more serious and composed expression, which is often subconscious"
+senate_NC,1,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. This assessment is based on common perceptions often associated with facial features and expressions in first-impression studies. Candidate A has a more composed and authoritative demeanor, with a "
+senate_NC,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression biases often associated with facial features and expressions. Candidate B has a more serious and composed expression, which is often subconscious"
+senate_NC,2,a,A,a,ok,"A
+
+Based on the immediate gut impression from the images provided, Candidate A appears more competent. This assessment is based on common perceptions often associated with facial features and expressions in first-impression studies. Candidate A has a more composed and authoritative expression, which"
+senate_NC,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression biases often associated with facial features and expressions. Candidate B has a more composed and authoritative demeanor, which can be subconscio"
+senate_NH,0,a,A,a,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common first-impression biases in facial competence perception, Candidate A might be judged as more competent due to a younger appearance, a direct gaze, and a neutral yet approachable expression. These traits often align wit"
+senate_NH,0,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate A** is likely to be judged as more competent. Factors that contribute to this impression include:
+
+1. **Age a"
+senate_NH,1,a,A,a,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common first-impression biases in facial competence perception, Candidate A might be judged as more competent due to several factors:
+
+1. **Youthful Appearance**: Younger-looking individuals are often perceived as more compet"
+senate_NH,1,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological research into first impressions and facial cues associated with perceived competence, **Candidate A** is likely to be judged as more competent. Factors that contribute to this impression include:
+
+1. **Ag"
+senate_NJ,0,a,B,b,ok,"B
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies about first impressions and facial cues associated with perceived competence, individuals often associate certain traits—such as a more mature, polished appearance, formal attire, and a composed f"
+senate_NJ,0,b,A,b,ok,"A
+
+### Reasoning (for context, not part of the final answer):
+Based on common psychological studies and societal biases regarding first impressions from facial appearance, **Candidate A** is likely to be perceived as more competent. This is often due to factors such as:
+
+1. **Facial Symmetry**: Cand"
+senate_NH,2,a,A,a,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common first-impression biases in facial competence perception—often influenced by features like facial maturity, symmetry, and expressiveness—Candidate A may be perceived as more competent. Younger-looking, more symmetrical "
+senate_NH,2,b,A,b,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate A** is likely to be judged as more competent. Factors that contribute to this perception include:
+
+1. **Age and Exp"
+senate_NJ,1,a,A,a,ok,"B
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** appears bald with a broad, open smile. While the smile is friendly, the lack of hair and the somewhat simplified facial features in the image might not convey the same level of professionalism or a"
+senate_NJ,1,b,A,b,ok,"A
+
+### Reasoning:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** has a polished, professional appearance with neatly styled hair and a formal suit, which often conveys a sense of competence and authority. The smile appears confident and approachable, which can als"
+senate_NJ,2,a,B,b,ok,"B
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies about first impressions and facial cues associated with perceived competence, individuals often associate certain traits—such as grooming, facial structure, and expression—with competence. In this"
+senate_NJ,2,b,A,b,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** has a polished, professional appearance with neatly styled hair and a formal suit, which often conveys a sense of competence and authority. The smile appears confident and approachable, aligning wi"
+senate_NM,1,a,A,a,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** appears more approachable and friendly due to the warm smile and direct eye contact. These features often convey confidence and openness, which are commonly associated with competence in social and"
+senate_NM,1,b,A,b,ok,"A
+
+**Reasoning (for context, not part of the answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence:
+
+- **Candidate A** exhibits features often linked to perceived authority and competence: a strong, angular jawline, furrowed brow"
+senate_NM,0,a,A,a,ok,"A
+
+### Explanation:
+When judging competence based solely on facial appearance, several factors often come into play, such as facial expression, grooming, and perceived confidence. Here's a brief analysis based on these visual cues:
+
+#### **Candidate A:**
+- **Facial Expression:** The individual has a"
+senate_NM,0,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions and facial cues, **Candidate A** is often perceived as more competent. This is due to several factors:
+
+1. **Facial Expression**: Candidate A has a neutral, serious expression"
+senate_NM,2,a,A,a,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** appears more approachable and friendly due to the warm smile and direct eye contact. These features often convey confidence and openness, which can be associated with competence in social and profe"
+senate_NM,2,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies on first impressions and facial cues associated with perceived competence, **Candidate A** is likely to be judged as more competent. Factors contributing to this impression include:
+
+1. **Facial S"
+senate_OK,0,a,B,b,ok,"B
+
+**Explanation (for context, not part of the final answer):**  
+Based on common first-impression biases in facial competence perception—often influenced by features like angular faces, neutral expressions, and perceived age—Candidate B’s appearance aligns more closely with stereotypical cues assoc"
+senate_OK,0,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate A** is more likely to be judged as competent. Factors that contribute to this perception include:
+
+1. **Facia"
+senate_OK,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is influenced by common stereotypes and visual cues often associated with perceived competence, such as a more serious and composed expression, a formal appearance (suggested by the"
+senate_OK,1,b,A,b,ok,"A
+
+**Explanation:**  
+Based on the immediate gut impression from the images provided, **Candidate A** appears more competent. This assessment is influenced by several visual cues commonly associated with perceptions of competence in professional settings:
+
+1. **Facial Expression**: Candidate A has a"
+senate_OK,2,a,B,b,ok,"B
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies about first impressions and perceived competence from facial appearance, individuals often associate certain traits—such as a neutral or serious expression, formal attire, and mature features—with"
+senate_OK,2,b,A,b,ok,"A
+
+**Explanation:** Based on the immediate gut impression from the images provided, Candidate A appears more competent. This assessment is influenced by several visual cues commonly associated with perceptions of competence in professional settings:
+
+1. **Facial Expression**: Candidate A has a warm,"
+senate_OR,0,a,A,a,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** has a warm, open smile and a friendly, approachable expression. The posture and facial features convey confidence and a positive demeanor, which often aligns with perceptions of competence and trus"
+senate_OR,0,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common perceptions often associated with facial features and expressions in first-impression studies. Candidate B has a more open and confident smile, which can be subco"
+senate_OR,1,a,A,a,ok,"A
+
+### Reasoning:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** has a warm, open smile and a friendly, approachable expression. The posture and facial features often convey confidence and approachability, which are traits commonly associated with competence in fi"
+senate_OR,1,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression cues often associated with perceived competence, such as facial expression, grooming, and overall presentation. Candidate B has a more polished a"
+senate_OR,2,a,A,a,ok,"A
+
+### Reasoning:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** has a warm, open smile and a friendly, approachable expression. The posture and facial features convey confidence and a positive demeanor, which often aligns with perceptions of competence and trustw"
+senate_OR,2,b,B,a,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression cues often associated with perceived competence, such as facial expression, grooming, and overall presentation. Candidate B has a more polished a"
+senate_RI,1,a,A,a,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+Based on common psychological studies of first impressions from facial appearance, **Candidate A** is likely to be perceived as more competent. Research suggests that certain facial features—such as a slightly narrower jaw, a more angular f"
+senate_RI,1,b,A,b,ok,"A
+
+**Reasoning (for context, not part of the answer):**  
+Based on common psychological studies of first impressions and facial cues, Candidate A appears more competent at first glance. The wider, open smile often conveys approachability and confidence, which can be subconsciously interpreted as com"
+senate_RI,0,a,A,a,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions from facial appearance, individuals often associate certain traits—such as confidence, authority, and competence—with specific visual cues. In this case:
+
+- **Candidate A** ha"
+senate_RI,0,b,A,b,ok,"A
+
+Both individuals present professional appearances, but Candidate A’s broader smile and more open facial expression may convey approachability and confidence, often associated with perceived competence in first impressions."
+senate_RI,2,a,A,a,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** has a more serious and composed expression, with a neutral, slightly confident smile. The posture and facial features convey a sense of authority and professionalism, which often aligns with percep"
+senate_RI,2,b,A,b,ok,"A
+
+**Reasoning (for context, not part of the answer):**  
+Based on common psychological studies about first impressions and perceived competence from facial features, individuals who display a warm, open smile (as seen in Candidate A) are often judged more favorably in terms of approachability, trus"
+senate_SC,0,a,B,b,ok,"B
+
+**Explanation (for context, not part of the answer):**  
+Based on common psychological research about first impressions and facial cues, people often associate certain traits—like assertiveness, confidence, and competence—with more neutral or serious expressions and structured hairstyles. Candida"
+senate_SC,0,b,A,b,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** has a more composed and serious expression, which often correlates with perceptions of competence, authority, and experience. The hairstyle is neat and professional, and the overall demeanor appear"
+senate_SC,2,a,B,b,ok,"B
+
+**Explanation (for context):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate B** is likely to be judged as more competent. Research often suggests that individuals with more neutral or serious expressions, along with"
+senate_SC,2,b,A,b,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** has a more composed and serious expression, with a neutral yet confident demeanor. The hairstyle is short and neat, often associated with professionalism and authority. The overall presentation con"
+senate_SC,1,a,B,b,ok,"B
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate B** is likely to be judged as more competent. Factors that often contribute to this perception include:
+
+1. *"
+senate_SC,1,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate A** is likely to be judged as more competent. Factors that contribute to this impression include:
+
+1. **Facia"
+senate_TN,1,a,B,b,ok,"B
+
+**Explanation:**  
+Based on the immediate gut impression from the images provided, **Candidate B** appears more competent. This assessment is influenced by several visual cues commonly associated with perceptions of competence in professional settings:
+
+1. **Facial Expression**: Candidate B has a"
+senate_TN,1,b,A,b,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** presents a classic, professional appearance often associated with competence. The individual has a clean, well-groomed look with a neutral expression that conveys confidence and seriousness. The at"
+senate_TN,0,a,B,b,ok,"B
+
+**Explanation (for context, not part of the answer):**  
+Based on common first-impression biases in studies of facial competence perception, Candidate B (the male individual) is likely to be judged as more competent. Research often shows that certain facial features—such as a broader jawline, a m"
+senate_TN,0,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate A** is more likely to be judged as competent at first glance. Factors that contribute to this impression incl"
+senate_TX,0,a,A,a,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** appears more approachable and friendly due to the warm, open smile. This can often be associated with positive first impressions, though it doesn't necessarily equate to competence. However, in man"
+senate_TX,0,b,B,a,ok,"B
+
+**Explanation:**  
+Based on the immediate gut impression from the images provided, **Candidate B** appears more competent. This assessment is influenced by several visual cues commonly associated with perceptions of competence:
+
+1. **Smile and Expression**: Candidate B is smiling, which often con"
+senate_TN,2,a,B,b,ok,"B
+
+**Explanation:**  
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is influenced by several visual cues commonly associated with perceptions of competence in professional settings:
+
+1. **Facial Expression**: Candidate B has a war"
+senate_TN,2,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**  
+Based on common psychological studies of first impressions and facial cues associated with perceived competence, **Candidate A** is more likely to be judged as competent at first glance. Factors that contribute to this impression incl"
+senate_TX,1,a,A,a,ok,"A
+
+### Reasoning (for context, not part of the final answer):
+Based on common psychological studies and general perceptions of competence in facial features, **Candidate A** is likely to be perceived as more competent. Key factors include:
+
+1. **Smile**: Candidate A is smiling, which often conveys a"
+senate_TX,1,b,B,a,ok,"B
+
+**Explanation:** Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is influenced by several visual cues:
+
+1. **Smile**: Candidate B is smiling, which often conveys approachability, confidence, and positivity. Smiles can make a pers"
+senate_VA,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression cues often associated with perceived competence, such as facial expression, posture, and overall presentation. Candidate B has a more serious and"
+senate_VA,0,b,A,b,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided, **Candidate A** appears more competent. Here’s why:
+
+1. **Facial Expression**: Candidate A has a more neutral and composed expression, which often conveys confidence and seriousness. This can be associated with compe"
+senate_VA,1,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression cues often associated with perceived competence, such as facial expression, grooming, and overall presentation. Candidate B has a more serious an"
+senate_VA,1,b,A,b,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided, **Candidate A** appears more competent. Here’s why:
+
+1. **Facial Expression**: Candidate A has a more neutral and composed expression, which often conveys confidence and seriousness. This can be associated with compe"
+senate_TX,2,a,A,a,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** has a warm, open smile, which often conveys approachability and confidence. The facial expression and overall demeanor suggest friendliness and positivity, traits that can be associated with compet"
+senate_TX,2,b,B,a,ok,"B
+
+**Explanation (for context, not part of the answer):**  
+Based on common psychological studies of first impressions and facial cues, people often associate **youthful, warm, and approachable expressions** with perceived competence and trustworthiness. Candidate B’s **smiling face**, **neat hairst"
+senate_VA,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression cues often associated with perceived competence, such as facial expression, grooming, and overall presentation. Candidate B has a more serious an"
+senate_VA,2,b,A,b,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided, **Candidate A** appears more competent. Here’s why:
+
+1. **Facial Expression**: Candidate A has a more neutral and composed expression, which often conveys confidence and seriousness. This can be associated with compe"
+senate_WV,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. This assessment is based on common first-impression biases often associated with facial features and presentation. Candidate B has a more formal and polished appearance, with a neat hairstyle and p"
+senate_WV,0,b,A,b,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+Based on common psychological studies about first impressions and facial cues, **Candidate A** is often perceived as more competent. This is due to several factors:
+
+1. **Facial Expression**: Candidate A has a warm, open smile, which can co"
+senate_WV,1,a,B,b,ok,"B
+
+**Explanation (for context, not part of the answer):**  
+When judging competence based solely on appearance, people often subconsciously associate certain traits—such as confidence, seriousness, and a polished look—with competence. Candidate B’s hairstyle, facial expression, and overall presentat"
+senate_WV,1,b,A,b,ok,"A
+
+### Explanation:
+Based on the immediate gut impression from the images provided:
+
+- **Candidate A** has a more formal and polished appearance, with neatly styled hair and a professional smile. The overall demeanor conveys confidence and authority, which are often associated with competence in pro"
+senate_WV,2,a,B,b,ok,"B
+
+**Explanation (for context, not part of the answer):**  
+When judging competence based solely on appearance, people often rely on subtle cues such as facial expression, grooming, and overall presentation. Candidate B presents a more formal and polished appearance, with neatly styled hair and a pr"
+senate_WV,2,b,A,b,ok,"A
+
+**Explanation (for context, not part of the answer):**  
+Based on common psychological studies about first impressions and perceived competence from facial appearance, individuals often associate certain traits—such as confidence, experience, and authority—with more formal or classic presentation"
+senate_WY,0,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The individual in Candidate B has a professional and approachable demeanor, with a warm smile and direct eye contact, which often conveys confidence and approachability. The attire and overall pres"
+senate_WY,0,b,A,b,ok,"A
+
+**Explanation (for context, not part of the final answer):**
+
+When judging competence based solely on facial appearance—a practice that is inherently biased and not scientifically valid—people often rely on stereotypes and superficial cues. In many cultures, certain facial features, expressions, "
+senate_WY,1,a,B,b,ok,"B
+
+**Explanation (for context, not part of the answer):**  
+When judging competence based solely on appearance, studies often suggest that certain traits—like confidence, assertiveness, and a professional demeanor—can influence perception. Candidate B’s attire, facial expression, and overall present"
+senate_WY,1,b,A,b,ok,"A
+
+### Explanation:
+When judging competence based solely on appearance, several visual cues are often subconsciously evaluated, such as facial expressions, grooming, and attire. In this case:
+
+- **Candidate A** appears to have a polished and professional look. The individual is wearing glasses, whic"
+senate_WY,2,a,B,b,ok,"B
+
+Based on the immediate gut impression from the images provided, Candidate B appears more competent. The individual in Candidate B has a professional and approachable demeanor, with a warm smile and direct eye contact, which often conveys confidence and approachability. The attire and overall pres"
+senate_WY,2,b,A,b,ok,"A
+
+### Explanation:
+When judging competence based solely on appearance, certain visual cues often influence our immediate gut reactions. In this case:
+
+- **Candidate A** presents a polished, professional appearance with glasses, which are often associated with intelligence and attention to detail. T"

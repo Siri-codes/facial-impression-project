@@ -21,8 +21,9 @@ import pandas as pd
 
 from config import ELECTION_MODELS, MODEL_SNAPSHOTS, REASONING_EFFORT
 from collect import encode_image, get_client
-from election_collect import get_filepath   # shared helper
+from election_collect import get_filepath  # shared helper
 from prompts import RECOGNITION_PROMPT
+from election_collect_multitrial import _mime  # shared helper
 
 
 # Forced-guess, name-first. Forcing a guess is the CONSERVATIVE choice for a
@@ -59,7 +60,7 @@ def check_recognition_with_prompt(image_path, model_folder, prompt, max_tokens=3
     content = [
         {"type": "text", "text": prompt},
         {"type": "image_url", "image_url":
-            {"url": f"data:image/jpeg;base64,{encode_image(image_path)}"}},
+            {"url": f"data:{_mime(image_path)};base64,{encode_image(image_path)}"}},
     ]
     try:
         resp = _call_with_retry(lambda: get_client().chat.completions.create(

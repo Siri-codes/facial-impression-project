@@ -39,6 +39,14 @@ from election_collect import clean_label, clean_election_df, get_filepath
 # Output files are labelled "<key>_multitrial".
 from prompts import ELECTION_INSTRUCTION, PROMPTS
 
+def _mime(path):
+    """
+    What label to use for image type?
+    """
+    p = str(path).lower()
+    if p.endswith(".png"):            return "image/png"
+    if p.endswith((".jpg", ".jpeg")): return "image/jpeg"
+    return "image/jpeg"   # default
 
 def _resolve(prompt_key):
     """Return (question_prompt, output_label) for a prompt_key in PROMPTS."""
@@ -150,10 +158,10 @@ def run_single_trial(image_a, image_b, model_folder, question, race_id, trial_nu
         content = [
             {"type": "text", "text": f"{question}\n\nCandidate A:"},
             {"type": "image_url", "image_url":
-                {"url": f"data:image/jpeg;base64,{encode_image(slotA_face)}"}},
+                {"url": f"data:{_mime(slotA_face)};base64,{encode_image(slotA_face)}"}},
             {"type": "text", "text": "Candidate B:"},
             {"type": "image_url", "image_url":
-                {"url": f"data:image/jpeg;base64,{encode_image(slotB_face)}"}},
+                {"url": f"data:{_mime(slotB_face)};base64,{encode_image(slotB_face)}"}},
             {"type": "text", "text": ELECTION_INSTRUCTION},
         ]
         try:
